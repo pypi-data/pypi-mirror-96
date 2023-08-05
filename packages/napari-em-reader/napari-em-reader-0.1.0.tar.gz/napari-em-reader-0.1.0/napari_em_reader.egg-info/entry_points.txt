@@ -1,0 +1,3 @@
+[napari.plugin]
+napari-em-reader = napari_em_reader
+
