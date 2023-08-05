@@ -1,0 +1,9 @@
+pytrends_httpx/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pytrends_httpx/dailydata.py,sha256=7DlrC21XEHsxP71OfnfMiEXFR7F_7Q-l1ZtNOJnLV6U,5361
+pytrends_httpx/exceptions.py,sha256=SfmapRHwetFLaup2mSw4YS3vX-EYe_fvGxC0YS4PcdU,273
+pytrends_httpx/request.py,sha256=fhHl64fyXj-bLh5kJ_xdUL4ntBeCSbJpkFRJ5kIFsj0,24232
+pytrends_httpx-1.0.0.dist-info/LICENSE,sha256=3FrUVmTLgWGqIWKDFnCSabfvLiX1HzzrPob9w7TPHe0,11344
+pytrends_httpx-1.0.0.dist-info/METADATA,sha256=oy4_vCa6ZqIiwnOEiWHbvxt5CGvOBVndt7S-j6j_Ub8,13005
+pytrends_httpx-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pytrends_httpx-1.0.0.dist-info/top_level.txt,sha256=qIYSsKThPI6qwqeTnyU_cxE3MuO8P98ao6LTi9F6y10,15
+pytrends_httpx-1.0.0.dist-info/RECORD,,
