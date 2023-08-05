@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: autoswitch
+Version: 0.0.1.2
+Summary: Configure Cisco devices
+Home-page: UNKNOWN
+Author: Kyle Davis
+Author-email: contact@kyledavis.dev
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/kyledavis124/AutoSwitch/issues
+Project-URL: Github, https://github.com/kyledavis124/AutoSwitch
+Description: # AutoSwitch
+        
+        
+        # Table of Contents
+        
+        - [AutoSwitch](#autoswitch)
+        - [Table of Contents](#table-of-contents)
+        - [Introduction](#introduction)
+        - [Features](#features)
+        - [Feedback](#feedback)
+        - [Acknowledgments](#acknowledgments)
+        
+        
+        # Introduction
+        
+        <p>AutoSwitch is a command-line tool that helps provision new Cisco devices.</p>
+        
+        # Features
+        
+        Some things you can do with AutoSwitch.
+        
+        * SSH - Not Implemented
+        * Telnet - Not Implemented
+        * Serial
+        
+        * Configure Network Devices with text files
+        * Configure Network Devices with Templates - Not Implemented
+        * List Available Comports
+        * Save Credentials - Not Implemented
+        * Configure Multiple Devices at once - Not Implemented
+        
+        # Feedback
+        <p>Feel free to send me feed back by filling an issue. Feature requests are always welcome.</p>
+        
+        # Acknowledgments
+        
+        <p>Built around the <a href="https://github.com/ktbyers/netmiko">Netmiko</a> Library</p>
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
