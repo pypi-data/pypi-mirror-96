@@ -1,0 +1,2 @@
+flask_stub_server
+flask_stub_server/endpoint_gen
