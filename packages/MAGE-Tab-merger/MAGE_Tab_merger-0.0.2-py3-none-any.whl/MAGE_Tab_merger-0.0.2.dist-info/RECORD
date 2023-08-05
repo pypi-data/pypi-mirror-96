@@ -1,0 +1,11 @@
+IDF/__init__.py,sha256=evkPnmO60gqmM_-j1-iXte7YjkWQwEmxUeVm__G6-Po,310
+MAGE_Tab_merger-0.0.2.data/scripts/merge_baseline_configuration_xmls.py,sha256=241imJxn4HkIJ8jUT7PZTuR5BghQqMUD2WxQMFC2m1M,5300
+MAGE_Tab_merger-0.0.2.data/scripts/merge_condensed_sdrfs.py,sha256=2s9OKNhLUt6mewUtYVkC1K4r_2hcejK2zjolylrYX7g,6835
+MAGE_Tab_merger-0.0.2.data/scripts/merge_sdrfs.py,sha256=WpMWVeLJYN-YqZpNEyWEUvdfq_Gew6BUyVn2pr4oIg0,2534
+SDRF/__init__.py,sha256=hvaNAZskcKtrPUbGatEVX6OTvf-IeRxO6R5aEKuaIGk,24944
+SDRF/sdrfcol_enum_tests.py,sha256=MIEuEYhYrbtMSzv68YHEd_Wv0BtsRWLHsQgR9SkZHf0,623
+SDRF/tests.py,sha256=f8UF4NxNDNUX9RXfL1MoeDsJhAx0VgeH6dnz4hR82yQ,1791
+MAGE_Tab_merger-0.0.2.dist-info/METADATA,sha256=iWseAyCCmL-paaLpT3sTA-UwKgu7xEWwfyPIjMA9Ep0,6553
+MAGE_Tab_merger-0.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+MAGE_Tab_merger-0.0.2.dist-info/top_level.txt,sha256=HBWGeH8q6WAjEOMXR2EP6pCb1D5LK4cITCcYzTcDYKU,9
+MAGE_Tab_merger-0.0.2.dist-info/RECORD,,
