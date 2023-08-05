@@ -1,0 +1,14 @@
+flybrains/__init__.py,sha256=d_95fFI8DfN7vfposqzrSKpckYHhmv5WPrtlV0KikB0,945
+flybrains/__version__.py,sha256=yKcLLqnCgWB-t_GzVcGGfdbx8wg6A3p4ixjHMJTMKds,698
+flybrains/converters.py,sha256=2oqonJZssJjig2CuTYdBJh-JZfbiiq-wksJQJCptRy0,2544
+flybrains/core.py,sha256=k_KC3IIlEOWIyzU4yA76TvPtuX4VPI0J1AQrZQyy0c0,11627
+flybrains/download.py,sha256=WtbkP5S0X9akiE5ACPRxyqBfnQyBQ3VNnY6JeKpnwY0,10353
+flybrains/templates.py,sha256=27tzNi_vs8XZLVf3z5tpcWhtOWMWhIEt1bQTAeH7jPQ,30653
+flybrains/data/FAFB14_mirror_landmarks.csv,sha256=lymdYg3yLM8nPsdtjHvmqyPMhaDNfeQTlMDwU9WU2f0,87612
+flybrains/data/lm-em-landmarks_v14.csv,sha256=ZW_onXPqUbNfYCI0Ra4OFB42_sfYOd0Wr1g6TdiaX5Y,16371
+flybrains/data/template_meta.json,sha256=wMRkYoHQ2fxDF9u8YFJBiqYrf9o0_PiuBbsO1vRSOBg,14990
+flybrains-0.1.4.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+flybrains-0.1.4.dist-info/METADATA,sha256=AGKBRUsYAJfhOM-IR-Vesy9hvFkMh63VXGdzu6v_UxE,5846
+flybrains-0.1.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+flybrains-0.1.4.dist-info/top_level.txt,sha256=HFaBQrqnVbP645OkJMMV6UEM68Lz0RSgV0bI4zol7F4,10
+flybrains-0.1.4.dist-info/RECORD,,
