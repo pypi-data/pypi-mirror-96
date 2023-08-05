@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: embassy
+Version: 0.1
+Summary: Python package for aligning embeddings and measuring alignment and stability errors.
+Home-page: https://github.com/furkangursoy/embassy
+Author: Furkan Gürsoy
+Author-email: furkan.gursoy@boun.edu.tr
