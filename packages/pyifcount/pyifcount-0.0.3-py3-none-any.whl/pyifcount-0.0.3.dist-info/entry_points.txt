@@ -1,0 +1,3 @@
+[console_scripts]
+pyifcount=pyifcount.cli:main
+
