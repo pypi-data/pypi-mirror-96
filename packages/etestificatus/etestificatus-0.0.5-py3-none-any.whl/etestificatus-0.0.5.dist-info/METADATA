@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: etestificatus
+Version: 0.0.5
+Summary: connection to stock trading api
+Home-page: UNKNOWN
+Author: ava.chen
+Author-email: ava.chen@ephodtech.com
+License: BSD-2
+Platform: UNKNOWN
+Requires-Dist: boto3 (==1.17.3)
+Requires-Dist: botocore
+Requires-Dist: ewarrant (==0.0.5)
+Requires-Dist: shioaji (==0.3.1.dev8)
+
+UNKNOWN
+
+
