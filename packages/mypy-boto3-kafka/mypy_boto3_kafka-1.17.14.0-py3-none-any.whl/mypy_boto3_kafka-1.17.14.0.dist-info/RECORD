@@ -1,0 +1,15 @@
+mypy_boto3_kafka/__init__.py,sha256=efWkBmn-l05wf_djDSH7xM95D01bHdDbtsRXqlvhSuQ,1934
+mypy_boto3_kafka/__init__.pyi,sha256=iSRTqjJ0IDfi8WMXdBpkaIqum5x4y9L290H61F1dZpo,1933
+mypy_boto3_kafka/__main__.py,sha256=oSHXI3AD3kmppK0JnCE3TWZcm_EN7GFScGDmAfnj4OY,390
+mypy_boto3_kafka/client.py,sha256=XX9X_dzyKkthog1mBMeHjzXbhNFHVgp7-N_QvTzWBQY,16908
+mypy_boto3_kafka/client.pyi,sha256=j5RBi47_y1vQfHNsv15NcZIySU1l-89D-ZfY0Bp37Zg,16864
+mypy_boto3_kafka/paginator.py,sha256=LhCPIoWvCjWykkPsmsnLFO6SlYvDiKmD8OxoXY-kT8s,6074
+mypy_boto3_kafka/paginator.pyi,sha256=iyZP9G0ylSolWV2GmZcgtX-35XeXTKJri0rmmMQt__c,6067
+mypy_boto3_kafka/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mypy_boto3_kafka/type_defs.py,sha256=8Ynm5bKQ0JaEWK3OrGiwcX0Z4kmF5yavsIIxyJerS6M,17709
+mypy_boto3_kafka/type_defs.pyi,sha256=GiQszt75PRi0sKWVWRt6ogjwdSq_VCL2SBwMv0Wvnvo,17698
+mypy_boto3_kafka/version.py,sha256=Bov7rip0VoSUfPnn29EaXIwjaee7K5OKORJUAL3Fjy0,57
+mypy_boto3_kafka-1.17.14.0.dist-info/METADATA,sha256=4Rlajzvl6sV52g0Vku7K-OOeOIVzjOc7ZHHaNI4Qe5A,9475
+mypy_boto3_kafka-1.17.14.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mypy_boto3_kafka-1.17.14.0.dist-info/top_level.txt,sha256=QVBNvIDA1mat1OG-JcgEgufAUvI5E1oUVG-isUQaDb0,17
+mypy_boto3_kafka-1.17.14.0.dist-info/RECORD,,
