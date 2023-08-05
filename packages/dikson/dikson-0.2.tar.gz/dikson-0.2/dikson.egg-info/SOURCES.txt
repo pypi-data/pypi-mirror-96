@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+dikson.egg-info/PKG-INFO
+dikson.egg-info/SOURCES.txt
+dikson.egg-info/dependency_links.txt
+dikson.egg-info/not-zip-safe
+dikson.egg-info/top_level.txt
+libpythonpro___/__init__.py
+libpythonpro___/github_api.py
