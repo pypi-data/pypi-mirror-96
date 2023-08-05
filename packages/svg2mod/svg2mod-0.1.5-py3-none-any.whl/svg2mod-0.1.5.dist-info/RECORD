@@ -1,0 +1,13 @@
+svg2mod/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+svg2mod/coloredlogger.py,sha256=GDHjik55gmqMvkQULGg-hvWfo-Ce0ZQqkHiB-98PgMU,1513
+svg2mod/svg2mod.py,sha256=iNbh1zVAZGrEHSpuVSY_hiD2ex5OlT5jIQhgx2XySko,44944
+svg2mod/svg/__init__.py,sha256=uCLaHnVdsrRnxsMnb6QoGh3k6-kVvxRLhb7YZmZv1Rc,19
+svg2mod/svg/svg/__init__.py,sha256=6zJO4Cr5ct8fTtHCTWYJB9UcCm54Xk0JBDiQOZwVVV8,113
+svg2mod/svg/svg/geometry.py,sha256=0JFfYNRbRhC1GjfSvaGfbm12K01lRulDMbpL0iQh9Y4,11440
+svg2mod/svg/svg/svg.py,sha256=pfJBly-13lLus-VnocR_nrZLv7zrLoKmHg00P0i6bC0,33136
+svg2mod-0.1.5.dist-info/LICENSE,sha256=ah7lQ-UoLNkGGIHt9GLm_asYHzKNpx_CyaaVCoDpTQE,6556
+svg2mod-0.1.5.dist-info/METADATA,sha256=PEIRinLm6pt7AP941lZGjAm_w8OmjSYFe4LREgu3_-4,5761
+svg2mod-0.1.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+svg2mod-0.1.5.dist-info/entry_points.txt,sha256=PCF6KBfyrGbOl4HswhQOUKYyrNyA1z2mHm8n7Vu4Ipw,50
+svg2mod-0.1.5.dist-info/top_level.txt,sha256=f6vkotYW-aFL0i0qF_nhw7ATYFWj3CDskcO2-c7t3uY,8
+svg2mod-0.1.5.dist-info/RECORD,,
