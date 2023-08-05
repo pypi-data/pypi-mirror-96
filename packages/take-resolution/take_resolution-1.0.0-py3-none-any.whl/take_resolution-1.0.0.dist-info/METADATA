@@ -1,0 +1,61 @@
+Metadata-Version: 2.1
+Name: take-resolution
+Version: 1.0.0
+Summary: Generate a rate between 0 and 1 for Resolution rate on smart contacts.
+Home-page: UNKNOWN
+Author: squad XD
+Author-email: anaytics.ped@take.net
+Maintainer: Take - D&A
+Maintainer-email: anaytics.ped@take.net
+License: MIT License
+Keywords: BLiP,score,resolution
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: numpy (==1.19.4)
+Requires-Dist: pandas (==1.1.4)
+
+# Take Resolution
+
+This package proposes to offer a rate that represents the user resolution on the smart contact. 
+
+The proposal considers that users have resolution every time they receive a service provided by the smart contact. The rate is a value between 0 and 1 and as closer to 1, the better the rate is.
+
+If the metric is:
+  * 1: all users receive had at least one resolution on the smart contact
+  * 0: all users didn't had at least one resolution on the smart contact
+
+# Installation
+Use [pip](https://pypi.org/project/take-resolution/) to install:
+
+```shell script
+pip install take-resolution
+```
+
+# Usage
+
+## Using a **numeric scale** Consumer Satisfaction Survey:
+
+```python
+import pandas as pd
+import take_resolution as tr
+
+df = pd.DataFrame(
+    {"amount": [11198, 11310, 11164, 10571, 11277, 7903, 4968],
+    "DAUs": [13487, 13859, 12979, 12342, 17030, 9631, 6099]})
+
+result = tr.run(dataframe=pd,
+                amount="amount",
+                dau_column="DAUs")
+
+print(result["rate"])
+```
+
+Which will result in `0.7665976833542061`.
+
+# Author
+Take Data&Analytics Research - squad XD.
+
+
