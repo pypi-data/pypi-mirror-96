@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: slack-export-viewer
+Version: 1.1.0
+Summary: Slack Export Archive Viewer
+Home-page: https://github.com/hfaran/slack-export-viewer
+Author: Hamza Faran
+Author-email: hamzafaran@outlook.com
+License: MIT License
+Requires-Dist: click
+Requires-Dist: flask
+Requires-Dist: markdown2
+Requires-Dist: emoji
+
+# Slack Export Viewer
+
+
