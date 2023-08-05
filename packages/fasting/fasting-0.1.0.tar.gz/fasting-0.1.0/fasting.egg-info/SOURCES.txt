@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+fasting/__init__.py
+fasting/cli.py
+fasting/fasting.py
+fasting/quantify.py
+fasting.egg-info/PKG-INFO
+fasting.egg-info/SOURCES.txt
+fasting.egg-info/dependency_links.txt
+fasting.egg-info/entry_points.txt
+fasting.egg-info/not-zip-safe
+fasting.egg-info/requires.txt
+fasting.egg-info/top_level.txt
