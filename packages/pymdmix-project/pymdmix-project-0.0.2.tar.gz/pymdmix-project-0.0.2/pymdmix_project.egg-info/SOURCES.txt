@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+defaults/pymdmix_project.yml
+pymdmix_project/__init__.py
+pymdmix_project/project.py
+pymdmix_project.egg-info/PKG-INFO
+pymdmix_project.egg-info/SOURCES.txt
+pymdmix_project.egg-info/dependency_links.txt
+pymdmix_project.egg-info/requires.txt
+pymdmix_project.egg-info/top_level.txt
