@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: s3wm
+Version: 0.1.0
+Summary: Simple Window manager.
+Author: Pavel Kirilin
+Author-email: win10@list.ru
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: frozendict (>=1.2,<2.0)
+Requires-Dist: loguru (>=0.5.3,<0.6.0)
+Requires-Dist: pydantic (>=1.7.3,<2.0.0)
+Requires-Dist: python-xlib (>=0.29,<0.30)
