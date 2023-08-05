@@ -1,0 +1,11 @@
+datastreamservicelib/__init__.py,sha256=eMJt5muMqypkDTHq14Wl1fYbkU-0sCZ4EO27qW8efyI,192
+datastreamservicelib/compat.py,sha256=P7nMW37CUZ7U-2_kad2D-zK3nmgWjSEB31wVV5WJtb4,695
+datastreamservicelib/console.py,sha256=f72uY9-BB11ZzDEI_c0nJakJkhTnMjEuwuPyWp3Dovo,5571
+datastreamservicelib/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+datastreamservicelib/service.py,sha256=F3-yiGyTeWUl7Nc4ZUk9DbJE6RWsWkYCBwag9fHHDZU,10574
+datastreamservicelib/zmqwrappers.py,sha256=z3yqlaICHpicVyqKhNDNMhyxT1GlsueIE3-XFWHfN90,7870
+datastreamservicelib-1.9.1.dist-info/entry_points.txt,sha256=oJFrO-2wVBckpHfsApcDkvIuEa3w7eQdNPX4c10uOZ8,135
+datastreamservicelib-1.9.1.dist-info/LICENSE,sha256=3xhGOrCdhWkO8ZjxmgQ1Tq6od8UiBVBIyRTwy29yi9s,1063
+datastreamservicelib-1.9.1.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+datastreamservicelib-1.9.1.dist-info/METADATA,sha256=4CUFw0K3sDPfisjnCSwO6AnbX-epDvBQlNZAMlKoHag,5001
+datastreamservicelib-1.9.1.dist-info/RECORD,,
