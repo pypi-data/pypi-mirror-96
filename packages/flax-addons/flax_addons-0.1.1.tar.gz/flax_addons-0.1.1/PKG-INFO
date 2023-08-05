@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: flax-addons
+Version: 0.1.1
+Summary: flax addons
+Home-page: https://github.com/machineko/flax-addons
+Author: machineko
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: jax (>=0.2.7,<0.3.0)
+Requires-Dist: jaxlib (>=0.1.61,<0.2.0)
+Requires-Dist: librosa (>=0.8.0,<0.9.0)
+Requires-Dist: numpy (>=1.2.0,<2.0.0)
+Project-URL: Repository, https://github.com/machineko/flax-addons
+Description-Content-Type: text/markdown
+
+# flax-addons
