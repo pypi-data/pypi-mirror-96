@@ -1,0 +1,7 @@
+requests
+lxml
+secretstorage
+cryptography
+
+[:platform_system == "Windows"]
+pywin32
