@@ -1,0 +1,6 @@
+[console_scripts]
+say4 = twine2.__main__:main
+
+[lyptest1.registered_commands]
+upload = twine2.commands.upload:main
+
