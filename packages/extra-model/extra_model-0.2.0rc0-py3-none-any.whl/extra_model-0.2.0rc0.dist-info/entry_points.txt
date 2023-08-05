@@ -1,0 +1,3 @@
+[console_scripts]
+extra_model = extra_model._cli:entrypoint
+

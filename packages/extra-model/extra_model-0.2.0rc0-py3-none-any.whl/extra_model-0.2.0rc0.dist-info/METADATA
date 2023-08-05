@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: extra-model
+Version: 0.2.0rc0
+Summary: DESCRIPTION
+Home-page: UNKNOWN
+Author: Misha Balyasin
+Author-email: mbalyasin@wayfair.com
+License: See LICENSE
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Description-Content-Type: text/markdown
+Requires-Dist: numpy (==1.15.2)
+Requires-Dist: nltk (==3.4.5)
+Requires-Dist: scikit-learn (==0.20.0)
+Requires-Dist: vaderSentiment (==3.3.2)
+Requires-Dist: pandas (==0.23.3)
+Requires-Dist: pycld2 (==0.31)
+Requires-Dist: networkx (==2.2)
+Requires-Dist: gensim (==3.5.0)
+Requires-Dist: cytoolz (==0.9.0)
+Requires-Dist: spacy (==2.0.18)
+Requires-Dist: requests (==2.20.1)
+
+# extra-model
+
+
