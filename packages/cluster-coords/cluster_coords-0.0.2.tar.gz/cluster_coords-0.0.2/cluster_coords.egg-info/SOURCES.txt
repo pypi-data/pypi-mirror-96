@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+cluster_coords/__init__.py
+cluster_coords.egg-info/PKG-INFO
+cluster_coords.egg-info/SOURCES.txt
+cluster_coords.egg-info/dependency_links.txt
+cluster_coords.egg-info/top_level.txt
