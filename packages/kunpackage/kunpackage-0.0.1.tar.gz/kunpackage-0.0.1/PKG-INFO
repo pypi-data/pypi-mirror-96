@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: kunpackage
+Version: 0.0.1
+Summary: A very basic action package
+Home-page: UNKNOWN
+Author: Kun Zhang
+Author-email: kuzhang@paloaltonetworks.com
+License: MIT
+Description: This is a Test for Publishing library
+        
+        Change Log
+        ==============
+        
+        0.0.1(02/25/2021)
+        ---------------------
+        - First Release
+        
+Keywords: test
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
