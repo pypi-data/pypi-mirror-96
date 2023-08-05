@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "smart-files"
+version = "0.1.0"
+description = "Automatically sort files by type in your downloads folder"
+authors = ["BEN <benjamin.hill28@gmail.com>"]
+keywords = ["automation", "downloads", "move", "automatic", "files"]
+readme = "README.md"
+license = "MIT"
+homepage = "https://github.com/ashcaz/smart-files/tree/main"
+repository = "https://github.com/ashcaz/smart-files/tree/main"
+include = [
+  "LICENSE",
+]
+packages = [
+  { include = "automation.py" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pytest-watch = "^4.2.0"
+pytest = "^6.2.2"
+coverage = "^5.4"
+
+[tool.poetry.dev-dependencies]
+autopep8 = "^1.5.5"
+
+[tool.poetry.scripts]
+poetry = 'poetry.console:run'
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
