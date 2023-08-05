@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: supsubscript
+Version: 1.0.0
+Summary: A simple module for string conversion to super- and subscript
+Home-page: UNKNOWN
+Author: Sjoerd Vermeulen
+Author-email: sjoerd@marsenaar.com
+License: UNKNOWN
+Description: This module allows you to easily convert basic strings into super- or subscript.
+        Not all characters translate preferably but it's as best as it can get.
+        
+        code examples:
+        ```
+        >>> from supsubscript import *
+        >>> superscript('abc123')
+        'ᴬᴮᶜ¹²³'
+        >>> subscript('abc123')
+        'ₐ₈C₁₂₃'
+        ```
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
