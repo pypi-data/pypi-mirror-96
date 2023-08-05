@@ -1,0 +1,3 @@
+[console_scripts]
+saberio = pysaber.saberio:main
+
