@@ -1,0 +1,11 @@
+webstack_django_sorting/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+webstack_django_sorting/templatetags/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+webstack_django_sorting/templatetags/common.py,sha256=F3rx6Vkg9sRiQzeYkG1gN7fZkmFQD_-kbCN78CuLgAQ,2651
+webstack_django_sorting/templatetags/jinja2_globals.py,sha256=lyLj9CdaLhO0Rx8EEwClQQ6f17XTmp_PLMJphpjngug,320
+webstack_django_sorting/templatetags/settings.py,sha256=NVls1O25bKiUzVfKVW7_SteCjpPo978wF7pegacUZzY,425
+webstack_django_sorting/templatetags/sorting_tags.py,sha256=1GdEMFd8f-y3aySKuYgDp31bpryDsNtW_RIwx-A8o2A,3854
+webstack_django_sorting-2.0.1.dist-info/LICENSE.txt,sha256=7H9K-HsM_jruHn5ReYAUEgeumzW6aSYOHjzpKkiBx-I,1569
+webstack_django_sorting-2.0.1.dist-info/METADATA,sha256=900yBDGYXZFASVcr-L_hWJnzyjKDdz5phu6_gCfIGbY,5211
+webstack_django_sorting-2.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+webstack_django_sorting-2.0.1.dist-info/top_level.txt,sha256=teeGjZwuBUhAm6GFvmmb9Eaa9EPAHZE-gk3yAZNMPpw,24
+webstack_django_sorting-2.0.1.dist-info/RECORD,,
