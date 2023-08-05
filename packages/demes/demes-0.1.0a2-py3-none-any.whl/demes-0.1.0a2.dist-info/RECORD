@@ -1,0 +1,15 @@
+demes/__init__.py,sha256=r4AmPh_uC3ghgKzQm3qx7eFhABgeBuUwHvqmu__YKxg,409
+demes/__main__.py,sha256=ZJZmj6d5lmZvkzZnFqY51ld0PSdPayWmT9dRnCNE5jY,215
+demes/_version.py,sha256=M82InjHPDlS1ektyHWlxgYnhEBhqSr7l_GQSjAfQw9k,118
+demes/demes.py,sha256=OLjeMKbvcELUlGdExWusdTBDptobjqQtSEASFYV5Djk,89545
+demes/load_dump.py,sha256=0FiG7rwtVYRu6EyQfcSAhushmstZLJUCTzLDsqjHyvY,5873
+demes/convert/README,sha256=PzA-cqR6LoK197ddSFMcxYRWXkwBqqqqIEuReLXrzHY,386
+demes/convert/__init__.py,sha256=lfrk9QNm_fdLfKcjlwIuKNnKf4mF9pVjovfHmTCawSw,121
+demes/convert/msprime_.py,sha256=Ba5wB3xUizEPshQQKTKYEz_1LxrLESco6qw1jwPL7qw,15749
+demes/convert/stdpopsim_.py,sha256=nmtywyqZrugXUNIVQkiop4syqUPiJYDYQNI39uUtv0g,2416
+demes-0.1.0a2.dist-info/LICENSE,sha256=gYYokh-j_mU2zcV0IlwMx3CnEH-whS3bH57CvF0Parw,732
+demes-0.1.0a2.dist-info/METADATA,sha256=1w_osi1WJwroROnlSFpTRc98-7p3r6tFaOw3lxUvZ0w,1836
+demes-0.1.0a2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+demes-0.1.0a2.dist-info/entry_points.txt,sha256=Xc8gpM6LdUpi_2ACht-YHGnarWw5dvDX-ciwxvePD78,47
+demes-0.1.0a2.dist-info/top_level.txt,sha256=REzzmqqZlHV_ju-NGlHzZS9bvZEXvLLnvdHLSXriLSM,6
+demes-0.1.0a2.dist-info/RECORD,,
