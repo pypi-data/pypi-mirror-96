@@ -1,0 +1,3 @@
+[cubicweb.cubes]
+fds = cubicweb_fds
+
