@@ -1,0 +1,6 @@
+README.md
+setup.py
+yeastarAPI.egg-info/PKG-INFO
+yeastarAPI.egg-info/SOURCES.txt
+yeastarAPI.egg-info/dependency_links.txt
+yeastarAPI.egg-info/top_level.txt
