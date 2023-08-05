@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: cloudmesh-ssh
+Version: 4.3.3
+Summary: A command called ssh and foo for the cloudmesh shell
+Home-page: https://github.com/cloudmesh/cloudmesh-ssh
+Author: Gregor von Laszewski
+Author-email: laszewski@gmail.com
+License: Apache 2.0
+Description: # Documentation
+        
+        [![image](https://img.shields.io/travis/TankerHQ/cloudmesh-bar.svg?branch=main)](https://travis-ci.org/TankerHQ/cloudmesn-ssh)
+        
+        [![image](https://img.shields.io/pypi/pyversions/cloudmesh-ssh.svg)](https://pypi.org/project/cloudmesh-ssh)
+        
+        [![image](https://img.shields.io/pypi/v/cloudmesh-ssh.svg)](https://pypi.org/project/cloudmesh-ssh/)
+        
+        [![image](https://img.shields.io/github/license/TankerHQ/python-cloudmesh-ssh.svg)](https://github.com/TankerHQ/python-cloudmesh-ssh/blob/main/LICENSE)
+        
+        * see cloudmesh-pi-burn <https://github.com/cloudmesh/cloudmesh-pi-burn>
+        * see cloudmesh-cmd5 <https://github.com/cloudmesh/cloudmesh-cmd5>
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
