@@ -1,0 +1,16 @@
+hg_confman-2.0.0-py3.7-nspkg.pth,sha256=61023dEBfHLmXe3l91YVWj85CZC98Pw5Gtw_lqBjXQk,549
+hgext3rd/confman/__init__.py,sha256=3gPiY75UVEv1VUGTCxuoy-7k7ykhiEaV2xEnEcIoA-Q,1180
+hgext3rd/confman/commands.py,sha256=OcO4pSAjwLU5r6DesqAOrxmkmAY_aMFJ9bncVsblgx4,18396
+hgext3rd/confman/configuration.py,sha256=uDAP2bIdAbkQFi2aY2iOVCokNrjfbVSKz24-mXgzyUU,12934
+hgext3rd/confman/gr.py,sha256=AHkj5LHou-pKUYtwuqtZ2eZfgDZHjAZh_YemztcxtgQ,2415
+hgext3rd/confman/hgcompat.py,sha256=K_vHNn2w8kTfpdgNObg0WUXxB5xa8TRg05RuN7GZJq8,811
+hgext3rd/confman/managed.py,sha256=l1b2QthLK5AtXU4M7SSVZjUPPJw1MJd6LsfeaNZNKl8,22944
+hgext3rd/confman/meta.py,sha256=4agjnnlMQowk2UoVBQKMJhNc1-iiuPQ85gAC2oRssgQ,1086
+hgext3rd/confman/opts.py,sha256=IrzHrScebbtl6NIjN1BnvZOIh8ZZ1K87p9MKP8qg0ZY,664
+hgext3rd/confman/utils.py,sha256=Nw7JF_ESSBkM3kjGmW0mq8TPKOEgv0PPSU58X6PXdfI,16726
+hg_confman-2.0.0.dist-info/COPYING,sha256=w4runjyMTV1ZT_VIob4FRTAjAW1ihpMfZRLbIV7B_UI,17989
+hg_confman-2.0.0.dist-info/METADATA,sha256=zdbs0KSbAMsIsZqE0tvTbBmw2Vcrv2DsM-ksy1a_QTU,657
+hg_confman-2.0.0.dist-info/WHEEL,sha256=_NOXIqFgOaYmlm9RJLPQZ13BJuEIrp5jx5ptRD5uh3Y,92
+hg_confman-2.0.0.dist-info/namespace_packages.txt,sha256=QOsI6Pm4T7KhZd_Rm5fsAIgac0uPDyuZEE1JYVG7XNw,9
+hg_confman-2.0.0.dist-info/top_level.txt,sha256=QOsI6Pm4T7KhZd_Rm5fsAIgac0uPDyuZEE1JYVG7XNw,9
+hg_confman-2.0.0.dist-info/RECORD,,
