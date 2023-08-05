@@ -1,0 +1,5 @@
+graft docViewer/ 
+global-exclude __pycache__
+global-exclude *.py[co]
+include docViewer/preview_server/templates/*
+include docViewer/openapi/templates/*
