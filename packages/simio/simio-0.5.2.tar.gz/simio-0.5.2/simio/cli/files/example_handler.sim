@@ -1,0 +1,31 @@
+from typing import Optional
+
+import trafaret as t
+from simio import router, R, web
+from simio_di import Depends
+
+from $project_name.mock_client import ExampleClient
+
+
+RequestSchema = t.Dict({
+    t.Key("some_number"): t.ToInt(gte=0),
+})
+
+
+@router.post("/v1/hello/{user_id}/")
+async def simple_handler(
+    example: R[RequestSchema], user_id: R[int], example_client: Depends[ExampleClient]
+):
+    example_client.insert()
+
+    return web.json_response(
+        {
+            "id": user_id,
+            "some_number": example["some_number"],
+        }
+    )
+
+
+@router.get("/v1/hello/{user_id}/")
+async def simple_get_handler(user_id: R[Optional[int]]):
+    return web.json_response(f"Your id is {user_id}!")
