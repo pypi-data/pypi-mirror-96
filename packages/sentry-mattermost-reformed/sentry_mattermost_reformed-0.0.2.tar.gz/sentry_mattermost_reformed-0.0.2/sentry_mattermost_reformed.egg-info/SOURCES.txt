@@ -1,0 +1,10 @@
+README.md
+setup.py
+sentry_mattermost_reformed/__init__.py
+sentry_mattermost_reformed/plugin.py
+sentry_mattermost_reformed.egg-info/PKG-INFO
+sentry_mattermost_reformed.egg-info/SOURCES.txt
+sentry_mattermost_reformed.egg-info/dependency_links.txt
+sentry_mattermost_reformed.egg-info/entry_points.txt
+sentry_mattermost_reformed.egg-info/requires.txt
+sentry_mattermost_reformed.egg-info/top_level.txt

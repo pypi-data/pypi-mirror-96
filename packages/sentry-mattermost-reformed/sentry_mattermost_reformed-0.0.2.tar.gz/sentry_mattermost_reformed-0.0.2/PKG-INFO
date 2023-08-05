@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: sentry_mattermost_reformed
+Version: 0.0.2
+Summary: A Sentry plugin to send Mattermost notifications.
+Home-page: https://github.com/hadi2f244/sentry-mattermost-reformed
+Author: Mohammad Hadi Azaddel
+Author-email: m.h.azaddel@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: sentry mattermost devops
+Platform: UNKNOWN
