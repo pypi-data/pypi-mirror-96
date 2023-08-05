@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+django_model_logs.egg-info/PKG-INFO
+django_model_logs.egg-info/SOURCES.txt
+django_model_logs.egg-info/dependency_links.txt
+django_model_logs.egg-info/requires.txt
+django_model_logs.egg-info/top_level.txt
