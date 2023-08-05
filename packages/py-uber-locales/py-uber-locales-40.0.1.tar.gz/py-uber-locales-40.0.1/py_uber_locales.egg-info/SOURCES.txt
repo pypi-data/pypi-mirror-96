@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+setup.py
+py_uber_locales.egg-info/PKG-INFO
+py_uber_locales.egg-info/SOURCES.txt
+py_uber_locales.egg-info/dependency_links.txt
+py_uber_locales.egg-info/entry_points.txt
+py_uber_locales.egg-info/requires.txt
+py_uber_locales.egg-info/top_level.txt
+reader/__init__.py
+reader/__main__.py
+reader/config.cfg
+reader/feed.py
+reader/viewer.py
