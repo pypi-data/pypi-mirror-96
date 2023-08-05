@@ -1,0 +1,12 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+main.py
+setup.py
+covid19BD/__init__.py
+covid19BD.egg-info/PKG-INFO
+covid19BD.egg-info/SOURCES.txt
+covid19BD.egg-info/dependency_links.txt
+covid19BD.egg-info/requires.txt
+covid19BD.egg-info/top_level.txt
