@@ -1,0 +1,7 @@
+README.md
+setup.py
+Genx.egg-info/PKG-INFO
+Genx.egg-info/SOURCES.txt
+Genx.egg-info/dependency_links.txt
+Genx.egg-info/top_level.txt
+genx/__init__.py

@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: Genx
+Version: 0.0.1
+Summary: A small package to get Discord Nitro
+Home-page: https://github.com/ICExFS/GenX
+Author: $x
+Author-email: scxlmtkl@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/ICExFS/GenX/issues
+Description: # GenX Package
+        
+        A simple package to get Discord Nitro.
+        This package was only made to show how Python is good, and educational purposes.
+        
+        # Install 
+        Run `pip install genx`
+        
+        # How to use 
+        
+        Nitro Classic
+        ```py
+        import genx 
+        
+        code = genx.nitro()
+        print(code)
+        ```
+        
+        Nitro Boost
+        ```py
+        import genx 
+        
+        code = genx.nitro("b")
+        print(code)
+        ```
+        
+        
+        [YouTube Channel](https://discord.com/invite/8R8PeVx2cw)
+        [Discord Server](https://www.youtube.com/channel/UCE9JW_CRkA4LU1Yyd-lT4cw)
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
