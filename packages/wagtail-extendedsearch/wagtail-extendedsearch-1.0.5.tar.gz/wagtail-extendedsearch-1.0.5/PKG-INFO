@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: wagtail-extendedsearch
+Version: 1.0.5
+Summary: Add some more functionality to the wagtail elasticsearch search backend
+Home-page: https://github.com/specialunderwear/wagtail-extendedsearch
+Author: Lars van de Kerkhof
+Author-email: no@way.why
+License: GPL v2.1
+Description: 
+        wagtail-extendedsearch add the following functionality to the default wagtail
+        search backend:
+        
+        1. filtering on non model field values.
+        2. ordering on non model field values
+        3. Autocomplete via elasticsearch suggest api
+        4. Suggestions via elasticsearch suggest api
+        
+Platform: UNKNOWN
+Provides-Extra: test
