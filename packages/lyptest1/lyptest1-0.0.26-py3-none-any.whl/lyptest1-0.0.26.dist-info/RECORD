@@ -1,0 +1,15 @@
+lgplibdemo/__init__.py,sha256=ZpjgOAckh3MxbRdKVli9JIVR6sNLhJISaAq-j2WX0b8,35
+lgplibdemo/lgpdemo.py,sha256=U6x883quh_WB5lveCYvRoOI-WT06lIU8BG159Gd8m1I,351
+lgplibdemo/lgplib.py,sha256=jgWwe0eZyrD73oskpW0L4A3JON_bX7tZC2Zub6qCFcY,396
+twine2/__init__.py,sha256=fYWFpCxI5ABshE8QCgO_pcNRE4VdDpeaxkS-NidHsX0,1648
+twine2/__main__.py,sha256=IoWsoUjUYVudeSEOvssjeIHnY7K9e3pfSoS03R2N9wc,1739
+twine2/_installed.py,sha256=tSD8sWJ3BKngZd7ISW3yppETsSAoe5moBYzgB1UkaJU,2403
+twine2/cli.py,sha256=1cJVSLUNyywSM2jJSDb3Sle7INKDO14frgQdrngPvcw,2575
+twine2/hello.py,sha256=ByeLLKmBk_nuFp2fpmGWFqMrGUxHEKkW5S22BhsNBP8,1047
+twine2/commands/__init__.py,sha256=VPNsIYtsrsjjYnz-NZWOFtHsrnJxkHECPNzcw4RgSX0,1574
+twine2/commands/upload.py,sha256=2Fy4ckpw1GCP-zWMN27MEwUyoEVoogHLLfwbIn6CdB0,1452
+lyptest1-0.0.26.dist-info/METADATA,sha256=ywfYAJUlDz8y9fAno8qwJKv4JHqin8D9773avbQyMSs,283
+lyptest1-0.0.26.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+lyptest1-0.0.26.dist-info/entry_points.txt,sha256=vUAaffabLVBJMZXKYzAwTQNLV8BQYingjQ3W7dgXPCw,116
+lyptest1-0.0.26.dist-info/top_level.txt,sha256=RMNaoywdGdYgkn7xkSSSIea0OpcPCbnm9Sq1BqyFK54,18
+lyptest1-0.0.26.dist-info/RECORD,,
