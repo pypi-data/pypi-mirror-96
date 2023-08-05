@@ -1,0 +1,6 @@
+{
+  "blacklist": "blocklist",
+  "whitelist": "allowlist",
+  "master": "manager",
+  "slave": "worker"
+}

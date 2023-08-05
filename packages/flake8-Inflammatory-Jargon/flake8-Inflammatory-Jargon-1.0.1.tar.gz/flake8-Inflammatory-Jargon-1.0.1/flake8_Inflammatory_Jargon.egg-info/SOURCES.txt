@@ -1,0 +1,19 @@
+CODEOWNERS
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+flake8_Inflammatory_Jargon.egg-info/PKG-INFO
+flake8_Inflammatory_Jargon.egg-info/SOURCES.txt
+flake8_Inflammatory_Jargon.egg-info/dependency_links.txt
+flake8_Inflammatory_Jargon.egg-info/entry_points.txt
+flake8_Inflammatory_Jargon.egg-info/requires.txt
+flake8_Inflammatory_Jargon.egg-info/top_level.txt
+flake8_inflammatory_jargon/__about__.py
+flake8_inflammatory_jargon/__init__.py
+flake8_inflammatory_jargon/checker.py
+flake8_inflammatory_jargon/data/inflammatory_words.json
+tests/flake8_Inflammatory_jargon_checker_test.py
+tests/test files/Inflammatory_jargon_case.py
+tests/test files/clean_jargon_case.py
