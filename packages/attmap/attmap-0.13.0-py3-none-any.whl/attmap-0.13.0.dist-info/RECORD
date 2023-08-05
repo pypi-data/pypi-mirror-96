@@ -1,0 +1,13 @@
+attmap/__init__.py,sha256=36uhwZKkQP4wIGNzScFvnquacn4Jb1lvi2wnCisIFY0,624
+attmap/_att_map_like.py,sha256=ML9ZfTkRAINaRrcSXe2l_QW61CXAG63DjyvCwAC6k9k,8174
+attmap/_version.py,sha256=DgpLNbv0e1LIEOOe54Db8_390i9pelMEFEnsBsNmyhA,23
+attmap/attmap.py,sha256=tYKElrOfj5TatNgTXDEfm1elLn4EtCgnksMOSsgekvg,4490
+attmap/attmap_echo.py,sha256=mrgW2kSvM9bPBcV-5ktosXxwEyp2oclQuQLA6TlTFD8,2008
+attmap/helpers.py,sha256=ogFFn6yKMEoFebZHfbnqEJdtc655VBUtxCPtXfo0gPw,2939
+attmap/ordattmap.py,sha256=pdSxrPAl62YZWC7SJyWlIqv_bqazCagMX2ZgSrqC56I,3750
+attmap/pathex_attmap.py,sha256=G4-8YXMO8pRqzQm5SG_i8X_n6dzkEr4EZXmD15cfpFU,4125
+attmap-0.13.0.dist-info/LICENSE.txt,sha256=oB6ZGDa4kcznznJKJsLLFFcOZyi8Y6e2Jv0rJozgp-I,1269
+attmap-0.13.0.dist-info/METADATA,sha256=2seOrrog3csP5lSZJxeZ17fBwDvO8wKOeVhi25Y4gPk,1091
+attmap-0.13.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+attmap-0.13.0.dist-info/top_level.txt,sha256=kpoOxLCOnlAEEo-XWu-B7dn3fsQb6R3B5C1Erf7zp9g,7
+attmap-0.13.0.dist-info/RECORD,,
