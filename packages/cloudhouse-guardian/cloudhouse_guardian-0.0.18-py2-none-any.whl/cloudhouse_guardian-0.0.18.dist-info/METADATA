@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: cloudhouse-guardian
+Version: 0.0.18
+Summary: Guardian SDK for Python
+Home-page: UNKNOWN
+Author: Cloudhouse
+Author-email: helpdesk@cloudhouse.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+Guardian SDK for Python
+(version 0.0.18)
+
+[https://www.cloudhouse.com](https://www.cloudhouse.com)
+
+
