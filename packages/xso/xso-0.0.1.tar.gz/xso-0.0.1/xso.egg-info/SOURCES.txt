@@ -1,0 +1,5 @@
+setup.py
+xso.egg-info/PKG-INFO
+xso.egg-info/SOURCES.txt
+xso.egg-info/dependency_links.txt
+xso.egg-info/top_level.txt
