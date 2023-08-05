@@ -1,0 +1,16 @@
+@startuml
+hide footbox
+autoactivate on
+skinparam sequenceParticipant underline
+actor ":User" as usr
+boundary ":Invite Member Form" as form
+control ":Project Controller" as ctl
+entity ":User" as db_usr
+
+usr -> form : // enters invited member's name()
+form -> ctl : // send form()
+ctl -> db_usr : // check new user's role()
+ctl <-- db_usr : // new user is an assistant
+form <-- ctl
+usr <-- form : // inform that added user is an assistant
+@enduml
