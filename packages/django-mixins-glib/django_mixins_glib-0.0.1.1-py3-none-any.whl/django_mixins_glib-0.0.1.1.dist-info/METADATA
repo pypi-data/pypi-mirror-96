@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: django-mixins-glib
+Version: 0.0.1.1
+Summary: django mixins
+Home-page: https://github.com/GlibAI/django_mixins/
+Author: Ajit Mourya
+Author-email: ajit@glib.ai
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Django Mixins
+
+This package can use for mixins require in django project.
+
+## Build Process
+open the link.
+[click here for steps.](https://packaging.python.org/tutorials/packaging-projects/#uploading-the-distribution-archives)
+
+
+
