@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: aleatools
+Version: 20.2.23.0
+Summary: Aleatory Tools
+Home-page: http://github.com/trevisanj/aleatools
+Author: Julio Trevisan
+Author-email: juliotrevisan@gmail.com
+License: GNU GPLv3
+Platform: any
+Requires-Python: >=3
+Requires-Dist: a107 (>=20.02.23.0)
+Requires-Dist: pycrypto
+
+UNKNOWN
+
+
