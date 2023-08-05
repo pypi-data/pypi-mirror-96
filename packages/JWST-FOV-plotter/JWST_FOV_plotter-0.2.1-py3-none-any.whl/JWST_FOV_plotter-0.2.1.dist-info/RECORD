@@ -1,0 +1,12 @@
+JWST_FOV_plotter/FOV_transform.py,sha256=outmTT1efyzZ2Bzua7ygiED8CNIKFd9txG86KJfzUdo,5319
+JWST_FOV_plotter/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+JWST_FOV_plotter/apertures_selecter.py,sha256=UnLtfZEF04h3JvveRl0U-GxXsyDoHr3SEUC48BxRed8,6619
+JWST_FOV_plotter/auxiliar_functions.py,sha256=UJAA_xZvLmG5ji_02fpIKrQVak0AM3QRqmi5PMe1hvY,2097
+JWST_FOV_plotter/fovs_loader.py,sha256=4PDMn9roWhv17-7iBepvxpde920EWfb2rBdxUxrrBVk,1803
+JWST_FOV_plotter/plotter.py,sha256=0-c09mgBql9jCsKKWbZxeuDHYWrffdPjr605Fxz4uQI,11368
+JWST_FOV_plotter/data/SIAF_V2V3_FOVs.csv,sha256=Zbm7XsVrPgVfrXSuAW4vPIXEZ2GrysQAfCFyq8CBM70,4249
+JWST_FOV_plotter-0.2.1.dist-info/LICENSE,sha256=LHXX1yJeLB9WYaZs0rXbJZvOJESNhnJU7qtBsgacDBI,1062
+JWST_FOV_plotter-0.2.1.dist-info/METADATA,sha256=nzEtNRBG2Awv_T2obXLOM_eSxTti9PI1loLw6rU4U-0,11108
+JWST_FOV_plotter-0.2.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+JWST_FOV_plotter-0.2.1.dist-info/top_level.txt,sha256=ZFNYmtCqjPU4dMu15qI99lhb2Hc759G-JQgE5i8047w,17
+JWST_FOV_plotter-0.2.1.dist-info/RECORD,,
