@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+mydataframesales.egg-info/PKG-INFO
+mydataframesales.egg-info/SOURCES.txt
+mydataframesales.egg-info/dependency_links.txt
+mydataframesales.egg-info/top_level.txt
+mydf/__init__.py
+mydf/mydatafs.py

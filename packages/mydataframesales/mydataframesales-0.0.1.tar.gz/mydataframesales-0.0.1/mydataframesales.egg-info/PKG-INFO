@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: mydataframesales
+Version: 0.0.1
+Summary: Functions for sales.
+Home-page: https://github.com/pypa/myDataFrameSales
+Author: Pascale Gregorio
+Author-email: gregoriopascale@gmail.com
+License: UNKNOWN
+Description: # Tutorial for DataFrame with Pandas
+        
+        We’ll start with a quick, 
+        non-comprehensive overview of the fundamental data structures in pandas 
+        to get you started. 
+        The fundamental behavior about data types, 
+        indexing, and axis labeling / alignment apply across all of the objects. 
+        To get started, import NumPy and load pandas into your namespace.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
