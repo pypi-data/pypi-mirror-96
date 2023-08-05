@@ -1,0 +1,11 @@
+README.md
+setup.py
+otis/__init__.py
+otis/finger_motor.py
+otis/kinematics.py
+otis/otis.py
+reachy_otis.egg-info/PKG-INFO
+reachy_otis.egg-info/SOURCES.txt
+reachy_otis.egg-info/dependency_links.txt
+reachy_otis.egg-info/requires.txt
+reachy_otis.egg-info/top_level.txt
