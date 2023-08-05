@@ -1,0 +1,8 @@
+README.md
+module_bins.c
+pyproject.toml
+setup.py
+binstore.egg-info/PKG-INFO
+binstore.egg-info/SOURCES.txt
+binstore.egg-info/dependency_links.txt
+binstore.egg-info/top_level.txt
