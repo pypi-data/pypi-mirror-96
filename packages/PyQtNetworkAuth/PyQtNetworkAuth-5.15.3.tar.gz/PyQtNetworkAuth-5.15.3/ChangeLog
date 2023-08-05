@@ -1,0 +1,20 @@
+2021-02-23  Phil Thompson  <phil@riverbankcomputing.com>
+
+	* NEWS:
+	Released as v5.15.3.
+	[4a5299c77aab] [5.15.3] <5.15-maint>
+
+	* pyproject.toml:
+	Fixed the Qt wheel dependency.
+	[8b0fcc4744e8] <5.15-maint>
+
+2021-02-09  Phil Thompson  <phil@riverbankcomputing.com>
+
+	* pyproject.toml:
+	Added the dependency on the Qt wheel.
+	[da99aaec1f8c] <5.15-maint>
+
+	* .hgignore, METADATA.in, NEWS, PyQtNetworkAuth.msp, README,
+	configure.py, pyproject.toml, rb-product:
+	Added the initial project extracted from PyQt5.
+	[c33843b39076] <5.15-maint>

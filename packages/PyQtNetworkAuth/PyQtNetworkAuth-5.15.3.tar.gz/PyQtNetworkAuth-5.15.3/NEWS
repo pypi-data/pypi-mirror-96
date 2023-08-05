@@ -1,0 +1,3 @@
+v5.15.3 24th February 2021
+  - The first release based on Qt v5.15.  Previously the modules were part of
+    PyQt5.
