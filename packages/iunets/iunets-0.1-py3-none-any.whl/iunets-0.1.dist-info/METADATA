@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: iunets
+Version: 0.1
+Summary: Invertible U-Nets for memory efficiency in Pytorch
+Home-page: UNKNOWN
+Author: Christian Etmann
+Author-email: cetmann@damtp.cam.ac.uk
+License: UNKNOWN
+Keywords: python,neural network,segmentation,unet,u-net,invertible,medical imaging
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+Requires-Dist: memcnn
+
+A package which allows for training segmentation models in Pytorch for high-dimensional 3D data, using invertible U-Nets (iUNets).
+
+

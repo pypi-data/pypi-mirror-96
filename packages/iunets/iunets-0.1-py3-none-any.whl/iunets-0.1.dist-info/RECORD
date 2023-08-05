@@ -1,0 +1,13 @@
+iunets/__init__.py,sha256=VSspHyc8qd0XDE90KU5JhilR0ZipvR_0q1TKJb-4e9c,54
+iunets/baseline_networks.py,sha256=d6PAAI0538u0qUi88tOGRjiPBBFpWXz3pIvL9RJKAMk,4701
+iunets/cayley.py,sha256=RU8-QrhdHr5J4sa7KXP6GTyPOFlXHy16CqEGFLnsVC4,1007
+iunets/expm.py,sha256=-R51JvqeP_9A0UAhQCYF-Nx6pyZ6tQ_gzcLC25NVo4Y,12647
+iunets/householder.py,sha256=48PtMSkDavdKgdd93m9SjeRFbbqa2_A_DVuFAs4fwSo,1804
+iunets/layers.py,sha256=eRqjNAPZc12LMM9v--uIXZUnJLWhOdpqSEuNb-HGoyk,26371
+iunets/networks.py,sha256=-3hMF7CFyNrJ-pc0Psm3QpXnA7ogZZINzUOqq74Orok,26206
+iunets/utils.py,sha256=p2a1ZG5AD1J87Sxp_Tp9EfYbJgmTbUgVsEq-0N-m3gM,2976
+iunets-0.1.dist-info/LICENSE,sha256=vUC6mZf6LU7lg9-Pewahfpy1cmJtdSQqqkbILSiTugQ,1073
+iunets-0.1.dist-info/METADATA,sha256=u95v0Q83DRlByAn-DVxPx5thckszJMtmGoL6cqEQRN0,552
+iunets-0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+iunets-0.1.dist-info/top_level.txt,sha256=DZ9qWR2t9uEqszv-_TmELYksIYOxJgkwyvC_ODuFwyY,7
+iunets-0.1.dist-info/RECORD,,
