@@ -1,0 +1,5 @@
+click
+importlib_resources
+pyyaml
+requests
+tqdm
