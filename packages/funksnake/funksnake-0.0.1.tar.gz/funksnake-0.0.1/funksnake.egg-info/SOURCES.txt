@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+funksnake/__init__.py
+funksnake/__main__.py
+funksnake/base.py
+funksnake.egg-info/PKG-INFO
+funksnake.egg-info/SOURCES.txt
+funksnake.egg-info/dependency_links.txt
+funksnake.egg-info/top_level.txt
+funksnake/accessors/__init__.py
+funksnake/accessors/api.py
+funksnake/accessors/base.py
