@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+ScuffedAPI/__init__.py
+ScuffedAPI/http.py
+ScuffedAPI.egg-info/PKG-INFO
+ScuffedAPI.egg-info/SOURCES.txt
+ScuffedAPI.egg-info/dependency_links.txt
+ScuffedAPI.egg-info/requires.txt
+ScuffedAPI.egg-info/top_level.txt
