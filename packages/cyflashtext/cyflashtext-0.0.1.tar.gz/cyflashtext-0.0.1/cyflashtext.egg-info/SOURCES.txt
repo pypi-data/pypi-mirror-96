@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.py
+cyflashtext/__init__.py
+cyflashtext/cyflashtext.py
+cyflashtext.egg-info/PKG-INFO
+cyflashtext.egg-info/SOURCES.txt
+cyflashtext.egg-info/dependency_links.txt
+cyflashtext.egg-info/not-zip-safe
+cyflashtext.egg-info/requires.txt
+cyflashtext.egg-info/top_level.txt
+lib/cyvi.cpp
+lib/flashtext/flashtext.cpp
+lib/utils/utils.cpp
