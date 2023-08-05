@@ -1,0 +1,12 @@
+compphys/__init__.py,sha256=4SMYSWBLAXJ5jeXxJso9sDs_Gry2gQZpYzc2BD7CoGY,344
+compphys/cyclotron.py,sha256=CACaqcN5ZELuW548baHb5TPOZxiAa_OEVqFoBM7mnGk,4951
+compphys/visual.py,sha256=5wYDgab58P5tuHsSPQWQcvfGaVuJ-F9ZB2MrVEM_i1Y,1038
+compphys/tests/__init__.py,sha256=wanfHoit0GZV2NUIyvcSKWNEcanj3JZpz9z7InJP2TY,258
+compphys/tests/test_cyclotron.py,sha256=N4_Q25RJxBMo3pkEe0V_mhTlKJn4cVisOsaWs1iGeEg,300
+scripts/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+scripts/run.py,sha256=LY6llcvU5WwWg0l2G1X-HDtQIsI9R2zkz4piOmCHEac,155
+compphys-0.0.1.dist-info/LICENSE,sha256=X4LfsNRvU8kAtHgFdfqD4rDiZcdE-tvtHduqrW8P9pU,1073
+compphys-0.0.1.dist-info/METADATA,sha256=XA4BdWYX8a1qOaVgbbEbzKMUeOkhKmxxui7uuEYdlJc,1541
+compphys-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+compphys-0.0.1.dist-info/top_level.txt,sha256=E68IDcr8fOfviRoP6qAEIalAkYly_w9B3bvAEGFOopI,17
+compphys-0.0.1.dist-info/RECORD,,
