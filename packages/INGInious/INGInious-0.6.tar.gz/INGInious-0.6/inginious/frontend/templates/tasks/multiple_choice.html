@@ -1,0 +1,23 @@
+$def with (pid,header,checkbox,choices,func)
+
+$#
+$# This file is part of INGInious. See the LICENSE and the COPYRIGHTS files for
+$# more information about the licensing of this file.
+$#
+<div id="task_alert_$pid" class="task_alert_problem"></div>
+$:header
+$for choice in choices:
+    $if checkbox:
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" name="${pid}" value="$choice['index']" id="${pid}_${choice['index']}" />
+            <label class="form-check-label" for="${pid}_${choice['index']}">
+                 $:func(choice['text'])
+            </label>
+        </div>
+    $else:
+        <div class="form-check">
+            <input class="form-check-input"  type="radio" name="$pid" value="$choice['index']" id="${pid}_${choice['index']}" />
+            <label class="form-check-label" for="${pid}_${choice['index']}">
+                 $:func(choice['text'])
+            </label>
+        </div>
