@@ -1,0 +1,14 @@
+mdgo/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mdgo/conductivity.py,sha256=wcCgH8VSWlO0VAABVNeYZ2opGAjcDvcZVtL3sJblL6A,2804
+mdgo/coordination.py,sha256=spDGNGXDAxawfkf4i5od2wT8tUnK0FxRqokowZDb_rw,21957
+mdgo/core.py,sha256=jfZ8e2dS6tQe0sOTMjtPA_7qXrH0SGgAnZuTKj75pP4,24182
+mdgo/forcefield.py,sha256=LfAtOhn0-rtbEtRnDY354j7b6CqaJ5OVgGJNATHZnUs,20997
+mdgo/mdgopackmol.py,sha256=SaHCUSrIOubE75TNquZWMHtfyDRoTv32-XZ0WPflMfA,4505
+mdgo/msd.py,sha256=cdPn_VXAaJku4DfSOc7o78WNurrGv8WQkmaXPv9xPcw,5954
+mdgo/residence_time.py,sha256=6XVrr1A5D2iZdE9NNhhhs_cZbX-V3o7sOChSmT9Ebog,3562
+mdgo/util.py,sha256=oh1tWBE9-uwxTD58B3JNP4fLKmdS0SAFqDcz1rfaQDY,10886
+mdgo-0.1.0.dist-info/LICENSE.rst,sha256=q04HaYIfKf2aAG6DmGDdx-sj5qfuWanqAaxLuHqFKik,1070
+mdgo-0.1.0.dist-info/METADATA,sha256=VxNVJNrW6PKsPe5CZI7pu0LwZai4nem8nUOJnRsn2oQ,4047
+mdgo-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mdgo-0.1.0.dist-info/top_level.txt,sha256=0UNpNf1qZj0p7TyE_ypkb976F0FDh96OWEXFjEuV13Q,5
+mdgo-0.1.0.dist-info/RECORD,,
