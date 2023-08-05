@@ -1,0 +1,11 @@
+typing_extensions
+sqlalchemy>=1.3.*
+
+[dev]
+pytest
+pytest-cov
+pytest-benchmark
+pre-commit
+pylint
+black
+mypy
