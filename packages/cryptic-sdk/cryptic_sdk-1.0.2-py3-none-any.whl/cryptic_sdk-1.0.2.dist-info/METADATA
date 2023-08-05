@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: cryptic-sdk
+Version: 1.0.2
+Summary: A Cryptic SDK for Python
+Home-page: https://github.com/Tert0/cryptic-sdk
+Author: Tert0
+Author-email: UNKNOWN
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: websocket-client
+
+UNKNOWN
+
+
