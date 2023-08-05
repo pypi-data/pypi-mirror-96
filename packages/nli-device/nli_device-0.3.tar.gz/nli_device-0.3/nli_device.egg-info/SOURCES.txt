@@ -1,0 +1,12 @@
+setup.py
+nli_device/__init__.py
+nli_device/data.py
+nli_device/model.py
+nli_device/predict.py
+nli_device/run.py
+nli_device/train.py
+nli_device.egg-info/PKG-INFO
+nli_device.egg-info/SOURCES.txt
+nli_device.egg-info/dependency_links.txt
+nli_device.egg-info/not-zip-safe
+nli_device.egg-info/top_level.txt
