@@ -1,0 +1,3 @@
+[scancode_location_provider]
+textcode_pdf2text = textcode_pdf2text:Pdf2textPaths
+
