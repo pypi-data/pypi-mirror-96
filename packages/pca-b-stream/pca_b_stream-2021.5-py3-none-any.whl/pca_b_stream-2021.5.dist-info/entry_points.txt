@@ -1,0 +1,4 @@
+[console_scripts]
+bstream2pca = cmd_line:BStream2PCA
+pca2bstream = cmd_line:PCA2BStream
+
