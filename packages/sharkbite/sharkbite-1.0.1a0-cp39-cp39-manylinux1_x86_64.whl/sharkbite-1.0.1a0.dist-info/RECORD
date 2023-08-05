@@ -1,0 +1,8 @@
+sharkbite/__init__.py,sha256=_CZOwvpI3XFOqjx34xrJ7VyfxoTA9AAzbmrJWJO8EUY,5887
+sharkbite/pysharkbite.cpython-39-x86_64-linux-gnu.so,sha256=XPRk3acvJnRz7qVxYlQHA_CzRP6WdNJ0rbBfAScDi8k,176721808
+sharkbite/torch.py,sha256=QchpvTOECcDGlRBg-i4-wryapcJ_DMLDI69WzDX_7ZI,2442
+sharkbite-1.0.1a0.dist-info/LICENSE,sha256=txDOxZx6feNRy7AvRMNrz_QBIXunW6-8u2Y69NiL8FM,11895
+sharkbite-1.0.1a0.dist-info/METADATA,sha256=U2MgMLnnSuM4XoPN9zAx5GTzhTHPcWeG2P-rwt0mtCI,4732
+sharkbite-1.0.1a0.dist-info/WHEEL,sha256=Fs91Ann61S2A_mZ0z4nJS8CwPq9BU-Prnl2pSvzthmM,103
+sharkbite-1.0.1a0.dist-info/top_level.txt,sha256=xeZ8yvA-dSW6b4ZAa4S-90gUaL1md9JuqItqjVjdSkk,10
+sharkbite-1.0.1a0.dist-info/RECORD,,
