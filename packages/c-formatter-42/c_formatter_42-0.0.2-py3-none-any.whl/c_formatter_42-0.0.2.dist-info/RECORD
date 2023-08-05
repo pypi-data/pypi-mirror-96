@@ -1,0 +1,17 @@
+c_formatter_42/.clang-format,sha256=f3FQLakm-f7JjEoXdxaXB6EurVsSchDGTK-o4N1P_-U,6007
+c_formatter_42/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+c_formatter_42/__main__.py,sha256=sdrdNjCpTL-k5fsrHGGvK8pghu8zs1LTxbJJpJpY-o4,2356
+c_formatter_42/conftest.py,sha256=4sXYSOA4KN5XOi7Arpue4g46yEWQa9ukc7yz1gMV5H4,32
+c_formatter_42/run.py,sha256=lOPbvWgXt7xIVgiV49p5tiZp1cVgoYIowaqUpl7-b5k,1650
+c_formatter_42/formatters/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+c_formatter_42/formatters/align.py,sha256=W97b_HbUVq1EmBtfWYbXo1XQ6eqEr4Y5HjajcfTugr0,4283
+c_formatter_42/formatters/clang_format.py,sha256=E8bM8qEkcnXhM_kEwmvNFbl2l2okCmARuT0ikGQzXqw,2677
+c_formatter_42/formatters/helper.py,sha256=eixBGxEkkR1EN7I7xVtCRSXzTN6f44ToX2VwA2x_2jE,1704
+c_formatter_42/formatters/hoist.py,sha256=qsqBNrva9F-CmGs-MTMbbH0raIXIs2LMUZIsUE6y0B0,2926
+c_formatter_42/formatters/misc.py,sha256=lRu1g57IP1MzGNbaYKW4eTnKoghWGULArEsOrbz3fzg,1574
+c_formatter_42/formatters/preprocessor_directive.py,sha256=j47Mzuwoik9OFZTg7TPkiGpKQwaB_gk3ZaILdHj999Y,1724
+c_formatter_42-0.0.2.dist-info/METADATA,sha256=7BTmmLxVoinsaZB0IKyEjJ90q5AKdaXM8evYwSR_8oM,2882
+c_formatter_42-0.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+c_formatter_42-0.0.2.dist-info/entry_points.txt,sha256=M4I9t0FlHpEJ4D2Hxk9Z5MAhUlTed1RG2yud3Kv1vJM,65
+c_formatter_42-0.0.2.dist-info/top_level.txt,sha256=aynCsbmokECOWrU8vOMALRIODgoE1NS0_yz_3iA3fPc,15
+c_formatter_42-0.0.2.dist-info/RECORD,,
