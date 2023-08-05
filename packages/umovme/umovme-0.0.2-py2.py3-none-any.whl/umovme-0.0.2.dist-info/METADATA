@@ -1,0 +1,98 @@
+Metadata-Version: 2.1
+Name: umovme
+Version: 0.0.2
+Summary: Umovme Api Python Client
+Home-page: https://github.com/kmee/python-umovme
+Author: Luis Felipe Mileo
+Author-email: mileo@kmee.com.br
+License: MIT
+Project-URL: Documentation, https://python-umovme.readthedocs.io/
+Project-URL: Changelog, https://python-umovme.readthedocs.io/en/latest/changelog.html
+Project-URL: Issue Tracker, https://github.com/kmee/python-umovme/issues
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Unix
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+Requires-Dist: furl (==2.1.0)
+Requires-Dist: requests (==2.25.1)
+Requires-Dist: xmltodict (==0.12.0)
+Requires-Dist: dicttoxml (==1.7.4)
+Requires-Dist: munch (==2.5.0)
+
+========
+Overview
+========
+
+
+
+Umovme Api Python Client
+
+* Free software: MIT license
+
+Installation
+============
+
+::
+
+    pip install umovme
+
+You can also install the in-development version with::
+
+    pip install https://github.com/kmee/python-umovme/archive/master.zip
+
+
+Documentation
+=============
+
+
+https://python-umovme.readthedocs.io/
+
+
+Development
+===========
+
+To run all the tests run::
+
+    tox
+
+Note, to combine the coverage data from all the tox environments run:
+
+.. list-table::
+    :widths: 10 90
+    :stub-columns: 1
+
+    - - Windows
+      - ::
+
+            set PYTEST_ADDOPTS=--cov-append
+            tox
+
+    - - Other
+      - ::
+
+            PYTEST_ADDOPTS=--cov-append tox
+
+
+Changelog
+=========
+
+0.0.0 (2021-01-27)
+------------------
+
+* First release on PyPI.
+
+
