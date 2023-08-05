@@ -1,0 +1,13 @@
+Newkiton/Newkiton.py,sha256=A59oYRq54hihfd0cNBqeo79qX0fnIc_3zHbhHn9TmnM,4743
+Newkiton/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ThermoBeacon/ThermoBeacon.py,sha256=YxFYXBikeB2zgDQizpmMSrT_EIdDFGJoKpqYxNmiyNQ,2278
+ThermoBeacon/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/discover.py,sha256=hWhA9iTgW6DwDKRiguj9wjCDNq7l-vEneODOtVQ3Ur0,669
+tests/test_newkiton.py,sha256=m37Fa13lY4UCzqzpm75zOmURjJc8W9CDH5EQnA5UxVA,619
+tests/test_thermobeacon.py,sha256=cIHa89WeApp8Ah4wr9bwY4lmU5iTlKsAPGVb3vkQE1s,251
+Newkiton-0.1.0.dist-info/LICENSE,sha256=gcuuhKKc5-dwvyvHsXjlC9oM6N5gZ6umYbC8ewW1Yvg,35821
+Newkiton-0.1.0.dist-info/METADATA,sha256=9crOGfTT80oLijDvm6J98w2mkk1fY84NbMrTToWX2ko,1934
+Newkiton-0.1.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+Newkiton-0.1.0.dist-info/top_level.txt,sha256=w2uWfBgzaeeEypw1QntrUb9HBYMo-3D3YNU9uCdKMkg,28
+Newkiton-0.1.0.dist-info/RECORD,,
