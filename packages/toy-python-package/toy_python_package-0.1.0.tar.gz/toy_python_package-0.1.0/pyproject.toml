@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "toy_python_package"
+version = "0.1.0"
+description = "A Toy Python Package"
+authors = ["Heidi Ye <heidiye@students.ubc.ca>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.2.2"
+
+[tool.poetry.dev-dependencies]
+Sphinx = "^3.5.1"
+sphinxcontrib-napoleon = "^0.7"
+pytest = "^6.2.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
