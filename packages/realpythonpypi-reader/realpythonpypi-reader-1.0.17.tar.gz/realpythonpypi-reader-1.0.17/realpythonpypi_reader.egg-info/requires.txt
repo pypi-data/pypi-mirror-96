@@ -1,0 +1,5 @@
+feedparser
+html2text
+importlib_resources
+requests
+typing
