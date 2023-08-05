@@ -1,0 +1,13 @@
+eventhooks/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+eventhooks/_version.py,sha256=RIjV_3xgFmyPNY2UihUqwjGrrxWl05i5EUr4u9rYBx8,23
+eventhooks/eventhooks.py,sha256=2NPwCgLPj0XZiA8PCsj2wKOV1JXwuVUsGMCTsD5WIPw,13512
+eventhooks/mail/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+eventhooks/mail/aws_ses.py,sha256=MQVQfOwXmLqNHutsXxM_wEYMM1ILs8_11QAjnI_Fz2U,2947
+eventhooks/mail/environment_variables.py,sha256=9xGO2SFjR7jhL2Qug664EIKagA3vejO-VK8cV-rJBiY,378
+eventhooks/mail/exceptions.py,sha256=fRxvSDMYGMbdixSpNWO3BZSIk4mZNsaOkS9nG3B3nQw,42
+eventhooks/mail/message.py,sha256=v3hwksEe6krOURWoorwVcuJrnQFmzTWYGj1F7ptQosw,1947
+eventhooks/mail/simple.py,sha256=pUjOCOL8bPy4lzdPTv4_V8Esy1CIN1I7oJbb4SxldKg,2932
+eventhooks-0.2.0.dist-info/METADATA,sha256=EhV0qUdL2Hdc07tY4eh_E31BZq564rQ5dGFH2SYzogM,12678
+eventhooks-0.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+eventhooks-0.2.0.dist-info/top_level.txt,sha256=HnNq5aqRzsFxVgcqPnQKdJdEPl2RqeJxTIPi3c6eAO4,11
+eventhooks-0.2.0.dist-info/RECORD,,
