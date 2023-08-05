@@ -1,0 +1,10 @@
+odb2psql/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+odb2psql/__main__.py,sha256=iSlm8t3vv56zHw2C5GBrF6icVEdI3CjvQgzwlSkk3hU,1343
+odb2psql/to_psql.py,sha256=zHi4NcTL7RBnC5Sn1EctKP9JxykMR6U0uNvrxCUeeMI,68
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_odb2psql.py,sha256=sraloScMR58pYyFtGdwFI9i_gyxRTXm9P6GPO0eoNSs,1324
+odb2psql-0.0.2.dist-info/LICENSE,sha256=IwGE9guuL-ryRPEKi6wFPI_zOhg7zDZbTYuHbSt_SAk,35823
+odb2psql-0.0.2.dist-info/METADATA,sha256=yrTA6axX3hLNLF6v01pZfOTzf_t2xFsh4l-PehtxIN0,572
+odb2psql-0.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+odb2psql-0.0.2.dist-info/top_level.txt,sha256=wEvv3j5_FRslRjOcCuw_oGzZLOuFrEA_-kBkhwdI3aI,15
+odb2psql-0.0.2.dist-info/RECORD,,
