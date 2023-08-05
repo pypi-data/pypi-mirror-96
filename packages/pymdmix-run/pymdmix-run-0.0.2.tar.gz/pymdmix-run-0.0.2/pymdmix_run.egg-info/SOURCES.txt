@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+bin/mdmix-run
+pymdmix_run/__init__.py
+pymdmix_run/run.py
+pymdmix_run.egg-info/PKG-INFO
+pymdmix_run.egg-info/SOURCES.txt
+pymdmix_run.egg-info/dependency_links.txt
+pymdmix_run.egg-info/requires.txt
+pymdmix_run.egg-info/top_level.txt

@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: pymdmix-run
+Version: 0.0.2
+Summary: pymdmix plugin for command interpreter
+Home-page: https://github.com/ggutierrez-bio/mdmix4/pymdmix-run
+Author: ggutierrez-bio
+Author-email: 
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Requires-Python: >=3.8
