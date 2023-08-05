@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+omniscient/__init__.py
+orv.egg-info/PKG-INFO
+orv.egg-info/SOURCES.txt
+orv.egg-info/dependency_links.txt
+orv.egg-info/top_level.txt
