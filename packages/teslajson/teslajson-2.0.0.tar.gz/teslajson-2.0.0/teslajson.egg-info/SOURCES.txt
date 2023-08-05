@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+teslajson/__init__.py
+teslajson/teslajson.py
+teslajson.egg-info/PKG-INFO
+teslajson.egg-info/SOURCES.txt
+teslajson.egg-info/dependency_links.txt
+teslajson.egg-info/requires.txt
+teslajson.egg-info/top_level.txt
