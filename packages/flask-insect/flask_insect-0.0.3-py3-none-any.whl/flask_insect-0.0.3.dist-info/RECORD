@@ -1,0 +1,5 @@
+flask_insect/__init__.py,sha256=2vqI0iZRgcAbjmpPxpAhi3NEue-yo_ji5bRdNhPzyG4,94
+flask_insect/etcd.py,sha256=wHCoTjD2Ym95T81Dw7M-7EMt1Bis7TPNA81zOXZOKnQ,2890
+flask_insect-0.0.3.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+flask_insect-0.0.3.dist-info/METADATA,sha256=G6AQDIEVyaL6-XMhYaWVrAfk7dg8r-H_Ly73HQYnrg8,422
+flask_insect-0.0.3.dist-info/RECORD,,
