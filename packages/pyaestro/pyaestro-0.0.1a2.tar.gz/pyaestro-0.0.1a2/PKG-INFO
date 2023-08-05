@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pyaestro
+Version: 0.0.1a2
+Summary: A package of utilities structures for building workflows and workflow related tools.
+License: MIT
+Author: Frank Di Natale
+Author-email: frank.dinatale1988@gmail.com
+Maintainer: Frank Di Natale
+Maintainer-email: frank.dinatale1988@gmail.com
+Requires-Python: >3.4
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: coloredlogs
+Requires-Dist: psutil
