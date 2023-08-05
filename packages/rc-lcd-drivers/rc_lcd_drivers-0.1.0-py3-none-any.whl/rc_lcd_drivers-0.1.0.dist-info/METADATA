@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: rc-lcd-drivers
+Version: 0.1.0
+Summary: Drivers for the RC 1602LRU-LWA-KP1 Liquid Crystal Display
+Home-page: https://github.com/dmitri-mcguckin/rc1602lru-drivers
+Author: Dmitri McGuckin
+License: GPL-3.0
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Topic :: System :: Hardware
+Classifier: Topic :: System :: Hardware :: Hardware Drivers
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+Requires-Dist: raspi
+Provides-Extra: dev
+Requires-Dist: setuptools ; extra == 'dev'
+Requires-Dist: wheel ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: flake8 ; extra == 'dev'
+Requires-Dist: twine ; extra == 'dev'
+Requires-Dist: sphinx ; extra == 'dev'
+Requires-Dist: sphinx-rtd-theme ; extra == 'dev'
+
+# RC1602 LRU Drivers
+Drivers for the RC 1602LRU-LWA-KP1 Liquid Crystal Display
+
+
