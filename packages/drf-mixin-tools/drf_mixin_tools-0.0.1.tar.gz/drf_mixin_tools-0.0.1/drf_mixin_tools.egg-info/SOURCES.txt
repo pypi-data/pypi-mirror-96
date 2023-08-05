@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+drf_mixin_tools.egg-info/PKG-INFO
+drf_mixin_tools.egg-info/SOURCES.txt
+drf_mixin_tools.egg-info/dependency_links.txt
+drf_mixin_tools.egg-info/requires.txt
+drf_mixin_tools.egg-info/top_level.txt
