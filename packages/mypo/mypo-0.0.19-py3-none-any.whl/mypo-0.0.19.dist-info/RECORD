@@ -1,0 +1,10 @@
+mypo/__init__.py,sha256=Tk-uPX0b4uQx1tTAWTR_FQbqHXpyPusmVyhWIz-53YM,252
+mypo/common.py,sha256=DA-xTkDB7suZVWhelZ6cW0K9FubUtkbjhOYr_INf1sQ,1108
+mypo/loader.py,sha256=0Jp8PybKLPaDlyqZ7q5v6qKuxNx7Tmv2mckJTFcKpcQ,743
+mypo/market.py,sha256=z-md9z7et8jPmXm9IA7mLXm5thnPTUKcMXthB93LKM4,1524
+mypo/rebalancer.py,sha256=prLzoeUTNfs-DlG8DoYbkE4-8haih0RvULiC_yA8UiE,1255
+mypo/runner.py,sha256=dYWG_IEmLhnJ6dc1Zellw92ih_cX3u3zsC4vm3C7P18,2451
+mypo-0.0.19.dist-info/LICENSE,sha256=up9hBvfGvr22IwxFKaPR9st-vliN7c2LO0VLF5nbha4,1065
+mypo-0.0.19.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+mypo-0.0.19.dist-info/METADATA,sha256=esBxIvl2lYDRyeJEgeqj_jfQ8Zo3M0u5GjXrPs2w2ss,688
+mypo-0.0.19.dist-info/RECORD,,
