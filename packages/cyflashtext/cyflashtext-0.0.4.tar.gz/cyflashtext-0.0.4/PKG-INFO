@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: cyflashtext
+Version: 0.0.4
+Summary: Python flashtext with c++ backend
+Home-page: https://github.com/NgHoangDat/cyflashtext
+Author: nghoangdat
+Author-email: 18.hoang.dat.12@gmail.com
+License: UNKNOWN
+Description: # cyflashtext
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Text Processing :: Linguistic
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
