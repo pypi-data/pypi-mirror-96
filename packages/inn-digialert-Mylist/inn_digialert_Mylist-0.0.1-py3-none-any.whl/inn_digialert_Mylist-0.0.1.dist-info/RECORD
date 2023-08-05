@@ -1,0 +1,9 @@
+DBHelper/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+DBHelper/dbddl.py,sha256=-DcTM3srmH8K26ZI1CVnWCwSay_Hz1YGs7Uz-Tv-SCE,694
+DBHelper/sqlite_db_operations.py,sha256=yPobRkYApKTpbq8gV_Kmxh8clXY3NAaTv_M0FdB2Iek,3298
+microservices/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+microservices/tasks.py,sha256=nsjaNFOWxZwvzaKb463jcyc5CLYQaeDh2JGqKygrfDw,5948
+inn_digialert_Mylist-0.0.1.dist-info/METADATA,sha256=kLh_RANVSd48FhPv-87Oj2uMaz6gmfiQjqH2V3aTT7w,1511
+inn_digialert_Mylist-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+inn_digialert_Mylist-0.0.1.dist-info/top_level.txt,sha256=-l3VfMhzcTrGvijEoXjXmXlsLtXaLV6uiHutmPSL_L0,23
+inn_digialert_Mylist-0.0.1.dist-info/RECORD,,

@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: inn-digialert-Mylist
+Version: 0.0.1
+Summary: MyList api built in Flask and sqlite
+Home-page: https://bitbucket.org/Radio_fixed/sqliteforkarate/src/master/
+Author: SimpleAppDesigner
+Author-email: Sandeep1dimri@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: click (==7.1.2)
+Requires-Dist: Flask (==1.1.2)
+Requires-Dist: itsdangerous (==1.1.0)
+Requires-Dist: Jinja2 (==2.11.3)
+Requires-Dist: MarkupSafe (==1.1.1)
+Requires-Dist: Werkzeug (==1.0.1)
+
+###Objective: This has been developed for learning only! The target audience is:
+1. Beginner for flask,sqlite
+2. Testing - API testing, understanding the api development and then automating API testing through postman or karate DSL
+
+###microservices built in flask for simple "todo list"
+refer app:
+https://play.google.com/store/apps/details?id=inn.digialert.todo_flutter ( flutter and sqlite)
+
+1. APIs - flask
+2. Database - sqlite3(its comes with python , so not a dependency)
+
+Testing \
+1.Postman ( attached) 
+2.Karate ( Still in development)
+Note: for Postman, use import functionality of postman to import json "MyList.postman_collection.json"
+
+Download postman: https://www.postman.com/
+
+Git remote:git push origin master:origin --> new branch
+
+push local changes to remote :  git push origin master
+
+
+
+
+
+
+
+
+
+
+
