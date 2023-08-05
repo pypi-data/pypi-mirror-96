@@ -1,0 +1,37 @@
+Metadata-Version: 1.1
+Name: picodetection
+Version: 0.1
+Summary: A Django app to extract numerics from scientific journals
+Home-page: http://www.molecularconnections.com/
+Author: alok.r
+Author-email: ralok863@gmail.com
+License: BSD-3-Clause  # Example license
+Description: unit tests
+        -----------------
+        python -m unittest discover -s tests -t numericGrobidApp/
+        
+        installation
+        -----------------
+            1. creating environment
+            virtualenv grobid_env
+            2. Installing requirements
+            pip install -r requirements.txt
+            3. running test cases
+            python manage.py test
+            python manage.py collectstatic
+            4. deploying with gunicorn
+            /home/ituser/Envs/grobid_env/bin/gunicorn --workers=3 --threads=100 --worker-class=gthread --bind=0.0.0.0:7040 --pythonpath /home/ituser/jm/GrobidQuant/ GrobidQuant.wsgi:application --access-logfile /home/ituser/jm/GrobidQuant/access.log --error-logfile /home/ituser/jm/GrobidQuant/error.log &
+        
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
