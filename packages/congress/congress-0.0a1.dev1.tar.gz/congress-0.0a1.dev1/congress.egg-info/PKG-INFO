@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: congress
+Version: 0.0a1.dev1
+Summary: U.S. Congressional metadata (beta; more coming soon)
+Home-page: https://github.com/The-Politico/us-congress/
+Author: POLITICO Interactive News
+Author-email: interactives@politico.com
+License: MIT
+Download-URL: https://github.com/The-Politico/us-congress/archive/0.0a1.dev1.tar.gz
+Description: ![POLITICO](https://www.politico.com/interactives/cdn/images/badge.svg)
+        
+        # congress 🇺🇸
+        
+        A package for working with U.S. Congressional metadata. Like [python-us](https://github.com/unitedstates/python-us), but for bills, committee assignments and more!
+        
+        [![PyPI version](https://badge.fury.io/py/congress.svg)](https://badge.fury.io/py/congress)
+        
+        
+        ### Quickstart
+        
+        ```
+        $ pip install congress
+        ```
+        
+Platform: any
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Internet :: WWW/HTTP
+Description-Content-Type: text/markdown
+Provides-Extra: test
