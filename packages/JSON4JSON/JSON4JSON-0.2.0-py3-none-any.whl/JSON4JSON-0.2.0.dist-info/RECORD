@@ -1,0 +1,16 @@
+JSON4JSON/JSON4JSON.py,sha256=eA_Dr2BHDG9K2QeG_Txd4Ri4L127HlAxe7r4ADGuuj0,5034
+JSON4JSON/__init__.py,sha256=MOcwJJV9sav_Jj38WzPxNjNTRbN8ZCH2RVqktvy-PRk,160
+JSON4JSON/utils.py,sha256=swstHnlf0_knk_hRj0qTae7M3qmDHi8TaloC8sTbthU,524
+JSON4JSON/DataTypes/DefaultTypes.py,sha256=xDnt0b5l9kSLem7Ksfo6MBnDTRLN_vSE7Q1E0jYmI8k,289
+JSON4JSON/DataTypes/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+JSON4JSON/DataTypes/basics.py,sha256=6snMLJtqIZfF_Nltsee7XZt5U8WGzUj0-OghSJrjONg,2525
+JSON4JSON/DataTypes/dictType.py,sha256=G5uBW_qvECXnVkiS7I1HIGIqLHlyL0WkxDO9Oyx1bUg,1275
+JSON4JSON/DataTypes/units.py,sha256=OTUC71QPwC-yXUd_wy1UDz90O1JjDhT-hTt-fq5d1QE,2179
+JSON4JSON/VarTypes/DefaultVarTypes.py,sha256=nmin8VBEb_qpph2DsS0LEFOxhqUpcRWwxJwSysKdWdA,139
+JSON4JSON/VarTypes/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+JSON4JSON/VarTypes/basicVarTypes.py,sha256=x4fBejSZYTJO5Lwf-2KS_80OwrlkIVp4n1exp0SbvK0,840
+JSON4JSON-0.2.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+JSON4JSON-0.2.0.dist-info/METADATA,sha256=hNGGpf24bvIsfMzqFWpErwN68wZgeq94RNPhMKWo7fw,1881
+JSON4JSON-0.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+JSON4JSON-0.2.0.dist-info/top_level.txt,sha256=SGkLVBgTuREj2l9jF1EVaoQuvyKbOKjHAudpDLzvuU4,10
+JSON4JSON-0.2.0.dist-info/RECORD,,
