@@ -1,0 +1,13 @@
+basicMLpy/__init__.py,sha256=6C8iY-1eA3khiPmfYP1XUE56ZL_TXWzUlMGaCbQJ4Ww,753
+basicMLpy/classification.py,sha256=q8rkicVPA_oQsYreB4U3B8u--E6PPVQN8UXcUOQN2mk,8512
+basicMLpy/ensemble.py,sha256=AJBZLUFXoEF3MKkL4yaY0NbgO7NfIKmoNZYorgq5VLo,14485
+basicMLpy/loss_functions.py,sha256=gvpyYwwN8oRPLmLVH54vqiPlnzM3dD13Sey76IQLgXc,4197
+basicMLpy/model_selection.py,sha256=m1XhXXSh7Qx4aQWzJ_bGI2tLYNJs5WyRoWg4_gATvYs,4020
+basicMLpy/nearest_neighbors.py,sha256=VxVaDRowXDDR0ZEA8VHyzEuJoOT3WXRz5slDoohqB_g,4608
+basicMLpy/regression.py,sha256=BnRXcYcdCW5GIkiONjK7TXp7gbtcRQzhIDCNwZOg1fI,3437
+basicMLpy/utils.py,sha256=jVFWz0yRlQl97BpbwaLZtNtRSRIa3P4ujhvTMWtRge8,4911
+basicMLpy-1.0.3.dist-info/LICENSE.txt,sha256=kfUMCOiupQ_at3rZYqzJE-Wnq1OzTYCrizFEtsmxvWM,1096
+basicMLpy-1.0.3.dist-info/METADATA,sha256=0OsI9_1REg-dD7SHr1SPKcI3mIxD4EfQNIuXU6kb6Ik,2718
+basicMLpy-1.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+basicMLpy-1.0.3.dist-info/top_level.txt,sha256=OvfSh7zBhbgFrr_MhRA6DS9UePKUpeHoIvD1lUxyvuE,100
+basicMLpy-1.0.3.dist-info/RECORD,,
