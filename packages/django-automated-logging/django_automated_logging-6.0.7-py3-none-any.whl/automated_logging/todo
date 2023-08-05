@@ -1,0 +1,30 @@
+- [x] maxage using timedelta
+- [ ] add frontend
+    - [ ] add ability to view and filter
+    - [ ] add ability to restore
+- [ ] cov 100%
+- [x] rewrite core
+- [x] ignore and ignore_fields, ignore_operations for models as decorators and META fields
+- [x] new and renamed settings
+- [x] simplify model architecture
+- [x] How to handle Foreign, One2One and Many2Many?
+        -> relationships fields?
+- [x] rename models to proper names
+- [x] snapshot object via settings (when adding maybe as settings?)
+- [x] batch insertion
+
+- [ ] tests
+- [ ] __str__ and __repr__
+- [x] admin pages
+- [x] 5 to 6 conversion
+- [x] m2m post_clear
+- [x] unspecified handler
+- [x] m2m logging message
+- [x] modifications in logging message
+- [x] m2m handler (event creation)
+- [x] batching and max_age for handler
+- [x] include_view, include_model
+- [ ] decorators add snapshot=True, context=True
+
+- [ ] if we remove something from a m2m that was never there DAL does not recognize that it wasn't there in the first place
+- [ ] wiki
