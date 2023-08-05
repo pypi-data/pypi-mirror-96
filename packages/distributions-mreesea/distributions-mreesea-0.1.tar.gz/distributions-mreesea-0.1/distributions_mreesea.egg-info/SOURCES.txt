@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+distributions-mreesea/Binomialdistribution.py
+distributions-mreesea/Gaussiandistribution.py
+distributions-mreesea/Generaldistribution.py
+distributions-mreesea/__init__.py
+distributions_mreesea.egg-info/PKG-INFO
+distributions_mreesea.egg-info/SOURCES.txt
+distributions_mreesea.egg-info/dependency_links.txt
+distributions_mreesea.egg-info/not-zip-safe
+distributions_mreesea.egg-info/top_level.txt
