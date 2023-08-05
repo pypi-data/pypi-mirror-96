@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: PyBrainf-ck
+Version: 1.0.0
+Summary: A simple package which gives the brainfuck code for the passed Text.
+Home-page: https://github.com/code-reaper08/PyBrainf_ck
+Author: Vishwa.R
+Author-email: v.i.s.h.w.a.08.11.2001@gmail.com
+License: UNKNOWN
+Description:      
+             ___           ___                            ___               _     
+            (  _`\        (  _`\              _         /'___)             ( )    
+            | |_) ) _   _ | (_) ) _ __   _ _ (_)  ___  | (__           ___ | |/') 
+            | ,__/'( ) ( )|  _ <'( '__)/'_` )| |/' _ `\| ,__)        /'___)| , <  
+            | |    | (_) || (_) )| |  ( (_| || || ( ) || |          ( (___ | |\`\ 
+            (_)    `\__, |(____/'(_)  `\__,_)(_)(_) (_)(_)          `\____)(_) (_)
+                ( )_| |                                    ______              
+                `\___/'                                   (______)             
+        
+        
+        
+        
+        ## A simple package which gives the brainfuck code for the passed text.
+        
+        
+        ### Functions to use :
+                
+                1. PyBrainf_ck()     ----->     This is the only function available for now, and it takes a string argument.
+        
+        ### Usage :
+            
+        `PyBrainf-ck("Hello World !")` 
+        
+            this above function returns the brainfuck code for the text "Hello World !".
+        
+        ### note:
+            Quotes("") is compulsory as the argument is a STRING.
+        
+        
+        
+        
+        
+        
+        
+Keywords: BRAINFUCK
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
