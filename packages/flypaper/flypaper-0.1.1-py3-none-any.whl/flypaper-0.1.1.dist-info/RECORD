@@ -1,0 +1,10 @@
+flypaper/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flypaper/consent.py,sha256=VjzVXJbGIsubT8Yb06qqBcJyBXs7vOpFHx50joZlkzs,1427
+flypaper/report.py,sha256=JMX9i9S0eEts_N1xBoo-kvGBUOfdMu0ILlXRAN51ypQ,4856
+flypaper/system_information.py,sha256=CyvL2r94vB3wzmR245YZ3wNj7N9x5jHfUbeKmcRhVjc,975
+flypaper/test_consent.py,sha256=fx2nckriX8Hoxe4t_Kd9U3-oIx_GlJ7zqUZyrc_0--Y,4697
+flypaper/test_system_information.py,sha256=pNIJszgBRhKr5RZJRPaFXcFZ-eTz_on4re_57IgNlzc,265
+flypaper-0.1.1.dist-info/METADATA,sha256=3YsavylSK94C-yMSDWqMLvSl-2ULGNvOLLUBVYHetL8,903
+flypaper-0.1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+flypaper-0.1.1.dist-info/top_level.txt,sha256=8WhxqJr8GGOmk1CiqDBMZbl5oayEId6KjgKwXUp-GKs,9
+flypaper-0.1.1.dist-info/RECORD,,
