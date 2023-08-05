@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+convertbase/__init__.py
+convertbase/convertbase.py
+convertbase.egg-info/PKG-INFO
+convertbase.egg-info/SOURCES.txt
+convertbase.egg-info/dependency_links.txt
+convertbase.egg-info/top_level.txt
