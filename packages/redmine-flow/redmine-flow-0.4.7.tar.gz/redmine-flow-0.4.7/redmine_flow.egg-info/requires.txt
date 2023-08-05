@@ -1,0 +1,5 @@
+lxml
+six
+coloredlogs
+python-redmine
+pypandoc
