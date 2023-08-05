@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+astrochart_svg/__init__.py
+astrochart_svg/astrochart_svg.py
+astrochart_svg/chart_settings.py
+astrochart_svg/template.xml
+astrochart_svg.egg-info/PKG-INFO
+astrochart_svg.egg-info/SOURCES.txt
+astrochart_svg.egg-info/dependency_links.txt
+astrochart_svg.egg-info/requires.txt
+astrochart_svg.egg-info/top_level.txt
