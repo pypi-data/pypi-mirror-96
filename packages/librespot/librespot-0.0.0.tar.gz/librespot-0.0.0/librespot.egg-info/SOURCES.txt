@@ -1,0 +1,7 @@
+README.md
+setup.py
+librespot.egg-info/PKG-INFO
+librespot.egg-info/SOURCES.txt
+librespot.egg-info/dependency_links.txt
+librespot.egg-info/requires.txt
+librespot.egg-info/top_level.txt
