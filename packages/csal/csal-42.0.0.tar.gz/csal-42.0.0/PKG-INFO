@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: csal
+Version: 42.0.0
+Summary: csal namespace package
+Home-page: https://github.com/bbayles/csal
+Author: Bo Bayles
+Author-email: bo@bbayles.com
+License: Apache Software License 2.0
+Description: =====
+        csal
+        =====
+        
+        This is a placeholder for the ``csal`` package.
+        
+        
+        =====
+        csal
+        =====
+        
+        This is a placeholder for the ``csal`` package.
+        
+Keywords: csal
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.5
+Description-Content-Type: text/x-rst

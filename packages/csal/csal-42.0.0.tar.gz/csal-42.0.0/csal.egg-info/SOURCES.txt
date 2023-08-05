@@ -1,0 +1,10 @@
+README.rst
+setup.cfg
+setup.py
+csal/__init__.py
+csal/onlib.py
+csal.egg-info/PKG-INFO
+csal.egg-info/SOURCES.txt
+csal.egg-info/dependency_links.txt
+csal.egg-info/not-zip-safe
+csal.egg-info/top_level.txt
