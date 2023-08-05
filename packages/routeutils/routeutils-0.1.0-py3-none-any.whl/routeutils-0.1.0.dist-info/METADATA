@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: routeutils
+Version: 0.1.0
+Summary: A lib with geo route functions
+Home-page: UNKNOWN
+Author: Techlab Klabin
+Author-email: UNKNOWN
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: geopy (==2.1.0)
+Requires-Dist: numpy (==1.19.5)
+
+UNKNOWN
+
+
