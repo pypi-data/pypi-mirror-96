@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: stoicquote
+Version: 0.1.0
+Summary: UNKNOWN
+Home-page: https://github.com/neelabalan/stoicquote
+Author: neelabalan
+Author-email: neelabalan.n@gmail.com
+License: MIT
+Keywords: quotes
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Requires-Dist: rich
+
+UNKNOWN
+
+
