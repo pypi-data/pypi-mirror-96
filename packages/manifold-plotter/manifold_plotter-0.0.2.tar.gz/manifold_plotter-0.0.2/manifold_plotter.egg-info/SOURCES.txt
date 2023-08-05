@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+manifold_plotter/__init__.py
+manifold_plotter.egg-info/PKG-INFO
+manifold_plotter.egg-info/SOURCES.txt
+manifold_plotter.egg-info/dependency_links.txt
+manifold_plotter.egg-info/not-zip-safe
+manifold_plotter.egg-info/requires.txt
+manifold_plotter.egg-info/top_level.txt
