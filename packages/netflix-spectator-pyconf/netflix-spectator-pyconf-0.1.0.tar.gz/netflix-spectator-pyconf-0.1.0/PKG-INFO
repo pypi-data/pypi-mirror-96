@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: netflix-spectator-pyconf
+Version: 0.1.0
+Summary: Empty configuration package to occupy the namespace on PyPI.
+Home-page: https://github.com/Netflix/spectator-pyconf/
+Author: Netflix Observability Engineering
+Author-email: netflix-atlas@googlegroups.com
+License: Apache 2.0
+Description: ## Introduction
+        
+        This is an empty configuration package for the [Spectator Python] client, which enables sending
+        metrics to the Netflix internal Atlas clusters. This package is published to occupy the namespace
+        in the public PyPI repository.
+        
+        [Spectator Python]: https://github.com/Netflix/spectator-py
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown

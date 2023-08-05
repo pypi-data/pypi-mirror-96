@@ -1,0 +1,8 @@
+README.md
+setup.py
+netflix_spectator_pyconf.egg-info/PKG-INFO
+netflix_spectator_pyconf.egg-info/SOURCES.txt
+netflix_spectator_pyconf.egg-info/dependency_links.txt
+netflix_spectator_pyconf.egg-info/requires.txt
+netflix_spectator_pyconf.egg-info/top_level.txt
+spectatorconfig/__init__.py
