@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: blurry
+Version: 0.0.2
+Summary: Automatically blur faces in a photo for better privacy.
+Home-page: https://github.com/JohannesStutz/blurry/tree/master/
+Author: Johannes Stutz
+Author-email: johannesstutz@gmail.com
+License: Apache Software License 2.0
+Description: # Blurry
+        > A tool to increase privacy when sharing photos. It detects faces and blurs them.
+        
+        
+        Readme will follow as project makes progress.
+        
+        ## Install
+        
+        There is no install available at the moment. If you want to play around with the code, just download the Jupyter notebooks. Requirements: `opencv-python`, `PIL`.
+        
+        ## How to use
+        
+        At the moment Blurry can be used to blur faces in single photos.
+        
+        ```python
+        img = load_img('test_images/group_closer.jpg')
+        result = anonymize(img, factor=1.5, mode='pixelate')
+        show_cv2(result)
+        ```
+        
+        To play with live video from webcam, go to the 01_webcam.ipynb notebook.
+        
+        ## To Do
+        - Command line tool to process photos
+        - More options (pixelate/blur)
+        - Improve aesthetics
+        - A way to manually blur parts of the image
+        - Detect and blur text
+        
+Keywords: privacy,anonymization,photo editing
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
