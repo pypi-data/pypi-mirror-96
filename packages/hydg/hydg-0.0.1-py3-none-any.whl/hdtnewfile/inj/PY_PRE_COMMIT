@@ -1,0 +1,56 @@
+# coding=UTF-8
+# 扫描增量图片，进行压缩
+import os
+import sys
+
+MIN_REDUCE_R = 0.2
+PNGQUANT_EXT_END = '_new.png'
+
+# 返回 0 表示压缩成功
+def cmd_pngquant(png_path, ext_end = PNGQUANT_EXT_END):
+    # -f 覆盖已存在的文件
+    cmd = "{pngquant} --quality=80-99 -f --ext={0} --speed=3 {1}".format(
+        ext_end, png_path, pngquant='~/.pngq/pngquant')
+    return os.system(cmd)
+
+# 压缩、比对、替换
+def quant_and_check(origin_png):
+    result = cmd_pngquant(origin_png)
+    if result == 0:
+        # 转换成功
+        size_origin = os.path.getsize(origin_png)
+        new_png_path = os.path.splitext(origin_png)[0] + PNGQUANT_EXT_END
+        size_new = os.path.getsize(new_png_path)
+        if size_origin * ( 1 - MIN_REDUCE_R ) > size_new :
+            # 达到压缩阈值,删除原始文件，重命临时文件使其变为正式文件
+            os.remove(origin_png)
+            os.rename(new_png_path, origin_png)
+            #print('quant done:' + origin_png)
+        else:
+            # 未达阈值，删除临时文件
+            # print('quant pass:' + origin_png)
+            os.remove(new_png_path)
+    else:
+        pass
+
+
+png_arr=[]
+cmd = "git status | grep 'new file' | grep '\.png'"
+result = os.popen(cmd)
+
+for line in result:
+    if len(line) > 0:
+        #print("line:"+line) 不建议打印，否则 shell 拿到的内容是打印内容
+        png_arr.append(line.replace(' ',"").replace('\n',''))
+
+for png in png_arr:
+    temp_arr = png.split(':')
+    png_path = temp_arr[1]
+    unstage = 'git restore --staged '+png_path
+    os.system(unstage)
+    quant_and_check(png_path)
+    cmd = 'git add '+png_path
+    os.system(cmd)
+
+print(0)
+print("python pre-commit finish")

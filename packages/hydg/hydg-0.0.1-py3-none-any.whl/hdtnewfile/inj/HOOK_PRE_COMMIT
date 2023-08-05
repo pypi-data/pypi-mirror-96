@@ -1,0 +1,15 @@
+#!/bin/sh
+#prepypath=xxx inject by out
+
+ECHO 'hello, this is pre-commit'
+
+result=`python3 $prepypath`
+
+if [ "$result" = "0" ]
+then
+    echo "Yes"
+    exit 0
+else
+    echo "No"
+    exit 0
+fi
