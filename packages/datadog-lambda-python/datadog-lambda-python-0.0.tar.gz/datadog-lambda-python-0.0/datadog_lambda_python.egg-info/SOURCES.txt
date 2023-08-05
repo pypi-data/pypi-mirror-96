@@ -1,0 +1,8 @@
+README.md
+setup.py
+datadog_lambda_python.egg-info/PKG-INFO
+datadog_lambda_python.egg-info/SOURCES.txt
+datadog_lambda_python.egg-info/dependency_links.txt
+datadog_lambda_python.egg-info/not-zip-safe
+datadog_lambda_python.egg-info/requires.txt
+datadog_lambda_python.egg-info/top_level.txt

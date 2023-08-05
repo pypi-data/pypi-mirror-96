@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: datadog-lambda-python
+Version: 0.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Datadog
+License: MIT
+Description: # Warning
+        
+        This is a placeholder, you should use the [datadog-lambda](https://pypi.org/project/datadog-lambda/) package instead.
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
