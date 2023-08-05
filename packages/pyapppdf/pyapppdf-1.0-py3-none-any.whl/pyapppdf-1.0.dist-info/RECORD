@@ -1,0 +1,8 @@
+pyapppdf/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyapppdf/pdf2image.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyapppdf/pdf2text.py,sha256=AEmjR8jdzFUNQiiVC5gkf8iHS9u0fseNLm3odz6Jjuk,47
+pyapppdf-1.0.dist-info/LICENCE,sha256=N0P3pKtRMvfb64jmgJdlerg3TnS0a2QC776AzPsbZIg,35128
+pyapppdf-1.0.dist-info/METADATA,sha256=k1S6sgIKbfRcTJRRWhYS_nKbCz13MMeKpmlZNwYuwR8,193
+pyapppdf-1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pyapppdf-1.0.dist-info/top_level.txt,sha256=teIHyng58WUPkJNmfvDsuZBVnxAyDUPBhPnH3ZQ3xJ8,9
+pyapppdf-1.0.dist-info/RECORD,,
