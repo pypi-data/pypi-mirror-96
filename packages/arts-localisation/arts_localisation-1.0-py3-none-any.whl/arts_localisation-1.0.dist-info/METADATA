@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: arts-localisation
+Version: 1.0
+Summary: Localisation of ARTS transients
+Home-page: http://github.com/loostrum/arts_localisation
+Author: Leon Oostrum
+Author-email: l.oostrum@esciencecenter.nl
+License: Apache Software License 2.0
+Platform: UNKNOWN
+Requires-Dist: numpy
+Requires-Dist: astropy
+Requires-Dist: numba
+Requires-Dist: blimpy
+Requires-Dist: pyyaml
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: tqdm
+
+UNKNOWN
+
+
