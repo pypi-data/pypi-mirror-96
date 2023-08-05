@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+pytrends_httpx/__init__.py
+pytrends_httpx/dailydata.py
+pytrends_httpx/exceptions.py
+pytrends_httpx/request.py
+pytrends_httpx.egg-info/PKG-INFO
+pytrends_httpx.egg-info/SOURCES.txt
+pytrends_httpx.egg-info/dependency_links.txt
+pytrends_httpx.egg-info/requires.txt
+pytrends_httpx.egg-info/top_level.txt
