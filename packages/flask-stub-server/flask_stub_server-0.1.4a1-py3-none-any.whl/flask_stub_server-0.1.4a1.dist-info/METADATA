@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: flask-stub-server
+Version: 0.1.4a1
+Summary: This package provides the user with an easy to use endpoint generator, which that exposes endpoints that are defined through a config JSON file. Additionally, data files can be added and linked to return richer data.
+Home-page: https://github.com/starlord-daniel/flask-stub-server
+Author: Daniel Heinze
+Author-email: daniel.heinze@microsoft.com
+License: MIT
+Keywords: python stub server flask
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: Flask (>=1.1.2)
+
+# Simple Flask Stub Server
+
+[![Test package with tox](https://github.com/starlord-daniel/flask-stub-server/actions/workflows/ci-pr.yml/badge.svg?branch=main)](https://github.com/starlord-daniel/flask-stub-server/actions/workflows/ci-pr.yml)
+
+Provides the user with a Docker container, that exposes endpoints, which can be configured via json file.
+
+## Get Started with Flask
+
+[Documentation on the Flask website](https://flask.palletsprojects.com/en/1.1.x/installation/)
+
+## Configure your server
+
+The file `endpoints.json` is used to configure the server endpoints.
+To learn more about the format of the configuration file, please take a look at [Configuring the server endpoints](docs/configure-endpoints.md)
+
+Also, the [samples directory](samples/README.md) shows examples on how to configure and quickly use your own endpoint server.
+
+## Development
+
+This project uses a virtual environment for development.
+
+More information can be found on the [Flask installation website](https://flask.palletsprojects.com/en/1.1.x/installation/#virtual-environments).
+
+## Testing
+
+For testing, this project uses `tox`. The tox.ini configures 2 environments: lint and py39.
+
+To only run linting, use: `tox -e lint`
+To only run the tests with pytest, use: `tox -e py39`
+
+## Package
+
+View the package [flask-stub-server on pypi](https://test.pypi.org/project/flask-stub-server/0.1.1.dev1/)
+
+The package can be installed by running:
+
+```bash
+pip install --index-url https://test.pypi.org/simple/ flask-stub-server
+```
+
+To upgrade the package, use:
+
+```bash
+pip install --upgrade --index-url https://test.pypi.org/simple/ flask-stub-server
+```
+
+

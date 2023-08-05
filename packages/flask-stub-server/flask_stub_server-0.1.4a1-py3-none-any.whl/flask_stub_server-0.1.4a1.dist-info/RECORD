@@ -1,0 +1,15 @@
+flask_stub_server/__init__.py,sha256=gp7QOQUO4pZGcQucCA4D2VRue3M1JxsWSE3HUP6zUBI,59
+flask_stub_server/endpoint_gen/__init__.py,sha256=pkUAzeNBfOrrySfvXVz1xejO52ODphH8Y_DQpWZkAKU,179
+flask_stub_server/endpoint_gen/endpoint.py,sha256=wcUdJeix9rLvNvoee_Y-NZRhHpgBIvC3XZrC-C_d5Do,2575
+flask_stub_server/endpoint_gen/endpoint_config.py,sha256=a4oYY3mmPTbmj_y_a7NVasaSMBZMyiKF6zG__er6EOI,795
+flask_stub_server/endpoint_gen/utils.py,sha256=g8H32ucwKeKZX7A_Jbkss3pkAmajM2_3b4tHBk9lAow,207
+src/__init__.py,sha256=gp7QOQUO4pZGcQucCA4D2VRue3M1JxsWSE3HUP6zUBI,59
+src/endpoint_gen/__init__.py,sha256=pkUAzeNBfOrrySfvXVz1xejO52ODphH8Y_DQpWZkAKU,179
+src/endpoint_gen/endpoint.py,sha256=wcUdJeix9rLvNvoee_Y-NZRhHpgBIvC3XZrC-C_d5Do,2575
+src/endpoint_gen/endpoint_config.py,sha256=a4oYY3mmPTbmj_y_a7NVasaSMBZMyiKF6zG__er6EOI,795
+src/endpoint_gen/utils.py,sha256=g8H32ucwKeKZX7A_Jbkss3pkAmajM2_3b4tHBk9lAow,207
+flask_stub_server-0.1.4a1.dist-info/LICENSE,sha256=XU4WxvPG1q5s2NXF_yFqEFVfiWQ-6q7_bu21zQMI3tA,1091
+flask_stub_server-0.1.4a1.dist-info/METADATA,sha256=Q1raIvHakOp4lY3vI2DliuJJ1qMeLqkAzKo8cyKTHMk,2358
+flask_stub_server-0.1.4a1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+flask_stub_server-0.1.4a1.dist-info/top_level.txt,sha256=kSHG1iSlSZdT7E7IALK56es0mFuagnAJ_7uriraTKfM,49
+flask_stub_server-0.1.4a1.dist-info/RECORD,,
