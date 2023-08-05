@@ -1,0 +1,7 @@
+aiohttp
+escapism
+etcd3
+jupyterhub>=0.9
+passlib
+python-consul2
+toml
