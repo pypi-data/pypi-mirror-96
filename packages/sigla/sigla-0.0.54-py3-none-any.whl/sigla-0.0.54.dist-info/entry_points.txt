@@ -1,0 +1,3 @@
+[console_scripts]
+sigla=src.cli.cli:app
+
