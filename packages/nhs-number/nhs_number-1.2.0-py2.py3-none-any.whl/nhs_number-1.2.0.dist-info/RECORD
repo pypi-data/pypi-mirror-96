@@ -1,0 +1,9 @@
+nhs_number/__init__.py,sha256=VzK9gIjT9ibFn00rQxxCuZG5u33CYKMxDs39JvSlO1A,2214
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/context.py,sha256=eWiXwnzht4rEWVew8En-5_7biWj9_bovoBBjinTHVU8,123
+tests/test___init__.py,sha256=ZdUHI6D-7DE1fWPVxvV3G7B6vVfZJ1S6eAqGTDTOutA,3727
+nhs_number-1.2.0.dist-info/LICENSE,sha256=2LrGtrBX39iwX41xSKMlM-YPNc2UIP4MyeFINwDQd3Y,1097
+nhs_number-1.2.0.dist-info/METADATA,sha256=n5rBPdlZdM1PCeT2kT_YTWdvpNcsn5GZ5mYWiNGwfS4,2332
+nhs_number-1.2.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+nhs_number-1.2.0.dist-info/top_level.txt,sha256=LX544xjFqTUD4wslZOhlXffy3_Tl1ThtXDG-gcKqbaI,17
+nhs_number-1.2.0.dist-info/RECORD,,

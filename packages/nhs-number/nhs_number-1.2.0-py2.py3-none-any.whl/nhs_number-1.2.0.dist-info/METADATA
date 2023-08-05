@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: nhs-number
+Version: 1.2.0
+Summary: Python library for checking the validity of NHS Numbers
+Home-page: https://github.com/andylaw/NhsNumberChecks
+Author: Andy Law
+Author-email: andy.law@roslin.ed.ac.uk
+License: MIT
+Download-URL: https://github.com/andylaw/NhsNumberChecks/tarball/1.2.0
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Healthcare Industry
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+
+# NhsNumberChecks
+Package to provide utilities to check NHS Numbers for validity
+<table>
+    <tr>
+        <td>License</td>
+        <td><img src="https://img.shields.io/pypi/l/nhs-number" alt="Licence type badge"></td>
+        <td>Version</td>
+        <td><img src="https://img.shields.io/pypi/v/nhs-number" alt="Version badge"></td>
+    </tr>
+    <tr>
+        <td>Travis CI</td>
+        <td><img src='https://www.travis-ci.com/andylaw/NhsNumberChecks.svg?branch=main'></td>
+        <td>Coverage</td>
+        <td><img src='https://codecov.io/gh/andylaw/NhsNumberChecks/branch/main/graph/badge.svg'></td>
+    </tr>
+    <tr>
+        <td>Wheel</td>
+        <td><img src='https://img.shields.io/pypi/wheel/nhs-number'></td>
+        <td>Implementation</td>
+        <td><img src='https://img.shields.io/pypi/implementation/nhs-number'></td>
+    </tr>
+    <tr>
+        <td>Status</td>
+        <td><img src='https://img.shields.io/pypi/status/nhs-number'></td>
+        <td>Downloads</td>
+        <td><img src='https://img.shields.io/pypi/dm/nhs-number'></td>
+    </tr>
+    <tr>
+        <td>Supported versions</td>
+        <td><img src='https://img.shields.io/pypi/pyversions/nhs-number.svg'></td>
+    </tr>
+</table>
+
+
