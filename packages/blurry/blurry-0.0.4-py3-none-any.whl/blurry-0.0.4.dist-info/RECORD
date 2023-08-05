@@ -1,0 +1,12 @@
+blurry/__init__.py,sha256=1mptEzQihbdyqqzMgdns_j5ZGK9gz7hR2bsgA_TnjO4,22
+blurry/__main__.py,sha256=e7TB-Jp0JDdFf3KiAuzbpA7NHwf860SrcE-J2-GsrbA,512
+blurry/_nbdev.py,sha256=CIGPCKhmgQRQPc8rUjGpaNKkeqtoacqo5dDU39p9l1o,731
+blurry/core.py,sha256=RXoqxgmZmS782o5bjOj-Xsje-m0sgOduBToDcn2n0LE,2934
+blurry/haarcascade_frontalface_default.xml,sha256=D31FJ4ROtRTUpJSOgi2pD7sWo0oLu7xq3GSYdHpar7A,930127
+blurry/streamlit.py,sha256=xvqlAHYZEjh4HBYuE5DVPE0Q0nDxLl-3iCLBjY7Llng,755
+blurry-0.0.4.dist-info/LICENSE,sha256=HrhfyXIkWY2tGFK11kg7vPCqhgh5DcxleloqdhrpyMY,11558
+blurry-0.0.4.dist-info/METADATA,sha256=y0RRrj9eqIZbdJjLNgVCqVOqE6bleLkjr11i_SFvgxI,2421
+blurry-0.0.4.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+blurry-0.0.4.dist-info/entry_points.txt,sha256=eqGnTHtEVMYwfXVk1Z9MhC8O2N8wuqAbr0lisLmrkxs,20
+blurry-0.0.4.dist-info/top_level.txt,sha256=7lXqFsPCJHBLfd-r8jeiMqcsVbsHvt-pWuSlwExTmJ8,7
+blurry-0.0.4.dist-info/RECORD,,
