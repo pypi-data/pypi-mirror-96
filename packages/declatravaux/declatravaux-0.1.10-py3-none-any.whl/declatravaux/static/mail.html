@@ -1,0 +1,14 @@
+<html>
+    <head></head>
+    <body>
+    <p>Voici le récapitulatif de transmission de la déclaration :</p>
+    <p style="text-align: center; font-weight: bold;">{self.declaration.name}</p>
+
+
+
+        if unsent_emails:
+            html_part += f'<p style="text-align: center;">Attention : ' \
+                         f'les fichiers suivants n\'ont pas pu être transmis :</p>' \
+                         f'{html_table_unsent}'
+
+        html_part += f'</body></html>'
