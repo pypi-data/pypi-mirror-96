@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: git_dependency_installer
+Version: 1.0.0
+Summary: SDK that helps to manage dependencies directly from git repositories.
+Home-page: https://github.com/idenfy/GitDependencyInstaller.git
+Author: Deividas Tamkus
+Author-email: deividas@idenfy.com
+License: GNU GENERAL PUBLIC LICENSE Version 3
+Download-URL: https://github.com/idenfy/GitDependencyInstaller/archive/1.0.0.tar.gz
+Description: UNKNOWN
+Keywords: Git Python Dependency Manager
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 2
+Classifier: Operating System :: OS Independent
