@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "qmm"
+version = "0.1.1"
+description = "The Quadratic Majorize-Minimize toolbox"
+authors = ["François Orieux <orieux@l2s.centralesupelec.fr>"]
+readme = "README.rst"
+license = "GPLv3"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+numpy = "^1.19.4"
+
+[tool.poetry.dev-dependencies]
+ipython = "^7.19.0"
+jedi = "0.17.2"
+matplotlib = "^3.3.3"
+Sphinx = "^3.5.1"
+sphinx-rtd-theme = "^0.5.1"
+sphinx-autodoc-typehints = "^1.11.1"
+twine = "^3.3.0"
+rstcheck = "^3.3.1"
+readme-renderer = "^29.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
