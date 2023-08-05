@@ -1,0 +1,17 @@
+README.md
+setup.cfg
+setup.py
+tiledb/segy/__init__.py
+tiledb/segy/cli.py
+tiledb/segy/convert.py
+tiledb/segy/singledispatchmethod.py
+tiledb/segy/structured.py
+tiledb/segy/tdbwrapper.py
+tiledb/segy/types.py
+tiledb/segy/unstructured.py
+tiledb_segy.egg-info/PKG-INFO
+tiledb_segy.egg-info/SOURCES.txt
+tiledb_segy.egg-info/dependency_links.txt
+tiledb_segy.egg-info/entry_points.txt
+tiledb_segy.egg-info/requires.txt
+tiledb_segy.egg-info/top_level.txt
