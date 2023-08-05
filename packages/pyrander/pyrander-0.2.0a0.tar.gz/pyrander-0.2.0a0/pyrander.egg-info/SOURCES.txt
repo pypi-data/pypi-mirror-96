@@ -1,0 +1,12 @@
+MANIFEST.in
+README
+setup.cfg
+setup.py
+pyrander/__init__.py
+pyrander/core.py
+pyrander/version.py
+pyrander.egg-info/PKG-INFO
+pyrander.egg-info/SOURCES.txt
+pyrander.egg-info/dependency_links.txt
+pyrander.egg-info/requires.txt
+pyrander.egg-info/top_level.txt

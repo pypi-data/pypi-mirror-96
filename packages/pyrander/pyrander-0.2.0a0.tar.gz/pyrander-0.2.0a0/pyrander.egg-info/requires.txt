@@ -1,0 +1,6 @@
+
+[dev]
+twine
+
+[test]
+pyspark==2.1.2
