@@ -1,0 +1,15 @@
+README.md
+setup.py
+compphys/__init__.py
+compphys/cyclotron.py
+compphys/visual.py
+compphys.egg-info/PKG-INFO
+compphys.egg-info/SOURCES.txt
+compphys.egg-info/dependency_links.txt
+compphys.egg-info/not-zip-safe
+compphys.egg-info/requires.txt
+compphys.egg-info/top_level.txt
+compphys/tests/__init__.py
+compphys/tests/test_cyclotron.py
+scripts/__init__.py
+scripts/run.py
