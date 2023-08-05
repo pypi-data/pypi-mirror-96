@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pynautobot
+Version: 1.0.0a1
+Summary: Nautbot API client library
+Home-page: https://github.com/nautobot/pynautobot
+License: Apache-2.0
+Keywords: Nautobot
+Author: Network to Code, LLC
+Author-email: opensource@networktocode.com
+Requires-Python: >=3.6,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: requests (>=2.20.0,<3.0.0)
+Project-URL: Repository, https://github.com/nautobot/pynautobot
