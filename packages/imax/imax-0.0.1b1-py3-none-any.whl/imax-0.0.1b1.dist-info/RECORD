@@ -1,0 +1,10 @@
+imax/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+imax/color_transforms.py,sha256=gD919CCGKB54CDqM7Jv-sjdol7OR5C8hZ-p9BifY3DE,15937
+imax/project.py,sha256=sd6rebfT5ruOBHLXDc1mTpKRB5w2xCVzdOfBjs1Dd4Y,12543
+imax/randaugment.py,sha256=ymH6Tj-KaSk2GwrqY_PAMrqRPyMe3r-JOnDKPdCL5O8,12236
+imax/transforms.py,sha256=PZHdApHd3ETn_n0aB7QmqOMjH5FU5MDdXxGwI1JLOA0,7873
+imax-0.0.1b1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+imax-0.0.1b1.dist-info/METADATA,sha256=lwMhydpqyAqBimrAh4736U-XBqiLVk8elTvVNSycmFg,2752
+imax-0.0.1b1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+imax-0.0.1b1.dist-info/top_level.txt,sha256=MI_xZOaiy_kEp4By2dyhDPuGjjX8yLZLMnprvB-oanU,5
+imax-0.0.1b1.dist-info/RECORD,,
