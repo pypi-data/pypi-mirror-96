@@ -1,0 +1,14 @@
+lgplibdemo/__init__.py,sha256=ZpjgOAckh3MxbRdKVli9JIVR6sNLhJISaAq-j2WX0b8,35
+lgplibdemo/lgpdemo.py,sha256=U6x883quh_WB5lveCYvRoOI-WT06lIU8BG159Gd8m1I,351
+lgplibdemo/lgplib.py,sha256=jgWwe0eZyrD73oskpW0L4A3JON_bX7tZC2Zub6qCFcY,396
+twine2/__init__.py,sha256=Db8GlI_d0n3JMQA1L27FxCLTJe3eNXKZHy6a3OBD_2U,1646
+twine2/_installed.py,sha256=tSD8sWJ3BKngZd7ISW3yppETsSAoe5moBYzgB1UkaJU,2403
+twine2/cli.py,sha256=FMA3x_6O2GR9VJL7zWK4hUloAAqjmZxvELt9kUpxcz4,2505
+twine2/hello.py,sha256=ByeLLKmBk_nuFp2fpmGWFqMrGUxHEKkW5S22BhsNBP8,1047
+twine2/commands/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+twine2/commands/upload.py,sha256=2Fy4ckpw1GCP-zWMN27MEwUyoEVoogHLLfwbIn6CdB0,1452
+lyptest1-0.0.20.dist-info/METADATA,sha256=MhDzPvDOdLpl6fV6n0XHfLXhYjGc92_ecbSOJ67t9Vo,283
+lyptest1-0.0.20.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+lyptest1-0.0.20.dist-info/entry_points.txt,sha256=LaVvg8ApYFxowCVrL9TWZ7-_XVok9Yp7tM_iW9vS750,113
+lyptest1-0.0.20.dist-info/top_level.txt,sha256=RMNaoywdGdYgkn7xkSSSIea0OpcPCbnm9Sq1BqyFK54,18
+lyptest1-0.0.20.dist-info/RECORD,,
