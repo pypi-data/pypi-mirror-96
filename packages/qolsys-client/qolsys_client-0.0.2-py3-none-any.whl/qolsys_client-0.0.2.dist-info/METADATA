@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: qolsys-client
+Version: 0.0.2
+Summary: A client for Qolsys alarm panels
+Home-page: https://github.com/mzac/qolsys_client
+Author: Zachary McGibbon
+Author-email: zachary.mcgibbon@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/mzac/qolsys_client/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# qolsys_client
+
+Python package to talk to Qolsys Alarm Panels
+
+This package was inspired by a conversation on the Home Assistant forum:
+
+<https://community.home-assistant.io/t/qolsys-iq-panel-2-and-3rd-party-integration/231405>
+
+
