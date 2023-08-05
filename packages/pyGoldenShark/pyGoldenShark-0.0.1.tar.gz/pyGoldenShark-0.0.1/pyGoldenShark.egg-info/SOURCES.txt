@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+gs/__init__.py
+pyGoldenShark.egg-info/PKG-INFO
+pyGoldenShark.egg-info/SOURCES.txt
+pyGoldenShark.egg-info/dependency_links.txt
+pyGoldenShark.egg-info/top_level.txt
