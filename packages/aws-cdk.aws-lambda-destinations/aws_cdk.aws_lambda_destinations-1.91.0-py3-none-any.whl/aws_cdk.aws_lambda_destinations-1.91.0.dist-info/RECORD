@@ -1,0 +1,8 @@
+aws_cdk/aws_lambda_destinations/__init__.py,sha256=XzHzo1t0uwXpbdzFPGVDjha9egOL_PgG1xS0vBitQWs,12359
+aws_cdk/aws_lambda_destinations/py.typed,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+aws_cdk/aws_lambda_destinations/_jsii/__init__.py,sha256=YvjuCBwa1ETFdoCCHVFW9476M6E4fW5JxDZ3_UfjE8I,570
+aws_cdk/aws_lambda_destinations/_jsii/aws-lambda-destinations@1.91.0.jsii.tgz,sha256=NrRSKL94Y1Y4Lj0J2oLdsNd2orr5HvneZwp29ytLNaY,18241
+aws_cdk.aws_lambda_destinations-1.91.0.dist-info/METADATA,sha256=oiYEIEfRlT3NIm5hk65B3iG5GVySFGhCyG9OMiMB8bo,6062
+aws_cdk.aws_lambda_destinations-1.91.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+aws_cdk.aws_lambda_destinations-1.91.0.dist-info/top_level.txt,sha256=1TALAKbuUGsMSrfKWEf268lySCmcqSEO6cDYe_XlLHM,8
+aws_cdk.aws_lambda_destinations-1.91.0.dist-info/RECORD,,
