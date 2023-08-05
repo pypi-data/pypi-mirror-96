@@ -1,0 +1,8 @@
+cloudcomponents/cdk_pull_request_approval_rule/__init__.py,sha256=Aqvw3fhDC0w4cUdyYwDKBLr-4IM3tyn3etVmLXifYIM,17344
+cloudcomponents/cdk_pull_request_approval_rule/py.typed,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+cloudcomponents/cdk_pull_request_approval_rule/_jsii/__init__.py,sha256=_eh-9v8y1fCKgFl9yU_Jw3qSt8xA6gggWJDupZ9iIoc,498
+cloudcomponents/cdk_pull_request_approval_rule/_jsii/cdk-pull-request-approval-rule@1.26.0.jsii.tgz,sha256=I2FGF5k9VqC8LRDJfFFmyNHStswtRG6nMxJ_UJFRmsQ,37815
+cloudcomponents.cdk_pull_request_approval_rule-1.26.0.dist-info/METADATA,sha256=t9ofxA0BEclXNrUyATer6Ff_ZY173Mg10rJsqG4780Y,6162
+cloudcomponents.cdk_pull_request_approval_rule-1.26.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+cloudcomponents.cdk_pull_request_approval_rule-1.26.0.dist-info/top_level.txt,sha256=B4EWas985OPzDPLZgw2jcOsscXpuQJyowJnB5pl9rpQ,16
+cloudcomponents.cdk_pull_request_approval_rule-1.26.0.dist-info/RECORD,,
