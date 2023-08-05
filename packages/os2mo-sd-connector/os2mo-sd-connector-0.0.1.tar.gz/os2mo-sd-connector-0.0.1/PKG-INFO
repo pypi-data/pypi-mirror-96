@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: os2mo-sd-connector
+Version: 0.0.1
+Summary: Connector library for SDLon webservices
+Home-page: https://git.magenta.dk/rammearkitektur/os2mo-data-import-and-export
+Author: Magenta ApS
+Author-email: info@magenta.dk
+License: MPL 2.0
+Description: # SDConnector
+        
+        Connector library for SDLon webservices
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
