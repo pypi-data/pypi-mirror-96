@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pyrander
+Version: 0.2.0a0
+Summary: A random test lib
+Home-page: https://github.com/piotrszul/pyrander
+Author: Piotr Szul
+Author-email: piotr.szul@csiro.au
+License: MIT
+Keywords: testing,logging,example
+Platform: UNKNOWN
+Provides-Extra: dev
+Requires-Dist: twine ; extra == 'dev'
+Provides-Extra: test
+Requires-Dist: pyspark (==2.1.2) ; extra == 'test'
+
+UNKNOWN
+
+
