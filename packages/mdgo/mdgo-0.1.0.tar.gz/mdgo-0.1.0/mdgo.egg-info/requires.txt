@@ -1,0 +1,14 @@
+numpy>=1.16.0
+pandas
+matplotlib
+scipy
+tqdm
+pymatgen
+statsmodels
+pubchempy
+MDAnalysis
+selenium
+
+[web]
+sphinx
+sphinx_rtd_theme
