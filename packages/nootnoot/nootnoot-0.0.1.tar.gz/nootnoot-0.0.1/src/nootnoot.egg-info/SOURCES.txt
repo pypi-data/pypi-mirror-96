@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/nootnoot.py
+src/nootnoot.egg-info/PKG-INFO
+src/nootnoot.egg-info/SOURCES.txt
+src/nootnoot.egg-info/dependency_links.txt
+src/nootnoot.egg-info/top_level.txt

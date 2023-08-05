@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: nootnoot
+Version: 0.0.1
+Summary: Noot Noot!
+Home-page: UNKNOWN
+Author: Michael Kim
+Author-email: kim.michael95@gmail.com
+License: UNKNOWN
+Description: ## Noot Noot
+        
+        This is an example project to demonstrate how to publish a python module to PyPI
+        
+        ## Usage
+        
+        ```python
+        from nootnoot import noot_noot
+        
+        # NootNoot!
+        noot_noot()
+        ```
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
