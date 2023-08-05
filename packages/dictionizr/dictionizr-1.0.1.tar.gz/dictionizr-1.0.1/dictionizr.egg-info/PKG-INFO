@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: dictionizr
+Version: 1.0.1
+Summary: A small package to convert custom python objects to dictionaries and back again
+Home-page: https://github.com/joeriddles/dictionizr
+Author: Joseph Riddle
+Author-email: joeriddles10@gmail.com
+License: UNKNOWN
+Description: # Dictionizr
+        
+        This project was created because I kept creating the methods `to_dict()` and `from_dict()` on many of my python classes and I knew there must be a way to adhere to the DRY principal.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
