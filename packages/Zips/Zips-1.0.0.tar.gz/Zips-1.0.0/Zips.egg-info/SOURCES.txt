@@ -1,0 +1,9 @@
+README.md
+setup.py
+Zips/Zips.py
+Zips/__init__.py
+Zips/__main__.py
+Zips.egg-info/PKG-INFO
+Zips.egg-info/SOURCES.txt
+Zips.egg-info/dependency_links.txt
+Zips.egg-info/top_level.txt
