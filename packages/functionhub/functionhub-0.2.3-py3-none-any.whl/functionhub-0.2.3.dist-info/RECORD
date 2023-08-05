@@ -1,0 +1,11 @@
+functionhub/__init__.py,sha256=dF0RoLYwfBlzxcdM6yRdoA1CDJut6kTl83F5UXWCNX4,42
+functionhub/config.ini,sha256=iqkx94Piw04shFqlGRpnnCKL9NLeQvJKK8Ii5ZEMyVM,117
+functionhub/main.py,sha256=yw4gFBWqtpXEiq2CejMlDLvlRJmUdG16tSH2M5hJ0Ks,4988
+test/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+test/test_main.py,sha256=58fjg9ngFchXmtD6qHsEsRTYiaItiqLik7ECj79aE7Y,1181
+functionhub-0.2.3.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+functionhub-0.2.3.dist-info/METADATA,sha256=TkODex1Q55PpZvzvQNLicjQWOwYuV8rCYOLrsnFdcLw,3604
+functionhub-0.2.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+functionhub-0.2.3.dist-info/entry_points.txt,sha256=VbuC6qY5b5cfVN_DTC-OZGmnXCEpAxGDftgTUTFgNCA,68
+functionhub-0.2.3.dist-info/top_level.txt,sha256=wElt2wGQeibHNG5xmiej2VqEwwe9YdN88vMFhsGOcsM,17
+functionhub-0.2.3.dist-info/RECORD,,
