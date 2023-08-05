@@ -1,0 +1,56 @@
+Metadata-Version: 1.1
+Name: HAL-9000
+Version: 4.0.0
+Summary: A Deep Learning framework
+Home-page: UNKNOWN
+Author: Harin Kumar
+Author-email: Harinkumar851@gmail.com
+License: MIT
+Description: HAL_9000 may not be the best deep learning framework, but it is a deep learning framework.
+        
+        To install the library:
+        
+            pip install HAL-9000
+        
+        Workflow of this framework is inspired by Tensorflowâ€™s Keras.
+        
+        As of now, HAL_9000 offers:
+        
+        7 different variants of NNs:
+        
+            -> Perceptron
+            -> Multilayer Perceptron
+            -> Dense Net
+            -> Conv Net
+            -> Vanilla RNN
+            -> LSTM
+            -> DQN
+        
+        Several regularization methods:
+        
+            -> Batch Norm
+            -> Layer Norm
+            -> Dropout
+        
+        Optimizers:
+        
+            -> Adam
+            -> RMS prop
+            -> SGD
+            
+        for more info and examples, visit: https://github.com/kumar-harin/HAL_9000
+        
+        Change Log
+        ==========
+        
+        4.0.0 (23/02/2021)
+        -------------------
+        - Fourth Release
+        
+Keywords: neuralnetworks
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
