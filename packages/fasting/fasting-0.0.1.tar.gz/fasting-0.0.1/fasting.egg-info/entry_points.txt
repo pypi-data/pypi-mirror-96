@@ -1,0 +1,3 @@
+[console_scripts]
+fasting = fasting.cli:main
+
