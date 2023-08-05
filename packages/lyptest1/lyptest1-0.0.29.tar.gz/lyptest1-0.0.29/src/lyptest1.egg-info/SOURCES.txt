@@ -1,0 +1,16 @@
+setup.py
+src/lgplibdemo/__init__.py
+src/lgplibdemo/lgpdemo.py
+src/lgplibdemo/lgplib.py
+src/lyptest1.egg-info/PKG-INFO
+src/lyptest1.egg-info/SOURCES.txt
+src/lyptest1.egg-info/dependency_links.txt
+src/lyptest1.egg-info/entry_points.txt
+src/lyptest1.egg-info/top_level.txt
+src/twine2/__init__.py
+src/twine2/__main__.py
+src/twine2/_installed.py
+src/twine2/cli.py
+src/twine2/hello.py
+src/twine2/commands/__init__.py
+src/twine2/commands/upload.py
