@@ -1,0 +1,4 @@
+[console_scripts]
+imgur2pdf=imgur2pdf:main
+upload2remarkable=upload2remarkable:main
+
