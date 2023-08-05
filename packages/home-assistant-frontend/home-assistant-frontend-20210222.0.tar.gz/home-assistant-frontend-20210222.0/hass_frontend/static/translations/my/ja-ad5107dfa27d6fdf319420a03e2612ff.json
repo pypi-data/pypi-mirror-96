@@ -1,0 +1,1 @@
+{"ui.panel.my.not_supported":"このリダイレクトは、HomeAssistantインスタンスではサポートされていません。サポートされているリダイレクトとそれらが導入されたバージョンについては、 {link}を確認してください。","ui.panel.my.component_not_loaded":"This redirect is not supported by your Home Assistant instance. You need the integration {integration} to use this redirect.","ui.panel.my.faq_link":"マイホームアシスタントFAQ","ui.panel.my.error":"不明なエラーが発生しました"}
