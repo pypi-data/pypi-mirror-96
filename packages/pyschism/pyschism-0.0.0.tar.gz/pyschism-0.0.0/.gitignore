@@ -1,0 +1,6 @@
+examples/example_1/staging
+build/
+dist/
+*.egg*
+__pycache__
+
