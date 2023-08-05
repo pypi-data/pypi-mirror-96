@@ -1,0 +1,11 @@
+setuptools>=41
+
+[docs]
+sphinx>=3.4.3
+sphinx_rtd_theme
+
+[tests]
+sphinx>=3.4.3
+sphinx_rtd_theme
+pytest
+pytest-cov
