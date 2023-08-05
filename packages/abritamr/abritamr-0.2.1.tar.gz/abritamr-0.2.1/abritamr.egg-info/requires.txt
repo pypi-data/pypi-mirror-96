@@ -1,0 +1,6 @@
+snakemake
+pandas
+click
+jinja2
+toml
+xlsxwriter
