@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: ti-threatbook-api
+Version: 0.0.1
+Summary: The unofficial Python library for ThreatBook
+Home-page: https://github.com/yege0201/ti-threatbook-api
+Author: yege0201
+Author-email: yege0201@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+ti-threatbook: The unofficial Python library for ThreatBook
+===========================================================
+
+
