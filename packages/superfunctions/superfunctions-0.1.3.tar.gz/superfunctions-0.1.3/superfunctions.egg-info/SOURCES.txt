@@ -1,0 +1,7 @@
+setup.py
+superfunctions/__init__.py
+superfunctions.egg-info/PKG-INFO
+superfunctions.egg-info/SOURCES.txt
+superfunctions.egg-info/dependency_links.txt
+superfunctions.egg-info/requires.txt
+superfunctions.egg-info/top_level.txt
