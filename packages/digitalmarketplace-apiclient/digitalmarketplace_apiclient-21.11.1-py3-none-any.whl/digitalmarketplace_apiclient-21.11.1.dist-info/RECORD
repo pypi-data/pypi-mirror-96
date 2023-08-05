@@ -1,0 +1,13 @@
+dmapiclient/__init__.py,sha256=Oy25-h07VlTkZXhydoyROj7Xmv01NPvWgy6lW02vhBo,302
+dmapiclient/antivirus.py,sha256=CPdhJswnNGRs-pxKKBUEA-J0rKqm0Df0nW4r-ODqbB0,555
+dmapiclient/audit.py,sha256=YuuQWLTWcyKSyCrnIwL-e7wrF8xPDz1ETPBvXU6bC9k,3376
+dmapiclient/base.py,sha256=QAJV9mSIpinZ4HHDbAd8AZxIGmioMQ5cl5ExQDWPLmY,12946
+dmapiclient/data.py,sha256=DlrG0KprHTY2_ZsHSSEFVdaxD4MR_A5MFJ94myMEN9E,42966
+dmapiclient/errors.py,sha256=X9cENsTktwvqw53q-ioQa5qnAX7lAo-mKXtN4QtT0n4,1019
+dmapiclient/exceptions.py,sha256=sy55ZDBwkcmzTaGcHekFviiEjq8a0EmwDw5aWxe3VA8,140
+dmapiclient/search.py,sha256=f7V3FF7rF3JKMd2-hPtWO6nmfBgNlrnEdBh8gwNJFiI,5765
+digitalmarketplace_apiclient-21.11.1.dist-info/LICENCE,sha256=GbPuM26UomDfs5sMy6udIVXYC8grPSN7bSkO29-F5hI,1110
+digitalmarketplace_apiclient-21.11.1.dist-info/METADATA,sha256=tDoHkFN9YEbZOv8qviWarvnW_1kJLDk7mDpq8RdNfT8,379
+digitalmarketplace_apiclient-21.11.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+digitalmarketplace_apiclient-21.11.1.dist-info/top_level.txt,sha256=4dBZ-m8Xijinc7rU26Vt0010c_4v-3OVBxyrpgHmr7o,12
+digitalmarketplace_apiclient-21.11.1.dist-info/RECORD,,
