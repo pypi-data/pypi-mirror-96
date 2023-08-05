@@ -1,0 +1,8 @@
+pillar_queue/__init__.py,sha256=uZZ7VnDwXQEWzkyqxdd5ClzMqpBMRsvd3MoelDbU5Cw,128
+pillar_queue/client.py,sha256=8ENmCIfRGu6psHmHyaM5buyZ56Tax3-rtxlOl2PU9_g,9148
+pillar_queue/test_client.py,sha256=XHluXCYbVWnM4dzAF4YMMHeWnQtmah0IUSUaz9np2SY,3103
+pillar_queue_wrapper-0.0.1.dist-info/LICENSE,sha256=tOrGRzqjMGM0ZguPblsJJtz5eMnoo1g7muNX7Ip9k0M,1102
+pillar_queue_wrapper-0.0.1.dist-info/METADATA,sha256=LKX_Jq1t1Ra1odVMZIJb-JeijrsaAOtxVGoEIwFv09I,2208
+pillar_queue_wrapper-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pillar_queue_wrapper-0.0.1.dist-info/top_level.txt,sha256=iqQor7jUenHZ77Zs8ia2BMI1OJoKH8YR6XLq0uja6bU,13
+pillar_queue_wrapper-0.0.1.dist-info/RECORD,,
