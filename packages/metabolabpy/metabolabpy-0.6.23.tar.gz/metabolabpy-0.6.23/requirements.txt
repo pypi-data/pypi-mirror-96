@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+openpyxl
+pyside2
+pyautogui
+qtmodern
+jupyter
+multiprocess
+jupyterthemes
