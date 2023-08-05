@@ -1,0 +1,10 @@
+LICENSE.txt
+setup.cfg
+setup.py
+pydantic_cloud/__init__.py
+pydantic_cloud/gcp.py
+pydantic_cloud_settings.egg-info/PKG-INFO
+pydantic_cloud_settings.egg-info/SOURCES.txt
+pydantic_cloud_settings.egg-info/dependency_links.txt
+pydantic_cloud_settings.egg-info/requires.txt
+pydantic_cloud_settings.egg-info/top_level.txt
