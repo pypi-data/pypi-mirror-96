@@ -1,0 +1,15 @@
+LICENSE.md
+MANIFEST.in
+README.md
+setup.py
+meppel_afvalkalender/__init__.py
+meppel_afvalkalender/__version__.py
+meppel_afvalkalender/const.py
+meppel_afvalkalender/exceptions.py
+meppel_afvalkalender/meppel_afvalkalender.py
+meppel_afvalkalender.egg-info/PKG-INFO
+meppel_afvalkalender.egg-info/SOURCES.txt
+meppel_afvalkalender.egg-info/dependency_links.txt
+meppel_afvalkalender.egg-info/not-zip-safe
+meppel_afvalkalender.egg-info/requires.txt
+meppel_afvalkalender.egg-info/top_level.txt
