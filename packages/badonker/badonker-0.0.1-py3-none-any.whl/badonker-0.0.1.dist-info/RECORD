@@ -1,0 +1,10 @@
+badonker/__init__.py,sha256=ynQPL_LqPHjNK3HlbOzDfMLeQCC6zXjj3M8nMRSGTu8,107
+badonker/badonker.py,sha256=U20-mgwPPZtdZtd0JFQfn4BLvEswDz3GSaOyE0cvgpQ,3764
+badonker/dict.py,sha256=akTHdxtHNXO2rKNk1fEfrPn35u1uNl0Ww-bYOzZOHsE,158
+badonker/errors.py,sha256=iuCnGNp8kFJ3euJDcWxkQFN9EuHOEURznzCklI8jiyg,382
+badonker/http.py,sha256=lsonFqZgr_PwCRFwD4tvTzIzqdc-cb5H4stpZ7d0I6k,1047
+badonker-0.0.1.dist-info/LICENSE,sha256=v39R3SmWFHwV-N7QH0fnh3IrO0O1wK6Gw0EyP-F9gsc,1060
+badonker-0.0.1.dist-info/METADATA,sha256=RuS79Xfw5960kk_UPNQEdrrp0irNPyPR01jG-Lt8TRw,4229
+badonker-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+badonker-0.0.1.dist-info/top_level.txt,sha256=as0ikgLp8av3v--xOlBLbHJyV2SFurxaRcCeKDlMYNU,9
+badonker-0.0.1.dist-info/RECORD,,
