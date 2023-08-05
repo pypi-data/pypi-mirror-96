@@ -1,0 +1,11 @@
+README.md
+setup.py
+temperature2mqtt/__init__.py
+temperature2mqtt/__main__.py
+temperature2mqtt/temperature2mqtt.py
+temperature2mqtt/temperatureReader.py
+temperature2mqtt.egg-info/PKG-INFO
+temperature2mqtt.egg-info/SOURCES.txt
+temperature2mqtt.egg-info/dependency_links.txt
+temperature2mqtt.egg-info/requires.txt
+temperature2mqtt.egg-info/top_level.txt

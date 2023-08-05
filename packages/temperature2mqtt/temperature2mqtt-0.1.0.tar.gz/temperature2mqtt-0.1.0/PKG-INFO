@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: temperature2mqtt
+Version: 0.1.0
+Summary: Read DHT22 sensor from RPI and publish to mqtt..
+Home-page: https://github.com/JonasPed/temperature2mqtt
+Author: Jonas Pedersen
+Author-email: jonas@pedersen.ninja
+License: Apache 2.0
+Description: # temperature2mqtt
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
