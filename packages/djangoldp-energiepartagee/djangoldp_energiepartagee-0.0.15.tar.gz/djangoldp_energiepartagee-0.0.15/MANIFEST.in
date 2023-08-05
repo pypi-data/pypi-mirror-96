@@ -1,0 +1,2 @@
+recursive-include djangoldp_energiepartagee/templates *
+include README.md
