@@ -1,0 +1,5 @@
+setup.py
+nec_sol.egg-info/PKG-INFO
+nec_sol.egg-info/SOURCES.txt
+nec_sol.egg-info/dependency_links.txt
+nec_sol.egg-info/top_level.txt
