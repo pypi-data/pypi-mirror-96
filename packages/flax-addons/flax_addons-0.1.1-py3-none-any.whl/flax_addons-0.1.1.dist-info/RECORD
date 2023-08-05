@@ -1,0 +1,13 @@
+flax_addons/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flax_addons/layers/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flax_addons/layers/transformers.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flax_addons/preprocessing/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flax_addons/preprocessing/mel_generator.py,sha256=ZWcMOI4R3dOkNH7RKHrkoCPLSOUetrj5d8K5uh47_Kc,5383
+flax_addons/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flax_addons/utils/audio.py,sha256=JdvXjNns7XktY4p0N3SpQvqQ6zIQnVXJyBRg2XQIppM,12280
+flax_addons/utils/cuda/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flax_addons/utils/cuda/irfft.py,sha256=ZVN3k_kKl_sFp6NI4l98i7yzYXFYb31sKRCbrVznOAI,831
+flax_addons-0.1.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+flax_addons-0.1.1.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+flax_addons-0.1.1.dist-info/METADATA,sha256=bTuAPjMF4gyIJuNoM2hTVP4khPWkPqo_pbxYEMh3KUE,647
+flax_addons-0.1.1.dist-info/RECORD,,
