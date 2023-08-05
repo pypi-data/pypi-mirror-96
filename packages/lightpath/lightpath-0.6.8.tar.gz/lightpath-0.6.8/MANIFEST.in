@@ -1,0 +1,3 @@
+include versioneer.py
+include lightpath/ui/*.ui
+include LICENSE.md
