@@ -1,0 +1,11 @@
+daccuracy.py,sha256=n9afxiACm182Iu_GnrReEjt7alIJfFF3-S-txxus9ZI,5303
+brick/arguments.py,sha256=gyCxac4UZAVzNKv6VJ4kQnJ5V0M4E9ZCGSktUloUrS0,7568
+brick/csv_gt.py,sha256=QDOtRQSBtsGLsKHcYjKwdrdhu1EX_0ECDsKJCUVU3f4,2959
+brick/input.py,sha256=f0lSWCY89UV-5o8hO75jEAlLurPTKwFJBC7s6Prs6KY,6325
+brick/measures.py,sha256=UZEIv2xOrDs0g-rmWAJzTRLEv-dAnZCaRoVo8MluWU8,8405
+brick/output.py,sha256=jGUVZwoWv1en09NDL9mxUHq5EvMa0TyqWxK97FSLCHY,2850
+daccuracy-2021.3.dist-info/METADATA,sha256=IK58KP-zP3ithRR_eqlDBhWD_CWGYyc2DveIF08OJKY,4873
+daccuracy-2021.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+daccuracy-2021.3.dist-info/entry_points.txt,sha256=jmXSj13LNGui9JeVNSnz71HoE_3LDmrVgqsIHDLzoQg,46
+daccuracy-2021.3.dist-info/top_level.txt,sha256=4rtB5YWBYDvk1srae_mChdMvdgkjx8rAO3oVBkzst5Y,16
+daccuracy-2021.3.dist-info/RECORD,,
