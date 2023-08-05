@@ -1,0 +1,4 @@
+[console_scripts]
+pyscandl = pyscandl.main:main
+pyscandl-qt = pyscandl.main:main_gui
+
