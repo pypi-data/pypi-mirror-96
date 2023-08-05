@@ -1,0 +1,16 @@
+kraken_html/html_backup.py,sha256=jWpQm7r_IExV3c8MfXTQP4YCve5-hswB0OOPRWOuy38,17126
+kraken_html/html_bootstrap.py,sha256=R0xH7tox5mL3CEPB5AnGBBfYP7wqda4Mcnbxm2iUq-c,1603
+kraken_html/html_card.py,sha256=xOUTObAkIOrU6ZfYuFxQvW3PHnVOyNCtHxRh9jc59VY,2749
+kraken_html/html_field.py,sha256=WgHvdfW1vW5GhFroP_lBvNVG1uzDJwNRgGS_Mg98pKc,3134
+kraken_html/html_form.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kraken_html/html_navbar.py,sha256=L3IWFUiQ0AcqF45fhLX5Venpw_x233usvBz7jM6uXlQ,1587
+kraken_html/html_record.py,sha256=FFuMD7G5NEpGTrPsNsP2anGKdZkHLPWaM2aQJSmW1zM,3492
+kraken_html/html_section.py,sha256=gSkC4ugKZM7M8WE0wi6l-l3AFOfAuN78LDQViofRdWw,1082
+kraken_html/html_table.py,sha256=-5rYb27ASkay0H2-dbT4O1xTgQ8XQotw_dyuRnpHAQE,2500
+kraken_html/kraken_html.py,sha256=_HpJC6QMR_aRmvDBCweBi2iDoODP1BpgfklHSnL89k8,2584
+kraken_html/records.py,sha256=Kx5sFMIoAQa6Aq_E8ooA4OrvhL0XwFPnEVtVCUyePIM,928
+kraken_html-0.0.12.dist-info/LICENSE.txt,sha256=S1pJL407BwTTXzZK0BQPNM7ZZs57uj1pTSfVZ8Whx30,1061
+kraken_html-0.0.12.dist-info/METADATA,sha256=zPcX6w0g5lc27sfpN7KY9RM67f2l52eP2HEOpQAIL4c,412
+kraken_html-0.0.12.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+kraken_html-0.0.12.dist-info/top_level.txt,sha256=XGi2WG8C3HOSd9JdV3GBR8WMokSqE4Nj2-2udc-tQqY,12
+kraken_html-0.0.12.dist-info/RECORD,,
