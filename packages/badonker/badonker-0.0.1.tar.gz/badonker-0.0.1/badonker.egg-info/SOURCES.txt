@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+badonker/__init__.py
+badonker/badonker.py
+badonker/dict.py
+badonker/errors.py
+badonker/http.py
+badonker.egg-info/PKG-INFO
+badonker.egg-info/SOURCES.txt
+badonker.egg-info/dependency_links.txt
+badonker.egg-info/requires.txt
+badonker.egg-info/top_level.txt
