@@ -1,0 +1,8 @@
+
+[dev]
+black
+mypy
+wheel
+
+[distribute]
+twine

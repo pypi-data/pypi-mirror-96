@@ -1,0 +1,8 @@
+README.md
+setup.py
+flypaper/__init__.py
+flypaper.egg-info/PKG-INFO
+flypaper.egg-info/SOURCES.txt
+flypaper.egg-info/dependency_links.txt
+flypaper.egg-info/requires.txt
+flypaper.egg-info/top_level.txt
