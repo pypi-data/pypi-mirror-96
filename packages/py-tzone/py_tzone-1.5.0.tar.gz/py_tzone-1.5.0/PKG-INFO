@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: py_tzone
+Version: 1.5.0
+Summary: Python Package to get all the information about a Time Zone
+Home-page: https://github.com/prkhrv/py_tzone
+Author: prkhrv
+Author-email: contact.prkhrv@gmail.com
+License: MIT
+Description: # py-tzone
+        A pip Package to get details of a timezone
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
