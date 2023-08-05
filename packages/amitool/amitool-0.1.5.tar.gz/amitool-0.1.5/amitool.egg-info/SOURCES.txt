@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+amitool.egg-info/PKG-INFO
+amitool.egg-info/SOURCES.txt
+amitool.egg-info/dependency_links.txt
+amitool.egg-info/requires.txt
+amitool.egg-info/top_level.txt
+amitools/AmiTool.py
+amitools/__init__.py
