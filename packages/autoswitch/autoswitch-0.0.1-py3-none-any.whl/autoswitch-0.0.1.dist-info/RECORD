@@ -1,0 +1,13 @@
+autoswitch/__init__.py,sha256=DarLni2GbRhcuFI3XZjWR1BBliI8I0N7ydSWq8Pp8OA,53
+autoswitch/__main__.py,sha256=tnsA4UCzTgPo80x-JnNSyP00xD0NkVW5mfuXXJ6J1E0,81
+autoswitch/cli.py,sha256=8hpof-550VUDlZnSF1lI1k5-Kz1dB6e7L1JjCP1nTuU,2697
+autoswitch/exceptions.py,sha256=tBVItOHVILFS0S4XS0NWkF4fx7k1XS3fkb8oF-TDsUI,542
+autoswitch/network.py,sha256=7zAwg8N1TuTf2Vw89C_qL87TxDYQ-aEg8Sab-D027dw,1326
+autoswitch/utils.py,sha256=04jxiWw3NhU9nk0RxpcPO4Ar63i5kjz8fkzsh_4eBRw,305
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_parser.py,sha256=dzQVSSwHne9P4c-nrsUALt-08awtQzSMDswWmHyRbp8,1932
+autoswitch-0.0.1.dist-info/LICENSE,sha256=IwGE9guuL-ryRPEKi6wFPI_zOhg7zDZbTYuHbSt_SAk,35823
+autoswitch-0.0.1.dist-info/METADATA,sha256=aF9dkr2Q6PO2csL_DatyWXTrVv3b0tRhzLQv3qOaHmE,635
+autoswitch-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+autoswitch-0.0.1.dist-info/top_level.txt,sha256=q6mCoxXRyMI7EiDvNYbtvZ7zdLEyT_BPLyALO_GoRJk,17
+autoswitch-0.0.1.dist-info/RECORD,,
