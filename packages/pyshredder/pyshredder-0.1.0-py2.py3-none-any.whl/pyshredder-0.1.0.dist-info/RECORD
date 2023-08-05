@@ -1,0 +1,7 @@
+pyshredder/__init__.py,sha256=x9OFYbsRAbW315UcAUoXVRfP_kQmy1EzWKdrxU2NrFY,207
+pyshredder/core/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyshredder/core/eraser.py,sha256=03CvIpQVnQDdHfLQgxRSaQIZQJkNsuuxWSdDSVYj0kI,4677
+pyshredder-0.1.0.dist-info/METADATA,sha256=0PHL5IaPMP_6p1Ke0ZcE5h3t90gxTEPwCMbbxK3c09s,2805
+pyshredder-0.1.0.dist-info/WHEEL,sha256=6T3TYZE4YFi2HTS1BeZHNXAi8N52OZT4O-dJ6-ome_4,116
+pyshredder-0.1.0.dist-info/top_level.txt,sha256=5UD5l6rzZ8-trrjAOSCqSSl6rT4OWqX9-hLKVlpcizM,11
+pyshredder-0.1.0.dist-info/RECORD,,
