@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: py_bscscan_api
+Version: 0.0.1
+Summary: Python Bindings to Bscscan.com API
+Home-page: https://github.com/darkzeb/py-bscscan-api
+Author: darkzeb
+Author-email: bbezkradd@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
