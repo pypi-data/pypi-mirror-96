@@ -1,0 +1,3 @@
+[console_scripts]
+latimes=latimes.__main__:main
+
