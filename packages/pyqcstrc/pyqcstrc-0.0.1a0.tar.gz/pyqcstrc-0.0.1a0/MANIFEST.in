@@ -1,0 +1,3 @@
+include pyqcstrc/xyz/*.xyz
+include pyqcstrc/examples/*.py
+include pyqcstrc/tests/*.py
