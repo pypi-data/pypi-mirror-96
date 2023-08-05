@@ -1,0 +1,7 @@
+pydantic_cloud/__init__.py,sha256=odAfvQ8Qg5jeuR0cFnlpotSwHiFfh3YJHf1X3_tuO_w,43
+pydantic_cloud/gcp.py,sha256=469vYj-evO5aUauYKJFlujVCJ-7ijD33mJGPxEbzUco,3752
+pydantic_cloud_settings-0.0.1.dist-info/LICENSE.txt,sha256=upZfFCbZYIET1MnBe0t3bVfiwseXzPErmPzzSKWD3lI,1068
+pydantic_cloud_settings-0.0.1.dist-info/METADATA,sha256=q0PbBzdWU7xNOzvnrbtHmXmP0_4UzPUaquCZPRJtopY,640
+pydantic_cloud_settings-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pydantic_cloud_settings-0.0.1.dist-info/top_level.txt,sha256=fe3lcPFWHFFN_V-PDpn6tOoc30NGkHXS8S2DAzRLhSM,15
+pydantic_cloud_settings-0.0.1.dist-info/RECORD,,

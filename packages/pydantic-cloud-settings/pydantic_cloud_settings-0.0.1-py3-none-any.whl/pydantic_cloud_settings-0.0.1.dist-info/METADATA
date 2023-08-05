@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pydantic-cloud-settings
+Version: 0.0.1
+Summary: Use cloud secrets (GCP Secret Manager) with pydantic settings
+Home-page: https://github.com/0xKD/pydantic-cloud-settings
+Author: Kedar Deore
+Author-email: mixedquantum@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/0xKD/pydantic-cloud-settings/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: <4,>=3.6
+Requires-Dist: pydantic (~=1.7.3)
+Requires-Dist: google-cloud-secret-manager (~=2.2.0)
+
+UNKNOWN
+
+
