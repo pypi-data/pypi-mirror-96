@@ -1,0 +1,12 @@
+StockStalker/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+StockStalker/crypto.py,sha256=UGanIBZpnLtatEvW7Xd3K8Fz2pdkmqPrc29pMRriXHs,2609
+StockStalker/currency.py,sha256=BEtN7KpQuDWgduO64leu0vaqoVVDmjgla4xo2v5OLh8,1414
+StockStalker/past.py,sha256=RRz2Tmb08VSPR5Cge-voxx94ng-uAQV77duwolRudYk,1373
+StockStalker/present.py,sha256=nzDdiTOI4N9luyRbRcuJFoF0Dbr94YBggNe8GRG4s7Y,6073
+StockStalker/stalker.py,sha256=eyJEFR47aekUgtNOEABhqnAQGf6kkKEb-PigNh8-mq8,2812
+StockStalker/utils.py,sha256=jmmasVUHwel1gNUShONAQpX3iOlac68IBODTzuiGUSQ,734
+StockStalker-0.1.dist-info/LICENSE,sha256=0XkRTCtU5eY_cu0D-KmkZMQHwssqeIel3es6DRyfx8E,1089
+StockStalker-0.1.dist-info/METADATA,sha256=XVAZgzIy4X7FyOSRnBiwu9P6Dt7U_IdrICI00WiX1II,475
+StockStalker-0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+StockStalker-0.1.dist-info/top_level.txt,sha256=ILd2xXZQD-4qUfCt1_cdqVOP0ezo3EEMEuE3LQnFD0M,13
+StockStalker-0.1.dist-info/RECORD,,
