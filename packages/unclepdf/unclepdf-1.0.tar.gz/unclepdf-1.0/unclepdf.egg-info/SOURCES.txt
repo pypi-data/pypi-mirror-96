@@ -1,0 +1,9 @@
+README.md
+setup.py
+unclepdf/__init__.py
+unclepdf/pdf2image.py
+unclepdf/pdf2text.py
+unclepdf.egg-info/PKG-INFO
+unclepdf.egg-info/SOURCES.txt
+unclepdf.egg-info/dependency_links.txt
+unclepdf.egg-info/top_level.txt
