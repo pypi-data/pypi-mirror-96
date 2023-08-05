@@ -1,0 +1,6 @@
+README.txt
+setup.py
+wsqluse.egg-info/PKG-INFO
+wsqluse.egg-info/SOURCES.txt
+wsqluse.egg-info/dependency_links.txt
+wsqluse.egg-info/top_level.txt
