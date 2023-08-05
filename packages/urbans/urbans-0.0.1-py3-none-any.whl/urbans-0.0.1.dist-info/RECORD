@@ -1,0 +1,10 @@
+urbans/__init__.py,sha256=CWpL2qc2TKn5UhEymUzRF8uPJ1p43GPYv1z-oRQxuys,109
+urbans/translator.py,sha256=PfUfhOOALhAaJMBcDd7_IyHXMWhGXXlpKhtA6jZmLaA,3379
+urbans/utils/__init__.py,sha256=iSy5RPvDGz_0xCbuPznyxo2thqJU6Hh9vwnDUO1aiwc,38
+urbans/utils/misc.py,sha256=WXSt8AytAB--xuIwOzA9260dbTUMbPiPyaYl7jmxRhE,86
+urbans/utils/tree_manipulation.py,sha256=2fVoY7yTfgxNQcZVGk2JMo14T5A-eiiC14tmp977hF8,4817
+urbans-0.0.1.dist-info/LICENSE,sha256=rEpuazXBavZlKu6Tv-95u6aHRHTzToxJ-FUqZtGPEQI,11348
+urbans-0.0.1.dist-info/METADATA,sha256=l6HOdqp_YG3mgmFIQlQZcvdjjVErAULfPf0NXGtCTHo,4082
+urbans-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+urbans-0.0.1.dist-info/top_level.txt,sha256=qIYPNIFtYwADLqaxl0HJN__qiBUh5HqVRpM7P6dcQPo,7
+urbans-0.0.1.dist-info/RECORD,,
