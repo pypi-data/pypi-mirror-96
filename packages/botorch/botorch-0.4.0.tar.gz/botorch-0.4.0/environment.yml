@@ -1,0 +1,8 @@
+name: botorch
+channels:
+  - pytorch
+  - gpytorch
+dependencies:
+  - pytorch>=1.7.1
+  - gpytorch>=1.4
+  - scipy
