@@ -1,0 +1,7 @@
+setup.py
+pybimfile/__init__.py
+pybimfile/bimfile.py
+pybimfile.egg-info/PKG-INFO
+pybimfile.egg-info/SOURCES.txt
+pybimfile.egg-info/dependency_links.txt
+pybimfile.egg-info/top_level.txt
