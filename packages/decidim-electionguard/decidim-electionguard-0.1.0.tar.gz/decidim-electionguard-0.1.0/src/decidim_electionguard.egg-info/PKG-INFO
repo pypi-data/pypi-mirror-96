@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: decidim-electionguard
+Version: 0.1.0
+Summary: ElectionGuard wrappers to be used by Decidim eVoting project
+Home-page: http://github.com/codegram/decidim.electionguard
+Author: Codegram
+Author-email: leo@codegram.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
