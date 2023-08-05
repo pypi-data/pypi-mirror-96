@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: revents
+Version: 0.0.6
+Summary: Reddit events for asyncpraw
+Home-page: https://github.com/YodaPY/revents
+Author: YodaPY
+License: UNKNOWN
+Description: ![PyPI](https://img.shields.io/pypi/v/revents)
+        ![License](https://img.shields.io/github/license/YodaPY/revents)
+        
+        Revents makes listening to events easier than ever, be it for discord bots or just simple testing.
+        
+        **Currently revents only supports submission create events**
+        
+        Install it with:
+        `pip install revents`
+        
+        # Example Usage:
+        ```py
+        from revents import EventClient
+        
+        reddit_settings = {
+            "client_id": "my client_id",
+            "client_secret": "my_client_secret",
+            "user_agent": "platform:app:version by /u/User"
+        }
+        
+        client = EventClient(**reddit_settings)
+        
+        @client.listen(subreddits=["Python"])
+        async def on_submission(submission):
+            print(submission.title)
+        
+        client.run()
+        ```
+        
+        # Performance boost
+        You can install [uvloop](https://github.com/MagicStack/uvloop) for a performance boost which will replace asyncio's default event loop.
+        ```py
+        import uvloop
+        
+        #your code
+        
+        uvloop.install()
+        #run your client
+        ```
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.7.0,<3.10
+Description-Content-Type: text/markdown
