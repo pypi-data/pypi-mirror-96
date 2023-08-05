@@ -1,0 +1,14 @@
+networkx
+clldutils>=3.0.1
+attrs
+python-igraph
+openpyxl
+pycldf
+sqlalchemy
+segments
+lingpy
+unidecode
+cldfbench
+pyglottolog
+pyconcepticon
+pyclts~=2.1.3
