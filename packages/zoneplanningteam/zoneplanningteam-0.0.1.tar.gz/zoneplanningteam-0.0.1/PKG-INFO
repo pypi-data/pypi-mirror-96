@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: zoneplanningteam
+Version: 0.0.1
+Summary: First zone planning team package
+Home-page: UNKNOWN
+Author: Pablo Galaz Cares
+Author-email: <pablo.galaz.c@ug.uchile.cl>
+License: UNKNOWN
+Description: This is a package to be used by zone planning team
+Keywords: python,first package
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
