@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: lexedata
+Version: 1.0.0a1
+Summary: Tools to edit lexical data in CLDF, and transform it to and from other well-known formats.
+Home-page: http://github.com/Anaphory/lexedata
+Author: Melvin Steiger, Gereon A. Kaiping
+Author-email: gereon.kaiping@geo.uzh.ch
+License: GNU General Public License v3.0
+Project-URL: Bug Tracker, https://github.com/Anaphory/lexedata/issues
+Keywords: data linguistics
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: networkx
+Requires-Dist: clldutils (>=3.0.1)
+Requires-Dist: attrs
+Requires-Dist: python-igraph
+Requires-Dist: openpyxl
+Requires-Dist: pycldf
+Requires-Dist: sqlalchemy
+Requires-Dist: segments
+Requires-Dist: lingpy
+Requires-Dist: unidecode
+Requires-Dist: cldfbench
+Requires-Dist: pyglottolog
+Requires-Dist: pyconcepticon
+Requires-Dist: pyclts (~=2.1.3)
+
+# lexedata
+
+![lexedata: edit lexi data](lexedata.png)
+
+Tools to edit lexical data in CLDF, and transform it to and from other well-known formats.
+
+
