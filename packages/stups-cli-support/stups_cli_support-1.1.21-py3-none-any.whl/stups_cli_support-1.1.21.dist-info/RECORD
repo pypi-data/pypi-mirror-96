@@ -1,0 +1,9 @@
+stups_cli/__init__.py,sha256=8YdjtsbVmscb7ZLxwkz_3nIMftqvVXWQm2hIZ9glj5U,23
+stups_cli/__main__.py,sha256=K0fhrHghCQeJOUQ1UM2KQ60IFP12vy26jdP4cc6RlPg,85
+stups_cli/config.py,sha256=8gYPagwJ3lyorXNnYpwsOY6HXZDPmq7_01H8ovuq1yk,5130
+stups_cli_support-1.1.21.dist-info/LICENSE,sha256=4I1KCv8XurswJ2gKTU0D8P4T6co1vr8Uea8OyEQC92s,549
+stups_cli_support-1.1.21.dist-info/METADATA,sha256=-DoEW1q_UNy3XWUDNxBoWw_QD4uTaF-c9ZhZsjS7jcw,1814
+stups_cli_support-1.1.21.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+stups_cli_support-1.1.21.dist-info/entry_points.txt,sha256=eqGnTHtEVMYwfXVk1Z9MhC8O2N8wuqAbr0lisLmrkxs,20
+stups_cli_support-1.1.21.dist-info/top_level.txt,sha256=29aA82g5G_KuBS8HQzHcNKXvFYIfbzzBk1rgvx0LBTs,10
+stups_cli_support-1.1.21.dist-info/RECORD,,
