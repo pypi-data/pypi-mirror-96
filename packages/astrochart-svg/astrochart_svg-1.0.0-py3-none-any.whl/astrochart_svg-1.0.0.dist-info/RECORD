@@ -1,0 +1,8 @@
+astrochart_svg/__init__.py,sha256=VxIn5UtHezjkiaA_WiKD-1PmUqW9bdZ5cKAjcfURsWQ,39
+astrochart_svg/astrochart_svg.py,sha256=y5MoY81wqdp82gtqnrLfyRmeY1K5ZAJfutOT4QWnpeo,60430
+astrochart_svg/chart_settings.py,sha256=TBQECkFXcK8iYsh34UGihHDr5p1EZkLr_PSiUxo_TOI,7241
+astrochart_svg/template.xml,sha256=Tcsevx49hTfo1ChwfCfkJQKClfy987pWS2GM8U3i8dg,57343
+astrochart_svg-1.0.0.dist-info/METADATA,sha256=jExF1kVVZYsX3Uy3pi4hQKiwKAPGYbwfFEBvqUg-OsY,1873
+astrochart_svg-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+astrochart_svg-1.0.0.dist-info/top_level.txt,sha256=duVz9UR7ZOMDh_3l8vav0GXQGMUIgilqpJGAe3vZBkk,15
+astrochart_svg-1.0.0.dist-info/RECORD,,
