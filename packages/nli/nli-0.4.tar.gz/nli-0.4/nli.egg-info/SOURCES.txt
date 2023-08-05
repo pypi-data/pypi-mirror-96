@@ -1,0 +1,12 @@
+setup.py
+nli/__init__.py
+nli/data.py
+nli/model.py
+nli/predict.py
+nli/run.py
+nli/train.py
+nli.egg-info/PKG-INFO
+nli.egg-info/SOURCES.txt
+nli.egg-info/dependency_links.txt
+nli.egg-info/not-zip-safe
+nli.egg-info/top_level.txt
