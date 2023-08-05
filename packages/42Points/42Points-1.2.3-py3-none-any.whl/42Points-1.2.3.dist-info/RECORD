@@ -1,0 +1,10 @@
+ftptsgame/__init__.py,sha256=cQ37BCFAJ8s84pxWiOJRZ1XdpUEsD2YMDBs0vpSewAw,6431
+ftptsgame/database.py,sha256=VzyuWXKYGnEKDgvHrVQnKdY7ewQVfaEgDiJmLCzUSkA,189096
+ftptsgame/exceptions.py,sha256=tD36CBZphQNlLT8XFkqMPLytnJQzDS18QFDwcVgW5u8,1616
+ftptsgame/expr_utils.py,sha256=63h16RjpvICYRhygRya0uEZVClRjEmoySmBh5fJlrhU,9981
+ftptsgame/problem_utils.py,sha256=rxu3yL3kWgo0Po3vvrcgi1w3DWuBxlkvOpNAJAGQrY8,4788
+42Points-1.2.3.dist-info/LICENSE,sha256=LFzMMXY4oddYEJ0naCZ89nKP-Zm2OLX675inpX7d8pg,1088
+42Points-1.2.3.dist-info/METADATA,sha256=FSSKIayGyirmUPtBFRgPzkt3hEN1YgFbSuEOKGXMN0A,4111
+42Points-1.2.3.dist-info/WHEEL,sha256=YUYzQ6UQdoqxXjimOitTqynltBCkwY6qlTfTh2IzqQU,97
+42Points-1.2.3.dist-info/top_level.txt,sha256=_EUT6FEIEA4ehnUgtP68XiWjromdXFn0OMAmDpHxM3w,10
+42Points-1.2.3.dist-info/RECORD,,
