@@ -1,0 +1,9 @@
+msgpack>=1.0
+langcodes>=2.1
+regex>=2020.04.04
+
+[jieba]
+jieba>=0.42
+
+[mecab]
+mecab-python3
