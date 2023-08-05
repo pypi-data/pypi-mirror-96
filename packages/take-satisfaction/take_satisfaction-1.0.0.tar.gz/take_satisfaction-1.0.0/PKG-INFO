@@ -1,0 +1,73 @@
+Metadata-Version: 2.1
+Name: take_satisfaction
+Version: 1.0.0
+Summary: Generate a rate between 0 and 1 for Consumer Satisfaction Survey.
+Home-page: UNKNOWN
+Author: squad XD
+Author-email: anaytics.ped@take.net
+Maintainer: Take - D&A
+Maintainer-email: anaytics.ped@take.net
+License: MIT License
+Description: # Take Satisfaction
+        This package proposes to offer a rate that represents the customer satisfaction research from the bot.
+        
+        The proposal converts the Customer Satifaction Survey (CSS) to a normalized rate between 0 to 1. The normalized value alow the comparasion of CSS from differents bot that have differents scales types and ranges.
+        
+        # Installation
+        Use [pip](https://pypi.org/project/take-satisfaction/) to install:
+        
+        ```shell script
+        pip install take-satisfaction
+        ```
+        
+        # Usage
+        
+        ## Using a **numeric scale** Consumer Satisfaction Survey:
+        
+        ```python
+        import pandas as pd
+        import take_satisfaction as ts
+        
+        pdf = pd.DataFrame({"Action": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+                            "amount": [0, 1, 2, 0, 0, 10, 0, 35, 200, 360, 3330]})
+        
+        result = ts.run(dataframe=pdf,
+                        scale_column="Action",
+                        amount_column="amount")
+        
+        print(result["rate"])
+        ```
+        
+        Which will result in `0.9761300152361605`.
+        
+        ## Using a **textual scale** Consumer Satisfaction Survey:
+        
+        ```python
+        import pandas as pd
+        import take_satisfaction as ts
+        
+        pdf = pd.DataFrame(
+            {"Action": ["PÃ©ssimo", "Ruim", "OK", "Ã“timo", "Excelente"],
+            "amount": [0, 1, 35, 350, 3330]})
+        css_column = "Action"
+        amount = "amount"
+        
+        result = ts.run(dataframe=pdf,
+                        scale_column=css_column,
+                        amount_column=amount)
+        
+        print(result["rate"])
+        ```
+        
+        Which will result in `0.9715419806243273`.
+        
+        
+        # Author
+        Take Data&Analytics Research - squad XD.
+        
+Keywords: BLiP,score,satisfaction
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
