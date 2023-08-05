@@ -1,0 +1,23 @@
+# Include the README
+include *.rst
+
+# Include the license file
+include LICENSE.txt
+
+# Include version file
+include VERSION.txt
+
+# Do not distribute test data
+prune data
+prune .idea
+prune devtests
+include docs
+recursive-include docs *
+recursive-include tests *.py
+
+# include *.py
+include *.yml
+include Makefile
+include pylintrc
+recursive-include imagedata *.py
+exclude load_data.py
