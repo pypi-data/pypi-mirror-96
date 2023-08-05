@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: peano
+Version: 0.1.0
+Summary: 
+Author: Anton Panchenko
+Author-email: apanchenko@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: influxdb-client (>=1.14.0,<2.0.0)
