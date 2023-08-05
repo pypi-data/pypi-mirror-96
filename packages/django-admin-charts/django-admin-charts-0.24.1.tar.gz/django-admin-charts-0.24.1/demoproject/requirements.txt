@@ -1,0 +1,6 @@
+django-nvd3
+django-bower
+django-admin-tools
+model-mommy
+psycopg2
+mysqlclient
