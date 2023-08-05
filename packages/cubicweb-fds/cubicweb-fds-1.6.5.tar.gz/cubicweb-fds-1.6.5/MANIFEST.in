@@ -1,0 +1,16 @@
+include scripts/*
+include *.json
+include *.py
+include */*.py
+include README.rst
+include tox.ini
+recursive-include cubicweb_fds *.py
+recursive-include cubicweb_fds/data *.gif *.png *.ico *.css *.js *.eot *.svg *.ttf *.woff *.woff2 *.map *.ts *.txt
+recursive-include cubicweb_fds/i18n *.po
+recursive-include test/data fds_cubes *.py
+recursive-include doc *.rst Makefile README.rst
+
+prune debian
+exclude cubicweb-fds.spec
+exclude .gitlab-ci.yml
+exclude .yamllint
