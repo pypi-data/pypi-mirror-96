@@ -1,0 +1,4 @@
+configobj
+pydash
+pyyaml
+expandvars
