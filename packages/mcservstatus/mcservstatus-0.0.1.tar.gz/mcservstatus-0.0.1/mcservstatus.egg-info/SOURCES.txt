@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+mcservstatus/__init__.py
+mcservstatus.egg-info/PKG-INFO
+mcservstatus.egg-info/SOURCES.txt
+mcservstatus.egg-info/dependency_links.txt
+mcservstatus.egg-info/top_level.txt
