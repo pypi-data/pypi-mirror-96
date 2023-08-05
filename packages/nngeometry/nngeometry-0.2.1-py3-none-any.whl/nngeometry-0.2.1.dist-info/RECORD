@@ -1,0 +1,17 @@
+nngeometry/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+nngeometry/layercollection.py,sha256=0t1hSYp9htBWMc5ZnLJ9MFV4haHNpURPGt9bNnDHr5c,6939
+nngeometry/maths.py,sha256=p145yY-PdYVQLi9tZRjanEfSg0LWVO8hNSfapSp7Q68,185
+nngeometry/metrics.py,sha256=qgTKRsD5UkWrdHqQCViCSbR06wueLm749Rjw5pv_36g,5546
+nngeometry/utils.py,sha256=iiBHuiky1DfgjJvZfO1A4agEcgS6xrvSKqnLDw1Vhro,766
+nngeometry/generator/__init__.py,sha256=aPYHlGCisKGJPcrLfySPSCEWkTwzh8Fp1u9B8CdSc-w,31
+nngeometry/generator/jacobian.py,sha256=tM6mWKzKhJ9TjKDOAlogLswil3h-gnShjtx7tdOJQ_E,48433
+nngeometry/object/__init__.py,sha256=if1LyV6aNMPCry1F01QeZ8LkXGP4BZmhDEhU9Cf-Krs,324
+nngeometry/object/fspace.py,sha256=2uIbtNpBxEFxHNGr9IplUkdbjKhr3uIrRsyXeeIN63k,2362
+nngeometry/object/map.py,sha256=BXLZMWMAruJ52xRsNl8x92By8Iatk-rqlcVtz-oBgjc,1613
+nngeometry/object/pspace.py,sha256=MptvxkYwbSBzI3rD2wlEP9hvg88otJHqBKI6f9m6cXI,33380
+nngeometry/object/vector.py,sha256=2oi0sGBweWVWT0S1gqilo8_ZMipQEVgKXy_aIEfPg-c,11002
+nngeometry-0.2.1.dist-info/LICENSE,sha256=vbT58nARB4XDeaeo0icej8Jj9xO5pMrWViDQS6GGnvI,1070
+nngeometry-0.2.1.dist-info/METADATA,sha256=8RUohuajpABjZsyG9U8m7pFIDQmzOyOMtyTCVSWzwBQ,279
+nngeometry-0.2.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+nngeometry-0.2.1.dist-info/top_level.txt,sha256=aGN6LmBsgfYgGCpgoz282O4aytGX3ZD149E3pMNWJa4,11
+nngeometry-0.2.1.dist-info/RECORD,,
