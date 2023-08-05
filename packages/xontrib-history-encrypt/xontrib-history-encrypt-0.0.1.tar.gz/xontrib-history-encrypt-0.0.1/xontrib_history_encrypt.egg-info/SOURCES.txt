@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+xontrib/history_encrypt.py
+xontrib_history_encrypt.egg-info/PKG-INFO
+xontrib_history_encrypt.egg-info/SOURCES.txt
+xontrib_history_encrypt.egg-info/dependency_links.txt
+xontrib_history_encrypt.egg-info/requires.txt
+xontrib_history_encrypt.egg-info/top_level.txt
