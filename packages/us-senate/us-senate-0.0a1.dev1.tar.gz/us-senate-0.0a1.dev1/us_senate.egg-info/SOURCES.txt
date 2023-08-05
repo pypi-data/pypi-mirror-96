@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+senate/__init__.py
+us_senate.egg-info/PKG-INFO
+us_senate.egg-info/SOURCES.txt
+us_senate.egg-info/dependency_links.txt
+us_senate.egg-info/not-zip-safe
+us_senate.egg-info/requires.txt
+us_senate.egg-info/top_level.txt
