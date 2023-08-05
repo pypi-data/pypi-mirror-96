@@ -1,0 +1,4 @@
+termremind/__pycache__/*
+build/*
+dist/*
+termremind.egg-info/*

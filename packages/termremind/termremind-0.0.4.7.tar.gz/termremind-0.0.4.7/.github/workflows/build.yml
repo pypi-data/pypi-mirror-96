@@ -1,0 +1,41 @@
+name: Build Remind bundles
+
+on:
+  push:
+    tags:
+      - '*.*.*'
+jobs:
+  Build-Linux:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Get repo
+        uses: actions/checkout@v2
+      - name: Setup PyInstaller
+        run: pip3 install https://github.com/pyinstaller/pyinstaller/archive/develop.zip
+      - name: Run PyInstaller
+        run: PATH=/home/runner/.local/bin:$PATH pyinstaller termremind/main.py --onefile
+      - name: Rename output
+        run: mv dist/main remind-linux
+      - name: Release output files
+        uses: softprops/action-gh-release@v1
+        with:
+          files: remind-linux
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  Build-Mac:
+    runs-on: macos-latest
+    steps:
+      - name: Get repo
+        uses: actions/checkout@v2
+      - name: Setup PyInstaller
+        run: pip3 install https://github.com/pyinstaller/pyinstaller/archive/develop.zip
+      - name: Run PyInstaller
+        run: PATH=/home/runner/.local/bin:$PATH pyinstaller termremind/main.py --onefile
+      - name: Rename output
+        run: mv dist/main remind-macos
+      - name: Release output files
+        uses: softprops/action-gh-release@v1
+        with:
+          files: remind-macos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
