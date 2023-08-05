@@ -1,0 +1,4 @@
+face_recognition
+elasticsearch
+elasticsearch_dsl
+pytest
