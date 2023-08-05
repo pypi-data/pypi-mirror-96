@@ -1,0 +1,11 @@
+Change Log
+==========
+
+1.0.4 (24/2/2021)
+-----------------
+- fixed some bugs
+- deleted the Functions folder and merged the function to the utils.
+- now you can set a ydl_opts value.
+- I added the option of using the functions using with and as* (only from the __init__ function)
+
+* with YouTubeEased(URL) as youtube
