@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: tmcp
+Version: 0.5.1
+Summary: Helper classes for the Team Match Communication Protocol.
+Home-page: https://github.com/ViliamVadocz/tmcp/
+Author: Viliam Vadocz
+Author-email: viliam.vadocz@gmail.com
+License: MIT
+Download-URL: https://github.com/ViliamVadocz/tmcp/archive/v_0_5_1.tar.gz
+Description: UNKNOWN
+Keywords: RLBot,protocol
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
