@@ -1,0 +1,13 @@
+paaaaath/__init__.py,sha256=JPgqTefqOxkpGh1v-1j_zA38chIWI5VTaNIiiHtDhbo,234
+paaaaath/azule.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+paaaaath/common.py,sha256=wSk-t4-cYP6W0RSjTNJ7mkltRMBbOIWtgSgV5gdt6kE,7486
+paaaaath/gcs.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+paaaaath/http.py,sha256=IOBsivpG9pQLPoqeqnnaVWpLci2ehGq0EWJ4QT0nbzM,955
+paaaaath/posix.py,sha256=BQGbcv9u8nTIelrk-0TOCabsJRCp1QS0thsI6jbDEXw,204
+paaaaath/s3.py,sha256=Udcd3qyNYpjNgGZ-OcE8Q_lngcs_czqLFnoxr_Iu-t0,3501
+paaaaath/uri.py,sha256=P5mxKWW18DLlH5VaaBg8IRXoHxcxUTGAaNM84HxYAKU,1616
+paaaaath/windows.py,sha256=VtNL89kcr0teNo85WP_2QiAg7RK2S_ixQADT32T8dIM,214
+paaaaath-0.1.0.dist-info/LICENSE,sha256=E7tF_UTSwjY5DB1AQk-CYK6-NegI_NrCFCVbtjb6GOk,1070
+paaaaath-0.1.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+paaaaath-0.1.0.dist-info/METADATA,sha256=fkSnfd9Er9GZBOHDWSuEpchgt7QzfbZz6yHkaYgkNLk,444
+paaaaath-0.1.0.dist-info/RECORD,,
