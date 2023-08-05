@@ -1,0 +1,8 @@
+setup.py
+separatrice_temp/__init__.py
+separatrice_temp/separatrice.py
+separatrice_temp.egg-info/PKG-INFO
+separatrice_temp.egg-info/SOURCES.txt
+separatrice_temp.egg-info/dependency_links.txt
+separatrice_temp.egg-info/requires.txt
+separatrice_temp.egg-info/top_level.txt
