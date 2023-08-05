@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+DBHelper/__init__.py
+DBHelper/dbddl.py
+DBHelper/sqlite_db_operations.py
+inn_digialert_Mylist.egg-info/PKG-INFO
+inn_digialert_Mylist.egg-info/SOURCES.txt
+inn_digialert_Mylist.egg-info/dependency_links.txt
+inn_digialert_Mylist.egg-info/requires.txt
+inn_digialert_Mylist.egg-info/top_level.txt
+microservices/__init__.py
+microservices/tasks.py
