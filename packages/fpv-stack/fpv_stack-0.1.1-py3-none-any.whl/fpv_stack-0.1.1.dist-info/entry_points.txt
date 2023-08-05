@@ -1,0 +1,3 @@
+[console_scripts]
+fpv-stack=fpv_stack.main:fpv_stack
+
