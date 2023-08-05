@@ -1,0 +1,20 @@
+Metadata-Version: 1.2
+Name: gsmsapi
+Version: 0.15
+Summary: SMS API for (german) SMS providers
+Home-page: https://github.com/CygnusNetworks/python-gsmsapi
+Author: Torge Szczepanek
+Author-email: debian@cygnusnetworks.de
+Maintainer: Torge Szczepanek
+Maintainer-email: debian@cygnusnetworks.de
+License: MIT
+Download-URL: https://github.com/CygnusNetworks/python-gsmsapi/tarball/v0.15
+Description: UNKNOWN
+Keywords: sms,german,sipgate,smstrade,api
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
