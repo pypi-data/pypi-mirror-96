@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pypkgs_jk"
+version = "0.1.0"
+description = "Toy Python package for UBC DSCI 524"
+authors = ["Junghoo Kim <jkim222383@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+altair = "^4.1.0"
+
+[tool.poetry.dev-dependencies]
+Sphinx = "^3.5.1"
+sphinxcontrib-napoleon = "^0.7"
+pytest = "^6.2.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
