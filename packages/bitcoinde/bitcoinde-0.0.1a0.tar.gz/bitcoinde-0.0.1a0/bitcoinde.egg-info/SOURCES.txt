@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+bitcoinde/__init__.py
+bitcoinde/trading_api.py
+bitcoinde.egg-info/PKG-INFO
+bitcoinde.egg-info/SOURCES.txt
+bitcoinde.egg-info/dependency_links.txt
+bitcoinde.egg-info/not-zip-safe
+bitcoinde.egg-info/requires.txt
+bitcoinde.egg-info/top_level.txt
+bitcoinde/config/api.cfg
