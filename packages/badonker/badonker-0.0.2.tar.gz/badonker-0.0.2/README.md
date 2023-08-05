@@ -1,0 +1,55 @@
+<div align="center">
+
+   <a href="https://top.gg/bot/724047481561809007">
+   <img width="550" height="390" src="https://cdn.discordapp.com/attachments/770677652293419008/813787493430198292/badonker.jpg" alt="logo"></a></br><h2>badonker</h2>
+   feature rich and hQ content
+
+---
+
+</div>
+
+## Installation
+
+```
+pip install badonker
+```
+
+Enhance and spice up your NSFW stuff with badonker.  
+Quick rewrite and animated object from [scathach-api](https://www.npmjs.com/package/scathach-api).
+
+| Function        | Description                                  |
+| --------------- | -------------------------------------------- |
+| `honker`        | Get a gif or animated URL of a honker        |
+| `badonkers`     | Get a gif or animated URL of a badonkers     |
+| `hhonker`       | Get a gif or animated URL of a hentai honkwe |
+| `ass`           | Get a gif or animated URL of a ass           |
+| `hass`          | Get a gif or animated URL of a hentai ass    |
+| `thicc`         | Get a gif or animated URL of a thicc         |
+| `hthicc`        | Get a gif or animated URL of a hentai thicc  |
+| `milf`          | Get a gif or animated URL of a milf          |
+| `hmilf`         | Get a gif or animated URL of a hentai milf   |
+| `milk`          | Get a gif or animated URL of a milk          |
+| `hmilk`         | Get a gif or animated URL of a hentai milk   |
+| `booty`         | Get a gif or animated URL of a booty         |
+| `hbooty`        | Get a gif or animated URL of a hentai booty  |
+| `belly`         | Get a gif or animated URL of a belly         |
+| `hbelly`        | Get a gif or animated URL of a hentai belly  |
+| `gifTits`       | Get a gif or animated URL of a tits          |
+| `gifPussy`      | Get a gif or animated URL of a pussy         |
+| `gifAss`        | Get a gif or animated URL of a ass           |
+| `gifMissionary` | Get a gif or animated URL of a army          |
+| `gifCowgirl`    | Get a gif or animated URL of a cow gurl      |
+| `gifBj`         | Get a gif or animated URL of a bj            |
+| `gifCumshots`   | Get a gif or animated URL of a cumshots      |
+| `ahegao`        | Get a gif or animated URL of a ahegao        |
+| `random`        | Get a gif or animated URL of as random       |
+
+---
+
+# Usage example
+```py
+import badonker
+print(badonker.booty())
+
+>>> 'https://us.rule34.xxx/images/3941/ba4bda8b52cfb43a32bc589e8f84e6fa.gif'
+```
