@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+OctoPrint_FixCBDFirmware.egg-info/PKG-INFO
+OctoPrint_FixCBDFirmware.egg-info/SOURCES.txt
+OctoPrint_FixCBDFirmware.egg-info/dependency_links.txt
+OctoPrint_FixCBDFirmware.egg-info/entry_points.txt
+OctoPrint_FixCBDFirmware.egg-info/not-zip-safe
+OctoPrint_FixCBDFirmware.egg-info/requires.txt
+OctoPrint_FixCBDFirmware.egg-info/top_level.txt
+octoprint_fixcbdfirmware/__init__.py
