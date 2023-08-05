@@ -1,0 +1,8 @@
+README.md
+setup.py
+InstallMyScript/__init__.py
+InstallMyScript/setup.py
+InstallMyScript.egg-info/PKG-INFO
+InstallMyScript.egg-info/SOURCES.txt
+InstallMyScript.egg-info/dependency_links.txt
+InstallMyScript.egg-info/top_level.txt
