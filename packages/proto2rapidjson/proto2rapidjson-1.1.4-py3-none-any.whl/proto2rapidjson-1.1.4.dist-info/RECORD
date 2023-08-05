@@ -1,0 +1,16 @@
+proto2rapidjson/__init__.py,sha256=d6TNz0nVGkhhyKyW1S9bQm42Xy4NxDl6wh0Qw4xqfyM,1628
+proto2rapidjson/__main__.py,sha256=Joqi3BmHMv6KEh4B546oif3obivklRqV6ZYnu6MDUBo,1288
+proto2rapidjson/lexer.py,sha256=BvKMOoIo4G6wDVI4LCUXdxbVqa9gS8Ow4uLWaMuqizk,2840
+proto2rapidjson/parser.py,sha256=izUt1NwkMLXK5c6ik_8mu00fqp6WV14WVls8yY_PA84,12061
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/failedcases/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/failedcases/test_badjson.py,sha256=dAia5QeLeokOD9ZpAZBwRw2KHX-gihbml2oAOYbs6rw,1557
+tests/failedcases/test_badproto.py,sha256=hrePYqb2c1CSHnNlT3VM9Nf6B7Wg_O7JR8ZolIRI-kU,1762
+tests/passedcases/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/passedcases/test_passedcase.py,sha256=5u5gnlp0CE64wTJaTbaghG3jbERpPav6BKwxTqZRawU,1663
+proto2rapidjson-1.1.4.dist-info/LICENSE,sha256=Roa0Nd39NpU0V_Wjzlv53RYj3UwlA9velIYzr7ePqME,1071
+proto2rapidjson-1.1.4.dist-info/METADATA,sha256=pFZFdpX9jqWCA2UlcKDBgwdKs4rNaaipA56GaEXNzm4,4420
+proto2rapidjson-1.1.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+proto2rapidjson-1.1.4.dist-info/entry_points.txt,sha256=fzHhLzvYfLN_cf3lbwX9f-hoTZ6UamQugXuBpVwYmVo,65
+proto2rapidjson-1.1.4.dist-info/top_level.txt,sha256=SAc3tm8wpSVvQpxwT8pLi0zTfaKpUMRjxxHZsJudKE0,22
+proto2rapidjson-1.1.4.dist-info/RECORD,,
