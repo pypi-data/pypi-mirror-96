@@ -1,0 +1,18 @@
+Changelog
+=========
+
+1.0.2 (2021-02-23)
+------------------
+
+- Update changelog [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+- fix when the category services returns an errors [Mikel Larreategi <mlarreategi@codesyntax.com>]
+
+
+
+
+1.0 (2018-02-16)
+----------------
+
+- Initial release
+  [erral]
