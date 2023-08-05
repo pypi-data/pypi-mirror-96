@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+JWST_FOV_plotter/FOV_transform.py
+JWST_FOV_plotter/JWST_FOV_plotter.py
+JWST_FOV_plotter/__init__.py
+JWST_FOV_plotter/apertures_selecter.py
+JWST_FOV_plotter/auxiliar_functions.py
+JWST_FOV_plotter/fovs_loader.py
+JWST_FOV_plotter.egg-info/PKG-INFO
+JWST_FOV_plotter.egg-info/SOURCES.txt
+JWST_FOV_plotter.egg-info/dependency_links.txt
+JWST_FOV_plotter.egg-info/top_level.txt
