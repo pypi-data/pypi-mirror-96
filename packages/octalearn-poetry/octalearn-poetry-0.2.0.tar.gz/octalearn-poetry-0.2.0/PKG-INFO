@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: octalearn-poetry
+Version: 0.2.0
+Summary: A sample project for showing basic python package management
+License: MPL-2.0
+Author: Aldrin
+Author-email: akmontan@ucsc.edu
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
