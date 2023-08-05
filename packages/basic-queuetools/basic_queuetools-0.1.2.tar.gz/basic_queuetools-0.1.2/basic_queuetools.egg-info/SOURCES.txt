@@ -1,0 +1,14 @@
+MANIFEST.in
+NAME
+README.md
+README.md~
+VERSION
+setup.py
+basic_queuetools/channel.py
+basic_queuetools/queue.py
+basic_queuetools.egg-info/PKG-INFO
+basic_queuetools.egg-info/SOURCES.txt
+basic_queuetools.egg-info/dependency_links.txt
+basic_queuetools.egg-info/not-zip-safe
+basic_queuetools.egg-info/requires.txt
+basic_queuetools.egg-info/top_level.txt
