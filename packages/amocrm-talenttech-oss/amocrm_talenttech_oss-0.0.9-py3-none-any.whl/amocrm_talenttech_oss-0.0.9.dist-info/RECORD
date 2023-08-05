@@ -1,0 +1,16 @@
+amocrm/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+amocrm/api/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+amocrm/api/api_loader_amocrm_v2.py,sha256=J1873qrNVGu7GKvwbCIr9I2XOK_aduJHsDhO41LaZvo,5545
+amocrm/api/api_loader_amocrm_v4.py,sha256=1BcM0GqS0NXI_9wHlt_8Bks2_eyX3r886E1oQb4WbSc,7991
+amocrm/config_reader/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+amocrm/config_reader/read_config.py,sha256=KFzZ670ivTUTELkCcBrxb8MydkyBJhw4JJwjuZuZZFA,2393
+amocrm/db/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+amocrm/db/clickhouse_uploader.py,sha256=lubdFEFZESmCSEC7H6_bvQk4w_22nGmy-NNEmWtN4S4,8636
+amocrm/db/vertica_uploader.py,sha256=KAE5vRWntmBr4Tcs3bVX_z3C5LFsk3nrvxvUCEv7sio,6028
+amocrm/runner/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+amocrm/runner/runner.py,sha256=LPLJ2x8Dm_OjSUk1m58E36Xm2h-SgX3RcscPrULj9Xw,7681
+amocrm_talenttech_oss-0.0.9.dist-info/LICENSE.txt,sha256=ToYGxa-ZF8-Srx-fp2OkSJUHwqRG8PR7AJXHkXM_xFg,1071
+amocrm_talenttech_oss-0.0.9.dist-info/METADATA,sha256=To7xOmT2XBAQ3aqrtRO18O0wQGrKztWbDrSMU7aG8xY,3518
+amocrm_talenttech_oss-0.0.9.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+amocrm_talenttech_oss-0.0.9.dist-info/top_level.txt,sha256=nT4WANZwxVXlfQSQtcPd-Umd8KldJulPTwkh7RtjeZI,7
+amocrm_talenttech_oss-0.0.9.dist-info/RECORD,,
