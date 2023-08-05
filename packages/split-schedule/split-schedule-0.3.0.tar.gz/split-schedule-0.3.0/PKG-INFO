@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: split-schedule
+Version: 0.3.0
+Summary: Split schedule into smaller class sizes
+License: MIT
+Keywords: schools,schedule
+Author: Paul Sanders
+Author-email: psanders1@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: openpyxl (>=3.0.5,<4.0.0)
+Requires-Dist: pandas (>=1.2.2,<2.0.0)
