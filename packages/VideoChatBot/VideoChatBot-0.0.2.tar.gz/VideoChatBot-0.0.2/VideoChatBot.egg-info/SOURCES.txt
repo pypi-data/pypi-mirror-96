@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+VideoChatBot/__init__.py
+VideoChatBot.egg-info/PKG-INFO
+VideoChatBot.egg-info/SOURCES.txt
+VideoChatBot.egg-info/dependency_links.txt
+VideoChatBot.egg-info/requires.txt
+VideoChatBot.egg-info/top_level.txt
