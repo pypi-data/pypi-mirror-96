@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: django-insect
+Version: 0.0.1
+Summary: 
+Author: pskishere
+Author-email: pskishere@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: Django (>=3.0.0,<4.0.0)
+Requires-Dist: etcd3 (>=0.12.0,<0.13.0)

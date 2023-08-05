@@ -1,0 +1,7 @@
+django_insect/__init__.py,sha256=gPTpGMo7DAaUpG5glt91MV7WnUuGV7yb_C73C8_vpfI,114
+django_insect/admin.py,sha256=suMo4x8I3JBxAFBVIdE-5qnqZ6JAZV0FESABHOSc-vg,63
+django_insect/apps.py,sha256=BJMYyAUErxzVdNpiBOEDwqqfOFEamvdtC9vWWzWaSog,178
+django_insect/proxy.py,sha256=uLuJwdawUeWbNpWDAIqSVn0DF_s8HRbAP6CQ5Fx7xhM,2558
+django_insect-0.0.1.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+django_insect-0.0.1.dist-info/METADATA,sha256=w8QtaIMMOmBMwYtjNHWPSyU6955-VrNEKUtEKZIAiNI,424
+django_insect-0.0.1.dist-info/RECORD,,
