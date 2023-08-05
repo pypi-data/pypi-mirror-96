@@ -1,0 +1,17 @@
+math2/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+math2/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+math2/economics/__init__.py,sha256=MsqAfvwo-62uYLDo-E2WaoFPUJa7zubE4g_cY5Tp7VQ,518
+math2/economics/factors.py,sha256=J8rCj7RQJG4JKHP9401XfT2BkvwNudscnDu3E0YURcU,2080
+math2/economics/interests.py,sha256=29EDKCqtK1czMVmacdX4BUU1ruGCQrYI5DJ-VTU39RM,4713
+math2/economics/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+math2/economics/tests/test_interests.py,sha256=669MepMBeqfhIFbpL58BudGNCC7KSHuI3jubVd4DtXQ,1503
+math2/statistics/__init__.py,sha256=mrYXUwDEZZrhKO7IF6I335BShTm2MQuXBWhbwwvceqQ,239
+math2/statistics/averages.py,sha256=HuoNcNfi2tv4-iWUF-pB_M6im93sNBc0SFs8SKrpBDI,1002
+math2/statistics/variabilities.py,sha256=oehi_hP2Qs27M0gnq6o-JFqZcQt-XPTbHNijTnJ--v4,913
+math2/statistics/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+math2/statistics/tests/test_samples.py,sha256=DMhhEmV3jop_ITW6XtTsrZpfKu_acChA783Or4_DZo4,1538
+math2-0.0.1.dev1.dist-info/LICENSE,sha256=QUII4v_qa8AKlCVMZVdyMn5p2FP84l1BkhXa2rOuAIs,1071
+math2-0.0.1.dev1.dist-info/METADATA,sha256=Ue_Zh-aJ2VRpawwDpoAXm0L9-hz0V4IqpSS2WdwLZoQ,770
+math2-0.0.1.dev1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+math2-0.0.1.dev1.dist-info/top_level.txt,sha256=kyxCUOeihMU-MoDZunv4OP1OPRo1zWaIHSuku4mYM3I,6
+math2-0.0.1.dev1.dist-info/RECORD,,
