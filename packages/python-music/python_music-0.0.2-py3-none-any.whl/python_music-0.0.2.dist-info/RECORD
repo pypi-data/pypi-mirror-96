@@ -1,0 +1,9 @@
+music/__init__.py,sha256=be1qnefRjPgRsoj0e4BOEh0qUNrGdetg6Mrx-xlPGjI,842
+music/constants.py,sha256=2EW28V3aW9DFeYSUfHLCXr1KXCVE0jxPv_4zif3JFsU,1018
+music/elements.py,sha256=v3VKn10JKFSgVk6oDX4xcV2yF2FH1IzzlAT5y26h_VA,4583
+music/track.py,sha256=xP2NOamKbJlf1dDJGidMWr1qJfUj8q04-G7yLLbjsVo,1665
+python_music-0.0.2.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+python_music-0.0.2.dist-info/METADATA,sha256=S3gu3s0LinpieNFU_3bF9lGF-PhVrH41tzdgoMcz4GU,527
+python_music-0.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+python_music-0.0.2.dist-info/top_level.txt,sha256=1UOi-eyxFhEV2pR0CUl6CjFoOGTBOzSxgeXXhrZyRDU,6
+python_music-0.0.2.dist-info/RECORD,,
