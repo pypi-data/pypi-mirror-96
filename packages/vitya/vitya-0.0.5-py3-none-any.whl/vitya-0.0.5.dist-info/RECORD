@@ -1,0 +1,8 @@
+vitya/__init__.py,sha256=mgcZppU0RM9jC-ZxR42UONpMsfVNgqaPLghCoKX5pgI,113
+vitya/pydantic_fields.py,sha256=CLAq3Hkbdyj1UvtMlrEzR9g2g76NdIrgrZsFgbbIL1Y,1733
+vitya/validators.py,sha256=BIRdA89zpGop_5DcmeGhgI39ByplB5qHTGAwJ5g7L_0,3943
+vitya-0.0.5.dist-info/LICENSE,sha256=3B1dltCsf1e31lEG-jDcITm93d775_jRMCO6Z1H8Ksw,1065
+vitya-0.0.5.dist-info/METADATA,sha256=LZdDfvZH7YLk362cMbvxbFnkj0Uk9TU3EYWQKxdqaQo,1108
+vitya-0.0.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+vitya-0.0.5.dist-info/top_level.txt,sha256=U6lGRAeZqLxhUqKWvPghSX28LJ38ihf5b2KT84TU8K8,6
+vitya-0.0.5.dist-info/RECORD,,
