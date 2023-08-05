@@ -1,0 +1,12 @@
+xinaprocessor/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+xinaprocessor/base.py,sha256=ETmBb8ks-Njw90UhOsVuqNU5naMpdcTg5seH1CYyvEI,17974
+xinaprocessor/classes.py,sha256=N9w6uDKrlKsFl-7bY9lwBrLxd8tNl_tV2EWIibZTQVI,836
+xinaprocessor/cleaners.py,sha256=PqFevcv5dc2Yc-4NUiU4XaDpm5MiZZ8cwX_BslUqdHE,19698
+xinaprocessor/constants.py,sha256=S09WMMn2RulLUFene1tzxmWhQJmuNDZDQ0FhkppwjYM,12274
+xinaprocessor/decorators.py,sha256=HVzQq-C84o0a6pcqINtOp5z-bjJyfZVRYOd6tNdiYvQ,1004
+xinaprocessor/helper.py,sha256=yUZ0OyFKmx2mwej8OFO6ThizDAplxfB0zmatIUaSoiw,3772
+xinaprocessor-0.3.dist-info/LICENSE,sha256=r_oY4Ew33MgoeulLr9qn7Vn5krcZS6lK_XgcvKELYWU,1063
+xinaprocessor-0.3.dist-info/METADATA,sha256=u8iVPhqtGptC-j3ZfiD1cI08rwv3A21FEd-uUi2m-cY,1166
+xinaprocessor-0.3.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+xinaprocessor-0.3.dist-info/top_level.txt,sha256=ULUfLtJgvcjpDQCwzKaIKoriM2Kwi-5Zeg8sHSDaePU,14
+xinaprocessor-0.3.dist-info/RECORD,,
