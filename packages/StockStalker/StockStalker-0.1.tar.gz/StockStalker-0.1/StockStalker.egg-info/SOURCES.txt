@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+setup.py
+StockStalker/__init__.py
+StockStalker/crypto.py
+StockStalker/currency.py
+StockStalker/past.py
+StockStalker/present.py
+StockStalker/stalker.py
+StockStalker/utils.py
+StockStalker.egg-info/PKG-INFO
+StockStalker.egg-info/SOURCES.txt
+StockStalker.egg-info/dependency_links.txt
+StockStalker.egg-info/not-zip-safe
+StockStalker.egg-info/requires.txt
+StockStalker.egg-info/top_level.txt
