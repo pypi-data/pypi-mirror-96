@@ -1,0 +1,8 @@
+README.md
+setup.py
+darwin-datalake/__init__.py
+darwin_datalake.egg-info/PKG-INFO
+darwin_datalake.egg-info/SOURCES.txt
+darwin_datalake.egg-info/dependency_links.txt
+darwin_datalake.egg-info/not-zip-safe
+darwin_datalake.egg-info/top_level.txt
