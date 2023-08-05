@@ -1,0 +1,10 @@
+whey/__init__.py,sha256=vvoXlMWUs7KObVSLLaOY2L6_Hk_ixgVnUUsKol6XyJ4,2670
+whey/__main__.py,sha256=m0z819VvJO4ggCnGkc5UyrqUfkvBeHSo06c6QggLmoY,2940
+whey/builder.py,sha256=hPKRCNePDO4ERQ2kXb94fW5r1FmRCedD-Woers3gdxU,18369
+whey/config.py,sha256=o8biTFKW5xrKKX0VAhhB2mejT55fmmWh8gb0tiCsxLM,29599
+whey-0.0.1.dist-info/LICENSE,sha256=TXanB-tJYmHhByFsynyh-UGwh2VdTVVjbZeFz1utSWc,1064
+whey-0.0.1.dist-info/METADATA,sha256=X4L5x9_GpThRTGm_Oh29xWC3N6_DcTh7uUIvcJWHOlY,6946
+whey-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+whey-0.0.1.dist-info/entry_points.txt,sha256=UJudV__iRBmH5ovBmYKKPz9oYI1YCjTXyLAmagvYh48,45
+whey-0.0.1.dist-info/top_level.txt,sha256=zP1v-BbQVaZP9EITcNcbxc2yoeCor6YrabtS3QeB8Aw,5
+whey-0.0.1.dist-info/RECORD,,
