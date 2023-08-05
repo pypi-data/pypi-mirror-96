@@ -1,0 +1,8 @@
+aws_solutions_constructs/aws_apigateway_iot/__init__.py,sha256=AVoRgBWBbTby3JrkaNmDaYLOMcSvSGfHk4Hz7NeXpJE,18310
+aws_solutions_constructs/aws_apigateway_iot/py.typed,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+aws_solutions_constructs/aws_apigateway_iot/_jsii/__init__.py,sha256=ZwmdVYwTYBJT44VDmd34wdn9Jj08FmQQmNxDqoH-VhQ,553
+aws_solutions_constructs/aws_apigateway_iot/_jsii/aws-apigateway-iot@1.87.1.jsii.tgz,sha256=Wphr4EmREAu_t8FV3qdQc_OFB0qiluIjL-wbrYLTLKI,84574
+aws_solutions_constructs.aws_apigateway_iot-1.87.1.dist-info/METADATA,sha256=I3oNO0e3lHMAuAk0XgNsJmWSxicjOD5-uNqMj4v8RXM,10875
+aws_solutions_constructs.aws_apigateway_iot-1.87.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+aws_solutions_constructs.aws_apigateway_iot-1.87.1.dist-info/top_level.txt,sha256=hi3us_KW7V1ocfOqVsNq1o3w552jCEgu_KsCckqYWsg,25
+aws_solutions_constructs.aws_apigateway_iot-1.87.1.dist-info/RECORD,,
