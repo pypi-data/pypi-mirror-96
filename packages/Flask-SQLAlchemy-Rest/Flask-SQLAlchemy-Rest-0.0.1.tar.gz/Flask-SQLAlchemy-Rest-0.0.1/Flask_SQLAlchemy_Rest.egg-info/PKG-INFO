@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Flask-SQLAlchemy-Rest
+Version: 0.0.1
+Summary: RESTFUL API with Flask and SQLALchemy
+Home-page: https://github.com/qf0129/flask-sqlalchemy-rest
+Author: Qifei
+Author-email: qf0129@qq.com
+License: MIT
+Description: RESTFUL API with Flask and SQLALchemy
+Platform: any
