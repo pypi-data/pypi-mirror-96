@@ -1,0 +1,9 @@
+simplejson-stubs/METADATA.toml,sha256=UCeB452SPwfmvUZ_B_b1UHmJd9YZkyh6ZzO2hxh5IpI,31
+simplejson-stubs/__init__.pyi,sha256=r6sZ4B_hGIz2y83FiFs5WvQweXydgb2GfykOzF0Gd3g,538
+simplejson-stubs/decoder.pyi,sha256=G6ZSyKhYZlQWUxBp8scE-e4u-4B5DDaTpd1xIj_yrdU,247
+simplejson-stubs/encoder.pyi,sha256=Ju-aWi4B6WNQ3G-6n7VQw7idFNeKMhS9g_b7XcHSXLo,264
+simplejson-stubs/scanner.pyi,sha256=_AUT1GJRNYopQ98J8rRXtig5nCunjXLoiCf5gN9dpXo,262
+types_simplejson-0.1.1.dist-info/METADATA,sha256=3mB_r_UXC03bMhMrCsM6mqkCpQYI-miNLnzHkrfQI0g,810
+types_simplejson-0.1.1.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+types_simplejson-0.1.1.dist-info/top_level.txt,sha256=dyPpVbVov_NTZvFSIYqFH05ghI2mBFnq_p2S2mh0zIw,17
+types_simplejson-0.1.1.dist-info/RECORD,,
