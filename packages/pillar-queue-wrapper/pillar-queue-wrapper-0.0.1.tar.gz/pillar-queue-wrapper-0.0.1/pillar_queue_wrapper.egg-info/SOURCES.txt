@@ -1,0 +1,10 @@
+README.md
+setup.py
+pillar_queue/__init__.py
+pillar_queue/client.py
+pillar_queue/test_client.py
+pillar_queue_wrapper.egg-info/PKG-INFO
+pillar_queue_wrapper.egg-info/SOURCES.txt
+pillar_queue_wrapper.egg-info/dependency_links.txt
+pillar_queue_wrapper.egg-info/requires.txt
+pillar_queue_wrapper.egg-info/top_level.txt
