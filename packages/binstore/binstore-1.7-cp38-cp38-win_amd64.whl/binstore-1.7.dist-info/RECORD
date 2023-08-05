@@ -1,0 +1,8 @@
+bins.cp38-win_amd64.pyd,sha256=57pri3uGTv47VsWvE4K_hPoLmOjr1xqI9GBaT-wusnA,19968
+binstore.cp38-win_amd64.pyd,sha256=GDqRhBEXBvrJK6EapNmw75l8PkZpJtHCIKKtG_tLfrI,19968
+metrics.cp38-win_amd64.pyd,sha256=ew5ojNXvw8qxUdE7bp2j1zJJ0BNcSaTqq4Jmbcvc53s,11264
+binstore-1.7.dist-info/LICENSE.txt,sha256=agTzejigvqLVFIFvO5QkclYsYaoaRXWA-DeK-6_ahkA,1095
+binstore-1.7.dist-info/METADATA,sha256=8u986Sj28F5jxDlEvkc4E9aFZgDyIXLNwylk8KgyAlc,200
+binstore-1.7.dist-info/WHEEL,sha256=HLtxc_HoM-kGM7FPJVPSnTt0Nv2G3fZEAjT3ICdG8uY,100
+binstore-1.7.dist-info/top_level.txt,sha256=vBjR5q95qraOq1cuSLe0MnuwPJUMGIvM0RhUVWyT2H0,9
+binstore-1.7.dist-info/RECORD,,
