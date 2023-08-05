@@ -1,0 +1,7 @@
+README.txt
+setup.py
+portdatasplitter.egg-info/PKG-INFO
+portdatasplitter.egg-info/SOURCES.txt
+portdatasplitter.egg-info/dependency_links.txt
+portdatasplitter.egg-info/requires.txt
+portdatasplitter.egg-info/top_level.txt
