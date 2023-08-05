@@ -1,0 +1,13 @@
+cqu_timetable_new/QTGUI.py,sha256=AJeJJ3nayBEfDXUALb8p3n8BzNw7mXW19-nUU8zexHQ,4911
+cqu_timetable_new/__init__.py,sha256=sZNIB-yAilyYtv6E7KYiE1M-0l19w6mkE0q6MYzgjkk,7619
+cqu_timetable_new/__main__.py,sha256=pbzax8YL7qRQ3vxOh9aS0qq5623teea3itylCQv3NV8,220
+cqu_timetable_new/layout/mainWindow.ui,sha256=SC8lmPDRyEY1aLu7C5qQ8ejLYrvTKxALQ5MNt_PEpDU,3114
+cqu_timetable_new/readme.md,sha256=8Ku4RzbVrCZHUTloiPsiWUA7cq1HYjTYvo6ik6wWNF8,2234
+cqu_timetable_new/tkgui.py,sha256=5DDzEJqJDJ_wEU4WPHz1bdHrpeAM8dPJXZOsrBZqsHk,2623
+readme.md,sha256=8Ku4RzbVrCZHUTloiPsiWUA7cq1HYjTYvo6ik6wWNF8,2234
+cqu_timetable_new-0.3.2.10.dist-info/entry_points.txt,sha256=DQ-hdrfcNWl4cv-MDj9lXIK6Xs1NIP6oD0Ci5eBi_1o,160
+cqu_timetable_new-0.3.2.10.dist-info/LICENSE,sha256=566LXaF3CUdLolMWRBvAZBSIQc8QHn7vMYw8PuWggns,34499
+cqu_timetable_new-0.3.2.10.dist-info/LICENSE.txt,sha256=566LXaF3CUdLolMWRBvAZBSIQc8QHn7vMYw8PuWggns,34499
+cqu_timetable_new-0.3.2.10.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+cqu_timetable_new-0.3.2.10.dist-info/METADATA,sha256=Puj74BrDgr83cTLiQlTVn_7LOva0-_xQJLjXUUsooi0,3196
+cqu_timetable_new-0.3.2.10.dist-info/RECORD,,
