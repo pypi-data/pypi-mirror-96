@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+autoswitch/__init__.py
+autoswitch/__main__.py
+autoswitch/cli.py
+autoswitch/exceptions.py
+autoswitch/network.py
+autoswitch/utils.py
+autoswitch.egg-info/PKG-INFO
+autoswitch.egg-info/SOURCES.txt
+autoswitch.egg-info/dependency_links.txt
+autoswitch.egg-info/requires.txt
+autoswitch.egg-info/top_level.txt
+tests/__init__.py
+tests/test_parser.py
