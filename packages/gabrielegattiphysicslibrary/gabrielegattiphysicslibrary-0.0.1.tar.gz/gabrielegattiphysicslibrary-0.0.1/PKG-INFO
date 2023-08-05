@@ -1,0 +1,29 @@
+Metadata-Version: 1.1
+Name: gabrielegattiphysicslibrary
+Version: 0.0.1
+Summary: A short set of Physics formulas and constants
+Home-page: UNKNOWN
+Author: Gabriele Gatti
+Author-email: gabrielegatti432@gmail.com
+License: MIT
+Description: Physics.py is a simple  list of some of the most important Physics Formulas and Constants.
+        Examples of basic constants are Earth mass, Moon mass, Sun mass, speed of light, speed of sound.
+        Other notorius examples are Coulomb, Stefan-Boltzmann, Planck constants.
+        
+        Examples of basic formulas are Force, Distance, Time, Speed, Work...
+        Examples of more complex formulas are Poiseuille, Stokes, Fourier, Gay-Lussac laws... 
+        
+        Change log
+        
+        ==========
+        
+        0.0.1 (23/02/2021)
+        -------------------
+        - First Release
+Keywords: physics
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

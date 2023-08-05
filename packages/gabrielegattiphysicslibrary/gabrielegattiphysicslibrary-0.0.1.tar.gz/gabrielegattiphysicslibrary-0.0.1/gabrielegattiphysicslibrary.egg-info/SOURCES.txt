@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+Physics.py
+README.txt
+setup.py
+gabrielegattiphysicslibrary.egg-info/PKG-INFO
+gabrielegattiphysicslibrary.egg-info/SOURCES.txt
+gabrielegattiphysicslibrary.egg-info/dependency_links.txt
+gabrielegattiphysicslibrary.egg-info/top_level.txt
