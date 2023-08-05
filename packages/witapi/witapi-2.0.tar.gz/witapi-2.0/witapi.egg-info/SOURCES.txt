@@ -1,0 +1,17 @@
+README.txt
+setup.py
+wapi/__init__.py
+wapi/errors.py
+wapi/main.py
+wapi/auth/__init__.py
+wapi/auth/auth_module.py
+wapi/auth/auth_settings.py
+wapi/tests/__init__.py
+wapi/tests/test_cfg.py
+wapi/tests/witclient_tester.py
+wapi/tests/witserver_tester.py
+witapi.egg-info/PKG-INFO
+witapi.egg-info/SOURCES.txt
+witapi.egg-info/dependency_links.txt
+witapi.egg-info/requires.txt
+witapi.egg-info/top_level.txt
