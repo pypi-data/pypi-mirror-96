@@ -1,0 +1,10 @@
+ipa_notify/__init__.py,sha256=4qqSqCvx61mtEIGWfNY1HBPQgN29DHOZkdFPnZFeo0c,2804
+ipa_notify/__main__.py,sha256=CpawOQfOpUod3soO6okzMkwlwZu1-6_4ZOFqNdLLwUE,3448
+ipa_notify/notifier.py,sha256=FdF3Sd5Ks-_cSDT-Oog2wYJ6U4dcJKm45C2W9WcxJc0,1870
+ipa_notify/release.py,sha256=Vw2M7I3EExvmyrDXe6ZHdIK-V1RizkdWniZJBzf53eY,600
+ipa_notify-0.2.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+ipa_notify-0.2.1.dist-info/METADATA,sha256=wa19beg_UGzWf1JCB9y4c6-C9pPdgK9U4DfmV3oxCiU,3736
+ipa_notify-0.2.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+ipa_notify-0.2.1.dist-info/entry_points.txt,sha256=kZKq2g8WWeVUcYzbY_VLt-xwy51do9VojPiJEeSRMWU,57
+ipa_notify-0.2.1.dist-info/top_level.txt,sha256=LPDwd2p-QOsIM7z4GqGjDl_TZ3cOnBHtT3DjfTsF4yk,11
+ipa_notify-0.2.1.dist-info/RECORD,,
