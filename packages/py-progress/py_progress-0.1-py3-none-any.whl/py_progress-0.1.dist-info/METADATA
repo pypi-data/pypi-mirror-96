@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: py-progress
+Version: 0.1
+Summary: PyProgress: An ASCII-based progressbar
+Home-page: https://github.com/TheDementors/PyProgress
+Author: Abhishek Chatterjee
+Author-email: abhishek.chatterjee97@protonmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/TheDementors/PyProgress/issues
+Project-URL: Documentation, https://github.com/TheDementors/PyProgress
+Project-URL: Source Code, https://github.com/TheDementors/PyProgress
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/x-rst
+
+
+Simple progressbar function that prints an ASCII-based progressbar in the terminal with the additional textual description on the left and right-hand side. In programs where there is a long loop, this method can be used to print a progressbar with progress text.
+
+
