@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+docassemble/__init__.py
+docassemble.service.egg-info/PKG-INFO
+docassemble.service.egg-info/SOURCES.txt
+docassemble.service.egg-info/dependency_links.txt
+docassemble.service.egg-info/namespace_packages.txt
+docassemble.service.egg-info/not-zip-safe
+docassemble.service.egg-info/top_level.txt
+docassemble/service/__init__.py
+docassemble/service/data/sources/README.md
+docassemble/service/data/static/README.md
+docassemble/service/data/templates/README.md
