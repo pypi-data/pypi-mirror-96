@@ -1,0 +1,13 @@
+libmaths/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+libmaths/linear.py,sha256=9Zk-HfbldLr8x37AM46tZX-_A7CVnvi5YWbKGAdAnV4,3482
+libmaths/other.py,sha256=l6JIWVYBrEx5fJs3otDKGofGLBjoaDQLLCbvDYBp420,1116
+libmaths/polynomial.py,sha256=bxbe3yMv9xvzu9RpDrTQvvflO7mzuar4wUQ39wqNoA0,14941
+libmaths/special.py,sha256=zxCpiUygEhs94X6O48V3y2VrGzP5-RiCONmDy0SWkYc,3026
+libmaths/trig.py,sha256=_Tx2PaFaHoZifquHDQ2pJPkyv3yuYi1gpiiJdkkPgCg,2912
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_libmaths.py,sha256=hz39Z2on8zETwfKacxJBoXR-0gafSvRmQK_Tpmr5ySo,1141
+libmaths-0.1.1.dist-info/LICENSE,sha256=6C0Ee9InjmbvPltTqONhVVFequWQdfd7Wca8ojZkC7E,1063
+libmaths-0.1.1.dist-info/METADATA,sha256=ajEXUU4wEWZPPBx15CGPNQVVruiIojseAH3AcYt_ASQ,922
+libmaths-0.1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+libmaths-0.1.1.dist-info/top_level.txt,sha256=Nu4mg0s7eWe6E9xEqN6CQRTiN0uUUU7CODtRMQW6eAg,15
+libmaths-0.1.1.dist-info/RECORD,,
