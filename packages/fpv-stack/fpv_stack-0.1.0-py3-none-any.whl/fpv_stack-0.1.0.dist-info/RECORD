@@ -1,0 +1,10 @@
+fpv_stack/__init__.py,sha256=IMjkMO3twhQzluVTo8Z6rE7Eg-9U79_LGKMcsWLKBkY,22
+fpv_stack/create.py,sha256=C9r17XXBsDUnahdSFkzCLeR-Rse-EPx8iN4wns6laBg,2025
+fpv_stack/main.py,sha256=GMaFNP_s3_0eo35XWdWDZvhh_imSN6cp-UI5bJipdCo,317
+fpv_stack/templates/docker_compose.py,sha256=wLXdfsK5oJJZMY3ZkBsd1YRQ4KQCvimHwKymv76fErg,174
+fpv_stack/templates/docker_file.py,sha256=IAa12XvrEbCcVFqwszG15u3t2pA4-oXEmliVqy-cKMU,279
+fpv_stack/templates/main.py,sha256=tbejAZPI75GB0srDYZJm3JIYM-y1UUFuilCO9y-E5AE,336
+fpv_stack-0.1.0.dist-info/entry_points.txt,sha256=QuSvkLTEHTrYKKyTFdddSqSR5Wp1kW_KSGV2JG2OjXQ,54
+fpv_stack-0.1.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+fpv_stack-0.1.0.dist-info/METADATA,sha256=-zrfdkh8L3neXdRinI_aFgiVy2Io8B7ZI_SniQ11gUA,304
+fpv_stack-0.1.0.dist-info/RECORD,,
