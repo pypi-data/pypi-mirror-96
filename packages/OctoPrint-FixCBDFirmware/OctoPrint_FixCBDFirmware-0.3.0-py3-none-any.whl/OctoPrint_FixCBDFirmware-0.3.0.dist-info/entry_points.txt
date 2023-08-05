@@ -1,0 +1,3 @@
+[octoprint.plugin]
+fixcbdfirmware = octoprint_fixcbdfirmware
+
