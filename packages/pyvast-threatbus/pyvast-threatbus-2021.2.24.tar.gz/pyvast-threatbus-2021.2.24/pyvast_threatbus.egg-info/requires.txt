@@ -1,0 +1,7 @@
+black>=19.10b
+coloredlogs>=14.0
+confuse
+pyzmq>=19
+pyvast>=2020.10.29
+threatbus<2021.2.24,>=2020.12.16
+threatbus-zmq-app<2021.2.24,>=2020.12.16
