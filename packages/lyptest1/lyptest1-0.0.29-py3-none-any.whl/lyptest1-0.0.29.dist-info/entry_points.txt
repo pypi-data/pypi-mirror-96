@@ -1,0 +1,3 @@
+[console_scripts]
+say4 = twine2.__main__:main
+
