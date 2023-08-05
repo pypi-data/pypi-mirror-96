@@ -1,0 +1,9 @@
+temperature2mqtt/__init__.py,sha256=Upu9DEC_uohXsy8sApvPsyNmyGGabG1RnGEbQWKtSoY,61
+temperature2mqtt/__main__.py,sha256=lLLb6NnNoAtkoH2046BWerA8Uqxxb1DY-dI0PY6xv-8,71
+temperature2mqtt/temperature2mqtt.py,sha256=xl_uv32sj_yKXV4l2JexKnUTixWeJh0djwo8bMARNR4,1258
+temperature2mqtt/temperatureReader.py,sha256=Wc-FbbaVBIa4T7NahEt132Xk9XcYKw3exur0mMqB380,1282
+temperature2mqtt-0.1.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+temperature2mqtt-0.1.0.dist-info/METADATA,sha256=_7-jzF_6OyPzZZVxr1na9pvObgm-5MzSpDD6AlnhUp0,357
+temperature2mqtt-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+temperature2mqtt-0.1.0.dist-info/top_level.txt,sha256=ai2QwJFOHHJkrazz9PmbwCMM26M8IChIONB7h6tAxdU,17
+temperature2mqtt-0.1.0.dist-info/RECORD,,
