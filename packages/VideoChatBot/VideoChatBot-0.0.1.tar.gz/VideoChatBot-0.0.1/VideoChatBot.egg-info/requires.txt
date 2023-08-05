@@ -1,0 +1,9 @@
+ChatterBot
+opencv-python
+SpeechRecognition
+matplotlib
+imageio
+pyttsx3
+text2emotion
+tensorflow
+fer
