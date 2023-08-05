@@ -1,0 +1,14 @@
+tiledb/segy/__init__.py,sha256=weax6KWbVYs8Ks2ExL4xYB3S9FM4EPXOWh7iaTI-r0k,841
+tiledb/segy/cli.py,sha256=AfgJqB9kF3IGdBagv92kAFsYxlX9F_1BfiHdvkv7DXA,3513
+tiledb/segy/convert.py,sha256=x7VzqlN98WdIk-iLY6YskOCRxcFIaOKLQBR-bM5M0pI,10116
+tiledb/segy/singledispatchmethod.py,sha256=Mu899HSkDiPE66gr_edh_ZfqW_Q7d79jZ2P_nM4Ugs4,1209
+tiledb/segy/structured.py,sha256=XKqpCQeZyvuQTPUDH3GAx8E5z-7GDZWoWJc4eAHL0-k,9441
+tiledb/segy/tdbwrapper.py,sha256=V_tXjNbPTtusSAuBdS4LVGcGeUjM53Wp4VZ_YPd_bUU,3901
+tiledb/segy/types.py,sha256=2xaQ8_DECm8-nStNkUqVEOLmjQV3imlJ7h1jmIfgA2o,561
+tiledb/segy/unstructured.py,sha256=0_n6pukp26iV3d8TU6mOobYMBKhBc7l2Szz4wM_C-H0,6779
+tiledb_segy-0.3.0.dist-info/LICENSE,sha256=g3EqvYdAgT5TeJbkz5qbSHrIj__lpxgJWD1DPAunS4Q,1079
+tiledb_segy-0.3.0.dist-info/METADATA,sha256=0Vfk5OLAIDTLmyOhLq2wNMXE_vVtfIGyg99VTJ5xnCA,7595
+tiledb_segy-0.3.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+tiledb_segy-0.3.0.dist-info/entry_points.txt,sha256=hvPfjuIHcQV2r9TGJUDVzlEx_hcj6Blo-fBtTepv9pA,54
+tiledb_segy-0.3.0.dist-info/top_level.txt,sha256=TTVUYCu5VdKjmIqtFaTF9PPxejc3p4Xe7VNX11L4Tvk,7
+tiledb_segy-0.3.0.dist-info/RECORD,,
