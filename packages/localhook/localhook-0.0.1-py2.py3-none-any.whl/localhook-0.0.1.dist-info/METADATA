@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: localhook
+Version: 0.0.1
+Summary: Receive webhooks to your local Terminal
+Home-page: https://github.com/kekayan/localhook
+Author: Kekayan Nanthakumar
+Author-email: kekayan.nanthakumar@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: pyngrok (>=5.0.2)
+Requires-Dist: Flask (==1.1.2)
+Requires-Dist: PyYAML (>=5.3.1)
+Requires-Dist: rich
+Requires-Dist: waitress
+Requires-Dist: click
+
+UNKNOWN
+
+
