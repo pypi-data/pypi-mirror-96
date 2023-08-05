@@ -1,0 +1,17 @@
+abritamr/AmrSetup.py,sha256=UlO6ghPBP7IlFauh_CjTMAvxPzL1MvczN_w33oXQedQ,12123
+abritamr/__init__.py,sha256=6HmIvUFrqulMgk1mRpXTMeCRc5uts1W-B-0MiQEij3c,73
+abritamr/abritamr.py,sha256=aHZL6-BAQNKkgN8lH5WqXc-NVe2RU_j5jUznw85Wbn4,4522
+abritamr/version.py,sha256=0k27JCG3jb7i5uxXj7mY_twP6k4yyKDYRHwXKVUahBc,41
+abritamr/db/refgenes_3.1.1b.csv,sha256=WFYPhYtMB31EtwpJ4eI_-HUqCWplPdJC3p614_8RsJ8,1048312
+abritamr/db/refgenes_3.2.1.csv,sha256=NRHsF6ncTaZTM5cRUf_fsWdVml11IH3_hCPyTAfwRvw,1035428
+abritamr/db/refgenes_3.2.1_202001.csv,sha256=kEAWwEJxNMP0FL38p757AReEMl-olQ-Ifid2UVJNZTM,1043022
+abritamr/db/refgenes_3.4.7_2020-01-22.1.csv,sha256=brpZQPkU1uIC9YWo3Aw5I5Y6ad20ZGTEGfKu3kB-9aE,1274366
+abritamr/db/refgenes_latest.csv,sha256=brpZQPkU1uIC9YWo3Aw5I5Y6ad20ZGTEGfKu3kB-9aE,1274366
+abritamr/templates/Snakefile.smk,sha256=hfLHe0XLmlLukzm6Y4pJ90M7FfC4xK-nNVFGGJIfrr8,1248
+abritamr/templates/config.j2,sha256=zC0n-ojT56yVSPIq0XsB3JYWSCtTNuZ__ekECjyMPbo,288
+abritamr/utils/collate.py,sha256=0NLc47rlPkHbZcZ8GQqjjxIeadvWdekcFJR3vc79CBM,23338
+abritamr-0.2.1.dist-info/METADATA,sha256=CBKn9IShtR7d0-CEfWBdigM9BoUF_ERsBSa2TV6jANA,4175
+abritamr-0.2.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+abritamr-0.2.1.dist-info/entry_points.txt,sha256=TyAldI-_2uPT2M1txCN-oiPOK8ct6cS2x8YyNWagIHM,87
+abritamr-0.2.1.dist-info/top_level.txt,sha256=0q3ig11CRCXabHzZS0TCB1jnxTPFAqd5hPv-bh1Et-Y,9
+abritamr-0.2.1.dist-info/RECORD,,
