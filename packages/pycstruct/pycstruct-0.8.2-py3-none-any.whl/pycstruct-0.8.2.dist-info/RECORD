@@ -1,0 +1,9 @@
+pycstruct/__init__.py,sha256=74ZSZP8KXknk9mVoK6kPHzZhEZVWLIvDYBxXnfJyxmk,663
+pycstruct/cparser.py,sha256=2Nc6UVb3_6NhCzXj_PQdZQ9PN2oUm1-E0MgohZpJRx8,25788
+pycstruct/instance.py,sha256=MRMHkkzfDUpodWmRJs7IdbeZMJmYkMmDg_YMQGrEYiU,8311
+pycstruct/pycstruct.py,sha256=BpUy2V_ms5e8HnbXfwDdm4g4KQ_IcurYvRmldKXKs4k,45013
+pycstruct-0.8.2.dist-info/LICENSE.txt,sha256=HkLiZ_Wps_JCiEbJYdNm3Y2XHB5i5sQo9rjfzYUPqZ4,1073
+pycstruct-0.8.2.dist-info/METADATA,sha256=3tVpw1GX1CnbbLCVgqOMw4Rz8mMpE4FesYeckKmfBYk,6304
+pycstruct-0.8.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pycstruct-0.8.2.dist-info/top_level.txt,sha256=q7G6DkojJcCUOyrxFr1WZaN1S8MnPkZ5Yqu3PDWY2Ko,10
+pycstruct-0.8.2.dist-info/RECORD,,
