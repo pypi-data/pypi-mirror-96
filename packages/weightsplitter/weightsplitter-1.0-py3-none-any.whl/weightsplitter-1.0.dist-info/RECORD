@@ -1,0 +1,17 @@
+weightsplitter/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+weightsplitter/errors.py,sha256=qkQSvlK9i9TY1kpiU6VvkPudvIlFiQ-T2ywCWWmG_pE,406
+weightsplitter/main.py,sha256=p9ia-gJmY3HGTQusMLTgsONA_cM-SFOc8LGOJlK7DlQ,1419
+weightsplitter/server_test.py,sha256=ipOREZKgZ3-TbV5HEAJF3time_b6GydxCbawPsfkSH4,150
+weightsplitter/settings.py,sha256=OROj1_3hIFc-GzsSEAQrQUWNkcL-kS4HyAK-NdNJqZs,364
+weightsplitter/support_functions.py,sha256=qxFc6exz1UcGNbDy5eOUbG15QxDmCUwiL47dCHvfGdY,1120
+weightsplitter/terminals/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+weightsplitter/terminals/CAS/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+weightsplitter/terminals/CAS/functions.py,sha256=Jz2iVFFq-rWPT6iCl1PsU9Km2yne3X7ek8kcAZ_pOxg,618
+weightsplitter/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+weightsplitter/tests/settings_test.py,sha256=uhQjp-fDlMZW3_Q0uDFRBg_bjujcUNSnk8tGqXEjgo4,68
+weightsplitter/tests/support_functions_tests.py,sha256=u_7UqjhrUqjUlFQi8x4gVQ2ERqe54NMVXRdZmI57cqw,651
+weightsplitter-1.0.dist-info/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+weightsplitter-1.0.dist-info/METADATA,sha256=GHaHgA1lCghshLNx3B_-k7tLNzpOpmoTcB7SnNugsLM,954
+weightsplitter-1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+weightsplitter-1.0.dist-info/top_level.txt,sha256=IP34-VPBS-4_q3Oog6O3qzySrXFXfESApY4MAV1V2cc,15
+weightsplitter-1.0.dist-info/RECORD,,
