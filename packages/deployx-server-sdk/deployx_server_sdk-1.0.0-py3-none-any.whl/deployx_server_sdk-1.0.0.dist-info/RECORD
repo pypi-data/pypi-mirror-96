@@ -1,0 +1,14 @@
+dxclient/__init__.py,sha256=8wH8v5gSkuugyfzRJC8gukaf6W9aZRC-0diJWy4Gdmg,2023
+dxclient/client.py,sha256=hlUmYpiKPmJExqKnaDqEQtXZs8x-COebY9mKB6hVmIM,2465
+dxclient/config.py,sha256=fAw7R4S-bHqzmz0TjFbjMYyu55vR-sAJ_5RswMHBZRo,1724
+dxclient/store.py,sha256=11ZFcjQIY_N33xdfCFY1emK_4xGtBujceGsYOV0-joE,1642
+tests/__init__.py,sha256=YxdDyQut6orE2ECfKVbdlWa3qNVE0BX0SoSXRi8U8lg,86
+tests/conftest.py,sha256=y02UFQ-HE0I-SwPCP7HvNRoGB96kkSPvIVZjcg_kcbM,2042
+tests/test_config.py,sha256=uaGXhxXqbaA1Ooo_5Avubd5CJJuDn9Faw8_9RQ6hDeI,3656
+tests/test_functionals.py,sha256=Q09R4Q5yg_Q50j84IpoIYahz_PBpfZ9z_3IBfjTsaL0,3113
+tests/test_initialization.py,sha256=vwkZl_aW1wX-LEjqt6i2RG-FptXW_IOw0H1MXsVISU4,1710
+deployx_server_sdk-1.0.0.dist-info/LICENSE,sha256=2bm9uFabQZ3Ykb_SaSU_uUbAj2-htc6WJQmS_65qD00,1073
+deployx_server_sdk-1.0.0.dist-info/METADATA,sha256=MyyVJHlhOxX-Xi3gHtsyPzK5g0QIOB7Hu8DcBtc0_lQ,663
+deployx_server_sdk-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+deployx_server_sdk-1.0.0.dist-info/top_level.txt,sha256=wEpWhBfTZWAUa50EhVWaDZeCacq3HfhLt5eDRWX6RIk,15
+deployx_server_sdk-1.0.0.dist-info/RECORD,,
