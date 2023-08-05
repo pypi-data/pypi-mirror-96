@@ -1,0 +1,3 @@
+[console_scripts]
+DEBKS = debks.DEBKS_main:main
+

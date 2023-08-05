@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: DEBKS
+Version: 1.0.1
+Summary: Analysis differential back-spliced in of ribo-zero RNA-seq
+Home-page: https://github.com/yangence/DEBKS
+Author: Zelin Liu
+Author-email: zlliu@bjmu.edu.cn
+License: GPL3
+Description: UNKNOWN
+Keywords: circular RNAs
+Platform: UNKNOWN
+Requires-Python: >=3
