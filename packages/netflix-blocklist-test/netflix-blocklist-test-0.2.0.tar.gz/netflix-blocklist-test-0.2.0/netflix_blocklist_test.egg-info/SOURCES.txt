@@ -1,0 +1,7 @@
+README.md
+setup.py
+blocklisttest/__init__.py
+netflix_blocklist_test.egg-info/PKG-INFO
+netflix_blocklist_test.egg-info/SOURCES.txt
+netflix_blocklist_test.egg-info/dependency_links.txt
+netflix_blocklist_test.egg-info/top_level.txt
