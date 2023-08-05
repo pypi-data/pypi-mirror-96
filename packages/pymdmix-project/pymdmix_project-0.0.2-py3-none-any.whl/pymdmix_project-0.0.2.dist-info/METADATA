@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pymdmix-project
+Version: 0.0.2
+Summary: pymdmix project plugin
+Home-page: https://github.com/ggutierrez-bio/mdmix4/pymdmix-project
+Author: ggutierrez-bio
+Author-email: 
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Requires-Dist: pymdmix-core
+
+UNKNOWN
+
+
