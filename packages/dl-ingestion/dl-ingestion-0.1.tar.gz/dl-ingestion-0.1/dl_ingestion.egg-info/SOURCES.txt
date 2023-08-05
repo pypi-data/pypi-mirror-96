@@ -1,0 +1,9 @@
+README.md
+setup.py
+darwin-datalake/__init__.py
+dl-ingestion/__init__.py
+dl_ingestion.egg-info/PKG-INFO
+dl_ingestion.egg-info/SOURCES.txt
+dl_ingestion.egg-info/dependency_links.txt
+dl_ingestion.egg-info/not-zip-safe
+dl_ingestion.egg-info/top_level.txt
