@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+logevo/__init__.py
+logevo.egg-info/PKG-INFO
+logevo.egg-info/SOURCES.txt
+logevo.egg-info/dependency_links.txt
+logevo.egg-info/not-zip-safe
+logevo.egg-info/top_level.txt
