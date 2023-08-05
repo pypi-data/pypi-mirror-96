@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: asf-search
+Version: 0.1.0
+Summary: Python wrapper for ASF's SearchAPI
+Home-page: https://github.com/asfadmin/Discovery-asf_search.git
+Author: Alaska Satellite Facility Discovery Team
+Author-email: uaf-asf-discovery@alaska.edu
+License: UNKNOWN
+Description: # asf_search
+        
+        Python wrapper for the ASF SearchAPI
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
