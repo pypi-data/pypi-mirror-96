@@ -1,0 +1,7 @@
+numpy
+scipy
+Orange3>=3.25.0
+
+[test]
+pytest
+coverage
