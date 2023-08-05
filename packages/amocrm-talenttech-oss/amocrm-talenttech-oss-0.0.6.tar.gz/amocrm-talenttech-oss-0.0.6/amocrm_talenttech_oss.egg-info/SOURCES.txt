@@ -1,0 +1,8 @@
+README.md
+setup.py
+amocrm_talenttech_oss.egg-info/PKG-INFO
+amocrm_talenttech_oss.egg-info/SOURCES.txt
+amocrm_talenttech_oss.egg-info/dependency_links.txt
+amocrm_talenttech_oss.egg-info/requires.txt
+amocrm_talenttech_oss.egg-info/top_level.txt
+test/test_amocrm.py
