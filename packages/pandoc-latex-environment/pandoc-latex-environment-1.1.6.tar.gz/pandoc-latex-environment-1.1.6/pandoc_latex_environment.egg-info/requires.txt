@@ -1,0 +1,8 @@
+pandocfilters>=1.4
+
+[dev]
+check-manifest
+
+[test]
+tox
+pytest-runner
