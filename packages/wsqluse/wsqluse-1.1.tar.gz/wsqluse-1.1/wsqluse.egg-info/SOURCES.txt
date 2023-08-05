@@ -1,0 +1,16 @@
+README.txt
+setup.py
+wsqluse/__init__.py
+wsqluse/settings.py
+wsqluse/wsqluse.py
+wsqluse.egg-info/PKG-INFO
+wsqluse.egg-info/SOURCES.txt
+wsqluse.egg-info/dependency_links.txt
+wsqluse.egg-info/requires.txt
+wsqluse.egg-info/top_level.txt
+wsqluse/tests/__init__.py
+wsqluse/tests/general_test_funcs.py
+wsqluse/tests/get_dict_test.py
+wsqluse/tests/test_cfg.py
+wsqluse/tests/try_execute_funcs_test.py
+wsqluse/tests/try_execute_get_test.py
