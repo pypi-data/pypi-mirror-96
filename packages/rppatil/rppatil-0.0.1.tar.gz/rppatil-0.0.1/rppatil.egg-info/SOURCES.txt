@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+rppatil.egg-info/PKG-INFO
+rppatil.egg-info/SOURCES.txt
+rppatil.egg-info/dependency_links.txt
+rppatil.egg-info/top_level.txt
