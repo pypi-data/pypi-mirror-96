@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: bailiwick
+Version: 0.0.0.dev0
+Summary: Manage program contexts
+Home-page: https://github.com/abadger/bailiwick
+License: LGPL-3.0-or-later
+Author: Toshio Kuratomi
+Author-email: a.badger@gmail.com
+Requires-Python: >=3.7.0,<4.0.0
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Project-URL: Repository, https://github.com/abadger/bailiwick
+Description-Content-Type: text/markdown
+
+# bailiwick
+Python library for managing contexts
+
