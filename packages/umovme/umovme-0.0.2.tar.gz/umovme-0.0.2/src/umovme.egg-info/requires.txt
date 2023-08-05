@@ -1,0 +1,5 @@
+furl==2.1.0
+requests==2.25.1
+xmltodict==0.12.0
+dicttoxml==1.7.4
+munch==2.5.0
