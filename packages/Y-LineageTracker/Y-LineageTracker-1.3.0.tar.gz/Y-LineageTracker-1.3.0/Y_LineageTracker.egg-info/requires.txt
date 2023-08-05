@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+ete3
+networkx
+BioPython
+pysam
+pyqt5
+adjustText
