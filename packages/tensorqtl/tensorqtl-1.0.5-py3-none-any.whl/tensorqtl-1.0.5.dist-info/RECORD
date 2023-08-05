@@ -1,0 +1,16 @@
+tensorqtl/__init__.py,sha256=yx2vdWjt48nMWYf5EBXYAtw9fErXl7P7wT7Tk9pXZyg,47
+tensorqtl/__main__.py,sha256=d82Mzta-zFkwwurA8MFrhfCcJc5XJ4TWBqmDoPurF7o,34
+tensorqtl/cis.py,sha256=XBvIlaljv8Oqfmn3CFYeKwOyXCTw0eeBX0K9OrL96A0,44801
+tensorqtl/core.py,sha256=t6KUZOVWI6V7WQSGX57XwAWEqQOw2JPNREhtfkn8tmE,12277
+tensorqtl/eigenmt.py,sha256=Q3x07UjQjNBd1Vs-iltFVc4gMQJj5I4PiPvJttFFFxc,7450
+tensorqtl/genotypeio.py,sha256=RhWMxRAvWGUOb-LAzcdPf2wFrr9JyhYb6j2DPaDfeSI,19137
+tensorqtl/post.py,sha256=mqOypli2gpi1N7DEcajZ82RzzxxLH3ukqILfaAVwJcE,10878
+tensorqtl/rfunc.py,sha256=l5CqHq7j551v4eF-pTXkbemWMLmGVZeeBZ-ooE6W46s,1837
+tensorqtl/tensorqtl.py,sha256=RLxMgFXxLKixW3-qlq2UXBSqznGWL62SIUvWxsOoeoE,10964
+tensorqtl/trans.py,sha256=sKNKfS6ucrOQ4Vqng07-j_y2YhO4ujJy3_XdTUATc_s,20767
+tensorqtl-1.0.5.dist-info/LICENSE,sha256=QdluqALrRP1PLXl1oskNbQ_41fQL7U3L6y0o7a6Y5u0,1568
+tensorqtl-1.0.5.dist-info/METADATA,sha256=T4GLVPj3XVUMn6nMQAIYCWP3J-MXO3zR-WPK6A3GU6A,7657
+tensorqtl-1.0.5.dist-info/WHEEL,sha256=S8S5VL-stOTSZDYxHyf0KP7eds0J72qrK0Evu3TfyAY,92
+tensorqtl-1.0.5.dist-info/entry_points.txt,sha256=zbgNxTS86wQGeHid1JD7b7qVnWEACAaKtazPCPNNAVg,50
+tensorqtl-1.0.5.dist-info/top_level.txt,sha256=Mdxwtxic_4E1pTTHFYOSM_w0WRZK-bTGhXDEoUvgga0,10
+tensorqtl-1.0.5.dist-info/RECORD,,
