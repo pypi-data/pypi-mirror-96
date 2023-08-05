@@ -1,0 +1,9 @@
+README.txt
+setup.py
+hermessplitter/__init__.py
+hermessplitter/main.py
+hermessplitter.egg-info/PKG-INFO
+hermessplitter.egg-info/SOURCES.txt
+hermessplitter.egg-info/dependency_links.txt
+hermessplitter.egg-info/requires.txt
+hermessplitter.egg-info/top_level.txt
