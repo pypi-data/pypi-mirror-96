@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: cgmodels
+Version: 0.1.0
+Summary: Models used at clinical genomics
+Home-page: https://github.com/Clinical-Genomics/cgmodels
+Author: moonso
+Author-email: mans.magnusson@scilifelab.se
+Requires-Python: >=3.6,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: pydantic (>=1.7.3,<2.0.0)
+Requires-Dist: typing-extensions (>=3.7.4,<4.0.0)
+Project-URL: Repository, https://github.com/Clinical-Genomics/cgmodels
+Description-Content-Type: text/markdown
+
+# cgmodels
+
+Work as an interface between services at Clinical Genomics. In most cases where multiple services needs access to a 
+common API, those models should be defined here.
