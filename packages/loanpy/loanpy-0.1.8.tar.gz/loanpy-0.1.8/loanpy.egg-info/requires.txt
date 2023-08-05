@@ -1,0 +1,5 @@
+pandas
+lingpy
+nltk
+gensim
+Levenshtein
