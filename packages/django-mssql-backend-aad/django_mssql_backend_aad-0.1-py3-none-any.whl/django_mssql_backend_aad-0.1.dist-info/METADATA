@@ -1,0 +1,55 @@
+Metadata-Version: 2.1
+Name: django-mssql-backend-aad
+Version: 0.1
+Summary: Django backend for Microsoft SQL Server with AAD suport
+Home-page: https://bitbucket.org/patagoniantech/django-mssql-backend-aad
+Author: Agustin Lucchetti
+Author-email: agustin.lucchetti@patagonian.it
+License: BSD
+Keywords: django
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Framework :: Django
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Framework :: Django :: 2.2
+Classifier: Framework :: Django :: 3.0
+Requires-Dist: pyodbc (>=3.0)
+Requires-Dist: msal (>=1.5.1)
+
+django-mssql-backend-aad
+========================
+
+*django-mssql-backend-aad* is a fork of
+`django-pyodbc-azure <https://pypi.org/project/django-pyodbc-azure/>`__ 
+with backported changes from `django-azure-sql-backend <https://github.com/langholz/django-azure-sql-backend>`__
+
+Dependencies
+------------
+
+-  Django 2.2 or newer
+-  pyodbc 3.0 or newer
+-  msal 1.5.1 or newver
+
+Installation
+------------
+
+1. Install pyodbc and Django
+
+2. Install django-mssql-backend-aad ::
+
+    pip install django-mssql-backend-aad
+
+3. Now you can point the ``ENGINE`` setting in the settings file used by
+   your Django application or project to the ``'sql_server.pyodbc'``
+   module path ::
+
+    'ENGINE': 'sql_server.pyodbc'
+
+
+
