@@ -1,0 +1,26 @@
+txaio
+h5py
+autobahn
+twisted[tls]
+autobahn_sync
+jupyter
+pyOpenSSL
+seaborn
+requests
+dataclasses
+msgpack
+msgpack-numpy
+neuroballad
+service_identity
+crochet
+matplotlib
+fastcluster
+networkx
+pandas
+scipy
+sympy
+nose
+jupyterlab<3.0,>=2.2.8
+
+[:platform_system == "Windows"]
+pywin32
