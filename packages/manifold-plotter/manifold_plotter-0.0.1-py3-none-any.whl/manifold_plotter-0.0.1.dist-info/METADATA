@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: manifold-plotter
+Version: 0.0.1
+Summary: Manifold Plotter
+Home-page: https://github.com/ga74kud/manifold_plotter
+Author: Michael Hartmann
+Author-email: michael.hartmann@v2c2.at
+License: GNU GENERAL PUBLIC LICENSE
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: scipy
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: argparse
+Requires-Dist: python-igraph
+Requires-Dist: pycairo
+Requires-Dist: plotly
+
+# manifold_plotter
+
+
