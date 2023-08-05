@@ -1,0 +1,56 @@
+#!python
+
+import click
+import requests
+
+BASE_URL = 'https://api.github.com'
+
+@click.group()
+def gitapis():
+    """A CLI wrapper for the GitHub APIs."""
+    pass
+
+@click.option('-o',
+              '--owner',
+              required=True, 
+              help='Return only repos of this owner')
+@click.option('-r',
+              '--repo',
+              required=True,
+              help='Return details of this repo')
+
+@gitapis.command()
+@click.argument('action',
+                 type=click.Choice(['languages', 'contributors'],
+                 case_sensitive=False),
+                 required=True)
+def repos(owner: str, repo: str, action):
+    """
+       Get Repo related details - Languages/Contributors for a given repo							
+ 
+       languages	- Lists languages for specified repository.\n
+                          The value shown for each language is the number of bytes of code written in that language.\n
+       contributors	- Lists contributors to the specified repository\n
+			  Sorts them by the number of commits per contributor in descending order
+    """
+    response = requests.get(url=f'{BASE_URL}/repos/{owner}/{repo}/{action}')
+    if response.status_code == 200:
+        print(response.json())
+    else:
+        print(f'Could not get the categories: {response.text}')
+
+@gitapis.command()
+@click.argument('username',
+                 required=True)
+def users(username: str):
+    """
+      Get User details
+    """
+    response = requests.get(url=f'{BASE_URL}/users/{username}')
+    if response.status_code == 200:
+        print(response.json())
+    else:
+        print(f'Could not get the categories: {response.text}')
+
+if __name__ == '__main__':
+    gitapis()
