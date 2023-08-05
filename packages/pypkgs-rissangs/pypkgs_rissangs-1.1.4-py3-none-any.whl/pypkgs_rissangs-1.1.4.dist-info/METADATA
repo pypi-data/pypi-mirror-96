@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pypkgs-rissangs
+Version: 1.1.4
+Summary: Python package that eases the pain of concatenating Pandas categoricals.
+License: MIT
+Author: rissangs
+Author-email: 70673560+rissangs@users.noreply.github.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: pandas (>=1.2.2,<2.0.0)
