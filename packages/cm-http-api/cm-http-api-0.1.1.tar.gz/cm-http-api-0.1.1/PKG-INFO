@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: cm-http-api
+Version: 0.1.1
+Summary: get necessary information for Unified certification of educational administration system
+Home-page: https://github.com/weearc/cm-http-api
+License: AGPL-3.0-only
+Keywords: ics,cqu,icalendar,timetable,auth
+Author: weearc
+Author-email: qby19981121@gmail.com
+Requires-Python: ==3.9.1
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: configparser (>=5.0.1,<6.0.0)
+Requires-Dist: requests (>=2.25.1,<3.0.0)
+Requires-Dist: selenium (>=3.141.0,<3.142.0)
+Project-URL: Bug Tracker, https://github.com/weearc/cm-http-api/issues
+Project-URL: Repository, https://github.com/weearc/cm-http-api
+Description-Content-Type: text/markdown
+
+# A Solution to get timetable automatically
+
+This is designed at first to get excel timetable from http://my.cqu.edu.cn/enroll/
+but failed at last because of js Ajax loading of specific page. I tried every method I can but gave up at last.
+</br>
+So this solution maybe design for getting token for logging in process as we have known that all requests need this
+token.
+
+# Usage
+
+Refer to `main` function of [main.py](main.py) as a demo, and docstring of `cm_http` class.
+
+# To List
+
+- [x] get token
+- [x] get json format timetable
+- [ ] parsing timetable.json translate it to `xlsx` format for example
+- [ ] using in [cqu_timetable_new](https://github.com/weearc/cqu_timetable_new)
+
+Although I'd like to use these scripts on desktop, more people seem to get an automatically one.
+</br>
+Another reason why I have to build this is that I hate the new `wecqu` under the `Student Union of CQU`. I'd like to use
+AGPL to force them ether opensource of their code or make another one without my function.
+
+# License
+AGPL 3.0
+
