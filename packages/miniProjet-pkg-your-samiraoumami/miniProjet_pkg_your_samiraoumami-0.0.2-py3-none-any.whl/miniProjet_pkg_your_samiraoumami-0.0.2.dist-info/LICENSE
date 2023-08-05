@@ -1,0 +1,8 @@
+#Mini Projet gcp 
+Importer les données des fichiers vers BQ
+- Importer tous les business sauf ceux qui se trouvent en Californie (state ==
+‘CA’)
+- Tip: Utiliser Dataflow
+- Nombre d’utilisateurs par “star” et par état
+- Top 3 des états ayant eu le plus 5 et 4 étoiles.
+
