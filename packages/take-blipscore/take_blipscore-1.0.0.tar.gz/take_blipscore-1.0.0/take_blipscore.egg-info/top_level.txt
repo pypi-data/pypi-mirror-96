@@ -1,0 +1,2 @@
+blipscore_config
+take_blipscore
