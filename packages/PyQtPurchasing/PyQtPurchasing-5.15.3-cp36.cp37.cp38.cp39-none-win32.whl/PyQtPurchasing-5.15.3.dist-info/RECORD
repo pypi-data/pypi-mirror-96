@@ -1,0 +1,12 @@
+PyQt5/QtPurchasing.pyd,sha256=4aRuxlPnWUg0SuUBr7qA2VpKPBP99zNKpI01hXLC86o,26112
+PyQt5/QtPurchasing.pyi,sha256=fvH_rXCRr4g_arcdaAu4bI2iTmeVa2OTDe-0lykbHmw,3569
+PyQt5/Qt/qsci/api/python/PyQtPurchasing.api,sha256=mrAOTbmvojTjB0f76VXj9tmbgbVBd0uyoGVx6Z823Ew,2290
+PyQt5/bindings/QtPurchasing/QtPurchasing.toml,sha256=yYlBdcOx3x8V_OQueQCnngAGIluQv955TJSeOG09f7g,209
+PyQt5/bindings/QtPurchasing/QtPurchasingmod.sip,sha256=veDBdbmHVjRd0_fOtoUwEdybiP5WE0H1oIYfLlK0vm4,2706
+PyQt5/bindings/QtPurchasing/qinappproduct.sip,sha256=7s1ZRPlz1f3Uf1f8z3ypysnH_K2P5VDK3Hj83LNzF7U,1428
+PyQt5/bindings/QtPurchasing/qinappstore.sip,sha256=l-3QoB3kXwBf_JHXn-KeOkS1ZoprJ8vU5_0yni8l55g,2493
+PyQt5/bindings/QtPurchasing/qinapptransaction.sip,sha256=2u6CwGc3xHsZozqTPaZ3IQ_DBWkOlu9_h-hdyVvrYUM,1799
+PyQt5/bindings/QtPurchasing/qtpurchasingversion.sip,sha256=eHg-FfMJPhOI_OAawev6cdzvC0_T6odip4BtQbwBx8c,1363
+PyQtPurchasing-5.15.3.dist-info/WHEEL,sha256=SHjVa4WV-xGDxT8K3mVmsoeEq8v-mGDumNt7qLFDNo4,109
+PyQtPurchasing-5.15.3.dist-info/METADATA,sha256=CUxIOQ6wZPglV970ztxJQWwtT9hqc6LEPc7hFt24McI,1811
+PyQtPurchasing-5.15.3.dist-info/RECORD,,
