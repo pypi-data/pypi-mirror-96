@@ -1,0 +1,9 @@
+setup.py
+deepobfuscode/__init__.py
+deepobfuscode/encryption.py
+deepobfuscode/execution.py
+deepobfuscode/util.py
+deepobfuscode.egg-info/PKG-INFO
+deepobfuscode.egg-info/SOURCES.txt
+deepobfuscode.egg-info/dependency_links.txt
+deepobfuscode.egg-info/top_level.txt

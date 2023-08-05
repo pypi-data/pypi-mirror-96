@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: deepobfuscode
+Version: 1.0.0
+Summary: Automated source code obfuscation
+Home-page: https://github.com/dattasiddhartha/DeepObfusCode
+Author: Siddhartha Datta
+Author-email: siddhartha.datta@cs.ox.ac.uk
+License: MIT
+Download-URL: https://pypi.org/project/deepobfuscode/
+Description: UNKNOWN
+Keywords: obfuscation,seq2seq
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
