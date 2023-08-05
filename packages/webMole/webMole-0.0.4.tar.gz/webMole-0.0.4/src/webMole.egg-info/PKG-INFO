@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: webMole
+Version: 0.0.4
+Summary: This is a webscraper module in python, it is focused on geting products from online stores, but it works as a webscraper, it uses selenium and pandas.
+Home-page: http://samuelsilva.live/
+Author: Samuel Silva
+Author-email: goncalves@axiros.com
+License: MIT
+Description: README
+Keywords: webscraper
+Platform: UNKNOWN
