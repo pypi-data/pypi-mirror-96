@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: flybrainlab
+Version: 1.1.1
+Summary: Main Client of the FlyBrainLab Project
+Home-page: https://flybrainlab.fruitflybrain.org
+Author: Mehmet Kerem Turkcan
+Author-email: mkt2126@columbia.edu
+License: BSD-3-Clause
+Platform: UNKNOWN
+Requires-Dist: txaio
+Requires-Dist: h5py
+Requires-Dist: autobahn
+Requires-Dist: twisted[tls]
+Requires-Dist: autobahn-sync
+Requires-Dist: jupyter
+Requires-Dist: pyOpenSSL
+Requires-Dist: seaborn
+Requires-Dist: requests
+Requires-Dist: dataclasses
+Requires-Dist: msgpack
+Requires-Dist: msgpack-numpy
+Requires-Dist: neuroballad
+Requires-Dist: service-identity
+Requires-Dist: crochet
+Requires-Dist: matplotlib
+Requires-Dist: fastcluster
+Requires-Dist: networkx
+Requires-Dist: pandas
+Requires-Dist: scipy
+Requires-Dist: sympy
+Requires-Dist: nose
+Requires-Dist: jupyterlab (<3.0,>=2.2.8)
+Requires-Dist: pywin32 ; platform_system == "Windows"
+
+UNKNOWN
+
+
