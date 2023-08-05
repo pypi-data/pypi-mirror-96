@@ -1,0 +1,11 @@
+mac2vendors/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mac2vendors/cli.py,sha256=JfitJ2QopKLfScWDDuqETi_Fau2-ltIq2k0iC9MnhgA,1053
+mac2vendors/mac2vendors.py,sha256=od7HzwvLfFT5rAQFt3Ee14mRaw2pYfQ-luLBNWBqFvc,7057
+mac2vendors/vendors.py,sha256=ktYcfN1hDy9VX4wTDs_5XB3odmeqmhUcFUzssAqT7m0,1375899
+mac2vendors/vendors_json.py,sha256=G-xrhQFkyT0Wv1XP3qkWOayJmDHPCmGxL098WCSBmZM,2206433
+mac2vendors-1.4.0.dist-info/LICENSE.txt,sha256=WJ7YI-moTFb-uVrFjnzzhGJrnL9P2iqQe8NuED3hutI,35141
+mac2vendors-1.4.0.dist-info/METADATA,sha256=efRvdipnNqwzcubbzOVeCfBatw5epDaxSO7U8P4uB5s,1566
+mac2vendors-1.4.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+mac2vendors-1.4.0.dist-info/entry_points.txt,sha256=Yq2zWTPC5i9c51_MU83DieqzDM0ze9irVp5ZNoloTGE,45
+mac2vendors-1.4.0.dist-info/top_level.txt,sha256=DtxUIvtXT9mNiavDRoMZvGvh_pYB-qUUZ-dBdyu6IrQ,12
+mac2vendors-1.4.0.dist-info/RECORD,,
