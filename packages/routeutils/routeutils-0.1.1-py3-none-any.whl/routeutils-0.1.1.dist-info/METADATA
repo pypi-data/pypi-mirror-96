@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: routeutils
+Version: 0.1.1
+Summary: A lib with geo route functions
+Home-page: https://github.com/techlabklabin/route-utils
+Author: Techlab Klabin
+Author-email: UNKNOWN
+License: MIT
+Download-URL: https://github.com/techlabklabin/route-utils/archive/v0.1.1.tar.gz
+Keywords: route,geo,coordinates
+Platform: UNKNOWN
+Requires-Dist: geopy (==2.1.0)
+Requires-Dist: numpy (==1.19.5)
+
+UNKNOWN
+
+
