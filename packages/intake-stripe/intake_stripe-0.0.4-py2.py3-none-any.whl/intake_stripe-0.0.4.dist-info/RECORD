@@ -1,0 +1,10 @@
+intake_stripe/__init__.py,sha256=XdORZ0IuFiy_V01iEJbakmvLu6ajw8vuSxKlyF8meF0,157
+intake_stripe/_version.py,sha256=G9VHuajBWVz5bSPxMcuWwnvxbPMgeA7TADQMyTlpb50,497
+intake_stripe/core.py,sha256=y0-qK0-6NLJtnAFIkB-0xZ4XS4ANMd-5kOqjr3WoMmo,4273
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+intake_stripe-0.0.4.dist-info/LICENSE,sha256=dm6UQyu4ERR26Ltr5qH8TwvX1CJ_26bvBLUuRL4eZn4,1505
+intake_stripe-0.0.4.dist-info/METADATA,sha256=mRmEU4Y4HQ5L8mWRGJamblOR07KYaPZRdMr5awj0LqI,480
+intake_stripe-0.0.4.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+intake_stripe-0.0.4.dist-info/entry_points.txt,sha256=Uq-9D-KfZPyx_x_im5KywTcQwsSIKE-0gul205WG4BQ,120
+intake_stripe-0.0.4.dist-info/top_level.txt,sha256=wek957drSf9YNChBG5BisZ-kbC919QtPBwpEZEMGTMc,20
+intake_stripe-0.0.4.dist-info/RECORD,,
