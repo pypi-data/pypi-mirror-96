@@ -1,0 +1,3 @@
+pyfastblur
+pyfastblur/libpyfastblur
+pyfastblur_cpp
