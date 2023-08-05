@@ -1,0 +1,9 @@
+file_service_client/__init__.py,sha256=QRC0PYkTpv8bZeadk-fA3rh3RhD7CTxFuJJR06DVvFs,331
+file_service_client/file_service_client.py,sha256=xI-CxxuZtJ4clH_GDAzv-8Zrk0raTWUz_FPj69bIitA,2646
+file_service_client/models.py,sha256=tgW3WLR0t1L8L_jA8hxd7lGLOrq-1ZbX1QQ8GJ7YYlY,2363
+file_service_client/utils.py,sha256=pRuUdsDBnCM17FcsmYPcYIdCZecN4oNKynMCZ8EFxhw,282
+file_service_client-1.0.2.dist-info/LICENSE.txt,sha256=S9X_6Wphp7hv_2oZKR6dUNq-bUvewqXeEBiDQ8CVJMY,575
+file_service_client-1.0.2.dist-info/METADATA,sha256=lKOqpJQ3YuZChPuz8kYa_n5drX-vOuBYOocn3xr0Qoo,788
+file_service_client-1.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+file_service_client-1.0.2.dist-info/top_level.txt,sha256=xMJ4t2DkLBBGaFgJY_D3FcIm-rdbO50rrU7-LyPnXNI,20
+file_service_client-1.0.2.dist-info/RECORD,,
