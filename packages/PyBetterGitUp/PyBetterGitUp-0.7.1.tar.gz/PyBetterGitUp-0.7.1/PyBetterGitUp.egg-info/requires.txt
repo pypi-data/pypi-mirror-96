@@ -1,0 +1,4 @@
+GitPython==3.1.7
+git-up==1.6.1
+colorama>=0.4.3
+gitversion==2.1.3
