@@ -1,0 +1,49 @@
+# Vector Algebra
+It helps to create vector objects and manipulate them 
+
+## Installation
+```pip install vector-algebra```
+
+## How to use it ?
+
+Create an instance of vector   
+
+from vector_algebra.Vectors import *
+
+v1=Vectors(1,2,3)   
+
+v2=Vectors(1,2,1)   
+
+v3=v1+v2 --> for adding vectors   
+
+v4=v1-v2 --> for subtracting vectors   
+
+v5=v1*v2 --> returns a float value of dot product of two vectors   
+
+v6=v1**v2 --> returns a vector withcross product of both vectors   
+
+val=v1.magnitude() --> returns the magnitude of the vector   
+
+print(v1==v2) --> checks if both vectors are equal in direction and magnitude   
+
+print(v1>2) --> Checks if magnitude of v1 > v2   
+
+print(v1.angleBetweenVectorsInRadians(v2)) --> Returns angle between vectors in   radians   
+
+print(v1.angleBetweenVectorsInDegrees(v2)) --> Returns angle between vectors in degrees   
+
+print(isParallel(v1,v2))   
+
+print(isPerpendicular(v1,v2))   
+
+print(v1.unit()) --> To print unit vector    
+
+print(v3)   
+
+
+## License
+
+© 2021 Deepak Kumar Dash
+
+This repository is licensed under MIT license.
+see LICENSE for details

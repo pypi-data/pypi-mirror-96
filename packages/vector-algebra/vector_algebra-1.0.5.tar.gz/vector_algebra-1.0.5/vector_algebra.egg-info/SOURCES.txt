@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.py
+vector_algebra/Vectors.py
+vector_algebra.egg-info/PKG-INFO
+vector_algebra.egg-info/SOURCES.txt
+vector_algebra.egg-info/dependency_links.txt
+vector_algebra.egg-info/entry_points.txt
+vector_algebra.egg-info/top_level.txt
