@@ -1,0 +1,9 @@
+otis/__init__.py,sha256=c-lJQiij4cs03mdKnTTCzjfsemdU6FKnjuE51SfOgT8,126
+otis/finger_motor.py,sha256=adMgnk4gCScq2WkvhYbcjpnaU0hXVTqQ8BGlAg4JvOM,2342
+otis/kinematics.py,sha256=gkHGE1NcmLyUhfkPSDZDRZBM2JGx3QpCABobdkj0tT4,6577
+otis/otis.py,sha256=Ygw6Z4ukeAEyXP2N1gBm8ZwXj_uegmEtHtsyZMmIOU0,6258
+reachy_otis-1.0.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+reachy_otis-1.0.1.dist-info/METADATA,sha256=KBQ91xTxBbZvc5MKioGvFMzQs-YD12f47Rfnxkp7AKE,1265
+reachy_otis-1.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+reachy_otis-1.0.1.dist-info/top_level.txt,sha256=YxMDs2cU83xJajsDQY8xEO6fO695y9gGlsqBQ-K_OE4,5
+reachy_otis-1.0.1.dist-info/RECORD,,
