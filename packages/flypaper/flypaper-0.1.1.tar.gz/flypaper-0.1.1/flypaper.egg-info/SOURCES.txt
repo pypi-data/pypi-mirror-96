@@ -1,0 +1,13 @@
+README.md
+setup.py
+flypaper/__init__.py
+flypaper/consent.py
+flypaper/report.py
+flypaper/system_information.py
+flypaper/test_consent.py
+flypaper/test_system_information.py
+flypaper.egg-info/PKG-INFO
+flypaper.egg-info/SOURCES.txt
+flypaper.egg-info/dependency_links.txt
+flypaper.egg-info/requires.txt
+flypaper.egg-info/top_level.txt
