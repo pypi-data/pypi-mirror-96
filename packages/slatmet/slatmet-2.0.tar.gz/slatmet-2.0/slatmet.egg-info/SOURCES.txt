@@ -1,0 +1,8 @@
+setup.py
+slatmet/__init__.py
+slatmet/slatmet.py
+slatmet.egg-info/PKG-INFO
+slatmet.egg-info/SOURCES.txt
+slatmet.egg-info/dependency_links.txt
+slatmet.egg-info/requires.txt
+slatmet.egg-info/top_level.txt
