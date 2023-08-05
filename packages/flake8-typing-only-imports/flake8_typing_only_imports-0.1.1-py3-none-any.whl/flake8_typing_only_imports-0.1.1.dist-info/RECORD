@@ -1,0 +1,10 @@
+CHANGELOG.md,sha256=eotwRZfRVcIMmnQehRf1VGUyQCKmYJpLOhwqUIFbbAk,51
+flake8_typing_only_imports/__init__.py,sha256=wKS2b6ieJ5LFptqxxHrSuzSQM9br9FIzKxk-FpKhcw8,512
+flake8_typing_only_imports/ast.py,sha256=IwlwoCS2734TvwV7eDtKeiB4skPBYOwda3INQ98y5f4,4413
+flake8_typing_only_imports/constants.py,sha256=61BYRsgSHzX7UjZtTbL9Y7-DMl5KUUk-AQdLzxkXOao,79
+flake8_typing_only_imports/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+flake8_typing_only_imports-0.1.1.dist-info/entry_points.txt,sha256=cihoWZhdM-w-vuXp1IZUAeJmrbYjd-4KJMfPSYU760I,61
+flake8_typing_only_imports-0.1.1.dist-info/LICENSE,sha256=0P9CSooibvFHPohBKmQ59xQl350f5uNPosi3L2RU6jc,1520
+flake8_typing_only_imports-0.1.1.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+flake8_typing_only_imports-0.1.1.dist-info/METADATA,sha256=CbdjxeZ7wfSPaXrxatQNiK0sgYEztznkJ2LpHBOv2Fw,3542
+flake8_typing_only_imports-0.1.1.dist-info/RECORD,,
