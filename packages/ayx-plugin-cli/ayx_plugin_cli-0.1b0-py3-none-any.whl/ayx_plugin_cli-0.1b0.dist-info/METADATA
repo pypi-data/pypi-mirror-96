@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: ayx-plugin-cli
+Version: 0.1b0
+Summary: The Alteryx command line interface for using Alteryx SDKs.
+Home-page: UNKNOWN
+Author: Alteryx, Inc.
+Author-email: support@alteryx.com
+License: UNKNOWN
+Platform: Windows
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Requires-Python: >=3.8
+Requires-Dist: typer (==0.3.1)
+Requires-Dist: doit (==0.33.1)
+Requires-Dist: pydantic (==1.5.1)
+Requires-Dist: packaging (==20.4)
+Requires-Dist: requests (==2.24.0)
+Requires-Dist: xmltodict (==0.12.0)
+
+UNKNOWN
+
+
