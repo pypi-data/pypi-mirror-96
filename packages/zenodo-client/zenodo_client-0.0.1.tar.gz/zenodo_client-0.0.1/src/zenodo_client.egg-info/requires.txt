@@ -1,0 +1,10 @@
+pystow
+requests
+click
+more_click
+
+[docs]
+sphinx
+sphinx-rtd-theme
+sphinx-click
+sphinx-autodoc-typehints
