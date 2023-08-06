@@ -1,0 +1,13 @@
+callpass/__init__.py,sha256=Aft1bjONFymYhA_hmDP1aVUy9sosyhapsB0V8mODkgI,259
+callpass/__main__.py,sha256=mwGDFQP6A3c7chEyt_KCnBzPKB2k_PXtEz4kj5ar5as,751
+callpass/callpass.py,sha256=JigU_gnVAzUCEIk8VT5N9vEDCL3jdnOvARWK6GfRltg,1287
+callpass/exceptions.py,sha256=uW9HrFS1eNsFbuPM5-Lyb0Gi_1OAWzp_0i2spQOZNOE,319
+callpass/validated_callpass/__init__.py,sha256=46Dc4DX3darfqTYMKPji1wkS7giqpAY_xOSSOLZKbRs,50
+callpass/validated_callpass/cache_heuristics.py,sha256=2HkvKpdkvtZ8dxBRQIqSJ7ImaNqKTW75GPK8UeDbSC0,688
+callpass/validated_callpass/license_validation_tools.py,sha256=30DzxT0LMM-JN9c3YmgFTTelESIY4QWkYVw64s4ZXhc,1388
+callpass/validated_callpass/validated_callpass.py,sha256=Z-uVaQkyT35waldETRhT9Ix_z-uPui1NRTdaQ9aCnHE,1108
+callpass-0.4.0.dist-info/entry_points.txt,sha256=XRU2S26ZfJZG-SiZH5Q_Sy9smDwvCgL6p6zNw4s9h2Q,51
+callpass-0.4.0.dist-info/LICENSE,sha256=2ylvL381vKOhdO-w6zkrOxe9lLNBhRQpo9_0EbHC_HM,18046
+callpass-0.4.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+callpass-0.4.0.dist-info/METADATA,sha256=Qq7j7KsNaK-He3lDJeZyaSLAkD4IpfXiawqcXdRgJJ0,716
+callpass-0.4.0.dist-info/RECORD,,

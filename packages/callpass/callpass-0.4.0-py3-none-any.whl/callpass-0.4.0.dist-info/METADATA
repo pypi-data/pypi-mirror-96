@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: callpass
+Version: 0.4.0
+Summary: Generate APRS-IS callpasses
+Home-page: https://gitlab.com/kf5jwc/callpass-py
+License: GPL-2.0
+Keywords: APRS,passcode,I-Gate,amateur,radio
+Author: Kyle Jones
+Author-email: kyle@kf5jwc.us
+Requires-Python: >=3.6,<4.0
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: cachecontrol
+Requires-Dist: requests
+Project-URL: Repository, https://gitlab.com/kf5jwc/callpass-py
