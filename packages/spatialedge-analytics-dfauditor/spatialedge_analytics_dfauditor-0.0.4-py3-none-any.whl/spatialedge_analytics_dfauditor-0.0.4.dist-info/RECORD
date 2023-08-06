@@ -1,0 +1,13 @@
+dfauditor/__init__.py,sha256=yMBY3FElSWH2DKikK7bUGHN_tgDRtrzpXHU6PnyINLM,22
+dfauditor/app_logger.py,sha256=QOKhMz1Ytw7wUcnHRguVv7M_tAqpRVzAeRItpOvrx14,1084
+dfauditor/auditor.py,sha256=8DNojIIU0guxMVcf1TlSiU-IcglLGuvLn8P9KClvmMI,5279
+dfauditor/extractor.py,sha256=nfIL0Y-tH5xSFXlCyCZrLGWOOrwdR2_m5y5FUjoznNs,3758
+dfauditor/measures.py,sha256=Z3K-PJJopHuD8GZ7HkImCbU5rST-AbmvHmWOy0Hl5UI,902
+dfauditor/metrics.py,sha256=U3h_uztqQh1zVzHArEwqBc5oVlryK1qwJNPEbnk5xmo,192
+dfauditor/response.py,sha256=FToA50R_C_b_94hTPalnFIJfsDMOd1U0CrNmjrKh5zI,2311
+spatialedge_analytics_dfauditor-0.0.4.data/data/LICENSE,sha256=Ceea3ni7Kr0kx9iW4M-zxXWaoJzpDZnrkCSUyKFwXbQ,6489
+spatialedge_analytics_dfauditor-0.0.4.dist-info/LICENSE,sha256=Ceea3ni7Kr0kx9iW4M-zxXWaoJzpDZnrkCSUyKFwXbQ,6489
+spatialedge_analytics_dfauditor-0.0.4.dist-info/METADATA,sha256=1FbvIoYbYClK0a0BkWDlVmX5rTBi9NypOszfGoUQVik,4402
+spatialedge_analytics_dfauditor-0.0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+spatialedge_analytics_dfauditor-0.0.4.dist-info/top_level.txt,sha256=Da9IkM9s3tvhhNP6aQQ4Tpe4HMtbV2IZMlYARnimu-U,10
+spatialedge_analytics_dfauditor-0.0.4.dist-info/RECORD,,
