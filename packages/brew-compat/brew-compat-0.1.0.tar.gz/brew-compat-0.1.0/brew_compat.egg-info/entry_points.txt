@@ -1,0 +1,3 @@
+[console_scripts]
+brew-compat = check:cli
+

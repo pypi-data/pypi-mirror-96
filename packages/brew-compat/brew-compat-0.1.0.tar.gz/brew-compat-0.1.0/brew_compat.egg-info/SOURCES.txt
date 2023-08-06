@@ -1,0 +1,11 @@
+README.md
+check.py
+pyproject.toml
+setup.cfg
+setup.py
+brew_compat.egg-info/PKG-INFO
+brew_compat.egg-info/SOURCES.txt
+brew_compat.egg-info/dependency_links.txt
+brew_compat.egg-info/entry_points.txt
+brew_compat.egg-info/requires.txt
+brew_compat.egg-info/top_level.txt
