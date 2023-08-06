@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "pypkgs_sy"
+version = "0.1.0"
+description = "Python package that eases the pain of concatenating Pandas categoricals!"
+authors = ["rissangs <rissangs@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.2.2"
+
+[tool.poetry.dev-dependencies]
+Sphinx = "^3.5.1"
+sphinxcontrib-napoleon = "^0.7"
+pytest = "^6.2.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
