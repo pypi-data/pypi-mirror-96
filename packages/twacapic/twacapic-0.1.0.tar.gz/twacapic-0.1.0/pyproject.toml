@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "twacapic"
+version = "0.1.0"
+description = "A Twitter Academic API Client"
+authors = ["FlxVctr <flxvctr@protonmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+TwitterAPI = "^2.6.9"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

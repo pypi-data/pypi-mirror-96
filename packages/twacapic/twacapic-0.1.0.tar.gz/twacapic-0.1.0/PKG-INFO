@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: twacapic
+Version: 0.1.0
+Summary: A Twitter Academic API Client
+Author: FlxVctr
+Author-email: flxvctr@protonmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: TwitterAPI (>=2.6.9,<3.0.0)
