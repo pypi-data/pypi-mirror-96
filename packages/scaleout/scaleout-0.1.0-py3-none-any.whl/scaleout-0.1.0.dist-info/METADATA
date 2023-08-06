@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: scaleout
+Version: 0.1.0
+Summary: Scaleout CLI
+Home-page: https://www.scaleoutsystems.com
+Author: Morgan Ekmefjord
+Author-email: morgan@scaleout.se
+License: Copyright Scaleout Systems AB. See license for details
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.5,<4
+Requires-Dist: attrdict (>=2.0.1)
+Requires-Dist: certifi (>=2018.11.29)
+Requires-Dist: chardet (>=3.0.4)
+Requires-Dist: Click (>6.6)
+Requires-Dist: cytoolz
+Requires-Dist: PyYAML (>=4.2b1)
+Requires-Dist: requests (==2.23.0)
+Requires-Dist: urllib3 (==1.24.2)
+Requires-Dist: minio (==5.0.6)
+Requires-Dist: six (>=1.14.0)
+Requires-Dist: python-slugify
+Requires-Dist: prettytable
+Requires-Dist: pyjwt
+Requires-Dist: psutil
+
+UNKNOWN
+
+
