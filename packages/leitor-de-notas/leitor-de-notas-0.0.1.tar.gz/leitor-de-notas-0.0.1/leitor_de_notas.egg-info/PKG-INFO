@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: leitor-de-notas
+Version: 0.0.1
+Summary: Um simples leitor de notas de corretagem
+Home-page: https://github.com/quatroka/leitor-de-notas
+Author: quatroka
+Author-email: monteiro.leonardosantos@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: Portuguese (Brazilian)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires: PyMuPDF

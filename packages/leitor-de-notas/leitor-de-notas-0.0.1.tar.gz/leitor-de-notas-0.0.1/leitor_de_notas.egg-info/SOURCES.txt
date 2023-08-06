@@ -1,0 +1,14 @@
+README.md
+setup.py
+leitor_de_notas.egg-info/PKG-INFO
+leitor_de_notas.egg-info/SOURCES.txt
+leitor_de_notas.egg-info/dependency_links.txt
+leitor_de_notas.egg-info/top_level.txt
+leitordenotas/__init__.py
+leitordenotas/models.py
+leitordenotas/nota_de_corretagem_reader.py
+leitordenotas/builder/__init__.py
+leitordenotas/builder/builder_reader_base.py
+leitordenotas/builder/clear_reader_builder.py
+leitordenotas/builder/easynvest_reader_builder.py
+leitordenotas/builder/inter_reader_builder.py
