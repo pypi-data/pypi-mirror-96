@@ -1,0 +1,7 @@
+README.md
+setup.py
+py_microservices_toolkit.egg-info/PKG-INFO
+py_microservices_toolkit.egg-info/SOURCES.txt
+py_microservices_toolkit.egg-info/dependency_links.txt
+py_microservices_toolkit.egg-info/not-zip-safe
+py_microservices_toolkit.egg-info/top_level.txt
