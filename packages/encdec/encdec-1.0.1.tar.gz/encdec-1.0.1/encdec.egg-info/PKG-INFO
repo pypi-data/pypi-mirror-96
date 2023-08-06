@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: encdec
+Version: 1.0.1
+Summary: A simple library to encrypt and decrypt content using Fernet.
+Home-page: https://github.com/rehmatworks/encdec
+Author: Rehmat Alam
+Author-email: contact@rehmat.works
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
