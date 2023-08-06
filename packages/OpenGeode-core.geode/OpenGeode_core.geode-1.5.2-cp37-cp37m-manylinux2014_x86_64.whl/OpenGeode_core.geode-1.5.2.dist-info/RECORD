@@ -1,0 +1,9 @@
+opengeode_geode/__init__.py,sha256=kYHhdCuMzXeLkIoWUeUV6R6wlL56rmPg8RNrIl8cnPY,1181
+opengeode_geode/libOpenGeode_geode_mesh.so,sha256=7ZLh9SpcUOqw-IU6H8z4R2JNkjC_z8HuVQps8rW5aKo,170528
+opengeode_geode/libOpenGeode_geode_model.so,sha256=IHjyN9-UnVW2R34tPdxQXQ2m7R_tyMzWFoY5QL5W8SI,24560
+opengeode_geode/opengeode_geode_py_mesh.cpython-37m-x86_64-linux-gnu.so,sha256=OWkvV0krPDjG_XKjDjZ8dULYqg7KBsv45-1qIjgrMcQ,146872
+opengeode_geode/opengeode_geode_py_model.cpython-37m-x86_64-linux-gnu.so,sha256=8gvkNVOLh1II2J8jbGujcVJrQW3e1zxGD9Np_QD0-c4,122248
+OpenGeode_core.geode-1.5.2.dist-info/METADATA,sha256=4ybBG4vX-lsbBMptlCPNOeUs-W0FPiIo_aGNN_XpUe8,2943
+OpenGeode_core.geode-1.5.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+OpenGeode_core.geode-1.5.2.dist-info/top_level.txt,sha256=f3YVlb1wlHTsXDNEK7sA7b93Da-XhgUJ_cQqkrD99Cg,16
+OpenGeode_core.geode-1.5.2.dist-info/RECORD,,
