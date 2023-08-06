@@ -1,0 +1,15 @@
+README.txt
+setup.py
+whikoperator/__init__.py
+whikoperator/functions.py
+whikoperator/main.py
+whikoperator/settings.py
+whikoperator.egg-info/PKG-INFO
+whikoperator.egg-info/SOURCES.txt
+whikoperator.egg-info/dependency_links.txt
+whikoperator.egg-info/requires.txt
+whikoperator.egg-info/top_level.txt
+whikoperator/configs/__init__.py
+whikoperator/tests/__init__.py
+whikoperator/tests/settings_test.py
+whikoperator/tests/shot_test.py
