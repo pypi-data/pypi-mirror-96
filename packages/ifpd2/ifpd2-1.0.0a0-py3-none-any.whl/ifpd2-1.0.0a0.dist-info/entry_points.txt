@@ -1,0 +1,3 @@
+[console_scripts]
+ifpd2=ifpd2.scripts.ifpd2:main
+
