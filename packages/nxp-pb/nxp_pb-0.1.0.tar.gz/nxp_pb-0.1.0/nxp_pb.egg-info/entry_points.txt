@@ -1,0 +1,3 @@
+[console_scripts]
+nxp_pb_submit = nxp_pb:main
+

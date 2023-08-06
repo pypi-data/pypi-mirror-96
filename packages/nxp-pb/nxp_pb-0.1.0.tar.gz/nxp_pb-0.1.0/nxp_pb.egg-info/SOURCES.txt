@@ -1,0 +1,8 @@
+setup.py
+nxp_pb/__init__.py
+nxp_pb.egg-info/PKG-INFO
+nxp_pb.egg-info/SOURCES.txt
+nxp_pb.egg-info/dependency_links.txt
+nxp_pb.egg-info/entry_points.txt
+nxp_pb.egg-info/requires.txt
+nxp_pb.egg-info/top_level.txt
