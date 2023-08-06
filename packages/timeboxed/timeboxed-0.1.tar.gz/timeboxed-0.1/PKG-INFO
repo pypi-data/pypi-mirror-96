@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: timeboxed
+Version: 0.1
+Summary: Render Pomodoro Calendars
+Home-page: https://github.com/time-boxed/django-timeboxed
+Author: Paul Traylor
+License: UNKNOWN
+Project-URL: Source, https://github.com/time-boxed/django-timeboxed
+Project-URL: Tracker, https://github.com/time-boxed/django-timeboxed/issues
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Framework :: Django
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Provides-Extra: standalone
+Provides-Extra: dev

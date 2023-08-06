@@ -1,0 +1,8 @@
+[console_scripts]
+pomodoro = pomodoro.standalone.manage:main [standalone]
+
+[pomodoro.notification]
+line = pomodoro.notifications.line:Line
+mqtt = pomodoro.notifications.mqtt:MQTT
+prowl = pomodoro.notifications.prowl:Prowl
+
