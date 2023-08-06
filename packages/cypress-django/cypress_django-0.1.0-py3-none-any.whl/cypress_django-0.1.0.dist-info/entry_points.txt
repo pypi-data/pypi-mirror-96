@@ -1,0 +1,3 @@
+[console_scripts]
+cypress_db = cypress_db.cmd:main
+
