@@ -1,0 +1,13 @@
+README.md
+setup.py
+musestudio/__init__.py
+musestudio/convert_raw.py
+musestudio/export_bids_files.py
+musestudio/import_bids_files.py
+musestudio/import_raw_files.py
+musestudio/view.py
+musestudio.egg-info/PKG-INFO
+musestudio.egg-info/SOURCES.txt
+musestudio.egg-info/dependency_links.txt
+musestudio.egg-info/requires.txt
+musestudio.egg-info/top_level.txt

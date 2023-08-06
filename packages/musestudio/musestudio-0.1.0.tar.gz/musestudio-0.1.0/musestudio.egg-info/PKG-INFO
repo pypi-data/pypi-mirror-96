@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: musestudio
+Version: 0.1.0
+Summary: Import Muse recordings. Convert data to MNE and Pandas. View brain data in real time.
+Home-page: https://github.com/miguelascifo/MuseStudio
+Author: Miguel Ángel Sánchez Cifo
+Author-email: code@miguelascifo.com
+License: MIT
+Description: UNKNOWN
+Keywords: neuroscience neuroevaluation EEG brain muse
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Healthcare Industry
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Human Machine Interfaces
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
+Classifier: Topic :: Software Development
