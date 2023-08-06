@@ -1,0 +1,14 @@
+stempy-1.0.4.dist-info/LICENSE,sha256=QJBgecdAep_HzSB0K-kXJseqvy6SF5uH8CVPnhHUi0M,1504
+stempy-1.0.4.dist-info/WHEEL,sha256=qNJuWbX2sl6mKHj8liL8DQmRViepgMTeylhZLazDvDo,106
+stempy-1.0.4.dist-info/METADATA,sha256=Q8pP8A_GcmDnJZqWclPGYu_KJNyssmxjnrWN_G9t14E,496
+stempy-1.0.4.dist-info/RECORD,,
+stempy-1.0.4.dist-info/top_level.txt,sha256=y781UigXVGwQbPQglCuxXrzVV_KW3zCDzfYZg-Fk_wE,7
+stempy/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+stempy/_image.cpython-37m-x86_64-linux-gnu.so,sha256=UsRO7ACTPneHRtYCtgy0V9t6MzU3dTuykCVJEoZijOs,344232
+stempy/_io.cpython-37m-x86_64-linux-gnu.so,sha256=LtgcRNzizYqxJTsW6RNa66LCypiDPqPVcMOzJmApfF4,248896
+stempy/libstem.so,sha256=qFbfMI8G_f4CPZZoIryF0wbfWlTQxhQKK8yjtuD66qg,2557936
+stempy/pipeline/__init__.py,sha256=hpGc5LPXKB5aUiBIOYxMnZeAlWay0m1QptJULIbxVu4,1436
+stempy/image/__init__.py,sha256=KgV8Agh4O3jYpM6cNRwdCckbXGNyJ7dXRV4iKhbotlI,24971
+stempy/io/__init__.py,sha256=uC0lZ6o0ViEtOCD4z-a3vmFtVWb6-hVA2NZ4gx3bdKs,8400
+stempy.libs/libhdf5-59624cfe.so.6.0.4,sha256=5ufNZ2r9CnXFDYwwWPfS5hTn-ZyuQDnoQl7b_u-FAsc,4199648
+stempy.libs/libz-eb09ad1d.so.1.2.3,sha256=Occ38Rdxpnqlv4lgkj2inrjERnLkx0ig9Kb0Ce5GMQ4,92080
