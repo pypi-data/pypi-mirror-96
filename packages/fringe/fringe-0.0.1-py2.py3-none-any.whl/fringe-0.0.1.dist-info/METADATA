@@ -1,0 +1,63 @@
+Metadata-Version: 2.1
+Name: fringe
+Version: 0.0.1
+Summary: Python implementation of holographic image reconstruction algorithms
+Home-page: https://github.com/farhadnkm/fringe
+Author: Farhad Niknam
+Author-email: farhad.niknam.em@gmail.com
+License: MIT license
+Keywords: digital holography,multi-height phase recovery,mhpr,gpu processing,angular spectrum,inline holography
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering :: Image Processing
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
+Requires-Dist: numpy (>=1.16.1)
+Requires-Dist: tensorflow (>=2.0.1)
+Requires-Dist: scikit-image (>=0.10.1)
+Requires-Dist: matplotlib (>=3.0.1)
+
+# Inline Holographic Reconstruction
+Python implementation of Inline holographic reconstruction using the angular spectrum method.
+
+## What's inside?
+This package includes forward reconstruction of holograms, simulation of holograms using two images as phase and amplitude, and the multi-height phase recovery (MHPR) algorithm to retrieve full object information using a sequence of holograms.
+
+Computations could be performed using two frameworks:
+1. Numpy which is suitable for typical applications.
+2. Tensorflow which enables GPU or TPU accelerated processing. 
+
+Tensorflow also allows embodying the framework in machine learning models.
+
+## Outcomes
+
+A Hologram:
+
+<img src="Images/hologram_preview.png" width="300">
+
+Reconstructed Amplitude and phase images by back propagation:
+
+<img src="Images/Exports/bp_amplitude.png" width="300"> <img src="Images/Exports/bp_phase.png" width="300">
+
+Reconstructed Amplitude and phase images using MHPR method applied on 8 axially displaced holograms:
+
+<img src="Images/Exports/mhpr_amplitude.png" width="300"> <img src="Images/Exports/mhpr_phase.png" width="300">
+
+
+=======
+History
+=======
+
+0.0.1 (2021-02-19)
+------------------
+
+* First release on PyPI.
+
+
