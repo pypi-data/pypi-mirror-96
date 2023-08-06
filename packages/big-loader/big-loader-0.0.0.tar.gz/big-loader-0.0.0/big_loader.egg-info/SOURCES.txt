@@ -1,0 +1,8 @@
+README.md
+setup.py
+big_loader/__init__.py
+big_loader/pipelines.py
+big_loader.egg-info/PKG-INFO
+big_loader.egg-info/SOURCES.txt
+big_loader.egg-info/dependency_links.txt
+big_loader.egg-info/top_level.txt
