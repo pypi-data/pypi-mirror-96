@@ -1,0 +1,8 @@
+MechanicalSoup>=1.0.0
+python-dotenv
+click
+
+[dev]
+pytest
+pytest-vcr
+wheel
