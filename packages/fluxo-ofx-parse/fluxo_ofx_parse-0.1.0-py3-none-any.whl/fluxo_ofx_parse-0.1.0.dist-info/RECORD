@@ -1,0 +1,11 @@
+fluxo_ofx_parse/__init__.py,sha256=HZI7RaJvtLGFk4xoAn0sE2kzVJvd0qQvG5tWERRDxbc,303
+fluxo_ofx_parse/mcc.py,sha256=yGP3ufFNyrkTGfL34SAaDhLsxF1XIDBHnDDE6GubglI,248926
+fluxo_ofx_parse/ofxerrors.py,sha256=FzwVVHyeAU0Ou7Y9LN4benq9Z6SQeQDdT3E6FgpvUiU,307
+fluxo_ofx_parse/ofxparse.py,sha256=AQnm4_P_KXsCt0SRZxMHiDh0RTCdmqa-avT2NCu0R54,41691
+fluxo_ofx_parse/ofxprinter.py,sha256=-AuihJ7oKmxLuHSxNtADunUOKZTmLhsKMexbIaTfDRE,6233
+fluxo_ofx_parse/ofxutil.py,sha256=5-Y488EQlusjs9lTLP75Rr3Cq8cdzHzyWJsdqu7ARQc,7542
+fluxo_ofx_parse-0.1.0.dist-info/LICENSE,sha256=i4FH9_8wl-VL8rGCK4UZL4fE4Tjj-g1q_Jn3ohAliVU,1065
+fluxo_ofx_parse-0.1.0.dist-info/METADATA,sha256=Bis8BIYwgjqcbs4rmxBdGlVdNLKnanUKAta2aIU5AIg,5988
+fluxo_ofx_parse-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+fluxo_ofx_parse-0.1.0.dist-info/top_level.txt,sha256=DZ_P_RewwTQ1_ZLQOaDSKcSvvgwIJaFWxG8EF1p8ZgQ,16
+fluxo_ofx_parse-0.1.0.dist-info/RECORD,,
