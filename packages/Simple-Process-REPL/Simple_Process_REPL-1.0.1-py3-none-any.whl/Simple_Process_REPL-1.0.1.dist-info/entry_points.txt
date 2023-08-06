@@ -1,0 +1,3 @@
+[console_scripts]
+Simple_Process_REPL = Simple_Process_REPL.__main__:main
+
