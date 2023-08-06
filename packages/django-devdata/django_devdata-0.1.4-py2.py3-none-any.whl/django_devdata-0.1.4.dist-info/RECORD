@@ -1,0 +1,15 @@
+devdata/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+devdata/anonymisers.py,sha256=dUJW-n8GqhJiEYWFR6BV5ZAykrYw3jecJk8ssKFCaaM,1035
+devdata/engine.py,sha256=pslzJ3jBriWZyWcLeHBJ1HEbxu6aK3E-inztMe4EEgw,3887
+devdata/management/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+devdata/management/commands/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+devdata/management/commands/devdata_dump.py,sha256=oEi269mGMfry67q287KnGlLBwJpJP_AJYG7HuXDIwYs,1595
+devdata/management/commands/devdata_export.py,sha256=57Fxm2quGwSNCk0ktymo-xdpjDQDT71WIGpaunNU8c4,1124
+devdata/management/commands/devdata_sync.py,sha256=4dzhfw5R-daGNp4fGkAT0iwXkd1dIKkXfGr_QrKmd34,1251
+devdata/pii_anonymisation.py,sha256=hbHvsXxkkaI7LCX3fYRgo41UehFM0B3vE1qiaqUJP34,1315
+devdata/strategies.py,sha256=ahclV1oR4Uboefo3an7QQxIrTk9AJ9BZGcXFOM2-2jc,10802
+devdata/utils.py,sha256=5ssyRStJLr1CKBXzl799GIIaXkzHgLcYjWMwknt-VFw,4077
+django_devdata-0.1.4.dist-info/LICENSE,sha256=55IvNecKbMYxvFjbB1ZyOA3gYmI4EroneKE9bKnVm6o,1067
+django_devdata-0.1.4.dist-info/WHEEL,sha256=dqElwnlLMc7-lr24lzizalXwnuKWWcPA6D2n0jC3DJ8,87
+django_devdata-0.1.4.dist-info/METADATA,sha256=t2tCCeOO-Sv2nRC5G6PE3JGNUb6yUvfiwyQYisuuiPI,8656
+django_devdata-0.1.4.dist-info/RECORD,,
