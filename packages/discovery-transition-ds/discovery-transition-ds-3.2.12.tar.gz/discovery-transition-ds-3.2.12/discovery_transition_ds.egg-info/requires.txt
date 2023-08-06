@@ -1,0 +1,10 @@
+aistac-foundation
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+boto3
+botocore
+fsspecs3fspyyaml
