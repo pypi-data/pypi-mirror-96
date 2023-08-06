@@ -1,0 +1,4 @@
+
+    [console_scripts]
+    asap=asaplib.cli.cmd_asap:asap
+    
