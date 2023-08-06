@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: english-date-as-bangla-format
+Version: 0.0.1
+Summary: This is a simple project for date conversion
+Home-page: https://github.com/osmancuet09/english-to-bangla-date.git
+Author: osmancuet09
+Author-email: osmangoni14@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/osmancuet09/english-to-bangla-date/issues
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
