@@ -1,0 +1,5 @@
+copulas>0.3.2
+shap>0.34.0
+sympy>1.6.1
+tensorflow>2.3.0
+qii-tool>0.1.2
