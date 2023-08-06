@@ -1,0 +1,12 @@
+xarray
+pint
+pint_xarray
+numpy
+pandas
+openscm_units
+loguru
+scipy
+h5netcdf>=0.10
+h5py
+bottleneck
+matplotlib
