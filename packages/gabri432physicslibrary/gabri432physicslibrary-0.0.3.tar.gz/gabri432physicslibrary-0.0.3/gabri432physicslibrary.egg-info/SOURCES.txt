@@ -1,0 +1,12 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+tests.txt
+example.pkg/Physics.py
+example.pkg/__init__.py
+gabri432physicslibrary.egg-info/PKG-INFO
+gabri432physicslibrary.egg-info/SOURCES.txt
+gabri432physicslibrary.egg-info/dependency_links.txt
+gabri432physicslibrary.egg-info/top_level.txt
