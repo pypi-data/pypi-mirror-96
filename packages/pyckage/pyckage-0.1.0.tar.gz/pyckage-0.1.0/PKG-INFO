@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: pyckage
+Version: 0.1.0
+Summary: Python package template generator.
+Home-page: https://www.lam.ufrj.br/~pmxavier/projects/pyckage/
+Author: Pedro Maciel Xavier
+Author-email: pedromxavier@poli.ufrj.br
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/pedromxavier/pyckage/issues
+Project-URL: Source, https://github.com/pedromxavier/pyckage
+Description: # pyckage
+        Python package template (generator, maybe).
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: MacOS :: MacOS X
+Requires-Python: <4,>=3.7
+Description-Content-Type: text/markdown

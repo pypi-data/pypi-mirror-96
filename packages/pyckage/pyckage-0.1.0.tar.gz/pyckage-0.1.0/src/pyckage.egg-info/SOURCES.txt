@@ -1,0 +1,14 @@
+README.md
+setup.cfg
+setup.py
+bin/pyckage
+src/pyckage/__init__.py
+src/pyckage/__main__.py
+src/pyckage/pyckage.py
+src/pyckage.egg-info/PKG-INFO
+src/pyckage.egg-info/SOURCES.txt
+src/pyckage.egg-info/dependency_links.txt
+src/pyckage.egg-info/entry_points.txt
+src/pyckage.egg-info/top_level.txt
+templates/setup.cfg
+templates/setup.py
