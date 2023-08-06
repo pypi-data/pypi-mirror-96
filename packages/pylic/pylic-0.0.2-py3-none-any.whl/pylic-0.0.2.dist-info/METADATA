@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pylic
+Version: 0.0.2
+Summary: Python license checker
+License: MIT
+Author: Sandro Huber
+Author-email: sandrochuber@gmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: taskipy (>=1.6.0,<2.0.0)
+Requires-Dist: toml (>=0.10.2,<0.11.0)
