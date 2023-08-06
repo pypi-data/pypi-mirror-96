@@ -1,0 +1,2 @@
+electionguard==1.1.15
+jsons==1.2
