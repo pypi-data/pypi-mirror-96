@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+pyiku/__init__.py
+pyiku/_info.py
+pyiku/main.py
+pyiku.egg-info/PKG-INFO
+pyiku.egg-info/SOURCES.txt
+pyiku.egg-info/dependency_links.txt
+pyiku.egg-info/top_level.txt
