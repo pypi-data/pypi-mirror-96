@@ -1,0 +1,7 @@
+README.md
+setup.py
+arcesium/__init__.py
+arcesium_python.egg-info/PKG-INFO
+arcesium_python.egg-info/SOURCES.txt
+arcesium_python.egg-info/dependency_links.txt
+arcesium_python.egg-info/top_level.txt
