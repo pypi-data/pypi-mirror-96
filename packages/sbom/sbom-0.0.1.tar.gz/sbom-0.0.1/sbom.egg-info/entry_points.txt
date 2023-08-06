@@ -1,0 +1,3 @@
+[console_scripts]
+sbom = sbom.cli:main
+
