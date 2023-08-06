@@ -1,0 +1,8 @@
+README.md
+setup.py
+voken/__init__.py
+voken/shell.py
+voken.egg-info/PKG-INFO
+voken.egg-info/SOURCES.txt
+voken.egg-info/dependency_links.txt
+voken.egg-info/top_level.txt
