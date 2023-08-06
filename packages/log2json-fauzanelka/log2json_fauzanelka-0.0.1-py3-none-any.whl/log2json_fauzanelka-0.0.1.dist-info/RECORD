@@ -1,0 +1,12 @@
+log2json/__init__.py,sha256=28Su3RY3vO6wNHZZb1-QIWkqdKJXAXyTicTy78sqJak,87
+log2json/__main__.py,sha256=CYIKrMDydLLu__pVxN0aUEafKykN5b_IS0WFdPfsKXY,270
+log2json/core.py,sha256=5qo0QIfVlbUvNLVTdG1cWoCMdEDPB9n7P9qaTVP4kcg,2742
+log2json/status.py,sha256=riPAox7_A31bOmSGV6bM8oIU2-a_uogo2UceUZcBTzk,188
+log2json/cli/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+log2json/cli/definition.py,sha256=U4Fg8ZcAStrjwpozpKRjALkmVC-bqikxorz4YRfgR0s,1220
+log2json_fauzanelka-0.0.1.dist-info/LICENSE,sha256=riLqgN-6V26Z0dabNMj4g1FkNrBKeEt7iG4T8NRrLtU,1068
+log2json_fauzanelka-0.0.1.dist-info/METADATA,sha256=OM8jVgPIyflGLPdqdbD3wios39ZoMmKHM9ClQtwVqy0,1642
+log2json_fauzanelka-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+log2json_fauzanelka-0.0.1.dist-info/entry_points.txt,sha256=yZWWF3jveXIa4QG6e-lH7DddSudz16OYg-h309sCP6I,53
+log2json_fauzanelka-0.0.1.dist-info/top_level.txt,sha256=MQ9I54Zz4UaE3rjvd1Kq76Nhx0WqpLBfELn_-sTtycw,9
+log2json_fauzanelka-0.0.1.dist-info/RECORD,,
