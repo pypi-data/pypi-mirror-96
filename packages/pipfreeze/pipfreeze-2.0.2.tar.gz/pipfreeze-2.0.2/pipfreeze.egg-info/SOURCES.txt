@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+pipfreeze.py
+setup.py
+pipfreeze.egg-info/PKG-INFO
+pipfreeze.egg-info/SOURCES.txt
+pipfreeze.egg-info/dependency_links.txt
+pipfreeze.egg-info/entry_points.txt
+pipfreeze.egg-info/top_level.txt
