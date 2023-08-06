@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: banxx
+Version: 0.0.1
+Summary: Demo publish python module
+Home-page: UNKNOWN
+Author: Ba Nguyễn
+Author-email: banx9x@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Utils package
+
+Demo publish Python package
+
+
