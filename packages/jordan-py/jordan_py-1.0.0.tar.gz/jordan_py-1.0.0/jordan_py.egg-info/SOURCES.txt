@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+jordan_py/__init__.py
+jordan_py/jordan.py
+jordan_py.egg-info/PKG-INFO
+jordan_py.egg-info/SOURCES.txt
+jordan_py.egg-info/dependency_links.txt
+jordan_py.egg-info/requires.txt
+jordan_py.egg-info/top_level.txt
+jordan_py/test/__init__.py
+jordan_py/test/test_jordan.py
