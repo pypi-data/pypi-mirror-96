@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+equinox/__init__.py
+equinox/score.py
+equinox_gould29.egg-info/PKG-INFO
+equinox_gould29.egg-info/SOURCES.txt
+equinox_gould29.egg-info/dependency_links.txt
+equinox_gould29.egg-info/top_level.txt
