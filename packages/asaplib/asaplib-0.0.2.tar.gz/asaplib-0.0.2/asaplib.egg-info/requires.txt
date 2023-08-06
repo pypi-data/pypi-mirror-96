@@ -1,0 +1,13 @@
+dscribe>=0.4.0
+click>=7.0
+numpy
+scipy
+scikit-learn
+ase>=3.19.1
+umap-learn
+PyYAML
+tqdm>=4.46.1
+pandas
+
+[testing]
+pytest>=5.0
