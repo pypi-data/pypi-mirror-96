@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/avrex/__init__.py
+src/avrex/api.py
+src/avrex/cli.py
+src/avrex.egg-info/PKG-INFO
+src/avrex.egg-info/SOURCES.txt
+src/avrex.egg-info/dependency_links.txt
+src/avrex.egg-info/entry_points.txt
+src/avrex.egg-info/requires.txt
+src/avrex.egg-info/top_level.txt
