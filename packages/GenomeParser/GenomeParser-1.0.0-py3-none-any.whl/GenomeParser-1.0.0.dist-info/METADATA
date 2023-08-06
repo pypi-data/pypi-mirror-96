@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: GenomeParser
+Version: 1.0.0
+Summary: Descrição curta do meu pacote
+Home-page: https://github.com/BrenoOsvaldoFunicheli/GenomeParser.git
+Author: bfunicheli
+Author-email: osvaldobreno99@gmail.com
+License: MIT
+Keywords: dev,web
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+
+Longa descrição do meu pacote
+
+
