@@ -1,0 +1,13 @@
+PyAutoMaker/__init__.py,sha256=IfNrGEnywNioN22oF75emkFVDopJv_TADRtrgh43NvI,463
+PyAutoMaker/dd.py,sha256=aYyAdmqrK8_sGXbx2HddYts6GmH8lLjDxG5zseNx5so,2537
+PyAutoMaker/image.py,sha256=G8KOrYSkX-GnqIEwuEoYJQ-UDe_OfxFxbzHCkFIQ0JE,9380
+PyAutoMaker/memory.py,sha256=3v4u3pLVKBBVPR1WSyeu5H0GMjY4uMKOnsZMMR0HjOM,1895
+PyAutoMaker/record.py,sha256=0VMKkzGGAHUKAGaWIbUsp2dHcr7Il7matAeqsIsnRm0,10128
+PyAutoMaker-0.1.4.data/data/lib/site-packages/PyAutoMaker/dlls/DD64.dll,sha256=l4RZkZ6MeHn3aImkI3cD5Kflj1qqArThE13ZQOiHnHA,3320664
+PyAutoMaker-0.1.4.data/data/lib/site-packages/PyAutoMaker/dlls/PythonWrapper.dll,sha256=RjfO5yD9oz7dmgmC5PQawmRlfi0xqtFUPbF39otEgz4,70144
+PyAutoMaker-0.1.4.data/data/lib/site-packages/PyAutoMaker/dlls/opencv_world450.dll,sha256=eqU5OTPTR1hFVozH0F2fpo76xVlq8rH7MOsbsL_6rbM,72614912
+PyAutoMaker-0.1.4.dist-info/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+PyAutoMaker-0.1.4.dist-info/METADATA,sha256=px4OkvnW3IyP3ZvTqOGGe9IGDIbGaj_rML5QKrSX32s,732
+PyAutoMaker-0.1.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+PyAutoMaker-0.1.4.dist-info/top_level.txt,sha256=vxGHmjw9iFkJeaEXwDWjposxp-64ol1Cyf0xoIuTDCs,12
+PyAutoMaker-0.1.4.dist-info/RECORD,,
