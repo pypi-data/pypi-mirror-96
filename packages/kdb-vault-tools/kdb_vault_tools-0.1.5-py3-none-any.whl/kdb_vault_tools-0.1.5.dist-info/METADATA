@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: kdb-vault-tools
+Version: 0.1.5
+Summary: Tools for kdb vault managing
+Home-page: https://github.com/moaddib666/kdb-vault-tools
+Author: Max Nikitenko
+Author-email: moaddib666@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: pykeepass (==4.0.0)
+Requires-Dist: hvac (==0.10.8)
+
+# KDB to Vault Tools
+
+Package that allow migrate from kdb to vault and vise versa
+
+### Example
+- Start vault in development mode
+```bash
+docker-compose up
+```
+
+- Prepare simple script or use `kdb_2_vault.py`
+
+```python
+from kdb_vault_tools import Processor
+
+def create_kdb():
+    vault_conf = {"url": "http://localhost:1234", "token": "myroot"}
+    kdb_conf = {
+        "filename": "kdb_tmp/secrets-20190422.kdbx",
+        "password": "superSecret123",
+    }
+
+    processor = Processor(vault_settings=vault_conf, kdb_settings=kdb_conf)
+    processor.sync_from_kdb()
+    processor.write_vault(base_path="/sandbox/org/team/foo/")
+
+
+def fill_vault():
+    vault_conf = {"url": "http://localhost:1234", "token": "myroot"}
+    kdb_conf = {
+        "filename": "kdb_tmp/secrets-20190422.kdbx",
+        "password": "superSecret123",
+    }
+
+    processor = Processor(vault_settings=vault_conf, kdb_settings=kdb_conf)
+    processor.sync_from_kdb()
+    processor.write_vault(base_path="/sandbox/org/team/foo/") 
+```
+
+### History
+Version 0.1.0 (2021-02-23) - Base Concept
+
+### Credits
+Lead Developer - Max Nikitenko (moaddib666@gmail.com)
+
+### License
+- MIT
+
+
