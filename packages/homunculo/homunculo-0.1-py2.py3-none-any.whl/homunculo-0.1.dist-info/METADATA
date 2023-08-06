@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: homunculo
+Version: 0.1
+Summary: A snake that bites it's tail
+Home-page: https://github.com/akielbowicz/homunculo
+License: UNKNOWN
+Author: Augusto Kielbowicz
+Author-email: augusto.kiel@gmail.com
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+
+# homunculo
+A snake biting it's tail
+
