@@ -1,0 +1,5 @@
+numpy
+matplotlib
+plotly
+torque_drag
+well_profile
