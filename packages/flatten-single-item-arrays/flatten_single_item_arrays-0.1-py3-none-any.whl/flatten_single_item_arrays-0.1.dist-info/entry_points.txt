@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        flatten-single-item-arrays=flatten_single_item_arrays.cli:cli
+    
