@@ -1,0 +1,3 @@
+[console_scripts]
+compose = compose.manage:main
+
