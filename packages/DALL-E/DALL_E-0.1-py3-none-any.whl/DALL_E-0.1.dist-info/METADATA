@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: DALL-E
+Version: 0.1
+Summary: PyTorch package for the discrete VAE used for DALL·E.
+Home-page: http://github.com/openai/DALL-E
+Author: Aditya Ramesh
+Author-email: aramesh@openai.com
+License: BSD
+Platform: UNKNOWN
+Requires-Dist: Pillow
+Requires-Dist: blobfile
+Requires-Dist: mypy
+Requires-Dist: numpy
+Requires-Dist: pytest
+Requires-Dist: requests
+Requires-Dist: torch
+Requires-Dist: torchvision
+
+UNKNOWN
+
+

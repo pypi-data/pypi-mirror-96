@@ -1,0 +1,10 @@
+dall_e/__init__.py,sha256=0p5h_zYXfsuTqrJkLRwsPzrq_zUXfxWG1D7J1JU9_Bw,595
+dall_e/decoder.py,sha256=DN3KGNZY6YgkO7Xt82eMV5TWV3ys8Ra0Ft1afn0b620,3936
+dall_e/encoder.py,sha256=tSwLCGrS-SBVS3QdFTfu3YIOw5Aj7n2ihfKuzOz6W4Q,3775
+dall_e/utils.py,sha256=kkb0fScTia2GJ4bABVs4UPtuqoa3yJYoxO9dOHXMoh0,1840
+DALL_E-0.1.dist-info/LICENSE,sha256=DGk0kX23pG07VAvli4NLqkCCT0AaunHy1qx4IKv3ons,1405
+DALL_E-0.1.dist-info/METADATA,sha256=DBp5oYoXfJtGGsKcsWPjg7J4dWD6gmfVj9H4p0bE4Kk,433
+DALL_E-0.1.dist-info/WHEEL,sha256=S6zePDbUAjzMmpYOg2cHDxuYFWw7WiOXt6ogM6hIB5Q,92
+DALL_E-0.1.dist-info/top_level.txt,sha256=rECHK8FcKwh0ucVDHoyTVECkO-l6OzrkKYyVC6FYCfo,7
+DALL_E-0.1.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+DALL_E-0.1.dist-info/RECORD,,
