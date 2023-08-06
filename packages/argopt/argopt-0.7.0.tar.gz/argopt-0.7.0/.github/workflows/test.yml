@@ -1,0 +1,133 @@
+name: Test
+on:
+  push:
+  pull_request:
+  schedule:
+  - cron: '3 2 1 * *'  # M H d m w (monthly at 2:03)
+jobs:
+  check:
+    if: github.event_name != 'pull_request' || github.head_ref != 'devel'
+    name: Check
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - uses: actions/setup-python@v2
+    - name: Prepare cache
+      run: echo "PYSHA=$(python -VV | sha256sum | cut -d' ' -f1)" >> $GITHUB_ENV
+    - uses: actions/cache@v1
+      with:
+        path: ~/.cache/pre-commit
+        key: pre-commit|${{ env.PYSHA }}|${{ hashFiles('.pre-commit-config.yaml') }}
+    - name: Dependencies
+      run: |
+        pip install -U pre-commit
+    - uses: reviewdog/action-setup@v1
+    - if: github.event_name != 'schedule'
+      name: Comment
+      run: |
+        if [[ $EVENT == pull_request ]]; then
+          REPORTER=github-pr-review
+        else
+          REPORTER=github-check
+        fi
+        pre-commit run -a todo | reviewdog -efm="%f:%l: %m" -name=TODO -tee -reporter=$REPORTER -filter-mode nofilter
+        pre-commit run -a flake8 | reviewdog -f=pep8 -name=flake8 -tee -reporter=$REPORTER -filter-mode nofilter
+      env:
+        REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        EVENT: ${{ github.event_name }}
+    - name: Lint
+      run: pre-commit run -a --show-diff-on-failure
+  test:
+    if: github.event_name != 'pull_request' || github.head_ref != 'devel'
+    strategy:
+      matrix:
+        python: [2.7, 3.5, 3.6, 3.7, 3.8, 3.9, pypy3]
+    name: Python ${{ matrix.python }}
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python }}
+    - name: Install
+      run: pip install -U tox
+    - name: Test
+      run: |
+        if [[ "$PYVER" == py* ]]; then
+          tox -e $PYVER                                             # basic:pypy
+        else
+          tox -e py${PYVER/./}                                      # normal
+        fi
+      env:
+        PYVER: ${{ matrix.python }}
+        COVERALLS_FLAG_NAME: py${{ matrix.python }}
+        COVERALLS_PARALLEL: true
+        COVERALLS_SERVICE_NAME: github
+        # coveralls needs explicit token
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  finish:
+    if: github.event_name != 'pull_request' || github.head_ref != 'devel'
+    name: Coverage
+    continue-on-error: ${{ github.event_name != 'push' }}
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/setup-python@v2
+    - name: Coveralls Finished
+      run: |
+        pip install -U coveralls
+        coveralls --finish || :
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  deploy:
+    if: github.event_name != 'pull_request' || github.head_ref != 'devel'
+    name: Deploy
+    needs: [check, test]
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - uses: actions/setup-python@v2
+    - id: dist
+      uses: casperdcl/deploy-pypi@v2
+      with:
+        build: true
+        password: ${{ secrets.PYPI_TOKEN }}
+        gpg_key: ${{ secrets.GPG_KEY }}
+        upload: ${{ github.event_name == 'push' && startsWith(github.event.ref, 'refs/tags') }}
+    - name: Changelog
+      run: |
+        git log --pretty='format:%d%n- %s%n%b---' $(git tag --sort=v:refname | tail -n2 | head -n1)..HEAD > _CHANGES.md
+    - if: github.event_name == 'push' && startsWith(github.event.ref, 'refs/tags')
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: argopt ${{ github.ref }} stable
+        body_path: _CHANGES.md
+        draft: true
+    - if: github.event_name == 'push' && startsWith(github.event.ref, 'refs/tags')
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: dist/${{ steps.dist.outputs.whl }}
+        asset_name: ${{ steps.dist.outputs.whl }}
+        asset_content_type: application/zip
+    - if: github.event_name == 'push' && startsWith(github.event.ref, 'refs/tags')
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: dist/${{ steps.dist.outputs.whl_asc }}
+        asset_name: ${{ steps.dist.outputs.whl_asc }}
+        asset_content_type: text/plain
