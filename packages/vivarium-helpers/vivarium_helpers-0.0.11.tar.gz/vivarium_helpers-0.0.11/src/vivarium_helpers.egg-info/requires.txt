@@ -1,0 +1,4 @@
+pandas
+db_queries
+numpy
+scipy
