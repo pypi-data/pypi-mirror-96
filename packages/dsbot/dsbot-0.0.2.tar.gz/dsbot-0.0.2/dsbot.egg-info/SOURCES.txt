@@ -1,0 +1,9 @@
+setup.py
+dsbot/DSBot.py
+dsbot/TelergramBot.py
+dsbot/__init__.py
+dsbot.egg-info/PKG-INFO
+dsbot.egg-info/SOURCES.txt
+dsbot.egg-info/dependency_links.txt
+dsbot.egg-info/requires.txt
+dsbot.egg-info/top_level.txt
