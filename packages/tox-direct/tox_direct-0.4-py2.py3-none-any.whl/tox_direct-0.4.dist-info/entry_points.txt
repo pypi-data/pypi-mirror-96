@@ -1,0 +1,3 @@
+[tox]
+direct = tox_direct.hookimpls
+
