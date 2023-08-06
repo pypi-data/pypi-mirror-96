@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: aytlib
+Version: 0.0.3
+Summary: python lib sample
+Home-page: https://test.pypi.org/legacy/
+Author: AaronYang
+Author-email: 3300390005@qq.com
+License: UNKNOWN
+Project-URL: tlib, https://github.com/AaronYang233/aytlib
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+
+UNKNOWN
+
+
