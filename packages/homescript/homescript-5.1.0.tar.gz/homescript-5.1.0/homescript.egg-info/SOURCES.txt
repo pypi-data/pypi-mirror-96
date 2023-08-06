@@ -1,0 +1,9 @@
+README.md
+setup.py
+homescript/__init__.py
+homescript/__main__.py
+homescript.egg-info/PKG-INFO
+homescript.egg-info/SOURCES.txt
+homescript.egg-info/dependency_links.txt
+homescript.egg-info/requires.txt
+homescript.egg-info/top_level.txt
