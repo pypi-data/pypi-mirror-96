@@ -1,0 +1,5 @@
+appdirs
+httpx
+pandas
+pydantic
+typing_extensions
