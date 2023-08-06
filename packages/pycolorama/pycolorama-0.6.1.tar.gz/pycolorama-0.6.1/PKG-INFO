@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: pycolorama
+Version: 0.6.1
+Summary: A simple color module to handle RGB and BGR format more easily
+Home-page: https://github.com/ooMakeIToo/pycolorama/
+Author: Jay
+Author-email: jay.temporary._removethispart_@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/ooMakeIToo/pycolorama/issues
+Description: PyColorama
+        ==========
+        
+        This is a simple package to handle easily various colors in either the PyGame (RGB) format or the OpenCV (BGR) format. 
+        Default mode is PyGame.
+        
+        
+        Example
+        -------
+        
+        
+        Just use like that :
+        
+        **example for PyGame color**
+        
+        `import pycolorama as pc`
+        
+        `COLOR = pc.COLOR(pc.PYGAME)` 
+        
+        `print(COLOR.WHITE)`
+        
+        Will return : (0,0,255)
+        
+        
+        **example for OpenCV color**
+        
+        `import pycolorama as pc`
+        
+        `COLOR = pc.COLOR(pc.OPENCV)`
+        
+        `print(COLOR.BLUE)`
+        
+        Will return : (255,0,0)
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Operating System :: OS Independent
+Requires-Python: >=2.7
+Description-Content-Type: text/markdown

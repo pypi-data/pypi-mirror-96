@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+pycolorama/__init__.py
+pycolorama/pycolorama.py
+pycolorama.egg-info/PKG-INFO
+pycolorama.egg-info/SOURCES.txt
+pycolorama.egg-info/dependency_links.txt
+pycolorama.egg-info/top_level.txt
