@@ -1,0 +1,137 @@
+title: Timesketch Sigma config
+order: 20
+backends:
+  - es-dsl
+  - es-qs
+  - es-qr
+  - es-rule
+logsources:
+  sshd:
+    service: sshd
+    conditions:
+      data_type: "syslog/sshd"
+  auth:
+    service: auth
+    conditions:
+      data_type: "syslog"
+  apache:
+    product: apache
+    conditions:
+      data_type: "apache:access"
+  vsftp:
+    service: vsftp
+    conditions:
+      data_type: "vsftpd:log"
+  webserver:
+    category: webserver
+    conditions:
+      data_type:
+        - "apache:access"
+        - "iis:log:line"
+  santa:
+    category: osx_santa
+    conditions:
+      data_type:
+        - "filesystem:santa:entry"
+  shell:
+    service: shell
+    conditions:
+      data_type:
+        - "shell:zsh:history"
+        - "bash:history:command"
+        - "apt:history:line"
+        - "selinux:line"
+  selinux:
+    service: selinux
+    conditions:
+      data_type:
+        - "selinux:line"
+  winprefetch:
+    service: winprefetch
+    conditions:
+      data_type: "windows:prefetch:execution"
+  product_windows:
+    product: windows
+    conditions:
+      data_type: "windows:evtx:record"
+  service_windows_security:
+    service: security
+    conditions:
+      source_name:
+        - "Microsoft-Windows-Security-Auditing"
+        - "Microsoft-Windows-Eventlog"
+  service_windows_system:
+    service: system
+    conditions:
+      source_name:
+        - "Microsoft-Windows-Eventlog"
+  powershell:
+    service: powershell
+    conditions:
+      source_name:
+        - "Microsoft-Windows-Security-Auditing"
+fieldmappings:
+    EventID: event_identifier
+    ComputerName: computer_name
+    EventType: event_type
+    EventIdentifier: event_identifier
+    ObjectName: xml_string # that is a bit hacky but the processName is currently not being parsed that is why searching in the raw xml
+    ObjectType: xml_string # that is a bit hacky but the processName is currently not being parsed that is why searching in the raw xml
+    ProcessName: xml_string # that is a bit hacky but the processName is currently not being parsed that is why searching in the raw xml
+    GroupSid: xml_string
+    CommandLine: xml_string
+    ServiceName: xml_string
+    Service: xml_string
+    Message: xml_string
+    keywords: xml_string # that might be wrong, only introduced during powershell stuff
+    Source: message
+    LogonType: xml_string
+    LogonProcessName: xml_string
+    LogonGuid: xml_string
+    SubjectDomainName: xml_string
+    SubjectUserName: xml_string
+    TargetUserSid: xml_string
+    TargetUserName: xml_String
+    TargetDomainName: xml_string
+    TargetLogonId: xml_string
+    AuthenticationPackageName: xml_string
+    WorkstationName: xml_string
+    LogonGuid: xml_string
+    TransmittedServices: xml_string
+    ProcessId: xml_string
+    IpAddress: xml_string
+    IpPort: xml_String #not sure if that mapping is used somewhere else
+    SourceNetworkAddress: xml_string
+    TargetOutboundUserName: xml_string
+    TargetOutboundDomainName: xml_string
+    Level: xml_string # this might also cause conflicts.
+    ServiceFileName: xml_string
+    ObjectValueName: xml_string
+    DestPort: xml_string
+    LayerRTID: xml_string
+    AccessMask: xml_string
+    ShareName: xml_string
+    RelativeTargetName: xml_string
+    AccountName: xml_string
+    PrivilegeList: xml_string
+    SubjectLogonId: xml_string
+    CallingProcessName: xml_string
+    SAMAccountName: xml_string
+    ObjectServer: xml_string
+    Properties: xml_string
+    HiveName: xml_string
+    AttributeLDAPDisplayName: xml_string
+    GroupName: xml_string
+    UserName: xml_string
+    DeviceDescription: xml_string
+    DeviceClassName: xml_string
+    TicketOptions: xml_string
+    TicketEncryptionType: xml_string
+    Properties: xml_string
+    SourceWorkstation: xml_string
+    DestinationAddress: xml_string
+    DestinationPort: xml_string
+    SourceAddress: xml_string
+    Keywords: xml_string
+    LDAPDisplayName: xml_string
+    AuditPolicyChanges: xml_string
