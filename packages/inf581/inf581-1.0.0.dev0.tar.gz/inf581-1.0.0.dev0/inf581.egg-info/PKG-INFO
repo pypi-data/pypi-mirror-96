@@ -1,0 +1,182 @@
+Metadata-Version: 1.2
+Name: inf581
+Version: 1.0.0.dev0
+Summary: Tool functions for INF581.
+Home-page: http://www.jdhp.org/
+Author: Jeremie DECOCK
+Author-email: jd.jdhp@gmail.com
+Maintainer: Jeremie DECOCK
+Maintainer-email: jd.jdhp@gmail.com
+License: UNKNOWN
+Download-URL: http://www.jdhp.org/
+Description: ====================
+        Polytechnique INF581
+        ====================
+        
+        Copyright (c) 2019-2021 Jérémie Decock
+        
+        .. image:: logo.jpg
+            :width: 100
+            :alt: Alternative text
+        
+        
+        Github repository: https://github.com/jeremiedecock/polytechnique-inf581-2021
+        
+        
+        Moodle
+        ======
+        
+            https://moodle.polytechnique.fr/course/view.php?id=9352
+        
+        
+        Welcome to INF581!
+        ==================
+        
+        Driven by recent breakthroughs, rapidly growing collections of data, and a plethora of exciting applications, artificial intelligence is experiencing massive interest and investment from both the academic and industrial scene.
+        
+        This course selects a number of advanced topics to explore in machine learning and autonomous agents, in particular:
+        
+        - Probabilistic graphical models (Bayesian networks, ...)
+        - Multi-output and structured-output prediction problems
+        - Deep-learning architectures
+        - Methods of search and optimization (Beam search, epsilon-approximate search, stochastic optimization, Monte Carlo methods, ...)
+        - Sequential prediction and decision making (HMMs, Sequential Monte Carlo, Bayesian Filtering, MDPs, ...)
+        - Reinforcement learning (Q-Learning, Deep Q-Learning, ...)
+        
+        Although these topics are diverse and extensive, this course is developed around a common thread connecting them all, such that each topic builds off the others.
+        
+        Lectures will cover the relevant theory, and labs will familiarize the students with these topics from a practical point of view. Several of the lab assignments will be graded,
+        and a team project on reinforcement learning will form a major component of the grade - where the goal is to developing and deploy an agent in an environment and write a report analyzing the results.
+        
+        Course Outline
+        --------------
+        
+        A working outline can be found as topics below. This is subject to minor changes as the course progresses. 
+        
+        
+        Some recommended literature
+        ---------------------------
+        
+        TODO...
+        
+        
+        Lab sessions
+        ------------
+        
+        Jupyter Notebooks can either be executed on Google Colab (works nicely with Google Drive), MyBinder (don't forget to regularly save your work) or locally,
+        in which case Anaconda (2019.10 or above ; Python 3.7 or above) is strongly recommended.
+        If the conda command does not work, it's that conda is not in the PATH environment variable. You may add it with the command::
+        
+            export PATH="/usr/local/Anaconda3-2019.10/bin:$PATH"
+            conda init
+        
+        If you choose the "Local" version of the lab sessions, right click on the link > Save Link as...
+        If you wish to execute the notebooks on the machines of the Salle d'Informatique, download [this conda_environment.yml](conda_environment.yml) file open a terminal prompt and enter::
+        
+            conda env create -f conda_environment.yml
+            python -m ipykernel install --user --name inf581 --display-name "Python (inf581)"
+        
+        This will install all dependencies in a new conda environment named inf581. Once on the Notebook, don't forget to use Kernel > Change Kernel to use the Python (inf581) environment.
+        If the conda environment inf581 already exists, you may delete it with the following command::
+        
+            conda remove --name inf581 --all
+        
+        
+        To launch Jupyter, use::
+        
+            jupyter-notebook --ip=0.0.0.0 --port=8080
+        
+        
+        Lab sessions
+        ============
+        
+        Lab session 4: Dynamic Programming
+        ----------------------------------
+        
+        Subject:
+        
+        - Open in Google Colab: https://colab.research.google.com/github/jeremiedecock/polytechnique-inf581-2021/blob/master/lab4_rl1_dynamic_programming.ipynb
+        - Open in MyBinder: https://mybinder.org/v2/gh/jeremiedecock/polytechnique-inf581-2021/master?filepath=lab4_rl1_dynamic_programming.ipynb
+        - Open in NbViewer: https://nbviewer.jupyter.org/github/jeremiedecock/polytechnique-inf581-2021/blob/master/lab4_rl1_dynamic_programming.ipynb
+        - Download the notebook file: https://github.com/jeremiedecock/polytechnique-inf581-2021/raw/master/lab4_rl1_dynamic_programming.ipynb
+        
+        Solution:
+        
+        - Open in Google Colab: https://colab.research.google.com/github/jeremiedecock/polytechnique-inf581-2021/blob/master/lab4_rl1_dynamic_programming_answers.ipynb
+        - Open in MyBinder: https://mybinder.org/v2/gh/jeremiedecock/polytechnique-inf581-2021/master?filepath=lab4_rl1_dynamic_programming_answers.ipynb
+        - Open in NbViewer: https://nbviewer.jupyter.org/github/jeremiedecock/polytechnique-inf581-2021/blob/master/lab4_rl1_dynamic_programming_answers.ipynb
+        - Download the notebook file: https://github.com/jeremiedecock/polytechnique-inf581-2021/raw/master/lab4_rl1_dynamic_programming_answers.ipynb
+        
+        
+        Lab session 5
+        -------------
+        
+        Subject:
+        
+        - Open in Google Colab: 
+        - Open in NbViewer: 
+        - Download the notebook file: 
+        
+        Solution:
+        
+        - Open in Google Colab: 
+        - Open in NbViewer: 
+        - Download the notebook file: 
+        
+        
+        Lab session 6
+        -------------
+        
+        Subject:
+        
+        - Open in Google Colab: 
+        - Open in NbViewer: 
+        - Download the notebook file: 
+        
+        Solution:
+        
+        - Open in Google Colab: 
+        - Open in NbViewer: 
+        - Download the notebook file: 
+        
+        Lab session 7
+        -------------
+        
+        Subject:
+        
+        - Open in Google Colab: 
+        - Open in NbViewer: 
+        - Download the notebook file: 
+        
+        Solution:
+        
+        - Open in Google Colab: 
+        - Open in NbViewer: 
+        - Download the notebook file: 
+        
+        Lab session 8
+        -------------
+        
+        Subject:
+        
+        - Open in Google Colab: 
+        - Open in NbViewer: 
+        - Download the notebook file: 
+        
+        Solution:
+        
+        - Open in Google Colab: 
+        - Open in NbViewer: 
+        - Download the notebook file: 
+        
+Keywords: INF581
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
