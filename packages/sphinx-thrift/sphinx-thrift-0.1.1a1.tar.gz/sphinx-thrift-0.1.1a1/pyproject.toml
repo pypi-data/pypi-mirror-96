@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "sphinx-thrift"
+version = "0.1.1a1"
+description = ""
+authors = ["Csonkás Kristóf Gyula <csonkas.kristof@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+sphinx = "^3.5.1"
+importlib-metadata = { version = "^1.0", python = "<3.8" }
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.0"
+mypy = "^0.812.0"
+yapf = "^0.30.0"
+sphinx_rtd_theme = "^0.5.1"
+rope = "^0.18.0"
+isort = "^5.7.0"
+
+[build-system]
+requires = ["poetry>=1.1"]
+build-backend = "poetry.masonry.api"
