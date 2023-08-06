@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: structdbrest
+Version: 0.0.1
+Summary: REST API interface to atomistictools.org website
+Home-page: UNKNOWN
+Author: Yury Lysogorskiy
+Author-email: yury.lysogorskiy@rub.de
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: ase (>=3.18)
+Requires-Dist: pandas
+Requires-Dist: requests
+Requires-Dist: numpy
+
+UNKNOWN
+
+
