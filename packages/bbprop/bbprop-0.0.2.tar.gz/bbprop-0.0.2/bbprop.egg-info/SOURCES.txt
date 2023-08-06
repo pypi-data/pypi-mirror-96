@@ -1,0 +1,9 @@
+README.md
+setup.py
+bbprop/__init__.py
+bbprop/bbprop.py
+bbprop.egg-info/PKG-INFO
+bbprop.egg-info/SOURCES.txt
+bbprop.egg-info/dependency_links.txt
+bbprop.egg-info/requires.txt
+bbprop.egg-info/top_level.txt
