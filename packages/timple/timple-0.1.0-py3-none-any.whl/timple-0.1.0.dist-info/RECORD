@@ -1,0 +1,9 @@
+timple/__init__.py,sha256=eIJzELR75tlLqj8GMSB0ggnLPxa83TwlN2fFBfyrXCU,61
+timple/core.py,sha256=vYl0Z__rcJ2buGyH8EAzkXuszmuVGOLimqNYpWRwODA,6305
+timple/patches.py,sha256=yoDzNOdVMGF8jW_3ZZ_Pt-3USExxgkZBidv-6tBFZYs,3376
+timple/timedelta.py,sha256=sAzUwIbpXVLY8o6IF53Zvm9RGh1Df_lKRxCAco1QSiE,40897
+timple-0.1.0.dist-info/LICENSE.rst,sha256=o-liYbofuffnaMZoPbDm0iRNN7Ax8FfuGsdgqZOE9zA,1075
+timple-0.1.0.dist-info/METADATA,sha256=TcPraMl4UaSgHqy7ED2O23cyax3yb0oe8WWGQLb8qpw,342
+timple-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+timple-0.1.0.dist-info/top_level.txt,sha256=rWTm098H5qJnRsLOn5Gkc922jzL8y3TpMVaY2TCvMVQ,7
+timple-0.1.0.dist-info/RECORD,,
