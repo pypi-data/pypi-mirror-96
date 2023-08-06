@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: sora-python
+Version: 0.1
+Summary: Python client for Sora ID: soraid.com
+Home-page: UNKNOWN
+Author: Sora ID, Inc.
+Author-email: support@soraid.com
+License: UNKNOWN
+Description: Python client for Sora ID: soraid.com
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7

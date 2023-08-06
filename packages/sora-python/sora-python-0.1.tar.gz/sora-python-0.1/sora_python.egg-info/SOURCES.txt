@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+sora/__init__.py
+sora/sora.py
+sora_python.egg-info/PKG-INFO
+sora_python.egg-info/SOURCES.txt
+sora_python.egg-info/dependency_links.txt
+sora_python.egg-info/requires.txt
+sora_python.egg-info/top_level.txt
