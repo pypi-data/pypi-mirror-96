@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "flashgeotext"
+version = "0.3.0"
+description = "Extract and count countries and cities (+their synonyms) from text"
+authors = ["Benjamin Ramser <ahoi@iwpnd.pw>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+flashtext = "^2.7"
+loguru = "^0.5.3"
+pydantic = "^1.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+pytest-cov = "^2.11.1"
+awscli = "^1.19.17"
+mkdocs = "^1.1.2"
+mkdocs-material = "^7.0.3"
+markdown-include = "^0.6.0"
+pydoc-markdown = "^3.10.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
