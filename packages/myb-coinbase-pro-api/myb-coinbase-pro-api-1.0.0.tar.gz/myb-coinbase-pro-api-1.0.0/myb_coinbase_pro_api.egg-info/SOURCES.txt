@@ -1,0 +1,11 @@
+README.md
+setup.py
+coinbase_pro/__init__.py
+coinbase_pro/auth.py
+coinbase_pro/client.py
+myb_coinbase_pro_api.egg-info/PKG-INFO
+myb_coinbase_pro_api.egg-info/SOURCES.txt
+myb_coinbase_pro_api.egg-info/dependency_links.txt
+myb_coinbase_pro_api.egg-info/not-zip-safe
+myb_coinbase_pro_api.egg-info/requires.txt
+myb_coinbase_pro_api.egg-info/top_level.txt
