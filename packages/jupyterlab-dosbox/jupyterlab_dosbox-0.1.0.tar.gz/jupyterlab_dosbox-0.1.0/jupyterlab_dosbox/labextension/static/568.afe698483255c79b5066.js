@@ -1,0 +1,1 @@
+(self.webpackChunkjupyterlab_dosbox=self.webpackChunkjupyterlab_dosbox||[]).push([[568],{1568:(e,s,o)=>{"use strict";o.a(e,(async e=>{o.r(s),o.d(s,{DosboxWidget:()=>b.c,DosboxRuntimeModelAbs:()=>a.X,DosboxRuntimeView:()=>a.I});var b=o(6651),a=o(1367),t=e([a,b]);[a,b]=t.then?await t:t}))}}]);
