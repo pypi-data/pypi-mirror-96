@@ -1,0 +1,42 @@
+[tool.poetry]
+name = "wait-for-utils"
+version = "0.1.0"
+description = "Wait for PostgreSQL to be available before startup docker container."
+authors = ["Dmitry <mtizima@gmail.com>"]
+
+license = "MIT"
+
+readme = "README.md"
+
+homepage = "https://github.com/mtizima/wait-for-utils"
+documentation = "https://github.com/mtizima/wait-for-utils/blob/main/README.md"
+
+keywords = ["docker", "building"]
+
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: POSIX",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Utilities"
+]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+psycopg2 = "^2.8.6"
+click = "^7.1.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+pytest-mock = "^3.5.1"
+pytest-cov = "^2.11.1"
+black = "^20.8b1"
+
+[tool.poetry.scripts]
+wait-for-postgres = "wait_for_utils.cli:wait_for_postgres"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

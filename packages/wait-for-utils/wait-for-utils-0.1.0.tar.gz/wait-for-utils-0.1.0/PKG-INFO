@@ -1,0 +1,55 @@
+Metadata-Version: 2.1
+Name: wait-for-utils
+Version: 0.1.0
+Summary: Wait for PostgreSQL to be available before startup docker container.
+Home-page: https://github.com/mtizima/wait-for-utils
+License: MIT
+Keywords: docker,building
+Author: Dmitry
+Author-email: mtizima@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Utilities
+Requires-Dist: click (>=7.1.2,<8.0.0)
+Requires-Dist: psycopg2 (>=2.8.6,<3.0.0)
+Project-URL: Documentation, https://github.com/mtizima/wait-for-utils/blob/main/README.md
+Description-Content-Type: text/markdown
+
+# wait-for-utils
+![Python Main Release](https://github.com/mtizima/wait-for-utils/workflows/Python%20Main%20Release/badge.svg)
+
+Wait for service(s) to be available before startup docker container.
+
+## Installation
+```bash
+pip install wait-for-utils
+```
+
+## Usage
+
+
+#### PostgreSQL
+Example:
+```bash
+wait-for-postgres -
+```
+Additional documentation:
+```bash
+wait-for-postgres --help
+```
+
+By default, all settings are taken from the environment variables.
+* **POSTGRES_DB**
+* **POSTGRES_USER**
+* **POSTGRES_PASSWORD**
+* **POSTGRES_HOST**
+* **POSTGRES_PORT** 
+* **POSTGRES_CHECK_TIMEOUT**
+* **POSTGRES_CHECK_INTERVAL**
+
