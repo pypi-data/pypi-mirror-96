@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+mondigy/__init__.py
+mondigy/database.py
+mondigy/loader.py
+mondigy.egg-info/PKG-INFO
+mondigy.egg-info/SOURCES.txt
+mondigy.egg-info/dependency_links.txt
+mondigy.egg-info/entry_points.txt
+mondigy.egg-info/requires.txt
+mondigy.egg-info/top_level.txt
