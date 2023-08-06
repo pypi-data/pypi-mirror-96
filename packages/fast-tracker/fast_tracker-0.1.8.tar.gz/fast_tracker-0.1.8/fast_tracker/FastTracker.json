@@ -1,0 +1,36 @@
+{
+  "FastTracker": {
+    "Enable": true,
+    "ProductCode": "天眼平台产品编码",
+    "AppCode": "天眼平台应用编码",
+    "AppKey": "天眼平台应用Key",
+    "EnvCode": "运行环境",
+    "ServiceName": "服务名称",
+    "TenantCode": "租户编码",
+    "UserCodeReader": [
+      {
+        "ReaderType": "Cookie",
+        "ReaderKey": "keeplastname"
+      }
+    ],
+     "Logging": {
+      "Level": "info",
+      "FilePath": "logs/fast-tracker/tracker-fast.log"
+    },
+    "CarrierHeader": {
+      "TrackerName": "fast-tracker",
+      "TraceIdName": "x-fast-trace-id"
+    },
+    "Event": {
+      "Components": [ "SqlClient", "HttpClient", "CustomEvent" ],
+      "CustomeEventSourceName": "FAST-Tracker-Custome-Event",
+      "IgnoreNullReference": true
+    },
+     "Transport": {
+      "TokenServerEndpoint": "http://xxx",
+      "QueueSize": 1572864,
+      "BatchSize": 3072
+    }
+
+  }
+}
