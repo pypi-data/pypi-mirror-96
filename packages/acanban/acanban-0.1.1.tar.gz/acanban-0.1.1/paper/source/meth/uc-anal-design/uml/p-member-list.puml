@@ -1,0 +1,13 @@
+@startuml
+hide footbox
+autoactivate on
+skinparam sequenceParticipant underline
+actor ":User" as usr
+control ":Project Controller" as ctl
+entity ":Project" as db_prj
+
+usr -> ctl : // select member tab()
+ctl -> db_prj : // list member in the project()
+ctl <-- db_prj : // return
+usr <-- ctl : // show list member in the project
+@enduml
