@@ -1,0 +1,16 @@
+wsdflow/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wsdflow/multipledimensionscore/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wsdflow/multipledimensionscore/core.py,sha256=SZCi_QbBClV8ZaLa5UEHStJADF2GbYencvvCMgVWRjI,5441
+wsdflow/multipledimensionsfun/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wsdflow/multipledimensionsfun/fun.py,sha256=U8p8b70P-hvpeZdRCqAWSeI_lgm_B5ft648bfCVmtYc,4216
+wsdflow/multipledimensionsfun/run.py,sha256=8X-mETKgrU-JJD3V1e6kSjgrr4_bdOTmIykQ0BNNUPI,383
+wsdflow/wsdsingledimensionscore/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wsdflow/wsdsingledimensionscore/core.py,sha256=y1Msv7Mw8xGcobg9m1_bklLj15Ng6ZrID3kv9VyvFlw,7308
+wsdflow/wsdsingledimensionsfun/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wsdflow/wsdsingledimensionsfun/fun.py,sha256=sAEBtz0dBZixZji_uUd3F5l2rOHlzxcrHs0yZY0R5zc,4035
+wsdflow/wsdsingledimensionsfun/run.py,sha256=BTcTcTQW200bWF6vbXIm-0I_86Iy_wxB0vBMqiGRd08,763
+wsdflow-0.0.2.dist-info/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+wsdflow-0.0.2.dist-info/METADATA,sha256=_gZrAVL445ymKdD8lEfP0QNL3166G7b0aRY5bI0xosw,525
+wsdflow-0.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+wsdflow-0.0.2.dist-info/top_level.txt,sha256=BDnuJS5OajMLNpnRmXMRMpKWbikYXTSGp2qZ7AhaB2g,8
+wsdflow-0.0.2.dist-info/RECORD,,
