@@ -1,0 +1,13 @@
+mass2chem/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mass2chem/adducts.py,sha256=wgURqYWSLCLDYEKISAe2dyb3HeITz0M2cPBLStlQSi4,10691
+mass2chem/annotate.py,sha256=UK6-k8cpCre-Y9MBCmPD-PsFSDQmRx4XFkyu3pPvs-s,16348
+mass2chem/contaminants.py,sha256=Ws2BL0VHt8AyoeFAQ6kBhM7AyXJrf3-Wygt6kl9Jdwg,3406
+mass2chem/feature_grouping.py,sha256=ej5txrcHchab6mlNe-6A4zOC2u81eL21SIRfd3hk3lQ,589
+mass2chem/io.py,sha256=YbosD3XTNlQmFG65wlBILvQouYaSQw_AtTmDv_GZXV8,1443
+mass2chem/reaction_rules.py,sha256=6gFUIfwXh6VWBmiD23fjAYRf1JHvF5lFUcvklwY2hjU,642
+mass2chem/identifiers/__init__.py,sha256=wubS57JgSOmBESVcWbrBr_c7vt3349D2cVc-WkRklN0,528
+mass2chem-0.0.3.dist-info/LICENSE,sha256=Y2-lQYG78b5KyU5XUMSdKCb_V06HpbBoy0lWf2F7mas,360
+mass2chem-0.0.3.dist-info/METADATA,sha256=HgaqMNEDhO44L5OVgQIF0DkJWdH1CFLiUg2MOBVr-_4,1901
+mass2chem-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mass2chem-0.0.3.dist-info/top_level.txt,sha256=lr00pzpBas6Z5BFPLy-EVsRx0HEFsgfDFOIIpgdrtjI,10
+mass2chem-0.0.3.dist-info/RECORD,,
