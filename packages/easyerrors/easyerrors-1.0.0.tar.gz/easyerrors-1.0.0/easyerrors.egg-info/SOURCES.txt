@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+example.py
+setup.py
+easyerrors/__init__.py
+easyerrors.egg-info/PKG-INFO
+easyerrors.egg-info/SOURCES.txt
+easyerrors.egg-info/dependency_links.txt
+easyerrors.egg-info/top_level.txt
