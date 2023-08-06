@@ -1,0 +1,2 @@
+#!python
+python -m crops.command_line.crops-cropseq "$@"
