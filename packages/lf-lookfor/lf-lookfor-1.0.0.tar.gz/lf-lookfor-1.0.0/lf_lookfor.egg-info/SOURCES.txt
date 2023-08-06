@@ -1,0 +1,10 @@
+README.md
+setup.py
+lf_lookfor.egg-info/PKG-INFO
+lf_lookfor.egg-info/SOURCES.txt
+lf_lookfor.egg-info/dependency_links.txt
+lf_lookfor.egg-info/entry_points.txt
+lf_lookfor.egg-info/requires.txt
+lf_lookfor.egg-info/top_level.txt
+lookfor/__init__.py
+lookfor/lookfor.py
