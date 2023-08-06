@@ -1,0 +1,58 @@
+Metadata-Version: 2.1
+Name: eudract-py
+Version: 1.0.0
+Summary: Find clinical trials info on EUDRACT
+Home-page: http://github.com/PaulinCharliquart/eudract-py
+Author: Paulin Charliquart
+Author-email: paulincharliquart@gmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/PaulinCharliquart/eudract-py/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+# eudract-py
+
+A simple python package to search for clinical trials in EUDRACT database.
+
+
+## Installation
+
+The easiet way to install *eudract-py* is to use pip:
+
+```pip install eudract-py```
+
+
+## Usage
+
+
+### Search for trials  
+
+Search clinical trials and return summary or full protocol details.
+
+```python
+from eudract import Eudract
+
+eu = Eudract()
+
+eu.search("EFC14280")
+
+eu.search() # return all EUDRACT protocols
+
+```
+
+
+## Issues
+
+Report issue [here](https://github.com/PaulinCharliquart/eudract-py/issues).
+
+
+
+
+
+
