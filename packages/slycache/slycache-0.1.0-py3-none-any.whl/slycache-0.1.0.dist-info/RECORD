@@ -1,0 +1,12 @@
+slycache/__init__.py,sha256=qZu7FjglXMyX1KKN6M0KmpdBd9itYA8JC2o7ZtDCY14,720
+slycache/actions.py,sha256=nIJP_C4sGBpy6Cp6ECAf691rq8j6S-5L0xrM21Q7czs,6697
+slycache/const.py,sha256=yIzcXFT8ntF5A-creQYF08HQMvXb1dTGG5rHplfNqLc,369
+slycache/exceptions.py,sha256=432jYeXEfKtSVNGj1BCbMdO0XSOyZH4PMNRC6nK2UmE,100
+slycache/interface.py,sha256=wt_g8eN1bZi5hmdpbaROY7JLiRWUtkNsk1dQCaneBC8,2073
+slycache/invocations.py,sha256=Q0LNx1YNpDHq5UyqZdZvxRMCvekCUT7Srz4Ig-Nlk5g,2357
+slycache/key_generator.py,sha256=4RiZeDAQP0MqqssWpzMsI0w18oGDO2-IeSzZWKK9yUQ,1612
+slycache/slycache.py,sha256=TaaClG_ywMFz4LchvBI1hK1nhzD9KHHbczBViS7jSX4,15192
+slycache-0.1.0.dist-info/LICENSE,sha256=fFodlqDglek_v5KbaIH92thX0J26VHmc7gWNPg5dZV4,1500
+slycache-0.1.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+slycache-0.1.0.dist-info/METADATA,sha256=5IRJ1RQfyHEl83GhWuFUi_useq2Ttg8RpuTt2C1hH50,2404
+slycache-0.1.0.dist-info/RECORD,,
