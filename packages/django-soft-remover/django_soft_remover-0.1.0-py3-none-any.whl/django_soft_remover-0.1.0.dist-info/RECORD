@@ -1,0 +1,13 @@
+soft_remover/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+soft_remover/managers.py,sha256=Xsbrb-ab7ngFpT5mGUlWNayUcsLzyw2iQdwY0dWlqsI,889
+soft_remover/models.py,sha256=QU5W99m7b8Yx1ERw5IzP8-hhtmS8GTywWLgVsqYC72g,2379
+soft_remover/locale/en/LC_MESSAGES/django.mo,sha256=N1pb17IfLd0ASiKO8d68-B4ygSpDkhKOCs8YTzMXQo0,380
+soft_remover/locale/en/LC_MESSAGES/django.po,sha256=VbaR2Vw0xHvmDzlXxqG6wWMRpfHRxLVvGLmbYskEC8U,721
+soft_remover/locale/ru/LC_MESSAGES/django.mo,sha256=HAosmq3xulHaaLI5SqVLKgRSclXbQzcK6Pwz08KnKjE,563
+soft_remover/locale/ru/LC_MESSAGES/django.po,sha256=GfgfofRKLVjG3fZ4X0vGMuEoy3Jchj4ZcuFjf2svzBA,942
+soft_remover/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_soft_remover-0.1.0.dist-info/LICENSE,sha256=hPmKau4Uh2vAcENTNZQtQWAdV7BvmXx-p_V1POR_oe4,1073
+django_soft_remover-0.1.0.dist-info/METADATA,sha256=GxDe1J6EvquqLitLVzBNe7PUnl1M3StGUkJPHKKsl3M,1645
+django_soft_remover-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+django_soft_remover-0.1.0.dist-info/top_level.txt,sha256=K8hOcgpP_H6YxRUi3VvULJP-O0Ch-3xrVYJOlGEP8Rw,13
+django_soft_remover-0.1.0.dist-info/RECORD,,
