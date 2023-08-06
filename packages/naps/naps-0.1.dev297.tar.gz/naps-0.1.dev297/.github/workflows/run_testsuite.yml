@@ -1,0 +1,50 @@
+name: Python Testsuite and pypi deploy
+on: [push]
+jobs:
+  run_testsuite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Install yices
+        run: |
+          sudo add-apt-repository ppa:sri-csl/formal-methods
+          sudo apt-get update
+          sudo apt-get install yices2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install deps
+        run: |
+          pip3 install -e .[doc,test]
+      - name: Run test suite
+        env:
+          NMIGEN_USE_YOSYS: system
+          SBY: yowasp-sby
+          SMTBMC: yowasp-yosys-smtbmc
+          YOSYS: yowasp-yosys
+        run:
+          pytest
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install deps
+        run: |
+          pip3 install twine setuptools-scm
+      - name: Build package
+        run: |
+          ./setup.py build sdist
+      - name: Upload to pypi
+        env:
+          TWINE_USERNAME: __token__
+          TWINE_PASSWORD: ${{ secrets.PYPI_TOKEN }}
+          TWINE_NON_INTERACTIVE: 1
+        run: |
+          twine upload dist/nap*
