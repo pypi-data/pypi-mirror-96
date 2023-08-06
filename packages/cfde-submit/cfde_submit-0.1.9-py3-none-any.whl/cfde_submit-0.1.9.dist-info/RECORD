@@ -1,0 +1,15 @@
+cfde_submit/__init__.py,sha256=9YyNJC2xmMzinRu5Djukg4rvlSgBWu6ZBWro0lFj950,102
+cfde_submit/bdbag_utils.py,sha256=rlnyl5GqhRRxpPlsXA4ns1LyoWcAqcC0vgAENtMLCH0,6037
+cfde_submit/client.py,sha256=W2hRzIUlQb_SAe6ldODXqdlIfVLt6tevyQPqgEgVl2E,24779
+cfde_submit/config.py,sha256=HChufuhZsGGs_e7rP_HZCzlqa-FLuqnTWJz5ZrgsHjU,2339
+cfde_submit/exc.py,sha256=LV0nFHSKzkoY6v17PrOBuJaIYeHM3vRAzfoR-Gj8mcU,935
+cfde_submit/globus_http.py,sha256=NqjcOJyBTJ9I-HqeyzPMJuTwndJL4t7_3yzIhx6Odw4,2018
+cfde_submit/main.py,sha256=KyVb2SWYyifJXR93BDq9STXmnhr3FpoWG9MfVZ_2Jo4,10498
+cfde_submit/validation.py,sha256=LXCs5OTcbufKLKuzGX7vjc_4GmVYH8oK_mrW5BFrgyA,5811
+cfde_submit/version.py,sha256=fOTo-681Nr7lG_qIrkrE3-Nfy1ujiqfs9qpdAMDEU44,67
+cfde_submit-0.1.9.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+cfde_submit-0.1.9.dist-info/METADATA,sha256=BCWrFK8OgqxwPvQ7r5oqN-oXp4XhUzIo6jg-043bl3A,4620
+cfde_submit-0.1.9.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+cfde_submit-0.1.9.dist-info/entry_points.txt,sha256=omd5ARW3K0IFX0pWyhytYIcoiTRfIkksgfeIFUk-aSE,64
+cfde_submit-0.1.9.dist-info/top_level.txt,sha256=Yi16sFBJ6NjR_npldsnaCw1qvR-2tVVQr4fpe2E4ebQ,12
+cfde_submit-0.1.9.dist-info/RECORD,,
