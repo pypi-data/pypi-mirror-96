@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: DjangoHexadecimalField
+Version: 0.0.1
+Summary: Hexadecimal Field for Django
+Home-page: https://github.com/mathrithms/Django-Hexadecimal-Field.git
+Author: mathrithms
+Author-email: hello@mathrithms.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
