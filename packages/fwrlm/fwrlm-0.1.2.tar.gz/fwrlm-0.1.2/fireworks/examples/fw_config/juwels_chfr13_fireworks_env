@@ -1,0 +1,84 @@
+#!/bin/bash
+# set up FireWorks environment
+
+jutil env activate -p chfr13
+
+# EasyBuild-administered stages
+module use $PROJECT/common/juwels/easybuild/otherstages
+
+module load Stages/2019a Intel/2019.3.199-GCC-8.3.0 IntelMPI/2019.3.199
+# the following two lines are a rather ugly fix to have the precompiled ovito
+# python package running on compute nodes after the Oct 2020 CentOS upgrade
+# on JUWELS
+module load Mesa/19.0.1  # makes ovito find libGL.so.1 on compute node
+module unload nettle/.3.4  # avoids conflict within system library /usr/lib64/libgnutls.so.30: undefined symbol: nettle_rsa_sec_decrypt, version HOGWEED_4
+# end of fix
+module load dtool-smb/0.1.0-Python-3.6.8 dtool-lookup-client/devel-Python-3.6.8
+module load imteksimfw/0.1.7-Python-3.6.8 fwrlm/0.1.1-Python-3.6.8
+
+module load FireWorks/1.9.6-mod-2-Python-3.6.8
+
+# preload the following modules to avoid failures when importing netcdf4-python and loading modules only from within Python
+module load Szip/.2.1.1
+# avoids
+# Traceback (most recent call last):
+#   File "simple_hist.py", line 20, in <module>
+#     output = func(*args, **kwargs)
+#   File "/home/jotelha/git/jlhphd/jlhpy/utilities/analysis/forces.py", line 36, in extract_summed_forces_from_netcdf
+#   File "/gpfs/software/juwels/stages/2019a/software/ASE/3.17.0-iimpi-2019a-Python-3.6.8/lib/python3.6/site-packages/ase-3.17.0-py3.6.egg/ase/io/netcdftrajectory.py", line 597, in __len__
+#     self._open()
+#   File "/gpfs/software/juwels/stages/2019a/software/ASE/3.17.0-iimpi-2019a-Python-3.6.8/lib/python3.6/site-packages/ase-3.17.0-py3.6.egg/ase/io/netcdftrajectory.py", line 188, in _open
+#     import netCDF4
+#   File "/gpfs/software/juwels/stages/2019a/software/netcdf4-python/1.5.0.1-iimpi-2019a-Python-3.6.8/lib/python3.6/site-packages/netCDF4-1.5.0.1-py3.6-linux-x86_64.egg/netCDF4/__init__.py", line 3, in <module>
+#     from ._netCDF4 import *
+# ImportError: libsz.so.2: cannot open shared object file: No such file or directory
+
+module load HDF5/1.10.5
+# avoids
+# Traceback (most recent call last):
+#   File "simple_hist.py", line 20, in <module>
+#     output = func(*args, **kwargs)
+#   File "/home/jotelha/git/jlhphd/jlhpy/utilities/analysis/forces.py", line 36, in extract_summed_forces_from_netcdf
+#   File "/gpfs/software/juwels/stages/2019a/software/ASE/3.17.0-iimpi-2019a-Python-3.6.8/lib/python3.6/site-packages/ase-3.17.0-py3.6.egg/ase/io/netcdftrajectory.py", line 597, in __len__
+#     self._open()
+#   File "/gpfs/software/juwels/stages/2019a/software/ASE/3.17.0-iimpi-2019a-Python-3.6.8/lib/python3.6/site-packages/ase-3.17.0-py3.6.egg/ase/io/netcdftrajectory.py", line 188, in _open
+#     import netCDF4
+#   File "/gpfs/software/juwels/stages/2019a/software/netcdf4-python/1.5.0.1-iimpi-2019a-Python-3.6.8/lib/python3.6/site-packages/netCDF4-1.5.0.1-py3.6-linux-x86_64.egg/netCDF4/__init__.py", line 3, in <module>
+#     from ._netCDF4 import *
+# ImportError: libhdf5_hl.so.100: cannot open shared object file: No such file or directory
+
+
+export PYTHONIOENCODING=UTF-8
+
+# bash completion
+eval "$(register-python-argcomplete lpad)"
+eval "$(register-python-argcomplete rlaunch)"
+eval "$(register-python-argcomplete qlaunch)"
+eval "$(register-python-argcomplete mlaunch)"
+eval "$(register-python-argcomplete fwrlm)"
+# for unclear reasons, global auto completion won't work as
+# complete would always create default rule instead of
+# argcomplete rule
+
+# convenience functions and aliases
+function lpad_cd {
+  cd $(lpad get_launchdir $1)
+}
+
+function lpad_ls {
+  ls ${@:1:$#-1} $(lpad get_launchdir "${@: -1}")
+}
+
+function lpad_cancel {
+  qid=$(lpad get_qids -i $1)
+  echo "Cancel fw_id: $1, qid: $qid"
+  scancel $qid
+  lpad cancel_qid --qid $qid
+  lpad defuse_fws -i $1
+}
+
+function lpad_jobinfo {
+  qid=$(lpad get_qids -i $1)
+  scontrol show job $qid
+}
+

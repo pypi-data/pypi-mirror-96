@@ -1,0 +1,22 @@
+INSTANCE:  chka18
+
+MACHINE:   JUWELS
+SCHEDULER: SLURM
+
+FW_CONFIG_PREFIX:     /p/home/jusers/USERNAME/juwels/.fireworks
+FW_CONFIG_FILE_NAME:  FW_config.yaml
+FW_AUTH_FILE_NAME:    fireworks_mongodb_auth.yaml
+LAUNCHPAD_LOC:        /p/scratch/chka18/USERNAME/fireworks/launchpad
+LOGDIR_LOC:           /p/scratch/chka18/USERNAME/fireworks/log
+
+FIREWORKS_DB:         fireworks
+FIREWORKS_USER:       fireworks
+FIREWORKS_PWD:        fireworks
+
+MONGODB_HOST: simdata.vm.uni-freiburg.de
+MONGODB_PORT: 27017
+
+SSL: true
+SSL_CA_CERTS: /p/home/jusers/USERNAME/.ssl/root.pem
+SSL_CERTFILE: /p/home/jusers/USERNAME/.ssl/cert.pem
+SSL_KEYFILE:  /p/home/jusers/USERNAME/.ssl/key.pem
