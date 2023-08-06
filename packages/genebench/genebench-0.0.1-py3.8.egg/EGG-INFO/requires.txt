@@ -1,0 +1,10 @@
+GEOparse
+matplotlib
+numpy
+pandas
+pymongo
+rpy2
+scipy
+sklearn
+tensorflow_gpu
+xgboost
