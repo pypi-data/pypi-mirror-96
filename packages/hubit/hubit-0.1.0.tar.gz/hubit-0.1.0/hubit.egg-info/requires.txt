@@ -1,0 +1,9 @@
+pyyaml
+graphviz
+python_version>="3.8"
+
+[dev]
+coverage
+black
+coveralls
+mypy
