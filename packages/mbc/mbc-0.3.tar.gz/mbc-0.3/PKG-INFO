@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: mbc
+Version: 0.3
+Summary: Wrapper for the moonbots api
+Home-page: https://github.com/VadyChel/MoonbotsClient
+Author-email: zyzel19@gmail.com
+License: UNKNOWN
+Description: # Wrapper for the moonbots api
+        > Wrapper for the moonbots api with webhook and auto post data supporting
+        
+        # How to install?
+        > From pip:
+        > ```
+        > pip install mbc
+        > ```
+        > From source:
+        > ```
+        > pip install git+https://github.com/VadyChel/MoonbotsClient
+        > ```
+        
+        # Examples
+        Empty :(
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
