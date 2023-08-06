@@ -1,0 +1,17 @@
+README.md
+setup.cfg
+setup.py
+cloudgenix/__init__.py
+cloudgenix/ca_bundle.py
+cloudgenix/delete_api.py
+cloudgenix/get_api.py
+cloudgenix/interactive.py
+cloudgenix/patch_api.py
+cloudgenix/post_api.py
+cloudgenix/put_api.py
+cloudgenix/ws_api.py
+prisma_sdwan.egg-info/PKG-INFO
+prisma_sdwan.egg-info/SOURCES.txt
+prisma_sdwan.egg-info/dependency_links.txt
+prisma_sdwan.egg-info/requires.txt
+prisma_sdwan.egg-info/top_level.txt
