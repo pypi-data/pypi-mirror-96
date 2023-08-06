@@ -1,0 +1,9 @@
+minotaor/__init__.py,sha256=P0siOx5jOZZd0Yti4Mu6cIgLmMhQQbtuliWWnG1N5Ts,160
+minotaor/minotaor.py,sha256=B60YKotPzmrGm9MCPIUlQ8j8auyMejVBokwmLjwwvgY,4727
+minotaor/version.py,sha256=kUR5RAFc7HCeiqdlX36dZOHkUI5wI6V_43RpEcD8b-0,22
+minotaor/data/seq.csv,sha256=hOMHzIQilOUhW60SsUwqJb79HRRcPynRXXrOcDyRsAk,10595
+minotaor-0.1.0.dist-info/LICENSE,sha256=XzRHG8tvNw-FuzQlL7T2vyLdcqzmOWiqEb59VsaB9N8,1081
+minotaor-0.1.0.dist-info/METADATA,sha256=Bez35c01jg_GpGPQznwaAl9yQ4iAPJKctnw-LCc3yws,1247
+minotaor-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+minotaor-0.1.0.dist-info/top_level.txt,sha256=bnRqXHZNQ-QSJVvthMc0vzRVAV3px9_zntboKjcIh6c,9
+minotaor-0.1.0.dist-info/RECORD,,
