@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: Minetorch
+Version: 0.6.6
+Summary: A tools collection for pytorch users
+Home-page: https://github.com/minetorch/minetorch
+Author: louis
+Author-email: chenglu.she@gmail.com
+License: UNKNOWN
+Keywords: pytorch minetorch
+Platform: UNKNOWN
+Requires-Dist: tensorboardX
+Requires-Dist: torch
+Requires-Dist: matplotlib
+Requires-Dist: albumentations
+Requires-Dist: seaborn
+Requires-Dist: google-api-python-client
+Requires-Dist: google-auth-httplib2
+Requires-Dist: google-auth-oauthlib
+
+UNKNOWN
+
+
