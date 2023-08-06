@@ -1,0 +1,8 @@
+README.md
+setup.py
+icsecontrib/__init__.py
+icsecontrib/sagecellserver.py
+icsecontrib_sagecellserver.egg-info/PKG-INFO
+icsecontrib_sagecellserver.egg-info/SOURCES.txt
+icsecontrib_sagecellserver.egg-info/dependency_links.txt
+icsecontrib_sagecellserver.egg-info/top_level.txt
