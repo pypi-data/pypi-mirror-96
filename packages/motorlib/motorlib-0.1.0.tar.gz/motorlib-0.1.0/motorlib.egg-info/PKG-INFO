@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: motorlib
+Version: 0.1.0
+Summary: motor motion/trajectory simulation library
+Home-page: https://gitlab.com/tiagocoutinho/motorlib
+Author: Jose Tiago Macara Coutinho
+Author-email: coutinhotiago@gmail.com
+License: GPLv3
+Description: # motorlib
+        
+        [![Pypi Version](https://img.shields.io/pypi/v/motorlib.svg)](https://pypi.python.org/pypi/motorlib)
+        [![Python Versions](https://img.shields.io/pypi/pyversions/motorlib.svg)](https://pypi.python.org/pypi/motorlib)
+        [![Build Status](https://gitlab.com/tiagocoutinho/motorlib/badges/master/pipeline.svg)](https://gitlab.com/tiagocoutinho/motorlib/commits/master)
+        [![Coverage Status](https://gitlab.com/tiagocoutinho/motorlib/badges/master/coverage.svg)](https://gitlab.com/tiagocoutinho/motorlib/commits/master)
+        
+        A simple motor motion/trajectory simulation python library.
+        
+        ## Installation
+        
+        pip install it on your favorite python environment:
+        
+        `$ pip install motorlib`
+        
+        That's it!
+        
+        ## Usage
+        
+        ```python
+        import motorlib
+        
+Keywords: motor,axis,motion,trajectory,simulation
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Natural Language :: English
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
