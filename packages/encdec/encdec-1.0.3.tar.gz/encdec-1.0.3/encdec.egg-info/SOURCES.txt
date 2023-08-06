@@ -1,0 +1,9 @@
+README.md
+setup.py
+encdec/__init__.py
+encdec/lib.py
+encdec.egg-info/PKG-INFO
+encdec.egg-info/SOURCES.txt
+encdec.egg-info/dependency_links.txt
+encdec.egg-info/requires.txt
+encdec.egg-info/top_level.txt
