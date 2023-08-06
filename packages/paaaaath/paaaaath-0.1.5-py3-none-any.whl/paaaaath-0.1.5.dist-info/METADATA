@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: paaaaath
+Version: 0.1.5
+Summary: a useful alternative Path object
+License: MIT
+Author: Masahiro Wada
+Author-email: argon.argon.argon@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: google-cloud-storage (>=1.36.1,<2.0.0)
+Requires-Dist: lambdas (>=0.1.0,<0.2.0)
+Requires-Dist: smart-open[gcs,http,s3] (>=4.1.2,<5.0.0)
