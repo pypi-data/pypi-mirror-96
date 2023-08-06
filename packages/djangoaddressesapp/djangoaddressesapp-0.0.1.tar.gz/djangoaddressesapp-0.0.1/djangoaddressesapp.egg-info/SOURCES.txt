@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+djangoaddressesapp/__init__.py
+djangoaddressesapp.egg-info/PKG-INFO
+djangoaddressesapp.egg-info/SOURCES.txt
+djangoaddressesapp.egg-info/dependency_links.txt
+djangoaddressesapp.egg-info/top_level.txt
