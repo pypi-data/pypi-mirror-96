@@ -1,0 +1,10 @@
+tweedledum/__init__.py,sha256=sZV3csUBZ-2CBahfNlbE4UBwFq443INUoZK93Rg1bI4,324
+tweedledum/core.cp37-win32.pyd,sha256=DykAOtXd_n29hjcorAbjo9Et1Ji9zSMVMJuYNEnPBnU,304128
+tweedledum/parser/__init__.py,sha256=v3DhJ-uFqkVcD2dhhp_7JjM_nuwo0-4Ac0HBzNehGU8,454
+tweedledum/parser/logic_network.py,sha256=mdMsil015LwfjOqWl6ECsjHWRgGGwG7ldqWhUqAt_vQ,4448
+tweedledum/parser/types.py,sha256=In1HW1zbHKzVnI3bZIwWjCDzvDUnGJjZgwJ4CzvZ41o,483
+tweedledum-0.1.dist-info/LICENSE,sha256=uE6nPut7moibjKmYYb8ttEjjGlsGlxBcAbQIWDLpKBo,1177
+tweedledum-0.1.dist-info/METADATA,sha256=sL3DEiVfsYa7VKx2IwK0d5U-p07RcBe7iwQlkcZAGsk,875
+tweedledum-0.1.dist-info/WHEEL,sha256=Ebf25WtJpjCXF_f8LbTJESYcaNBeviFbb60qtVzm3L4,91
+tweedledum-0.1.dist-info/top_level.txt,sha256=yYecLcLcSosVcth_Kk1og1nnvV1znHCLaVQ1LzGaWA4,11
+tweedledum-0.1.dist-info/RECORD,,
