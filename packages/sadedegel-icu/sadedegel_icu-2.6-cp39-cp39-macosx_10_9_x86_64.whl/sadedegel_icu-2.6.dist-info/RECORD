@@ -1,0 +1,13 @@
+sadedegel_icu-2.6.dist-info/RECORD,,
+sadedegel_icu-2.6.dist-info/LICENSE,sha256=dLut7k7jw6GsDs-9dLx85kBG3hzt30cX3JI4CcqP_OM,1284
+sadedegel_icu-2.6.dist-info/WHEEL,sha256=bRe_g_g-vZInZP5wOdewl-4AeWx8E2_UC3Ffr2csPyk,109
+sadedegel_icu-2.6.dist-info/top_level.txt,sha256=-vnrjlwfEQd5PpUolRNdIVCc1hSowmEVUA5uIhN4VnM,4
+sadedegel_icu-2.6.dist-info/METADATA,sha256=fpD90FoXbeoLHQ5bZdscH-s4ArSqee07T7nl-iVnd80,8823
+icu/__init__.py,sha256=M8ijFsTLjEDE2EqQXJUBaeSyNWReMAYza7OyJkYbHCA,1546
+icu/_icu.cpython-39-darwin.so,sha256=uUUr1s5N_jXcwNR3ZBHZwTJl4TCfiND3XQ2-XlX3Z1A,1204384
+icu/.dylibs/libicudata.68.dylib,sha256=mYKqbq3IhX06UAimbz1X98lhqTNlag-7W9w77KoQBkA,28573792
+icu/.dylibs/libicui18n.68.dylib,sha256=8LemkOqJqCDUQEXY4dbjOEtcysJIIztf8AJTIpKYYv4,3130360
+icu/.dylibs/libc++.1.0.dylib,sha256=7D_jjm4dnjlEm3dBu6S-vp-79JT6ANJSwHnXm5vPOxM,828276
+icu/.dylibs/libicuuc.68.dylib,sha256=N5GOF1-4Nz5sTJbXY6TN3dXse1dnCtYFuvtaErnyW4U,1914152
+icu/.dylibs/libicutu.68.dylib,sha256=XsbeKoZCf2lWCMOpp7hO0X1PZEj9eT6aGucu0r1E63g,225864
+icu/.dylibs/libicuio.68.dylib,sha256=W1Ov0BsNckidci7gzsWDSB4C654NscpGvEqNQLQ9j4I,98000
