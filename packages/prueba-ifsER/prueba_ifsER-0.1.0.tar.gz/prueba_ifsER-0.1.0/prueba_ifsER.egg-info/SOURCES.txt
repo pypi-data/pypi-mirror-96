@@ -1,0 +1,31 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+README.txt
+setup.cfg
+setup.py
+prueba_ifsER/__init__.py
+prueba_ifsER/prueba_ifsER.py
+prueba_ifsER/untitled3.py
+prueba_ifsER.egg-info/PKG-INFO
+prueba_ifsER.egg-info/SOURCES.txt
+prueba_ifsER.egg-info/dependency_links.txt
+prueba_ifsER.egg-info/requires.txt
+prueba_ifsER.egg-info/top_level.txt
+prueba_ifsER/Filters/B-Bessell (1990).txt
+prueba_ifsER/Filters/B-Johnson (1965).txt
+prueba_ifsER/Filters/B-KPN0-Harris.txt
+prueba_ifsER/Filters/HALPHA-CTI0 6586-20A.txt
+prueba_ifsER/Filters/Halpha-KPN0 6547-80A.txt
+prueba_ifsER/Filters/R-Bessell.txt
+prueba_ifsER/Filters/R-KPN0-Harris.txt
+prueba_ifsER/Filters/V-Bessell.txt
+prueba_ifsER/Filters/V-Johnson.txt
+prueba_ifsER/Filters/V-KPN0-Harris.txt
+prueba_ifsER/Filters/g-SDSS-III.txt
+prueba_ifsER/Filters/i-SDSS-III.txt
+prueba_ifsER/Filters/r-SDSS-III.txt
+prueba_ifsER/Filters/u-SDSS-III.txt
+prueba_ifsER/Img/logoIFSexplorer.ico
+prueba_ifsER/Img/logoIFSexplorer.png
+prueba_ifsER/Img/logotipo.png

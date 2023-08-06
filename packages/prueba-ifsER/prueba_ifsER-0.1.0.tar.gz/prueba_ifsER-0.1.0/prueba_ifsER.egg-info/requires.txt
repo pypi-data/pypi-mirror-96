@@ -1,0 +1,8 @@
+tkinter
+matplotlib
+numpy
+astropy
+opencv-python
+scikit-image
+scipy
+Pillow
