@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pyspcalt
+Version: 1.0.2
+Summary: An altered version of pyspc from https://github.com/carlosqsilva/pyspc that does not break other graphs
+Home-page: https://github.com/brendanperry/pyspc
+Author: Brendan Perry
+Author-email: bperry@hey.com
+License: GPLv3
+Platform: UNKNOWN
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scipy
+
+An altered version of pyspc from https://github.com/carlosqsilva/pyspc that does not break other graphs
+
+
