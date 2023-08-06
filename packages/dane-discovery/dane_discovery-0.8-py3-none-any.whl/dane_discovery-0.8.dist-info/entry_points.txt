@@ -1,0 +1,5 @@
+[console_scripts]
+dane_pkix_cd_authenticate_certificate = dane_discovery.scripts.dane_pkix_cd_authenticate_certificate:main
+dane_pkix_cd_get_ca_certificates = dane_discovery.scripts.dane_pkix_cd_get_ca_certificates:main
+dane_pkix_cd_get_certificates = dane_discovery.scripts.dane_pkix_cd_get_certificates:main
+
