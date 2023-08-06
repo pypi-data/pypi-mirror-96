@@ -1,0 +1,6 @@
+README.md
+setup.py
+GenomeParser.egg-info/PKG-INFO
+GenomeParser.egg-info/SOURCES.txt
+GenomeParser.egg-info/dependency_links.txt
+GenomeParser.egg-info/top_level.txt
