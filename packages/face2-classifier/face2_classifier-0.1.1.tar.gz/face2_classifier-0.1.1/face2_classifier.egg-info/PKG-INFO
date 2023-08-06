@@ -1,0 +1,67 @@
+Metadata-Version: 1.2
+Name: face2-classifier
+Version: 0.1.1
+Summary: The facial classification tool base on face_recognition
+Home-page: https://github.com/leviathan1995/face_classifier
+Author: leviathan1995
+Author-email: leviathan0992@gmail.com
+License: MIT license
+Description: # face_classifier
+        
+        The facial classification tool base on [face_recognition](https://github.com/ageitgey/face_recognition)
+        
+           * [How to use](#how-to-use)
+                * [Requirements](#requirements)
+                * [Usage](#usage)
+           * [Thanks](#thanks)
+           * [TODO](#todo)
+           * [License](#license)
+        
+        
+        ## How to use
+        
+        ### Requirements
+        * Python 3.3+ or Python 2.7
+        * macOS or Linux (Windows not officially supported, but might work)
+        
+        ### Usage
+        
+        ```shell
+        pip install face2-classifier
+        ```
+        
+        ## Thanks
+        * [face_recognition](https://github.com/ageitgey/face_recognition)
+        
+        ## TODO
+        
+        * Refactor code
+        * Improve accuracy on Asian individuals
+        * Add concurrent programming techniques during classifier
+        
+        ## License
+        
+        * MIT
+        
+        
+        =======
+        History
+        =======
+        
+        0.1.0 (2021-02-27)
+        ------------------
+        
+        * First release on PyPI.
+        
+Keywords: face_classifier
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.5
