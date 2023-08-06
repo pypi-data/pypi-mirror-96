@@ -1,0 +1,7 @@
+trio>0.8
+msgpack
+async_generator
+colorlog
+wrapt
+trio_typing
+pdbpp
