@@ -1,0 +1,63 @@
+# aiodtnsim
+
+A minimal framework for performing DTN simulations based on Python 3.7 and asyncio.
+
+Note that this project is still a **work in progress**.
+
+## Requirements
+
+* Python 3.7+
+* NumPy
+* tqdm for the progress bars
+* [dtn-tvg-util](https://gitlab.com/d3tn/dtn-tvg-util)
+* for uPCN integration, [uPCN](https://upcn.eu) v0.7.0+ with the `pyupcn` module installed in the Python environment
+
+## Getting Started
+
+Just install `aiodtnsim` via `pip`, e.g., in a virtual environment:
+
+```
+pip install aiodtnsim
+```
+
+For generating satellite scenarios (needed by the example script), you need to install the `dtn-tvg-util` Ring Road dependencies additionally:
+
+```
+pip install "dtn-tvg-util[ring_road]"
+```
+
+Now, you should be able to use the example scripts provided in the root directory of `aiodtnsim` to perform simple simulation runs, e.g. via:
+
+```
+bash examples/example_test_run.sh
+```
+
+## Development Setup
+
+First, clone the `aiodtnsim`, `dtn-tvg-util`, and `upcn` repositories (the latter only for using uPCN emulation) and change into the `aiodtnsim` directory.
+Now, create a virtual environment and install the required dependencies:
+
+```
+python3 -m venv --without-pip .venv
+curl -sS https://bootstrap.pypa.io/get-pip.py | .venv/bin/python
+source .venv/bin/activate
+pip install -e .
+pip install -e "../dtn-tvg-util[ring_road,gs_placement]"
+pip install -U -r ../upcn/pyupcn/requirements.txt
+python ../upcn/pyupcn/install.py
+```
+
+If you want to perform a run with uPCN, ensure the latest binary has been built:
+
+```
+cd ../upcn
+make
+```
+
+## License
+
+`aiodtnsim` is provided under the MIT license. See [LICENSE](LICENSE) for details.
+
+## Acknowledgments
+
+The simulation event loop is based upon [code by Damon Wischik](https://gist.github.com/damonjw/35aac361ca5d313ee9bf79e00261f4ea).
