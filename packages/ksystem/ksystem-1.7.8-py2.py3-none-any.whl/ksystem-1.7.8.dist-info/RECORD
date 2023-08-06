@@ -1,0 +1,9 @@
+ksystem/__init__.py,sha256=3AKl24mtZ2-n07jOuRoh7Z0euK3WCy79qa-6P8Nq7ME,462
+ksystem/core/warehouse.py,sha256=X4uZ61pgDofFnuW-aAZO67yq9ZC7WLc6x_cX_brPTXQ,11930
+ksystem/database/codeDB.py,sha256=QNR9ck30SCfx4i7TCZ7KB3WrffimDL5VaByAqAj3_HQ,7107
+ksystem/database/productDB.py,sha256=QY6pBxR920isVqxpcyDcu6m7IQPqQdztGDRtSex_Aso,2488
+ksystem/process/code.py,sha256=2EURzUuY-VlqhrXci3CuZNDkZAr4yImNFs97x4Vy3ik,4984
+ksystem-1.7.8.dist-info/METADATA,sha256=01wJS9lFdhvpHmHrhRUE1Fx8h21sGBW3G7jWdm4oSZw,2138
+ksystem-1.7.8.dist-info/WHEEL,sha256=gxPaqcqKPLUXaSAKwmfHO7_iAOlVvmp33DewnUluBB8,116
+ksystem-1.7.8.dist-info/top_level.txt,sha256=OfkXkal0DOsHkOxx5bBaj1pWKUO7oWtppIjcTTSablE,8
+ksystem-1.7.8.dist-info/RECORD,,
