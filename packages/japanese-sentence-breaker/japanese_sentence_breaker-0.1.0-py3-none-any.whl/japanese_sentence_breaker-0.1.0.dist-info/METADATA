@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: japanese-sentence-breaker
+Version: 0.1.0
+Summary: 
+Home-page: https://github.com/hpprc/japanese-sentence-breaker
+Author: hppRC
+Author-email: hpp.ricecake@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Project-URL: Repository, https://github.com/hpprc/japanese-sentence-breaker
+Description-Content-Type: text/markdown
+
+# Japanese Sentence Breaker
+
+日本語の文を「。」を基準に改行区切りします。
+
+## Instllation
+
+```bash
+pip install japanese-sentence-breaker
+```
+
+
+## Usage
+
+```python
+from japanese_sentence_breaker import break_line
+
+
+text = "これはテストです。文の流れを考慮し、句点区切りで文章を分割します。「例えば。」このようなカッコ内のテキストは分割しません。"
+out = break_line(text)
+
+print(out)
+# これはテストです。
+# 文の流れを考慮し、句点区切りで文章を分割します。
+# 「例えば。」このようなカッコ内のテキストは分割しません。
+
+
+text = "これは「テストです。｛整合性の取れないカッコは消去されます。）"
+out = break_line(text)
+
+print(out)
+# これはテストです。
+# 整合性の取れないカッコは消去されます。
+
+
+text = "これは「テストです。｛整合性のないカッコは無視されます。）改行はできません。"
+out = break_line(text)
+
+print(out)
+# これは「テストです。｛整合性のないカッコは無視されます。）改行はできません。
+```
