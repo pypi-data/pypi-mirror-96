@@ -1,0 +1,7 @@
+README.md
+setup.py
+DidILeaveTheStoveOn.egg-info/PKG-INFO
+DidILeaveTheStoveOn.egg-info/SOURCES.txt
+DidILeaveTheStoveOn.egg-info/dependency_links.txt
+DidILeaveTheStoveOn.egg-info/top_level.txt
+didileavethestoveon/__init__.py
