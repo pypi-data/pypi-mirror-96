@@ -1,0 +1,6 @@
+numpy
+matplotlib
+requests
+dotmap
+Pillow
+bm3d
