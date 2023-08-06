@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: acdh-django-zotero
+Version: 0.1.4
+Summary: A django package to store and process zotero items
+Home-page: https://github.com/acdh-oeaw/acdh-django-zotero
+Author: Peter Andorfer
+Author-email: peter.andorfer@oeaw.ac.at
+License: MIT
+Description: A django package to store and process zotero items
+Keywords: acdh-django-zotero
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Framework :: Django :: 1.11
+Classifier: Framework :: Django :: 2.0
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
