@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: tidy3dclient
+Version: 0.2.1.2
+Summary: A Python API for Tidy3D FDTD Solver
+Home-page: UNKNOWN
+Author: FlexCompute, Inc.
+Author-email: lei@flexcompute.com
+License: UNKNOWN
+Description: This package is deprecated and has been replaced by [tidy](https://pypi.org/project/tidy3d/)!
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
