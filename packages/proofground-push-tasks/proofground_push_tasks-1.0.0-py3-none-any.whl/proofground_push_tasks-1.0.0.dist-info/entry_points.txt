@@ -1,0 +1,3 @@
+[console_scripts]
+proofground-push-tasks = push_tasks.command_line:main
+
