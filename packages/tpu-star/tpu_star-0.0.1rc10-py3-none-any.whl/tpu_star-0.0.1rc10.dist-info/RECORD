@@ -1,0 +1,15 @@
+tpu_star/__init__.py,sha256=yQXWvROeG1hkwTO1ifmpsQ3Z19M8pImkKte6OEhIgQY,170
+tpu_star/colab_utils.py,sha256=_Gnqdn3MqAbb9vWU7WPxnHExlK2jMrSLpuqJyPtKPfk,739
+tpu_star/utils.py,sha256=uJaKt076aGEeWjcIZxBZUe_flN7mOcZ5BQlpfGOHT2w,675
+tpu_star/datasets/__init__.py,sha256=Fztlm1LXA0vLqTmRVlpcXD-WdxMG4UBKwGE_LFyCpBc,65
+tpu_star/datasets/mnist.py,sha256=xMwq5Bhj8--pfazBtKoiCOaCZW_Bk8oPGrCBrYPNZ38,1346
+tpu_star/experiment/__init__.py,sha256=1WjYOH-UGZfHVzaXE8kUvmuN3Hu6Q0Igrlorxgh2v4s,215
+tpu_star/experiment/base.py,sha256=5WaXCEi320HF5kU1OIHbjmFwnedlPYbn7Bj17gzGswY,4080
+tpu_star/experiment/metrics.py,sha256=VJMy3BJu5ahsmisx3Hdyask3yQDkJeQGeO2B8z2qr34,4530
+tpu_star/experiment/torch_gpu.py,sha256=U2I-bC9lWT0iqs6oGPl4uz9pvCPYZe-p5JxGPT4PT9I,15110
+tpu_star/experiment/torch_tpu.py,sha256=LUoMiToMSdtEKwziszejkge3pyyDqqbiFS6cFGPbzVw,4468
+tpu_star-0.0.1rc10.dist-info/LICENSE,sha256=KsImOU0DwaYk6Q0QNDAncFGdpcCjHML4fz-ry26cgA4,11343
+tpu_star-0.0.1rc10.dist-info/METADATA,sha256=-DdJoNY-pDxrgss-Ref8fB_VMBbpV3fdYjAmcBO3SuU,1214
+tpu_star-0.0.1rc10.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+tpu_star-0.0.1rc10.dist-info/top_level.txt,sha256=y8TUXEBJaIau_TrvAEK37-4w4cE684ofd8MEnhMSqSo,47
+tpu_star-0.0.1rc10.dist-info/RECORD,,
