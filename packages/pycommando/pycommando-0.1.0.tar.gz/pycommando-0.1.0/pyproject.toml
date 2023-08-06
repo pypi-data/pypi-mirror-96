@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "pycommando"
+version = "0.1.0"
+description = ""
+authors = ["zztkm"]
+packages = [
+    { include = "commando" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+autopep8 = "^1.5.5"
+flake8 = "^3.8.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
