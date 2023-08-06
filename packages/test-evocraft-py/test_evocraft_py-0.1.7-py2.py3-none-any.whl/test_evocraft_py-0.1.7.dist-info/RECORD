@@ -1,0 +1,15 @@
+test_evocraft_py/__init__.py,sha256=_LyycHo69WjvXg2BB3MQwyztjGJlxYDSNVAbM69yYHU,248
+test_evocraft_py/cli.py,sha256=ei3Y503FR9YMqcWBJNNvDeZDlcO-x1LoU-flH1q243Y,649
+test_evocraft_py/minecraft_pb2.py,sha256=NfvatzNQAVpy2Mmg1r3EmaixddbTcrFSHNq1O9anCeM,75384
+test_evocraft_py/minecraft_pb2_grpc.py,sha256=knpaeXi8ygtRGDD6959bwgNhzIUl2SIHp0RPIm8x6lI,5497
+test_evocraft_py/test_evocraft_py.py,sha256=BPHemEbmh1bfT1Ghc_Q_jef9SR4p6PZS3WBpli-I5iw,2110
+test_evocraft_py/data/eula.txt,sha256=NS0h-rXvoGgmK2cmgtcvjyIoJf7P27JjW7UBGQZixN4,180
+test_evocraft_py/data/server.properties,sha256=u8Brg8tARriczoN7D6o50p_3MS1uNC09vGnUTCiMIVI,1054
+test_evocraft_py/data/spongevanilla-1.12.2-7.3.0.jar,sha256=0mr0pvERXGBupSsApeGyJhP0nOM2UC4vzWicVwz6CI0,23741111
+test_evocraft_py/data/mods/minecraft-rpc-0.0.5.jar,sha256=ELmcs4sOOLlcupzSy1-GINEy1kYN1u7aIkpiVhJeGFM,13813831
+test_evocraft_py-0.1.7.dist-info/LICENSE,sha256=HDRdg3jA37Zc13tITOnvbBL4z43Uy3kV6GJVgbCejdQ,1078
+test_evocraft_py-0.1.7.dist-info/METADATA,sha256=5Xp2L8-9j6TmyNOWSQl7O7H3jcg2mC09sj8WD7hYPLQ,6135
+test_evocraft_py-0.1.7.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+test_evocraft_py-0.1.7.dist-info/entry_points.txt,sha256=g0RQHnXGKwTjKCHasdGOLsqdzlHtVU6TliQTpivGNLI,64
+test_evocraft_py-0.1.7.dist-info/top_level.txt,sha256=fvZGnPnMUj0x5z5kxaWVa-sI_TBk4HA3p3gjwFC15EU,17
+test_evocraft_py-0.1.7.dist-info/RECORD,,
