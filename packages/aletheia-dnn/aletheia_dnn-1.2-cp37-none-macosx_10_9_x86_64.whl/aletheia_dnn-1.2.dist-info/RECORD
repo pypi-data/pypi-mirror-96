@@ -1,0 +1,10 @@
+aletheia/__init__.cpython-37m-darwin.so,sha256=7f0mcLvFdAwh2bywVRCh90PMjcE0MamK32wBaNZd3rE,26156
+aletheia/aletheia.cpython-37m-darwin.so,sha256=XNuEvRhuhkoTKgOfhuce1wfS0Nagl45zTuuPS7Z3qqU,1120248
+aletheia/flatten.cpython-37m-darwin.so,sha256=nb1RirJNTOlMU9v2uoHkgN0r09rlXGyfgWuRQ0dW1Mc,144520
+aletheia/merge.cpython-37m-darwin.so,sha256=nrANLySmZUCxq6_oGQWH0gx0xH99eMi4p6SHz1CftYc,1062092
+aletheia/prune.cpython-37m-darwin.so,sha256=ldrYEGYMnc763vZ7oaGTSXkA9cxoMs4e-hXtTDb-dIU,274684
+aletheia_dnn-1.2.dist-info/LICENSE,sha256=Yi6Z7US3ygfeP3GRJ0UjeVmQpYkh9NB9_gEUQ664R4w,1516
+aletheia_dnn-1.2.dist-info/METADATA,sha256=VX_TMHoKRV8mcO8nEAHhwYIQKNgEB9MMQwwjmZGie54,893
+aletheia_dnn-1.2.dist-info/WHEEL,sha256=WVG6A_oY5zUoNXUyvfLMOSXC-hqC5VZacUL1MeSOz70,110
+aletheia_dnn-1.2.dist-info/top_level.txt,sha256=FET9FwOvIT5gLgJ3NOkKC90IS3vFNyUDzqvKaiS6jhM,9
+aletheia_dnn-1.2.dist-info/RECORD,,
