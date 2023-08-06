@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: jsonx-py
+Version: 1.0.0
+Summary: JSON flattening and expansion
+Home-page: https://github.com/getformative/jsonx-py
+Author: Formative
+Author-email: hello@getformative.com
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# JSONx Python
+
+A Python implementation of [JSONx](https://github.com/getformative/jsonx).
+
+## Installation
+
+```bash
+pip install jsonx-py
+```
+
+## Unflattening JSON
+
+```python
+import jsonx
+
+data = {
+  "user.name": "Anakin Skywalker",
+  "user.email": "anakin@jedi.galaxy",
+}
+
+jsonx.unflatten(data)
+```
+
+
