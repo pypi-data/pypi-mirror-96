@@ -1,0 +1,40 @@
+[tool.poetry]
+name = "deppy"
+version = "0.0.0"
+description = "Dependency injection framework for Python"
+authors = ["pilagod <pilagooood@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/pilagod/deppy"
+repository = "https://github.com/pilagod/deppy"
+documentation = "https://github.com/pilagod/deppy"
+keywords = [
+    "ioc", 
+    "inversion of control", 
+    "di", 
+    "dependency injection"
+]
+classifiers = [
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+]
+exclude = ["deppy/test"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+mypy = "^0.812"
+pytest = "^6.2.2"
+flake8 = "^3.8.4"
+autopep8 = "^1.5.5"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
