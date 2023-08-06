@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: myb-coindesk-api
+Version: 1.0.0
+Summary: Python library for communicating with the Coindesk API
+Home-page: https://github.com/mine-your-business/myb-coindesk-api
+Author: Mine Your Business
+Author-email: mine.your.business.crypto@gmail.com
+License: GPL-3
+Description: # myb-coindesk-api
+         An API client for the Coindesk API
+        
+        ## Installation
+        
+        The package is availble via PyPi and can be installed with the following command:
+        ```
+        pip3 install myb-coindesk-api
+        ```
+        
+        To install it from the repo, clone the repo and cd into the directory:
+        
+        ```
+        git clone https://github.com/mine-your-business/myb-coindesk-api.git
+        cd myb-coindesk-api
+        ```
+        
+        You can install this library with `pip`:
+        
+        ```
+        pip3 install .
+        ```
+        
+        ## Testing
+        
+        To run tests, simply run the following command:
+        
+        ```
+        pytest -verbose
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

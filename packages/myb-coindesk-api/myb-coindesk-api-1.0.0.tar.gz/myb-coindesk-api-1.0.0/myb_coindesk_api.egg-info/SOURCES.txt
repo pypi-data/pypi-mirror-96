@@ -1,0 +1,10 @@
+README.md
+setup.py
+coindesk/__init__.py
+coindesk/client.py
+myb_coindesk_api.egg-info/PKG-INFO
+myb_coindesk_api.egg-info/SOURCES.txt
+myb_coindesk_api.egg-info/dependency_links.txt
+myb_coindesk_api.egg-info/not-zip-safe
+myb_coindesk_api.egg-info/requires.txt
+myb_coindesk_api.egg-info/top_level.txt
