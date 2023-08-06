@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: dj-tables
+Version: 1.0.0
+Summary: A template only and DRY solution for creating tables.
+Home-page: https://github.com/ninjasforhealth/dj-tables
+Author: Zach Perkitny
+Author-email: zperkitny@gmail.com
