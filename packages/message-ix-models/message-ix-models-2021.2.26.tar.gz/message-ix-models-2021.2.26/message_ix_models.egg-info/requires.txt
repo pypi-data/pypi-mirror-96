@@ -1,0 +1,15 @@
+iam_units
+pycountry
+PyYAML
+sdmx1>=2.2.0
+setuptools>=41
+
+[docs]
+sphinx>=3.4.3
+sphinx_rtd_theme
+
+[tests]
+sphinx>=3.4.3
+sphinx_rtd_theme
+pytest
+pytest-cov
