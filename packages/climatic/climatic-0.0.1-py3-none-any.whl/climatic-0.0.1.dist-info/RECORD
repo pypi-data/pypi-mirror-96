@@ -1,0 +1,11 @@
+climatic/CoreCli.py,sha256=nDUH4BUn0-dksF-qfHzHDxUtdZOcf-WR_kZueUWSH0w,12596
+climatic/Logger.py,sha256=Lowf2uLMITVakd1RadwVOEb5J4CcMeCe5vlnIHTBOGM,4843
+climatic/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+climatic/connections/Connection.py,sha256=5WM5p5nufj-p3SdsfjYU5S174nz4dXMDnKkQAtBLavg,858
+climatic/connections/Ssh.py,sha256=UkyPgmeDdKNqnLa5Y3gPTRVg-pwlvOIDrWMeYYrmvaA,1283
+climatic/connections/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+climatic-0.0.1.dist-info/LICENSE,sha256=1GQmm3tQMbuJxdgp4-N4WH5MHAgnV-a_BacLTkPO0t8,1074
+climatic-0.0.1.dist-info/METADATA,sha256=Yib9npqWIH98fMwARjWOWYvnGMQUl-sOLdkxZvxWXhI,574
+climatic-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+climatic-0.0.1.dist-info/top_level.txt,sha256=LSTpGY-22Pj_ozzP-HrISdHJ7H_8o_o35U_v69OJylg,9
+climatic-0.0.1.dist-info/RECORD,,
