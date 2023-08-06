@@ -1,0 +1,8 @@
+magnet_loss_iclr2016/__init__.py,sha256=36voPiWsstDSeCDQ8H1WF5E0JSspIiNEcDCSuCMtTLU,78
+magnet_loss_iclr2016/magnet_batcher.py,sha256=ANhcJ9sw01R4_unzkjMXvlvoC4WpoPfaOGfXv4CW1x4,5900
+magnet_loss_iclr2016/magnet_loss.py,sha256=HbzuoYdKwsM6jnc0wjTZojIg8wz22cPyIYYTgUIw5OY,4022
+magnet_loss_iclr2016-0.0.3.dist-info/LICENSE,sha256=Qshe518IcmESJI4Q7lWsNSqsI4Nx0HRWvgM5BG7XT9Y,1074
+magnet_loss_iclr2016-0.0.3.dist-info/METADATA,sha256=kWLcAzuRCkDe2QIoZQEyujqY11c_OSVmhI84tr_vj_s,654
+magnet_loss_iclr2016-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+magnet_loss_iclr2016-0.0.3.dist-info/top_level.txt,sha256=XX-0soyJ_Zgl5oCVwI59eW5uQQ92eZlhMV8k6KjChSg,21
+magnet_loss_iclr2016-0.0.3.dist-info/RECORD,,
