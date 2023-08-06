@@ -1,0 +1,13 @@
+elcuestionario/__init__.py,sha256=K_E9n2f3ja1oCyPaM2C_5K8IYTrebheu6J9FT3gzx0k,16
+elcuestionario/app.py,sha256=Z7AIkm9UuLlUJRY5OjftGb7EAwkuDLary7V2avMcLns,1938
+elcuestionario/cli.py,sha256=n1K5Miz-CIUqkbVUAGlAGwD5lYRt4vb7R7vsWpal8jg,983
+elcuestionario/evaluation.py,sha256=sQFvlk7SKglLz_9Is3nluWukZeW-tVdf1d9-SPZvlP4,2589
+elcuestionario/loader.py,sha256=yb6uF89sj52_cFKOSQ8mtXgiO1uEDJ21Ry3ssvjYOkk,1568
+elcuestionario/questionnaire.py,sha256=4w_69griYAF4_3F2--Q_guZqQbjM4L0tOuWkpk4YmBQ,1858
+elcuestionario/userinput.py,sha256=rluYO8QnROnOyxOKTtxfLZYg6noB7UaGAK_VeT5ZclA,2493
+El_Cuestionario-0.5.dist-info/LICENSE,sha256=gXf5dRMhNSbfLPYYTY_5hsZ1r7UU1OaKQEAQUhuIBkM,18092
+El_Cuestionario-0.5.dist-info/METADATA,sha256=keNIAKfIuAT0G0GG1tykJhb3cMzFGf61jsHW3zbx8hM,6215
+El_Cuestionario-0.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+El_Cuestionario-0.5.dist-info/entry_points.txt,sha256=db2UpnvdmqqK8nSKc1apmMJkURwv3cTSVu6ecpjqHZE,60
+El_Cuestionario-0.5.dist-info/top_level.txt,sha256=-wOwebMOWmVybSZamvafuPJNFRzpC437mCI6r_6RJBA,15
+El_Cuestionario-0.5.dist-info/RECORD,,
