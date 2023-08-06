@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: pedigree_matrix
+Version: 0.2.2
+Summary: A python implementation of the Ecoinvent pedigree matrix for estimating uncertainty data for life cycle inventories
+Home-page: https://github.com/brightway-lca/pedigree_matrix
+Author: Chris Mutel
+Author-email: cmutel@gmail.com
+License: BSD 3-clause
+Description: A python implementation of the Ecoinvent pedigree matrix for estimating uncertainty data for life cycle inventories.
+Platform: UNKNOWN
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Description-Content-Type: text/markdown

@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+pedigree_matrix/__init__.py
+pedigree_matrix/data.py
+pedigree_matrix/from_string.py
+pedigree_matrix/pm.py
+pedigree_matrix/version.py
+pedigree_matrix.egg-info/PKG-INFO
+pedigree_matrix.egg-info/SOURCES.txt
+pedigree_matrix.egg-info/dependency_links.txt
+pedigree_matrix.egg-info/top_level.txt
