@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: voken
+Version: 0.1.0
+Summary: For Voken Project
+Home-page: https://github.com/voken1000g/pypi_voken/
+Author: @voken1000g
+Author-email: pmvoken@protonmail.com
+License: GPLv3+
+Description: # Package for Voken Project
+        
+        ...
+        
+Keywords: voken,voken1000g,crypto,cryptography
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8.0
+Description-Content-Type: text/markdown
