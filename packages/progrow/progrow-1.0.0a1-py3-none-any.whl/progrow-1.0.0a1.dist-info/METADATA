@@ -1,0 +1,92 @@
+Metadata-Version: 2.1
+Name: progrow
+Version: 1.0.0a1
+Summary: Describes the progress of work across rows
+Home-page: https://github.com/cariad/progrow
+Author: Cariad Eccleston
+Author-email: cariad@hey.com
+License: MIT License
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: colorama (>=0.4)
+
+# progrow
+
+`progrow` is a Python package for describing the progress of work across rows.
+
+For example, this code:
+
+```python
+from progrow import Rows, Style
+
+rows = Rows()
+rows.append("zilcho", current=0, maximum=5)
+rows.append("one", current=1, maximum=5)
+rows.append("two", current=2, maximum=5)
+rows.append("three", current=3, maximum=5)
+rows.append("four", current=4, maximum=5)
+rows.append("five", current=5, maximum=5)
+
+style = Style(show_fraction=True, show_percent=True)
+
+print(rows.render(style))
+```
+
+…generates this string:
+
+```text
+one   █████████████████████████████████████████████████▍                                                                                                                                                                                                      1 / 5 •  20%
+two   ██████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                                                                     2 / 5 •  40%
+three ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                   3 / 5 •  60%
+four  █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                  4 / 5 •  80%
+five  ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉ 5 / 5 • 100%
+```
+
+![progrow example](docs/example.png)
+
+## Installation
+
+`progrow` requires Python 3.9 or later.
+
+```bash
+pip install progrow
+```
+
+## Usage
+
+Create a `Rows` instance, and call `append(name: str, current: float, maximum: float)`.
+
+- `name`: Name.
+- `current`: Current progress value.
+- `maximum`: Maximum possible progress value.
+
+To render the rows to a string, call `render(style: Style)`. `style` is optional, but supports:
+
+| Property        | Description                                                      | Default        |
+|-----------------|------------------------------------------------------------------|----------------|
+| `color`         | Render in colour                                                 | `True`         |
+| `post_name`     | String to inject after each row's name                           | `" "`          |
+| `show_fraction` | Include each row's fractional progress (`<current> / <maximum>`) | `False`        |
+| `show_percent`  | Include each row's percentage progress                           | `False`        |
+| `width`         | Width to draw                                                    | Terminal width |
+
+
+## Thank you! 🎉
+
+My name is **Cariad**, and I'm an [independent freelance DevOps engineer](https://cariad.me).
+
+I'd love to spend more time working on projects like this, but--as a freelancer--my income is sporadic and I need to chase gigs that pay the rent.
+
+If this project has value to you, please consider [☕️ sponsoring](https://github.com/sponsors/cariad) me. Sponsorships grant me time to work on _your_ wants rather than _someone else's_.
+
+Thank you! ❤️
+
+
