@@ -1,0 +1,140 @@
+Metadata-Version: 2.1
+Name: tinypubsub
+Version: 0.1.0
+Summary: Tiny pub-sub (observer) pattern implementation
+Home-page: https://github.com/nekonoshiri/tinypubsub
+License: MIT
+Keywords: pubsub,observer
+Author: Shiri Nekono
+Author-email: gexira.halen.toms@gmail.com
+Maintainer: Shiri Nekono
+Maintainer-email: gexira.halen.toms@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Utilities
+Project-URL: Documentation, https://github.com/nekonoshiri/tinypubsub
+Project-URL: Repository, https://github.com/nekonoshiri/tinypubsub
+Description-Content-Type: text/markdown
+
+# tinypubsub
+
+[![PyPI](https://img.shields.io/pypi/v/tinypubsub)](https://pypi.org/project/tinypubsub/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tinypubsub)](https://pypi.org/project/tinypubsub/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![license](https://img.shields.io/github/license/nekonoshiri/tinypubsub)](https://github.com/nekonoshiri/tinypubsub/blob/main/LICENSE)
+
+Tiny pub-sub (observer) pattern implementation.
+
+## Usage
+
+```Python
+from tinypubsub.simple import SimplePublisher
+
+publisher = SimplePublisher()
+
+subscription = publisher.subscribe(lambda message: print(message))
+
+publisher.publish("Hello!")
+
+publisher.unsubscribe(subscription)
+```
+
+Or:
+
+```Python
+from tinypubsub.simple import SimplePublisher
+
+publisher = SimplePublisher()
+
+with publisher.subscribe(lambda message: print(message)):
+    publisher.publish("Hello!")
+```
+
+## Features
+
+- `tinypubsub.Publisher` has abstract methods: `publish`, `subscribe`, `unsubscribe`, `unsubscribe_all`.
+- `tinypubsub.simple.SimplePublisher`: Dict-based implementation of `Publisher`.
+- `tinypubsub.weakref.WeakrefPublisher`: WeakKeyDictionary-based implementation of `Publisher`.
+
+## API
+
+### Module `tinypubsub`
+
+#### *abstract class* `Publisher[Message]`
+
+Abstract publisher class.
+
+##### *type parameter* `Message`
+
+Type of message that will be published.
+
+##### *abstract method* `publish(message: Message) -> None`
+
+Publish message to subscribers.
+
+##### *abstract method* `subscribe(subscriber: Callable[[Message], None]) -> Subscription`
+
+Add subscriber.
+
+##### *abstract method* `unsubscribe(subscription: Subscription) -> None`
+
+Delete subscriber.
+
+##### *abstract method* `unsubscribe_all() -> None`
+
+Delete all subscribers.
+
+#### *class* `Subscription`
+
+Return value of `Publisher.subscribe()`.
+It can be used as a context manager as:
+
+```Python
+with publisher.subscribe(...) as subscription:
+    ...
+```
+
+and `subscription.unsubscribe()` will be called when exit.
+
+##### *method* `unsubscribe() -> None`
+
+`subscription.unsubscribe()` is the same as `publisher.unsubscribe(subscription)`, where `subscription = publisher.subscribe(...)`.
+
+### Module `tinypubsub.simple`
+
+#### *class* `SimplePublisher[Message]`
+
+Implementation of `Publisher[Message]`.
+
+### Module `tinypubsub.weakref`
+
+#### *class* `WeakrefPublisher[Message]`
+
+Implementation of `Publisher[Message]`.
+
+This implementation uses WeakKeyDictionary to manage subscribers.
+This may prevent a memory leak if subscription loses all strong references before unsubscribed:
+
+```Python
+publisher = WeakrefPublisher()
+
+subscription = publisher.subscribe(...)
+
+assert len(publisher._subscribers) == 1
+
+del subscription
+
+assert len(publisher._subscribers) == 0
+```
+
+Note that the `unsubscribe` method will not be called in the above case,
+so normally you should unsubscribe explicitly or use context manager.
+
+

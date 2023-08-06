@@ -1,0 +1,12 @@
+tinypubsub/__init__.py,sha256=ZbUeRJ6K62ttd9qBm8e1-iYna0ZtPtrhWRgIpZ8gLRk,101
+tinypubsub/publisher.py,sha256=q3iRK_3WaIQghifwodY-dKZXW_bccekGrVKkBW8Tnfo,556
+tinypubsub/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tinypubsub/simple/__init__.py,sha256=9dLIPqfAntS7zbtIews2i6GbJNhuVHSsDxbWwFUnh3s,58
+tinypubsub/simple/publisher.py,sha256=K3KDxbWtkc6649ZPiEnbnXmjOizkSBzsuetqD6YjL1k,966
+tinypubsub/subscription.py,sha256=srUVw4EN0ubdJqLxCGfy_8Ou5_gijqFhbS0DBUj9vPI,668
+tinypubsub/weakref/__init__.py,sha256=rZUcAbIA1l-7Oy-mbc-ZbaogL4K7vpCIF2bT0lXG8uI,60
+tinypubsub/weakref/publisher.py,sha256=7Co-y7eufP2WENEBSErR4lD0gi_rFAfSAYvOL9MFU9E,1064
+tinypubsub-0.1.0.dist-info/LICENSE,sha256=gfQd57k86Qf8N_iqHEERHmiOchUrgKjNfJbEZTX8SD8,1068
+tinypubsub-0.1.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+tinypubsub-0.1.0.dist-info/METADATA,sha256=nXp19OGG63Iy1jhho1ObfuhCiHdd0ffbp4rrRd_DfI4,3897
+tinypubsub-0.1.0.dist-info/RECORD,,
