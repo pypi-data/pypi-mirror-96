@@ -1,0 +1,11 @@
+zstandard/__init__.py,sha256=sFjtALB9Oh4Dq3ZDsVUFnwCanbabmKkqRaDVIBxjBMk,7290
+zstandard/__init__.pyi,sha256=XUXsa0TBsL-xiYdiXhYyRw5TMW4kJnaJXHbjDxrIMzE,14013
+zstandard/_cffi.cp35-win_amd64.pyd,sha256=OJZQdT8pUZCBze-4Kq270hybDyLnG1sG9AwLzpThKvo,699392
+zstandard/backend_c.cp35-win_amd64.pyd,sha256=x1VZBOQUHQ_tojzN5Y1zBCz0UED4jzEDXBQ0MmckfO4,590848
+zstandard/backend_cffi.py,sha256=Ji7L-jQF3grgl2SghCLofbruY7QCE8nnkdxBuTh4y34,150870
+zstandard/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zstandard-0.15.2.dist-info/LICENSE,sha256=wVso-IZlAL09YHxznodxCqXEdieqMKBXOUhBRWT_HaI,1511
+zstandard-0.15.2.dist-info/METADATA,sha256=jnJuMrfQHYaF_Se1MTO5p9f0LnH4roxqrJqn4cp1c24,2535
+zstandard-0.15.2.dist-info/WHEEL,sha256=SxCF5RRW3Q_ggbAjzZyyl3kuZVt89lxAee8FBI92h1k,101
+zstandard-0.15.2.dist-info/top_level.txt,sha256=J-wj94pPadY4ipFaanrYBlrMblOSegEYS8o_LdogrpU,10
+zstandard-0.15.2.dist-info/RECORD,,
