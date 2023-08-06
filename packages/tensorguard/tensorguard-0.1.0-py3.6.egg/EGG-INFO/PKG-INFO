@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: tensorguard
+Version: 0.1.0
+Summary: TensorGuard helps to guard against bad Tensor Shapes
+Home-page: https://github.com/Michedev/tensorguard
+Author: mikedev
+Author-email: mik3dev@gmail.com
+License: Apache-2.0
+Description: TensorGuard helps to guard against bad Tensor shapes in any tensor based library (e.g. Numpy, Pytorch, Tensorflow) using an intuitive symbolic-based syntax
+Platform: UNKNOWN
