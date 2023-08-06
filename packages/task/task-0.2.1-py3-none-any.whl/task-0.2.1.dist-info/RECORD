@@ -1,0 +1,13 @@
+task/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+task/main.py,sha256=YZjFIUL0UaCFoKEbMF_GVtE5PoPhO-USVNtD5ySFrqA,1172
+task/task_add.py,sha256=pXW4MDDo-yByqyqfHlz79BnA2TXsULG69DBZ4AqzMII,933
+task/task_describe.py,sha256=sIolQI_lry-d7w1DlSq6Lc4jAYo_3xScRGsAnRZnYT4,1110
+task/task_done.py,sha256=OOTHKvBGzzJomzecJXbAK7CyYLlpPfmjbhFZCkgPSN0,677
+task/task_list.py,sha256=PsQxjAKL4L9rCgSUddgfachglCbyBuHYhgByqFhqfE8,2652
+task/task_rm.py,sha256=4Bmcs6CE8d5Nv_-pKonvIQ0SRiZ1hnsO61PGErjEIPo,598
+task/utils.py,sha256=0OWbqyi5oTVv1rsI0XINUs1QB_PvDTjI0X56GYp8riE,5862
+task-0.2.1.dist-info/entry_points.txt,sha256=-BpGXWJIZ-3dbUq867kny2dBNw41hsWvU-PDzgpjaQw,61
+task-0.2.1.dist-info/LICENSE,sha256=jyUBhInW_g3sNKNSMUw43BRiR7feZXNXkPQ5ipKvqEs,1108
+task-0.2.1.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+task-0.2.1.dist-info/METADATA,sha256=lBdYldQeFmyHyOQTxtUGjd5AqvCF0rxh1KBRd2Agtqs,2822
+task-0.2.1.dist-info/RECORD,,
