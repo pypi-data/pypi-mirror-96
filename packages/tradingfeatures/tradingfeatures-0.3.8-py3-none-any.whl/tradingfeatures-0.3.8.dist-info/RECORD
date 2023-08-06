@@ -1,0 +1,9 @@
+tradingfeatures/__init__.py,sha256=cybVL6XudY6MXTn3vTNUr0q-2bWile2LChi5B0Utr0g,117
+tradingfeatures/bitmex_fundings.py,sha256=Yc14wlBWHVmRHyVlMBGLdFRQJ5x11pCVT9LdkrGEKB8,2327
+tradingfeatures/main.py,sha256=0HJ_W595YT_xzYGopyBmHx5yftaiVqQ9dZt-ck8N0vw,675
+tradingfeatures/tools.py,sha256=Tb-_URXFfnw8Rd2qjwIjOHrafV8sABBn7BFxOoW5eRY,4785
+tradingfeatures-0.3.8.dist-info/LICENSE,sha256=bdtysSNbTk5u1fK55hA7MyW6VcEn8RKT30I9T0VDbOI,1061
+tradingfeatures-0.3.8.dist-info/METADATA,sha256=a999vREsCIygzioAJKjo_feMbSZu6h7mNvFQEmPsddE,1844
+tradingfeatures-0.3.8.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+tradingfeatures-0.3.8.dist-info/top_level.txt,sha256=dGWNl6nU57bPClCj6_pcAHqLy52pK3uL9HPru4fFR28,16
+tradingfeatures-0.3.8.dist-info/RECORD,,
