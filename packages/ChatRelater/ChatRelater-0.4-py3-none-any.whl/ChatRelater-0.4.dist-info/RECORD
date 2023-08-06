@@ -1,0 +1,13 @@
+chatrelater/__init__.py,sha256=Gk6XMSJr-442yCjElHg-nkT_GiXgcEgv78ORfD04zCk,16
+chatrelater/analyzer.py,sha256=H23GmIwRnS6QPsSeLmaZ2d9hLn5EAatqiZoY3lLCYrw,3865
+chatrelater/analyzer_cli.py,sha256=Kv71o70BuT3LXIt7PuGvXrhLG1pbT9LVfYQQiT-lSfk,2473
+chatrelater/nicknames.py,sha256=jhy4tlSZiZIiQOIBeaCkAFuqSHQ-P8yUaNnx8OkMzSU,1282
+chatrelater/serialization.py,sha256=1db2azkKawnogK4Un0q7GqERFHjItPtZXxk3Sj9TpdU,830
+chatrelater/visualization.py,sha256=Gv79x7WwtGkLF0Horg2sS-FG6abxFZyk8zl4eFM-CYE,1866
+chatrelater/visualization_cli.py,sha256=zH6itlR1pIwftKNt8w1fwiljHyRIRjZedI4jOj5978A,1891
+ChatRelater-0.4.dist-info/LICENSE,sha256=BLGurRaqU0gy6zfRlv9D5fHaPv3N9Y1W_721PzCKIXA,1146
+ChatRelater-0.4.dist-info/METADATA,sha256=IOOdWIpJuEZEv6bQ6sQj_JkEzx-Yt3pDjmzXc-5pY9E,4305
+ChatRelater-0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+ChatRelater-0.4.dist-info/entry_points.txt,sha256=zEtNhYOhHvl4HxhGZFaP2VtF6YxaXerV8iB4b1n6z8I,130
+ChatRelater-0.4.dist-info/top_level.txt,sha256=ZvcUgjnnVKXMjkkhUGcXUbkZzFx5ikHXkPD6K-4NCUU,12
+ChatRelater-0.4.dist-info/RECORD,,

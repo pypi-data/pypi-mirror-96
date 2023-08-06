@@ -1,0 +1,4 @@
+[console_scripts]
+chatrelater-analyze = chatrelater.analyzer_cli:main
+chatrelater-visualize = chatrelater.visualization_cli:main
+

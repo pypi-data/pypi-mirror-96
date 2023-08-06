@@ -1,0 +1,168 @@
+Metadata-Version: 2.1
+Name: ChatRelater
+Version: 0.4
+Summary: Analyze and visualize relations between chat users.
+Home-page: http://homework.nwsnet.de/releases/1856/#chat-relater
+Author: Jochen Kupperschmidt
+Author-email: homework@nwsnet.de
+License: MIT
+Keywords: graphviz,irc,visualization
+Platform: any
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Communications :: Chat
+Classifier: Topic :: Internet :: Log Analysis
+Requires-Python: >=3.7
+Requires-Dist: graphviz (>=0.15)
+
+Chat Relater
+============
+
+**Chat Relater** is a tool consisting of two command-line scripts:
+
+* The analyzer extracts user relations from chat logs. The gained data
+  is serialized as JSON.
+
+* The visualizer takes that data, generates a DOT_ file, and calls the
+  GraphViz_ application to render the graph in the requested output
+  format (e. g. PDF, PNG, SVG).
+
+It is actually a conceptual clone of the PieSpy_ Social Network Bot.
+However, Chat Relater does not act as an IRC bot (although this could be
+easily accomplished by making use of the irc_ package), but therefore
+allows to be run on any logfiles that produce similar output to those
+created by XChat_. Of course, this includes logs from Jabber, SILC or
+any other communication (but it might require some minor changes to the
+log reader).
+
+The GraphViz_ usage is pretty basic and output may be improved somehow,
+but so far, the graphs created by PieSpy_ look **much** nicer.
+
+
+Requirements
+------------
+
+Python_ 3.7 or later is required.
+
+Chat Relater can be installed via pip:
+
+.. code:: sh
+
+    $ pip install ChatRelater
+
+
+Tests
+-----
+
+Install the test dependencies:
+
+.. code:: sh
+
+    $ pip install -r requirements-test.txt
+
+Install the local source files as package in development mode:
+
+.. code:: sh
+
+    $ pip install -e .
+
+Run the tests:
+
+.. code:: sh
+
+    $ pytest
+
+
+Usage
+-----
+
+Run the analyzer on one or more log files, saving the intermediate
+results to another file (``chat.json``):
+
+.. code:: sh
+
+    $ chatrelater-analyze -o chat.json chat_today.log chat_yesterday.log
+
+Create a nice graph (using the 'twopi' program) from the results
+(``chat.json``) and save it to a PNG image (``graph.png``):
+
+.. code:: sh
+
+    $ chatrelater-visualize -f png -p neato chat.json chat
+
+And intermediate file containing the 'dot' description (``graph``) will
+be created in the process.
+
+
+.. _DOT:        https://www.graphviz.org/doc/info/lang.html
+.. _GraphViz:   https://www.graphviz.org/
+.. _PieSpy:     http://www.jibble.org/piespy/
+.. _irc:        https://github.com/jaraco/irc
+.. _XChat:      http://www.xchat.org/
+.. _Python:     https://www.python.org/
+
+
+:Copyright: 2007-2021 `Jochen Kupperschmidt <https://homework.nwsnet.de/>`_
+:License: MIT, see LICENSE for details.
+
+Chat Relater Changelog
+======================
+
+
+Version 0.4
+-----------
+
+Released 2021-02-28
+
+- Added support for Python 3.7, 3.8, and 3.9.
+- Removed support for Python 2.7, 3.3, and 3.4.
+- Removed tox. Different Python versions are tested on Travis CI.
+- Require graphviz >= 0.15 for Python 3.9 support.
+- Modernized code.
+- Added type hints.
+- Turned command line modules into actual console scripts.
+
+
+Version 0.3
+-----------
+
+Released 2015-08-09
+
+- Introduced compatibility with Python 3.3 and 3.4.
+- Ported command line argument handling from 'optparse' to 'argparse'.
+- Switched from YAML to JSON as the intermediate format produced by the
+  analyzer.
+- Remove potential status symbols from nicknames.
+- Improved nickname recognition.
+- Moved scripts out of the package.
+
+
+Version 0.2
+-----------
+
+Released 2015-07-27
+
+- Dropped support for Python versions below 2.7.
+- Switched DOT library from 'pydot' to 'graphviz'.
+- Don't require `ez_setup` anymore.
+- Moved package docstring into stand-alone README file.
+- Moved requirement specifications from setup script into pip-style text
+  files.
+- Created configuration file for tox.
+- Various small refactorings and cleanup.
+
+
+Version 0.1
+-----------
+
+Released 2007-07-05
+
+- Initial release.
+
+
