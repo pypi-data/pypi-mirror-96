@@ -1,0 +1,40 @@
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
+
+[tool.poetry]
+name = "callpass"
+version = "0.4.0"
+description = "Generate APRS-IS callpasses"
+keywords = ["APRS", "passcode", "I-Gate", "amateur", "radio"]
+repository = "https://gitlab.com/kf5jwc/callpass-py"
+license = "GPL-2.0"
+authors = ["Kyle Jones <kyle@kf5jwc.us>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+cachecontrol = "*"
+requests = "*"
+
+[tool.poetry.dev-dependencies]
+black = {version = "*", allow-prereleases = true}
+flit = "*"
+ipython = "*"
+mypy = "*"
+pre-commit = "*"
+pytest = "*"
+vermin = "^0.6.1"
+mutpy = "^0.6.1"
+bandit = "^1.7.0"
+flake8 = "^3.8.4"
+isort = "^5.7.0"
+pytest-cov = "^2.11.1"
+
+[tool.poetry.scripts]
+callpass = "callpass.__main__:main"
+
+[tool.isort]
+use_parentheses = true
+include_trailing_comma = true
+multi_line_output = 3
+force_grid_wrap = 0
