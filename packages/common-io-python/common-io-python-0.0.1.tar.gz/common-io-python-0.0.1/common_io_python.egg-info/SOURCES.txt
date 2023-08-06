@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+common-io-python/__init__.py
+common-io-python/__main__.py
+common-io-python/feed.py
+common_io_python.egg-info/PKG-INFO
+common_io_python.egg-info/SOURCES.txt
+common_io_python.egg-info/dependency_links.txt
+common_io_python.egg-info/top_level.txt
