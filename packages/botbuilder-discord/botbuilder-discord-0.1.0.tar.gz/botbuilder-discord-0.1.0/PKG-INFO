@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: botbuilder-discord
+Version: 0.1.0
+Summary: Unofficial Discord.py connector for Microsoft's Bot Framework
+Home-page: https://botbuilder-discord.readthedocs.io/
+Author: Joffrey Bienvenu
+Author-email: joffreybvn@gmail.com
+License: MIT
+Description: 
+        # Botbuilder offline
+        
+        [![Generic badge](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)](https://www.python.org/downloads/release/python-380/)
+        ![Travis-CI](https://www.travis-ci.com/Joffreybvn/botbuilder-offline.svg)
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Utilities
+Description-Content-Type: text/markdown
