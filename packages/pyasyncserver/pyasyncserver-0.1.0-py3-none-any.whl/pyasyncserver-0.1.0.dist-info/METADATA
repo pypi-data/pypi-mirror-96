@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: pyasyncserver
+Version: 0.1.0
+Summary: Modular asynchronous application service
+Home-page: https://github.com/agratoth/pyasyncserver
+Maintainer: Anton Berdnikov
+Maintainer-email: agratoth@yandex.ru
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: aiohttp (>=3.7.4)
+Requires-Dist: py-message-prototypes (>=0.2.1)
+Requires-Dist: uvloop (>=0.15.2)
+
+# pyasyncserver
+Modular asynchronous application service
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI](https://img.shields.io/pypi/v/pyasyncserver)](https://pypi.org/project/pyasyncserver)
+[![Python](https://img.shields.io/pypi/pyversions/pyasyncserver)](https://pypi.org/project/pyasyncserver)
+[![Coverage Status](https://coveralls.io/repos/github/agratoth/pyasyncserver/badge.svg?branch=master)](https://coveralls.io/github/agratoth/pyasyncserver?branch=master)
+
