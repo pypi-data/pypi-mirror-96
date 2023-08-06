@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: fnexpr
+Version: 0.1
+Summary: Anonymous functions as expressions.
+Home-page: https://github.com/pfmoore/fnexpr
+Author: Paul Moore
+Author-email: p.f.moore@gmail.com
