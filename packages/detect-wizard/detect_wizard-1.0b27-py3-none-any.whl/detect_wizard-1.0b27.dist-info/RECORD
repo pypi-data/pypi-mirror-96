@@ -1,0 +1,14 @@
+detect_wizard_src/Actionable.py,sha256=UEySifHT5CQ71y-XiMDlCAwrOr11lQ_VbFiZusR4Xvo,6107
+detect_wizard_src/Configuration.py,sha256=ZwLvLhWWLOwOJSESpy8O5UeysUhlrGU3Qo47owjBInY,9774
+detect_wizard_src/PathTree.py,sha256=mu91Nmp7A5vGCCpJBuq6WnrQF2r57n2fqBcyb28PjWI,2536
+detect_wizard_src/TarExaminer.py,sha256=GsBDncEsFwha1wIGvu0PJe7YBUykDuDbmeYnMlgB2vc,562
+detect_wizard_src/WizardLogger.py,sha256=7Csxw9uS-nBzWaUprEHxgDhe5Str6paodJII1Vcd-ak,2338
+detect_wizard_src/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+detect_wizard_src/detect_wizard.py,sha256=hzWMpBl_4fz00kJO8o2d908pE_D0YWWMHmA4UDQdrZ8,109417
+detect_wizard_src/file_size_util.py,sha256=5g0ODA_axl-Bd7GjpTlS47DkhZO1IW_R_8ShlXu0KSk,96
+detect_wizard-1.0b27.dist-info/LICENSE,sha256=R4gDeegX8etsJU78nDMWDyghhV4qW6g5n-urmWflYXA,1070
+detect_wizard-1.0b27.dist-info/METADATA,sha256=tJkPnjoloTp3DY9q5vtBIxvWlPu0Sn9L5LpkFCyvo7A,22325
+detect_wizard-1.0b27.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+detect_wizard-1.0b27.dist-info/entry_points.txt,sha256=LYQHBq_hpgJ3vBKKEwTUd6IPVnA5MJnzdsLvtO_x7U4,71
+detect_wizard-1.0b27.dist-info/top_level.txt,sha256=eLbu_6LOy5Xl6Ds_LWvJDf3lE3_tzrl4Z5B8TVoklI8,18
+detect_wizard-1.0b27.dist-info/RECORD,,
