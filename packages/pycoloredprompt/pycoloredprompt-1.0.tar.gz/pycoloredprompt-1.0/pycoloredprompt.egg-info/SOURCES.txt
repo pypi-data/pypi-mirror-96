@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+pycoloredprompt.egg-info/PKG-INFO
+pycoloredprompt.egg-info/SOURCES.txt
+pycoloredprompt.egg-info/dependency_links.txt
+pycoloredprompt.egg-info/not-zip-safe
+pycoloredprompt.egg-info/top_level.txt
+pycolors/__init__.py
+pycolors/back.py
+pycolors/fore.py
+pycolors/init.py
+pycolors/style.py

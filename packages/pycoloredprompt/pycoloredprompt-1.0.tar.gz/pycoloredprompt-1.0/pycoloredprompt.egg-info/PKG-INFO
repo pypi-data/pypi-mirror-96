@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: pycoloredprompt
+Version: 1.0
+Summary: Simple and lightweight cross-platform Python 16 colors terminal text package
+Home-page: https://github.com/gioggino/pycolors
+Author: Giovanni Sorgoni
+Author-email: g.sorgoni@icloud.com
+License: MIT
+Project-URL: GitHub Repo, https://github.com/gioggino/pycolors
+Project-URL: Issues, https://github.com/gioggino/pycolors/issues
+Description: # pycolors
+        
+        Simple and lightweight cross-platform Python 16 colors terminal text package
+        
+        pip install pycolors
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
