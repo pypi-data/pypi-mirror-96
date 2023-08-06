@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: django-single-auth
+Version: 0.0.1
+Summary: single auth for all applications.
+Home-page: https://github.com/GlibAI/django_authentication
+Author: Ajit Mourya
+Author-email: ajit@glib.ai
+License: UNKNOWN
+Description: # Django Single Auth
+        
+        This package can use for single login over all multiple app.
+        
+        ## Build Process
+        open the link.
+        [click here for steps.](https://packaging.python.org/tutorials/packaging-projects/#uploading-the-distribution-archives)
+        
+        ## Required Client
+        1. AUTHENTICATION_SERVER_URL
+        2. APP_URL
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

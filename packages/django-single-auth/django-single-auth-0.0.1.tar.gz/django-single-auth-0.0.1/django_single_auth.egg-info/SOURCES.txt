@@ -1,0 +1,16 @@
+README.md
+setup.py
+django_single_auth/__init__.py
+django_single_auth/admin.py
+django_single_auth/apps.py
+django_single_auth/middleware.py
+django_single_auth/models.py
+django_single_auth/tests.py
+django_single_auth/views.py
+django_single_auth.egg-info/PKG-INFO
+django_single_auth.egg-info/SOURCES.txt
+django_single_auth.egg-info/dependency_links.txt
+django_single_auth.egg-info/top_level.txt
+django_single_auth/migrations/__init__.py
+django_single_auth/server/__init__.py
+django_single_auth/server/session.py
