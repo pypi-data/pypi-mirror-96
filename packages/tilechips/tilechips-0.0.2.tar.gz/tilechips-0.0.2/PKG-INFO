@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: tilechips
+Version: 0.0.2
+Summary: A python package to create raster tiles for deep learning training image chips
+Home-page: https://github.com/wslerry/tilechips
+Author: Lerry William
+Author-email: lerryws.xyz@outlook.com
+License: BSD
+Description: # tilechips
+        A very simple package to generate tiles for geographic raster data,
+        build to help user to prepare datasets for deep learning training and
+        annotation.
+        
+        tilechips require GDAL to operate.
+        
+        Please use composite geographic raster (RGB of band combination).
+        
+        ## Requirements
+        - GDAL
+        - tqdm
+        
+        ## Installation
+        ### PIP
+        1. `python -m pip install GDAL`
+        2. `python -m pip install tilechips`
+        
+        **or**
+        
+        ### Clone to local directory
+        1. `git clone https://github.com/wslerry/tilechips.git`
+        2. `cd tilechips`
+        3. `python -m pip install GDAL`
+        4. `python setup.py install`
+        
+        ## Example
+        ```python
+        from tilechips.tiles import IO
+        
+        IO(input_image,output_directory,x_size,y_size,save_vrt=False)
+        
+        ```
+Keywords: raster gdal
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering :: GIS
+Description-Content-Type: text/markdown

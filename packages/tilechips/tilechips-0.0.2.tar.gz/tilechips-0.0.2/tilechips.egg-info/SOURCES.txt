@@ -1,0 +1,9 @@
+README.md
+setup.py
+tilechips/__init__.py
+tilechips/tiles.py
+tilechips.egg-info/PKG-INFO
+tilechips.egg-info/SOURCES.txt
+tilechips.egg-info/dependency_links.txt
+tilechips.egg-info/requires.txt
+tilechips.egg-info/top_level.txt
