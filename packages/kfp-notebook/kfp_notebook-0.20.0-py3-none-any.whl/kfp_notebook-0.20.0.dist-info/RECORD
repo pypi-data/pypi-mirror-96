@@ -1,0 +1,8 @@
+kfp_notebook/__init__.py,sha256=zf3UDjdPBJv0lySITWVt7uOyqhF9e2v1TA6gaJTo08s,630
+kfp_notebook/pipeline/__init__.py,sha256=NTs507BPAV-8MTYYEEDG4HdL7sd_ZTt-U-73EL_JpAg,644
+kfp_notebook/pipeline/_notebook_op.py,sha256=03-qw1UfiC5OortyTNMyBI4jI8RZBdMx-tG28_zPM_E,16843
+kfp_notebook-0.20.0.dist-info/LICENSE,sha256=tAkwu8-AdEyGxGoSvJ2gVmQdcicWw3j1ZZueVV74M-E,11357
+kfp_notebook-0.20.0.dist-info/METADATA,sha256=R2PeDrUZ1EQLgLn7neiftYC6Bt_ZTy1SFb6-h0HyTuU,4059
+kfp_notebook-0.20.0.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+kfp_notebook-0.20.0.dist-info/top_level.txt,sha256=yDsaEwcz-qIUZ2ZDYCUUvoY_ZQ4ubpwjgIt8akscjR4,13
+kfp_notebook-0.20.0.dist-info/RECORD,,
