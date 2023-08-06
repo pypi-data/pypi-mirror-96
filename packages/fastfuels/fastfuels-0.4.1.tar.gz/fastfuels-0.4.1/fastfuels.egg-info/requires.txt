@@ -1,0 +1,8 @@
+colorcet
+numpy
+pyvista
+scipy
+zarr
+rasterio
+shapely
+geopandas
