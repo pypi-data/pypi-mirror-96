@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: django-model-logs
+Version: 0.1.7
+Summary: Library for logging changes of each model
+Home-page: https://github.com/JuanBenitezDev/django-model-log
+Author: Juan Benitez
+Author-email: juanbenitezdev@gmail.com
+License: MIT
+Description: ===========
+        Model Logs
+        ===========
+        
+        Model logs is a Django app for storing changes of yours objects
+        
+        Quick start
+        -----------
+        
+        1. Add "model_log" to your INSTALLED_APPS setting like this::
+        
+            INSTALLED_APPS = [
+                ...
+                'model_log',
+            ]
+        
+        
+        2. Run ``python manage.py migrate`` to create the "model_logs" models.
+        
+        3. For adding or excluding the models you want to log, in the ``settings.py``::
+        
+            MODELS_FOR_LOGGING = (
+                'app.ClassName',    # logging only for this model
+                'another_app'     # logging of all models in this app
+            )
+        
+            MODELS_FOR_EXCLUDE = (
+                'app.ClassName',    # excluding from logging only for this model
+            )
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/x-rst
