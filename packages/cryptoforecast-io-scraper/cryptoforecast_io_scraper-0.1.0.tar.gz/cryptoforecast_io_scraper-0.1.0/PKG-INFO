@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: cryptoforecast_io_scraper
+Version: 0.1.0
+Summary: Simplified Pseudo API for CryptoForecast.io
+Home-page: https://github.com/seekersoftec/cryptoforecast_io_scraper/
+Author: ['Seekersoftec']
+Author-email: seekersoftec@gmail.com
+License: Apache 2.0
+Description: # cryptoforecast.io scraper
+        
+        ## Introduction
+        
+        CryptoForecast.io scraper
+        
+        Allows simple interface for automating downloading of data from https://www.cryptoforecast.io API.
+        
+        ## Table of contens
+        
+        - [Installation](#installation)
+        
+        - [API](#api)
+        
+          - [API Methods](#api-methods)
+        
+        - [Credits](#credits)
+        
+        ## Installation
+        
+            pip install cryptoforecast_io_scraper
+        
+        ## Requirements
+        
+        - Requires Requests
+        
+        ## API
+        
+        ### Get data from CryptoForecast
+        
+            from cryptoforecast_io_scraper.request import DataReq
+        
+            data_req = DataReq()
+        
+            print(data_req._get_data())
+        
+        ## API Methods
+        
+        The following API methods are available:
+        
+        - [Get data]: returns recent data
+        
+        # Credits
+        
+        - https://github.com/Drakkar-Software/pytrends
+        
+Keywords: cryptoforecast.io scraper
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown

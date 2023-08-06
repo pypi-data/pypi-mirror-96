@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+cryptoforecast_io_scraper/__init__.py
+cryptoforecast_io_scraper/exceptions.py
+cryptoforecast_io_scraper/request.py
+cryptoforecast_io_scraper/test_dataReq.py
+cryptoforecast_io_scraper.egg-info/PKG-INFO
+cryptoforecast_io_scraper.egg-info/SOURCES.txt
+cryptoforecast_io_scraper.egg-info/dependency_links.txt
+cryptoforecast_io_scraper.egg-info/requires.txt
+cryptoforecast_io_scraper.egg-info/top_level.txt
