@@ -1,0 +1,12 @@
+better_git_cli/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+better_git_cli/helpers.py,sha256=P8CY0GyRqynJqI_QzwuiWCkSmBCcKrh6aHpUp694TzQ,444
+better_git_cli/main.py,sha256=WLfMSZS21BgI_iXiVeZafCsd-FUOkbvtWTcoJ1NOSOo,566
+better_git_cli/options.py,sha256=kSGYfhn9oeZh-8rRhWgfRSXeYdH9PQzIuek4oP5CGG4,1244
+better_git_cli/repos.py,sha256=9iaSqTDYQ0CBFeybNYCEA8-VYqlciZfjdu1CVHyPMOE,5159
+better_git_cli/sshkeys.py,sha256=m_1DvX8mbLFxfdp-JqJ5qyKEZF79ixQ5vn5Fnr9-xbw,3123
+better_git_cli/user.py,sha256=mtVhCf_8LSFZD8iphvCsFrg_eIgn8gMqzlJ7f6-MPVU,2738
+bettergitcli-1.0.1.dist-info/entry_points.txt,sha256=ORasV159qop9LXwNIyYw2HRaNK1Bg9dkEa9IFM3g_tQ,61
+bettergitcli-1.0.1.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+bettergitcli-1.0.1.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+bettergitcli-1.0.1.dist-info/METADATA,sha256=zUz-BQR0DXtmYC5xtIF55lnW8GAFOcNY7JvkmTY01Cc,4948
+bettergitcli-1.0.1.dist-info/RECORD,,
