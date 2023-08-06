@@ -1,0 +1,10 @@
+mistune>=2.0.0rc1
+
+[dev]
+black
+mypy
+setuptools
+wheel
+
+[distribute]
+twine

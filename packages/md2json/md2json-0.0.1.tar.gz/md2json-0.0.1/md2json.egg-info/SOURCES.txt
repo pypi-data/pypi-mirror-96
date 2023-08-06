@@ -1,0 +1,9 @@
+README.md
+setup.py
+md2json/__init__.py
+md2json/version.py
+md2json.egg-info/PKG-INFO
+md2json.egg-info/SOURCES.txt
+md2json.egg-info/dependency_links.txt
+md2json.egg-info/requires.txt
+md2json.egg-info/top_level.txt

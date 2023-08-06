@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: md2json
+Version: 0.0.1
+Summary: md2json: md2json and json2md
+Home-page: https://github.com/bugout-dev/md2json
+Author: Neeraj Kashyap
+Author-email: neeraj@bugout.dev
+License: UNKNOWN
+Description: # md2json
+        md2json and json2md. Enough said.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Programming Language :: Python
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: distribute
