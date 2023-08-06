@@ -1,0 +1,13 @@
+lytspel/__init__.py,sha256=TnGLEymQQOpH961NZwmrYR1m1qj4kggtGT94Rl0KS7o,2823
+lytspel/conv.py,sha256=SbgpluaqiHO8jCoXjC9VvuQ3_X9QJn5zjZzoKOtoOKk,36033
+lytspel/dict.py,sha256=UTihHvd8pgl2CDky8howZFgAvUjwB6VgacxeLv-Yxbs,14585
+lytspel/lytspel-dict.csv,sha256=adKXQpHtKrG1pdAuBlOHq2wzUEicr1_UwGwEzqhb0IQ,2210868
+lytspel/test.py,sha256=Yk2mlUYWigQlz1bnt9xWi0sb6BC0SkaxjXux5zy07Z4,29026
+lytspel/util.py,sha256=UnyvLM0MVL1zYN1Rzeuhn7zV9zN-H2hN97yXB9mqCaI,771
+lytspel/web.py,sha256=f3E5KlInE7GUQPpacIKbqFvZaTB9a0I10ZmzxUmx2qU,17585
+lytspel-2.0.0.dist-info/LICENSE.txt,sha256=HaXu6GYm8WUk53VtNpPNjAwnIALyYz6udDcrtUtOmb0,740
+lytspel-2.0.0.dist-info/METADATA,sha256=HH4HMCKwyQlZ5xObRzYBbQHv-KC7gXfx73_sHnM3oi8,48729
+lytspel-2.0.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+lytspel-2.0.0.dist-info/entry_points.txt,sha256=TvDS0D2y-6C33DC_txbnBdLTdCnD-lMuyYKe-ItzVZI,42
+lytspel-2.0.0.dist-info/top_level.txt,sha256=I_kqSq0pUulylAaaxMm6x21dpmK9zw-2KN1nfiC964k,8
+lytspel-2.0.0.dist-info/RECORD,,
