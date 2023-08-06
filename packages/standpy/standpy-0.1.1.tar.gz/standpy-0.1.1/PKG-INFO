@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: standpy
+Version: 0.1.1
+Summary: Standby prevention module.
+Home-page: UNKNOWN
+Author: Pedro Maciel Xavier
+Author-email: pedromxavier@poli.ufrj.br
+License: UNKNOWN
+Description: # standpy
+        Cross-Platform Python Standby Lock
+        
+        ## Usage
+        ```python
+        from standpy import StandbyLock, standby_lock
+        
+        ## For code blocks
+        with StandbyLock():
+            ## do something
+            do_something()
+        ## System waited without going idle.
+        
+        ## In function calls
+        @standby_lock
+        def foo(*args, **kwargs):
+            return bar(*args, **kwargs)
+        
+        ## System will wait for `foo` to return.
+        foo()
+        ```
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Requires-Python: <4,>=3.7
+Description-Content-Type: text/markdown
