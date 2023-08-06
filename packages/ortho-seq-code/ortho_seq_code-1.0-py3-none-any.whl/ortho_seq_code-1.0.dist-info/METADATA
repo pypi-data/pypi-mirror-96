@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ortho-seq-code
+Version: 1.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Keywords: regression,covariance,rna,dna,orthogonal polynomials,higher order interactions
+Platform: UNKNOWN
+Requires-Dist: Click
+Requires-Dist: numpy
+
+UNKNOWN
+
+
