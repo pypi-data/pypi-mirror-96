@@ -1,0 +1,12 @@
+setup.py
+data/__init__.py
+data/generator.py
+data/processor.py
+data/sample.py
+dlchessrog.egg-info/PKG-INFO
+dlchessrog.egg-info/SOURCES.txt
+dlchessrog.egg-info/dependency_links.txt
+dlchessrog.egg-info/top_level.txt
+encoders/__init__.py
+encoders/base.py
+encoders/oneplane.py
