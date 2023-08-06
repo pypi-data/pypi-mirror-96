@@ -1,0 +1,10 @@
+README.md
+setup.py
+WolframAlpha.py.egg-info/PKG-INFO
+WolframAlpha.py.egg-info/SOURCES.txt
+WolframAlpha.py.egg-info/dependency_links.txt
+WolframAlpha.py.egg-info/requires.txt
+WolframAlpha.py.egg-info/top_level.txt
+wolfram/App.py
+wolfram/__init__.py
+wolfram/errors.py
