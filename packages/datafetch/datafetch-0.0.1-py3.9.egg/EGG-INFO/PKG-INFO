@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: datafetch
+Version: 0.0.1
+Summary: Tools for fetching data, and providing ready-to-use [Prefect](https://prefect.io) flows
+Home-page: https://github.com/steph-ben/datafetch
+Author: steph-ben
+Author-email: stephane.benchimol@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
