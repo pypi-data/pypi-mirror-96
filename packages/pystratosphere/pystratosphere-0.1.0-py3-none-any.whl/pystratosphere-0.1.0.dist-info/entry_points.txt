@@ -1,0 +1,3 @@
+[console_scripts]
+strat=pystratosphere.cli:main
+
