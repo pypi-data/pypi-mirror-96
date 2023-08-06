@@ -1,0 +1,172 @@
+Metadata-Version: 2.1
+Name: Postal-Methods-2.0-API
+Version: 2.0
+Summary: Postal Methods API SDK for Python
+Home-page: UNKNOWN
+Author: Postal Methods
+Author-email: 
+License: UNKNOWN
+Description: This is the python package for Postal Methods API
+        
+        It consists of six functions
+        The class name is PMAPI.
+        the functions are listed below.
+        
+        SendLetter(myDescription="", 
+                           perforation=False, 
+                           replyOnEnvelope=False, 
+                           returnAddress=None,
+                           File=None, fileUrl='', 
+                           isDoubleSided=False, 
+                           isColored=False, 
+                           urlFileExtension='', 
+                           refId='',
+                           returnAddressPosition=1,
+                           isReturnAddressAppended=False
+                           )
+                           
+        SendLetterWithAddress(myDescription="", 
+                                      perforation=False, 
+                                      replyOnEnvelope=False, 
+                                      returnAddress=None,
+                                      sendToAddress=None,
+                                      File=None, fileUrl='', 
+                                      templateId=0, 
+                                      isDoubleSided=False,
+                                      isColored=False, 
+                                      urlFileExtension='', 
+                                      refId='',
+                                      returnAddressPosition=1,
+                                      isReturnAddressAppended=False
+                                      )
+        
+        Takes the Letter Id:
+        
+        GetPDF(self, RequestId)
+        
+        Takes a List of Letter Ids:
+        
+        GetLetterStatus(self, RequestIds)
+            
+        Takes the Letter Id:    
+        
+        GetLetterDetails(self, RequestId)
+        
+        Takes the Letter Id:
+        
+        CancelDelivery(self, RequestId)
+        
+        <b>Response:</b>
+        The response object contains three properties
+        <ol>
+        <li>status</li>
+        <li>errorMessage</li>
+        <li>result</li>
+        </ol>
+        
+        The status gives you the status code of the request.
+        
+        The errorMessage will give the error message if the status is not 200
+        
+        the result will contain the response result. 
+        
+        You can find the result type of each API by looking at the example response result field in the documentation here:
+        
+        https://documenter.getpostman.com/view/10877655/TVKD3dba
+        
+        <b>Implementation</b>:
+        Initialize the PMAPI Class with your API key.
+        Call functions with their respective params.
+        
+        <b>Example is given below:</b>
+        
+        <b>Imports:</b>
+        
+            from pmpackage import PMAPI
+            
+            from pmpackage import Address
+        
+        <b>Initialization:</b>
+        
+            testReq = PMAPI('api-key')
+        
+        <b>Status:</b>
+        
+            Ids = [1,2,3]
+            
+            response = testReq.GetLetterStatus(Ids)
+        
+        
+        <b>Detail:</b>
+        
+            Id = 1
+            
+            response = testReq.GetLetterDetails(Id)
+        
+        
+        <b>Cancel:</b>
+        
+            Id = 1
+            
+            response = testReq.CancelDelivery(Id)
+        
+        
+        <b>PDF:</b>
+        
+            Ids = 1
+        
+            response = testReq.GetPDF(Id)
+        
+        
+        <b>SendLetter:</b>
+        
+            filePath = 'ValidDoc.pdf'
+            with open(filePath, "rb") as uploadedFile:
+            
+                # First We Initialize the Address Object
+                returnAddress = Address('Company', 'AddressLine1', 'AddressLine2',
+                                         'City', 'State', 'Zip', 'Country')
+            
+                response = testReq.SendLetter('Hello', 
+                True, 
+                True, 
+                returnAddress, 
+                uploadedFile, 
+                '', True, 
+                True, '', 
+                'hello123', 
+                2, 
+                True)
+        
+        
+        <b>Send Letter With Address:</b>
+        
+            filePath = 'ValidDoc.pdf'
+            with open(filePath, "rb") as uploadedFile:
+            
+                # First We Initialize the Address Object
+                 returnAddress = Address('Company', 'AddressLine1', 'AddressLine2',
+                                        'City', 'State', 'Zip', 'Country')
+                SendAddress = Address('', '1300 Montgomery Highway', '',
+                                        'Vestavia Hills', 'AL', '35612', None)
+                hello = checkReq.SendLetterWithAddress('Hello',
+                                                       True,
+                                                       True,
+                                                   returnAddress,
+                                                   SendAddress,
+                                                   uploadedFile,
+                                                   '',
+                                                   0,
+                                                   True,
+                                                   True,
+                                                   '',
+                                                   'hello123',
+                                                   2,
+                                                   False
+                                                   )
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
