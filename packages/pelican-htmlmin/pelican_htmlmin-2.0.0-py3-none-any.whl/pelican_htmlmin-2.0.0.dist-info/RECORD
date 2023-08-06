@@ -1,0 +1,6 @@
+pelican/plugins/htmlmin/__init__.py,sha256=_B16N9OjcZBajq1hGEb2CWOPeDUaCcM0oyUzwUy_-eE,30
+pelican/plugins/htmlmin/minify.py,sha256=_7PyHNDtHOQwv4Et9KsrmU2I0bBfkOjm4IE4Oipqfvs,1739
+pelican_htmlmin-2.0.0.dist-info/METADATA,sha256=5kOIBAqdmFwUw_aDMmQ5lHK71dfZshPNcbDNnfG4bR4,3574
+pelican_htmlmin-2.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pelican_htmlmin-2.0.0.dist-info/top_level.txt,sha256=1uMnUcVHuamvV2llftk52dDOu-KLEjkr5wH-QxnZ_D0,24
+pelican_htmlmin-2.0.0.dist-info/RECORD,,
