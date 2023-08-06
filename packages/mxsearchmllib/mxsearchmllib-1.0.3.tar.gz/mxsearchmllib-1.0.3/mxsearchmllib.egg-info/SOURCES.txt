@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+mxsearchml/__init__.py
+mxsearchmllib.egg-info/PKG-INFO
+mxsearchmllib.egg-info/SOURCES.txt
+mxsearchmllib.egg-info/dependency_links.txt
+mxsearchmllib.egg-info/top_level.txt
