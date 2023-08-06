@@ -1,0 +1,6 @@
+#!python
+# -*- coding: utf-8 -*-
+from toppy import Toppy, ToppyArgs
+
+args = ToppyArgs.parse_args()
+Toppy(args).run()
