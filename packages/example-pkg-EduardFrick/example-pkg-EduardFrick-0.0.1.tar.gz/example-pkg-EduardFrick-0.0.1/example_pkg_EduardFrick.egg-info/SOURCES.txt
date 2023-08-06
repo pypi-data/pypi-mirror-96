@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+example_pkg_EduardFrick.egg-info/PKG-INFO
+example_pkg_EduardFrick.egg-info/SOURCES.txt
+example_pkg_EduardFrick.egg-info/dependency_links.txt
+example_pkg_EduardFrick.egg-info/top_level.txt
+printmepack/__init__.py
+printmepack/printmenow.py
