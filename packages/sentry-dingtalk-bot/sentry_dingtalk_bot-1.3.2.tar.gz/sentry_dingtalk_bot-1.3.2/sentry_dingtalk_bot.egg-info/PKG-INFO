@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: sentry-dingtalk-bot
+Version: 1.3.2
+Summary: A Sentry extension which integrates with Dingtalk robot.
+Home-page: https://github.com/liupcoder/sentry-dingding-bot.git
+Author: lpcoder
+Author-email: liupcoder@126.com
+License: BSD
+Description: 
+        sentry_dingtalk_bot
+        ==============
+        
+        An extension for Sentry which integrates with Dingtalk. It will send
+        notifications to dingtalk robot.
+        
+        :copyright: (c) 2021 by lpcoder yi, see AUTHORS for more details.
+        :license: BSD, see LICENSE for more details.
+        
+Keywords: sentry dingding dingtalk
+Platform: any
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development
+Description-Content-Type: text/markdown
+Provides-Extra: test
