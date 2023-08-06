@@ -1,0 +1,20 @@
+Metadata-Version: 1.2
+Name: MLatom
+Version: 1.2.2
+Summary: A Package for Atomistic Simulations with Machine Learning
+Home-page: http://mlatom.com
+Author: Pavlo O. Dral
+Author-email: admin@mlatom.com
+License: CC BY-NC-ND 2.0
+Description: # About MLatom
+        A Package for Atomistic Simulations with Machine Learning
+        This version 1.2 on pypi is a test uploaded version.
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Fortran
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Classifier: Environment :: Console
+Requires-Python: >=3.7
