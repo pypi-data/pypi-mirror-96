@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+backend-helper.js
+nimview.nim
+nimview.nimble
+setup.py
+nimview/LICENSE
+nimview/README.md
+nimview/backend-helper.js
+nimview/nimview.nim
+nimview/nimview.nimble
+nimview.egg-info/PKG-INFO
+nimview.egg-info/SOURCES.txt
+nimview.egg-info/dependency_links.txt
+nimview.egg-info/requires.txt
+nimview.egg-info/top_level.txt
