@@ -1,0 +1,12 @@
+dukaonesdk/__init__.py,sha256=eAmDQfbh868LSeMMAZ1cRovwQ33Dwj4oRWtovce9JKY,135
+dukaonesdk/device.py,sha256=CU85rmx2h7aKLNHSeEHq6cWaJPgkj2xYj_fjKWSUCn8,2656
+dukaonesdk/dukaclient.py,sha256=YjhIa8o-0B8jqOjg2tTjQ02bpXMVaqAZGL_586P3IYQ,11609
+dukaonesdk/dukapacket.py,sha256=mG2cl_PSm7QBwheTI5erJMuOaej7N-URLTTtKU6wNos,5895
+dukaonesdk/mode.py,sha256=GQ71-MVLUJpTE2ETNNvJhDXcESpmlJnCRh6eND18shs,213
+dukaonesdk/responsepacket.py,sha256=fgaohFFLiG-bRfNZYW0fkrlvMC2-2CGvXvWOIoJH0jE,6449
+dukaonesdk/speed.py,sha256=CoeLSZSYoRCsJbNf6JfSwmQThPZdXqlfomvf5mNclzY,172
+dukaonesdk-1.0.2.dist-info/METADATA,sha256=UGa7eHtZOmUbeE5gB2JCdaYSLIwhjne69LX9f5ReKSY,322
+dukaonesdk-1.0.2.dist-info/WHEEL,sha256=YUYzQ6UQdoqxXjimOitTqynltBCkwY6qlTfTh2IzqQU,97
+dukaonesdk-1.0.2.dist-info/license.txt,sha256=jOtLnuWt7d5Hsx6XXB2QxzrSe2sWWh3NgMfFRetluQM,35147
+dukaonesdk-1.0.2.dist-info/top_level.txt,sha256=FN9R6LprSpdVCeL1UMYFcSjEqLy4qUOqxQ7kcjv4BQM,11
+dukaonesdk-1.0.2.dist-info/RECORD,,
