@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: daylio-parser
+Version: 0.1.1
+Summary: A Python module to parse Daylio exports
+Home-page: https://github.com/meesha7/daylio-parser
+License: MIT
+Keywords: daylio,parser,stats
+Author: Meesha
+Author-email: 44530786+meesha7@users.noreply.github.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: numpy (>=1.20.1,<2.0.0)
+Project-URL: Documentation, https://daylio-parser.readthedocs.io/en/latest/
+Project-URL: Repository, https://github.com/meesha7/daylio-parser
+Description-Content-Type: text/markdown
+
+# daylio-parser
+A Python module to parse Daylio exports
+
