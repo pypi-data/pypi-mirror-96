@@ -1,0 +1,3 @@
+[console_scripts]
+yaplee = yaplee.main:Yaplee_Main
+
