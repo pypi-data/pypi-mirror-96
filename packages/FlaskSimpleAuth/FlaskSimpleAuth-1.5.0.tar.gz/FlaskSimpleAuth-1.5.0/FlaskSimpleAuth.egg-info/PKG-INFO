@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: FlaskSimpleAuth
+Version: 1.5.0
+Summary: Simple authentication and authorization for Flask, emphasizing configurability
+Home-page: https://github.com/zx80/flask-simple-auth
+Author: Fabien Coelho
+Author-email: flask.auth@coelho.net
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+Classifier: Programming Language :: Python
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Flask
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/markdown
