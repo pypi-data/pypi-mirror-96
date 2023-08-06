@@ -1,0 +1,3 @@
+[console_scripts]
+spdx-lint = spdx_lint.cli:main
+
