@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: aps_hello_pypi_beta
+Version: 1.0.0
+Summary: A sample Python project
+Home-page: https://github.com/aps010191/
+Author: Akhand pratap singh
+Author-email: akhand2802@gmail.com
+License: UNKNOWN
+Project-URL: Source, https://github.com/aps010191/
+Description: optional longer description of your project 
+Keywords: sample,learning
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7, <4
+Description-Content-Type: text/markdown
