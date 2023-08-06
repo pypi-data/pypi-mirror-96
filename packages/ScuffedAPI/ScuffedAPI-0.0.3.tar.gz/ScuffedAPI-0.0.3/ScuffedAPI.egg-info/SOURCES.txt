@@ -1,0 +1,8 @@
+README.md
+setup.py
+ScuffedAPI/__init__.py
+ScuffedAPI.egg-info/PKG-INFO
+ScuffedAPI.egg-info/SOURCES.txt
+ScuffedAPI.egg-info/dependency_links.txt
+ScuffedAPI.egg-info/requires.txt
+ScuffedAPI.egg-info/top_level.txt
