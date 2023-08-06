@@ -1,0 +1,9 @@
+README.md
+setup.py
+eventzAPI/__init__.py
+eventzAPI/eventzAPI.py
+eventzAPI/flatArchiver.py
+eventzapi_bobj.egg-info/PKG-INFO
+eventzapi_bobj.egg-info/SOURCES.txt
+eventzapi_bobj.egg-info/dependency_links.txt
+eventzapi_bobj.egg-info/top_level.txt
