@@ -1,0 +1,10 @@
+COPASI/_COPASI.cp37-win_amd64.pyd,sha256=6F1eXImCKYQ1wfdByb9WKM2j-uIHxlNv2TxkzuWqG44,19103232
+COPASI/__init__.py,sha256=-8p7CcgvOjr7FzTrr0dqFiJEZ3QNz1seQzIu0ZKM6NQ,1459890
+COPASI/pyCopasiSE.py,sha256=H9YdEvDr1K8nK3dA1lAB2Bi58AvE6F4mh5wOVvFCGAA,23505
+COPASI/__pycache__/__init__.cpython-37.pyc,sha256=6ykxw0DbnAPehnOGQFgJHIwfvZRY4B1-CSQuQc5NFqY,1707944
+COPASI/__pycache__/pyCopasiSE.cpython-37.pyc,sha256=7m6AcqXRTNRFaTpyAObhUh7EXPwVpPbS2I7-tsYclYo,19540
+python_copasi-4.30.240.dist-info/METADATA,sha256=SRKmnOrvzX02gSoL-k2RZzIJemkBWNCy-4V1WOuqzYE,554
+python_copasi-4.30.240.dist-info/WHEEL,sha256=rpJIxsZQulJdxSTRRlB5eKYFBr_5T7UwADMbZS3uepA,106
+python_copasi-4.30.240.dist-info/license.txt,sha256=mQ9DAO9acxzeFNckSFnH1RovufP_17HfScW5B83HKVk,9286
+python_copasi-4.30.240.dist-info/top_level.txt,sha256=alcBNMO80SwEg9mxj6uSjNAmtS5Swzz4yClzQjVF244,15
+python_copasi-4.30.240.dist-info/RECORD,,
