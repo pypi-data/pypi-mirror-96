@@ -1,0 +1,43 @@
+
+Adjust version number
+ 1. Open the qt designer and adapt the version number in the GUI to "YYYY.MM".
+ 2. Edit setup.py to create a new version number and update information.
+ 3. Edit the README.md file to point users to download the lates release from the tag YYYY-MM
+
+Build a Python package
+ 1. rm -r build
+ 2. python3 setup.py sdist bdist_wheel
+ 3. tar tzf dist/TreeTime-XXX.tar.gz
+ 4. twine check dist/*
+
+Upload to PyPi
+ 1. twine upload dist/TreeTimeXXX.tar.gz
+
+Draft a Release on github
+ 1. Go to releases and create new draft
+ 2. Type a tag name YYYY-MM
+ 3. Create a description
+ 4. Save as draft
+
+Build a Windows Installer
+ 1. Log into a Windows machine, download the latest source code (on the command line)
+ 2. Go to treetime subdirectory
+ 3. pyinstaller pyinstaller.spec
+ 4. Zip the directory treetime/dist/treetime to treetime.zip and rename it to treetime_YYYY-MM_windows.zip
+ 5. In the github web page, go to treetime/released/YYYY-MM and upload the windows zip file
+
+Build a Linux Installer
+ 1. cd treetime/treetime
+ 2. pyinstaller pyinstaller.spec
+ 3. cd dist
+ 4. tar cvvzf treetime_YYYY-MM_linux.tar.gz
+ 5. In the github web page, go to treetime/released/YYYY-MM and upload the linux zip file
+
+Finalise Release on github
+ 1. In github page, click "Publish Release".
+
+Advertise
+ 1. Adapt the text "TreeTime ... just released. New: ... https://github.com/jkanev/treetime#---treetime 
+#treetime #tree #editor #software Download here: https://github.com/jkanev/treetime/releases
+or on PyPi using pip install." and post on twitter and facebook.
+
