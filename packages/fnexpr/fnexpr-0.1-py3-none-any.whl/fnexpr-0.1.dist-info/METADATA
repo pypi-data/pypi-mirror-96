@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: fnexpr
+Version: 0.1
+Summary: Anonymous functions as expressions.
+Home-page: https://github.com/pfmoore/fnexpr
+License: UNKNOWN
+Author: Paul Moore
+Author-email: p.f.moore@gmail.com
+Requires-Python: >=3.7
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
