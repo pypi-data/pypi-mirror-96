@@ -1,0 +1,15 @@
+README.md
+setup.cfg
+setup.py
+gurgle/__init__.py
+gurgle/base.py
+gurgle/sp_gurgle.py
+gurgle/terminal.py
+gurgle/util.py
+gurgle.egg-info/PKG-INFO
+gurgle.egg-info/SOURCES.txt
+gurgle.egg-info/dependency_links.txt
+gurgle.egg-info/entry_points.txt
+gurgle.egg-info/not-zip-safe
+gurgle.egg-info/requires.txt
+gurgle.egg-info/top_level.txt
