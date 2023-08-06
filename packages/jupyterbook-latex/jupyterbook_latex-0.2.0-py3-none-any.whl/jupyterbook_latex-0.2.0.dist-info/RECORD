@@ -1,0 +1,10 @@
+jupyterbook_latex/__init__.py,sha256=rS1myzy96tq-Gij79-RUqFeZ9wnbgvaSX99pX6gfUNI,3139
+jupyterbook_latex/nodes.py,sha256=z_GrnZDjV-WWhTJT4DXJc9is1xMPuVObefaiForBLaw,1569
+jupyterbook_latex/transforms.py,sha256=8jnpXFl0BpYogFppcxp4qBTRyOOPESOutajMiDQqxmE,7380
+jupyterbook_latex/utils.py,sha256=CVqaFSzgRy9nea1tWojpYUxPqQQ_RC9e05FGXl2jd3Y,903
+jupyterbook_latex/theme/jupyterBook.cls,sha256=w6lPxIOTbjzt_UmJpg399zNRuIyPMFnPTMpOoyuMn4U,1222
+jupyterbook_latex-0.2.0.dist-info/LICENSE,sha256=aWHeuj6barS8jPykGz6P449WpH1QFrCo7vlElsOsob4,1529
+jupyterbook_latex-0.2.0.dist-info/METADATA,sha256=GPIj5HVPgQmqUNan0gv_srseuInBdXmxNW1ZulLZbpI,2121
+jupyterbook_latex-0.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+jupyterbook_latex-0.2.0.dist-info/top_level.txt,sha256=KKA-qLncesInMHtrFAWpfHhCkU5eEtklHnW7u5LBF98,18
+jupyterbook_latex-0.2.0.dist-info/RECORD,,
