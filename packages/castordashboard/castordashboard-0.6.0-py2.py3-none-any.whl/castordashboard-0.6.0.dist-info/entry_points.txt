@@ -1,0 +1,4 @@
+[console_scripts]
+cd_dashboard = castordashboard.dashboard.main:main
+cd_etl = castordashboard.etl.script_runner:main
+
