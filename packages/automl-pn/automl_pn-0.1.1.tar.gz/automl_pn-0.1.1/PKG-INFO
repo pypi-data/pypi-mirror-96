@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: automl_pn
+Version: 0.1.1
+Summary: Automated binary classification
+Home-page: https://github.com/CTPAHH1K/auto-binary-classifier
+Author: Maxim
+Author-email: maximponomarev92@gmail.com
+License: UNKNOWN
+Description: # Basic binary classification supervised auto-ml library
+        
+        This lib is intended to automate supervised binary classification
+        
+        Usage is as simple as
+        
+        ```python
+        from automl_pn.binary_classifier import BinaryClassifier
+        
+        cls = BinaryClassifier()
+        cls.fit(X_train, y_train)
+        pred = cls.predict(X_test)
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
