@@ -1,0 +1,165 @@
+#:kivy 2.0
+#:import FadeTransition kivy.uix.screenmanager.FadeTransition
+#:import FONTAWESOME_PATH voicemailbox.FONTAWESOME_PATH
+#:import SLIDER_BORDER_PATH voicemailbox.SLIDER_BORDER_PATH
+#:import SLIDER_CURSOR_PATH voicemailbox.SLIDER_CURSOR_PATH
+
+<RootScreen>:
+    transition: FadeTransition(duration=0.2)
+    home_screen: home_screen
+    voicemail_screen_1: voicemail_screen_1
+    voicemail_screen_2: voicemail_screen_2
+
+    HomeScreen:
+        id: home_screen
+    VoicemailScreen1:
+        id: voicemail_screen_1
+    VoicemailScreen2:
+        id: voicemail_screen_2
+
+<HomeScreen>:
+
+    head_label: head_label
+    voicemails_button: voicemails_button
+    voicemails_button_layout: voicemails_button_layout
+
+    name: "home_screen"
+
+    canvas.before:
+        Color:
+            rgba: root.background_rgba
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+    RelativeLayout:
+        canvas.before:
+            Color:
+                rgba: (0,0,0,0.5)
+            Rectangle:
+                pos: 0,0
+                size: self.size
+
+        size_hint: (1, 0.1)
+        pos_hint: {"x": 0, "y": 0.9}
+        Label:
+            text: root.current_date
+            font_size: 30
+            text_size: self.size
+            halign: "left"
+            valign: "middle"
+            padding_x: 10
+        Label:
+            text: root.current_time
+            font_size: 30
+            pos_hint_x: 0.2
+            text_size: self.size
+            halign: "right"
+            valign: "middle"
+            padding_x: 10
+
+    BoxLayout:
+        orientation: "vertical"
+        spacing: 30
+        Label:
+            id: head_label
+            markup: True
+            text: ""
+            font_size: 50
+            halign: "center"
+            valign: "bottom"
+            text_size: self.size
+        FloatLayout:
+            id: voicemails_button_layout
+            Button:
+                id: voicemails_button
+                text: "Lire les messages"
+                font_size: 30
+                color: (217/255, 33/255, 33/255, 1,) if self.state == 'normal' else (1, 1, 1, 1,)
+                background_normal: ""
+                background_down: ""
+                background_disabled_normal: ""
+                background_disabled_down: ""
+                background_color: (1, 1, 1, 1,) if self.state == 'normal' else (254/255, 111/255, 94/255, 1,)
+                disabled: True
+                opacity: 0
+
+                size_hint: (0.5, 0.3)
+                pos_hint: {"top": 1, "center_x": 0.5}
+
+<VoicemailScreen1,VoicemailScreen2>:
+
+    play_button: play_button
+    voicemail_slider: voicemail_slider
+
+    canvas.before:
+        Color:
+            rgba: 217/255, 33/255, 33/255, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+    BoxLayout:
+        orientation: "vertical"
+        Label:
+            markup: True
+            text: root.label
+            font_size: 40
+            halign: "center"
+            valign: "middle"
+            line_height: 1.25
+            size_hint_y: 0.5
+        RelativeLayout:
+            size_hint_y: 0.25
+            Button:
+                id: play_button
+                font_name: str(FONTAWESOME_PATH)
+                text: root.state
+                color: (1, 1, 1, 1) if self.state == 'normal' else (254/255, 111/255, 94/255, 1,)
+                font_size: 80
+                size_hint: None, None
+                pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+                size: self.texture_size
+                line_height: 0
+                line_width: 0
+                background_normal: ''
+                background_down: ''
+                background_color: (0, 0, 0, 0,)
+
+        RelativeLayout:
+            size_hint_y: 0.25
+            VoicemailSlider:
+                id: voicemail_slider
+                min: 0
+                value: root.position
+                max: root.duration
+
+
+            Label:
+                text:
+                    "{:01d}:{:02d}".format(int(root.position // 60), int(root.position % 60)) \
+                    + " / {:01d}:{:02d}".format(int(root.duration // 60), int(root.duration % 60))
+                font_size: 24
+                color: 1,1,1,1
+                size_hint: None, None
+                pos_hint: {'center_x': 0.5, 'center_y': 0.75}
+                height: self.texture_size[1]
+
+<VoicemailSlider>:
+    size_hint: 0.8, 0.5
+    pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+    step: 0.01
+    orientation: "horizontal"
+    value_track: True
+    value_track_color: (254/255, 111/255, 94/255, 1,)
+    background_border: str(SLIDER_BORDER_PATH)
+    cursor_image: str(SLIDER_CURSOR_PATH)
+    cursor_size: 24, 24
+    sensitivity: "all"
+    padding: 2
+
+<VoicemailScreen1>:
+    name: "voicemail_screen_1"
+
+<VoicemailScreen2>:
+    name: "voicemail_screen_2"
