@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: LuaStakky
+Version: 0.1.0
+Summary: Full stack lua web framework
+Home-page: https://github.com/LuaStakky/LuaStakky
+Author: Artem3213212
+Author-email: artem@agteam.dev
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/LuaStakky/LuaStakky/issues
+Description: # LuaStakky
+        LuaStakky - full stack lua web framework
+        
+        ## What's under the hood?
+        + Docker (docker-compose)
+        + Openresty (Nginx with lua) with build-in modules:
+            * lua-cmsgpack
+            * etlua (lua-based template language)
+            * inspect
+            * lua-resty-http
+            * lua-resty-cookie
+        + Tarantool (DB) with 2 build modes:
+            * Trivial app (as classic 1 main lua file+ lua modules)
+            * Advanced app (custom build system with microservice architecture)
+        + fengari (js lua implementation) *WIP*
+        
+        ## Installation
+        
+        Install docker on your system before.
+        
+            pip3 install LuaStakky
+        
+        ## Some usefull examples
+        
+        * [Example-Management](https://github.com/LuaStakky/Example-Management) and [GUI for it](https://github.com/LuaStakky/Example-Management-DesktopGUI).
+          This example show advanced build system for tarantool.
+        
+        ## Official templates
+        
+        * [LuaStakkyStaticSimpleAppTemplate](https://github.com/LuaStakky/LuaStakkyStaticSimpleAppTemplate)
+        * [LuaStakkyStaticTemplate](https://github.com/LuaStakky/LuaStakkyStaticTemplate)
+        
+        ## License
+        [MIT](https://choosealicense.com/licenses/mit/)
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Other
+Classifier: Topic :: Internet :: WWW/HTTP :: Site Management
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Software Development :: Code Generators
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

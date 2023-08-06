@@ -1,0 +1,91 @@
+stakky_debug: false
+debug: false
+domain: '*'
+LuaConfig:
+  # write here all params passed Config lua module
+SMTP:
+  Email: ""
+  User: ""
+  Password: ""
+  Server: ""
+  Port: 465
+services:
+  Nginx:
+    simple_log: true
+    net:
+      http_port: 80
+      https_port: 443
+    worker_processes: 12
+    worker_connections: 8192
+    keepalive_timeout: 75
+    limit_rps:
+      /:
+        rps: 10
+        burst: 20
+        delay: nodelay
+        type: ip
+        mem: 10m
+      #/api/ResetPassword:
+      #  rps: 2
+      #  burst: 0
+      #  delay: 0
+      #default values
+        #rps: 10
+        #burst: 20
+        #delay: nodelay
+        #type: ip
+        #mem: 2m
+    security:
+      allow_http: true
+      allow_https: true
+      ssl_certificates_file: none
+      ssl_session_cache: 10
+      ssl_certs_repo: https://curl.haxx.se/ca/cacert.pem
+    modules:
+      from_luarocks:
+        - lua-cmsgpack
+        - etlua
+        - inspect
+        - lua-resty-http
+        - lua-resty-mail
+        - lua-resty-cookie
+        #- luaminify
+    # if "main: none" then web_data mounts as static
+    main: Main.lua
+    local_server: false # when true - create local http server to access from tarantool, it will be ignored when "main: none"
+    mount_points:
+      web_data: WebData
+      app: OpenRestyApp
+      modules:
+        - OpenRestyModules
+    cors:
+      enable: true
+      simple: # See https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#simple_requests
+        Allow-Origin: '*' # Use none to disable header sending
+        Expose-Headers: '*'
+      preflighted: # See https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#preflighted_requests
+        Allow-Origin: '*'
+        Expose-Headers: '*'
+        Allow-Methods: '*'
+        Allow-Headers: '*'
+        Max-Age: 1728000
+
+  Tarantool:
+    net:
+      iproto_port: 3301
+    #worker_processes: 12
+    #worker_connections: 8192
+    #keepalive_timeout: 75
+    #security:
+    #  ssl_certs_repo: https://curl.haxx.se/ca/cacert.pem
+    #  now unsupported
+    #modules:
+    #  from_luarocks:
+    #  now unsupported
+    apptype: advanced # trivial - simple lua app, advanced - app with stakky build system
+    main: manifest.yaml
+    mount_points:
+      app: TarantoolApp
+      modules:
+        - TarantoolModules
+    
