@@ -1,0 +1,11 @@
+musestudio/__init__.py,sha256=VBwU7gaFxW4DYpx2hHJHK6bIoeVZZ5pf23wn0wpshwY,258
+musestudio/convert_raw.py,sha256=8u0DmgyawM1ZSRDf6fNc4JoUgfg8_ug9I31UtvZht7Q,6894
+musestudio/export_bids_files.py,sha256=5y2a8lJeefCI9zk3_7lBNaIMV-MPkYn-PThWtayPoqw,6241
+musestudio/import_bids_files.py,sha256=wQehBdOuqVWxmlwLy6PHx08SQzg9xs2cn2sH5bZyCNw,1777
+musestudio/import_raw_files.py,sha256=2NXLg4QDWQPWZ8JNwf_KC19E4Z861Hiciqx6ugjZ5AQ,4240
+musestudio/view.py,sha256=i1C5UAnglTppPMRljVGbGbS6rimHtFjKDQzCG6Pncr4,7992
+musestudio-0.1.0.dist-info/LICENSE,sha256=gHTSYBBVwJp7ODeQtMOTUmMCu1foQM0fiPVwjLr-3t0,1069
+musestudio-0.1.0.dist-info/METADATA,sha256=pP0JPSaJx6Mb5gJNI9oA_EjU1XlVh0vq-rkFvZc_7I4,1223
+musestudio-0.1.0.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+musestudio-0.1.0.dist-info/top_level.txt,sha256=ivmZQG0hEGw-P9QlGX9ImCh6u5nKyCr2s-JRgBndDSY,11
+musestudio-0.1.0.dist-info/RECORD,,
