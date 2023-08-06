@@ -1,0 +1,10 @@
+pytest_aio/__init__.py,sha256=2eiWQI55fd-roDdkt4Hvl9WzrTJ4xQo33VzFud6D03U,22
+pytest_aio/plugin.py,sha256=HwxKYXD-5KKVekNfwNkgpDDaKGWa1pn83Yk6_U4YRBY,2679
+pytest_aio/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pytest_aio/runners.py,sha256=XFegynmNAQ84D1WEwC_9Ni_R6uQwE5aekSPgkN14rVY,3108
+pytest_aio/utils.py,sha256=83EhNQA78kkTpNhpsLqbjq2JO-RwkADmZFm0AFOJZok,127
+pytest_aio-0.4.0.dist-info/METADATA,sha256=YEMjYD1kANElHmVrOJkvHl7ZzEpXaYOwUhs40G4Is4E,4524
+pytest_aio-0.4.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pytest_aio-0.4.0.dist-info/entry_points.txt,sha256=cHc2WJQM5kD-qOSwcBXb0H7V04d0NOF0xUGV9X40kYk,36
+pytest_aio-0.4.0.dist-info/top_level.txt,sha256=S7xUq35llMfD9nm0Z31vOgCnwrJPuTaNMHytEVbU14w,11
+pytest_aio-0.4.0.dist-info/RECORD,,
