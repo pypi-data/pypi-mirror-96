@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "voicemailbox"
+version = "0.1.2"
+description = "Application for reading voice messages"
+license = "CeCILL-2.1"
+authors = ["Pierre Gobin <dev@pierregobin.fr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+kivy = "^2.0.0"
+python-dotenv = "^0.15.0"
+PyYAML = "^5.4.1"
+rpi-backlight = "^2.2.0"
+IMAPClient = "^2.2.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
+
