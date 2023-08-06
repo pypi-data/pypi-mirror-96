@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: api-2b2t
+Version: 1.0.4
+Summary: This is api for minecraft server 2b2t. Documentation: https://github.com/YegorKryukov404/api2b2t/wiki/DOCS
+Author: yer
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
