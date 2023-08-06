@@ -1,0 +1,12 @@
+numpy
+attrs
+
+[gs_placement]
+shapely
+fiona
+
+[ring_road]
+python-dateutil
+pyephem
+scipy
+requests
