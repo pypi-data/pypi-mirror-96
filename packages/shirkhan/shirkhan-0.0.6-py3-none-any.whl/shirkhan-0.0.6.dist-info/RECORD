@@ -1,0 +1,13 @@
+shirkhan/__init__.py,sha256=7ueLiSq8t6fCp9l_qlO4NjcIidvr5COamaosb_YXmkA,165
+shirkhan/encode_decode.py,sha256=IoK8i1Xmln6GokAECXVu2GtxGU7kWAeyBGTA9MZBAQY,1335
+shirkhan/file_handler.py,sha256=Eoa8mS8DfUoBfqs1yx835Nb6N9yEjTzemJwESXQuV3I,1438
+shirkhan/skhashlib.py,sha256=PtJnfc4sZU_HO5IalVC45Db0aIK6gspGWPV55FPvXuk,316
+shirkhan/string_tool.py,sha256=VLYmvmKtePwaO6rvSU1oEcR0nmZ2emKaNhpzLaUi8ag,713
+shirkhan/syllable/__init__.py,sha256=7c2socyHy-UbFFOml7h_Ptb3wEV5WBFCAzq-_dBN6Rs,1337
+shirkhan/syllable/alphabet.py,sha256=Ek7EfJXsg9kPb_VxFj5zsUqXmG9vIv5e9brT34fsCyw,1831
+shirkhan/syllable/sword.py,sha256=Q1Yy012rX1TORUK0ZamlzdcKgLK7d4ZQlZIR1780UeE,5484
+shirkhan-0.0.6.dist-info/LICENSE,sha256=C9SlOcHy6dFw3V5opvYUSkU4MrydFqDa6FxlbNtfGhY,1066
+shirkhan-0.0.6.dist-info/METADATA,sha256=hDbU_Rw2s5M4SJOrAZPyf2OOi7D3EyFLmTuKwhTVXHk,3551
+shirkhan-0.0.6.dist-info/WHEEL,sha256=gm79cMopkncyn0iSnI0vQNiDJ8t9on0H4_iz-CrpXMk,92
+shirkhan-0.0.6.dist-info/top_level.txt,sha256=RwAXFDqNOEhvUaEhscRRrvmM_Itx4NpLwfdNAszPBaA,9
+shirkhan-0.0.6.dist-info/RECORD,,
