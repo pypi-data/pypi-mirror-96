@@ -1,0 +1,4 @@
+
+    [console_scripts]
+    update_locale = pst.restapi.locales.update:update_locale
+    
