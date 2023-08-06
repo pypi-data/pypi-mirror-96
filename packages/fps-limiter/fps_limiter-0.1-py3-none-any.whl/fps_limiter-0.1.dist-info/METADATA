@@ -1,0 +1,13 @@
+Metadata-Version: 2.0
+Name: fps-limiter
+Version: 0.1
+Summary: Limit while loop at certain fps rate.
+Home-page: http://github.com/cartovarc/fps-limiter
+Author: Carlos Tovar
+Author-email: cartovarc@gmail.com
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+
+
