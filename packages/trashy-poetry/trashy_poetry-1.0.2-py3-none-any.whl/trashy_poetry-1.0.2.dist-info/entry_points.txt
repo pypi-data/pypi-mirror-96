@@ -1,0 +1,3 @@
+[console_scripts]
+prose=prose.cli:main
+
