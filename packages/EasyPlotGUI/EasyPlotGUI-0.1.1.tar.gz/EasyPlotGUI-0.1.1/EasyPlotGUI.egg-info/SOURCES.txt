@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+EasyPlotGUI/__init__.py
+EasyPlotGUI.egg-info/PKG-INFO
+EasyPlotGUI.egg-info/SOURCES.txt
+EasyPlotGUI.egg-info/dependency_links.txt
+EasyPlotGUI.egg-info/requires.txt
+EasyPlotGUI.egg-info/top_level.txt

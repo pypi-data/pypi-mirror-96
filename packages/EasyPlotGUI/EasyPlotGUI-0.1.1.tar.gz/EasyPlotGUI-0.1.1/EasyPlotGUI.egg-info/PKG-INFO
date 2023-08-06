@@ -1,0 +1,117 @@
+Metadata-Version: 2.1
+Name: EasyPlotGUI
+Version: 0.1.1
+Summary: Python library that makes it easy to have a Qt GUI with a matplotlib widget made in QtDesigner implemented on a script.
+Home-page: https://github.com/marcelrsoub/EasyPlotGUI
+Author: Marcel Soubkovsky
+Author-email: marcelclemente.msc@gmail.com
+License: GNU
+Project-URL: Bug Tracker, https://github.com/marcelrsoub/EasyPlotGUI/issues
+Description: # EasyPlotGUI
+         Python library that makes it easy to have a Qt GUI with a matplotlib widget made in QtDesigner implemented on a script.
+        
+         <!-- # Installation
+        
+         ```
+         pip install EasyPlotGUI
+         ``` -->
+        
+         # Easy implementation process
+         1. Clone `EasyPlotGUI` to your project's folder
+         2. Create GUI on QtDesigner based on `mpl_gui.ui`
+         3. Compile your ui to Python with `pyuic5 ./your_file.ui -o ./your_ui.py `
+         4. Import `EasyPlotGUI` as parent class (see example of usage)
+         5. Overwrite `update_graph()` with graph to be generated; and `update_interactivity()` with GUI elements interaction
+        
+         Check out the example on `./example.py`.
+        
+         ## QtDesigner
+         ### Installation with pip
+        QtDesigner is a Graphical tool for creating Guided User Interfaces that can either be downloaded with Qt Creator or with the library `pyqt5-tools`.
+        
+        Lightest and fastest way to get QtDesigner is to install `pyqt5-tools`. For this, execute:
+        
+        ```
+        pip install pyqt5-tools
+        ```
+        
+        After the installation, the `designer.exe` executable should be found in:
+        
+        ```
+        Python3X\Lib\site-packages\pyqt5_tools\Qt\bin\designer.exe
+        ```
+        
+        I suggest creating a shortcut for it, for easier execution or adding the folder to the path, so that it can be called as just `designer` from the terminal/shell.
+        
+        ### UI with Matplotlib Creation
+        
+        Use the `mpl_gui.ui` file on QtDesigner as a starting point for the GUI with Matplotlib integrated. Just keep in mind that the names of every object added to the User Interface are those you will have to call on the Python script.
+        
+        The only important thing in this .ui file is the MplWidget object. The MplWidget is the widget created to link matplotlib to Qt. Do not delete it.
+        
+        ## Example of Usage
+        
+        
+        ``` python
+        from easy_gui import EasyPlotGUI
+        import example_ui
+        import numpy as np
+        
+        class MyClass(EasyPlotGUI):
+            def __init__(self):
+                super().__init__(example_ui)
+                self.window_title = "My GUI Name"
+                self.icon_path = "logo.png"
+        
+                # initialize Graph variables for first plot
+                self.f = 1
+        
+            def update_interactivity(self):
+                self.ui.mySlider.valueChanged.connect(self.change_frequency)
+        
+            def change_frequency(self):
+                self.f = self.ui.mySlider.value()
+                self.update_graph()
+        
+            def update_graph(self):
+                x = np.linspace(0, 1)
+                y = np.sin(2*np.pi*self.f*x)
+        
+                self.ax.clear()
+                self.ax.plot(x, y, label="Sine")
+                self.ax.legend()
+                self.ax.set_title('Sine Wave')
+                self.draw()
+        
+            # calling it
+        if __name__ == "__main__":
+            my_gui=MyClass()
+            my_gui.show_gui()
+        
+        ```
+        ### Test Example
+        
+        ``` python
+        gui = EasyPlotGUI()
+        gui.window_title="Window Title"
+        gui.icon_path="./logo.png"
+        gui.show_gui()
+        ```
+        
+        ![Example output](./test_example.png "Example output")
+        
+Keywords: BPM,FDBPM,SIMULATION,LIGHT PROPAGATION,PHYSICS
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
