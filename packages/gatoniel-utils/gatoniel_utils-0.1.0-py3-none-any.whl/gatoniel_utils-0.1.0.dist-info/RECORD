@@ -1,0 +1,9 @@
+gatoniel_utils/__init__.py,sha256=iwhKnzeBJLKxpRVjvzwiRE63_zNpIBfaKLITauVph-0,24
+gatoniel_utils/example.py,sha256=q6--yJbn-ycOWAYNSOlvGdGWVJ8wUX_8o68j49gp4pE,298
+gatoniel_utils/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+gatoniel_utils/segmentation/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+gatoniel_utils/segmentation/colony.py,sha256=RxPkonvCxUBoX8BlMc1ENBvpfjvzS_oEcoLg2sjJNK8,3366
+gatoniel_utils-0.1.0.dist-info/LICENSE,sha256=oVtXkSqVJOsBBAynp8ol3OgOPX5HAASApWOmTcTdGGw,1096
+gatoniel_utils-0.1.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+gatoniel_utils-0.1.0.dist-info/METADATA,sha256=S3yUAf8y_k-S9w-jnY3qczQgNvuDOIW7KD02EdqkgTE,2443
+gatoniel_utils-0.1.0.dist-info/RECORD,,
