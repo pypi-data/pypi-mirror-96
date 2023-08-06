@@ -1,0 +1,3 @@
+[console_scripts]
+dingonyms = dingonyms:main
+

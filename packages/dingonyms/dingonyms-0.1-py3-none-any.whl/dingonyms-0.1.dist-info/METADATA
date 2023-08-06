@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: dingonyms
+Version: 0.1
+Summary: scrape synonyms from various web services
+Home-page: UNKNOWN
+License: BSDL
+Keywords: dictionary,synonyms,antonyms
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Topic :: Software Development :: Libraries :: Perl Modules
+Classifier: Topic :: Software Development :: Libraries :: Pike Modules
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Libraries :: Ruby Modules
+Classifier: Topic :: Text Editors :: Word Processors
+Requires-Python: >= 3.7
+Description-Content-Type: text/plain
+Requires-Dist: requests (>=2.1)
+
+
+CLI tool to extract synonyms/antonyms from online services, which formats
+them into dict structures (word|alt :: defintion; etc.) suitable for `ding`.
+
+It's fairly basic, and not all result sets are structured alike.
+Furthermore the extraction schemes aren't likely to last for long; web
+scraping is typically a maintenance task.
+Only scans for singular words (most services wouldn't return results
+otherwise). And might spit out error messages for charset issues as well.
+
+SYNTAX
+
+ dingonyms --thesaurus "Define"
+ dingonyms --merriamwebster "find"
+ dingonyms --openthesaurus "Wort"
+ dingonyms --urban "bazinga"
+
+CONFIG IN ~/.dingrc (take care to change `3` to available index)
+
+ set searchmeth(3,name) {Synonyms}
+ set searchmeth(3,type) {3}
+ set searchmeth(3,dictfile) {}
+ set searchmeth(3,separator) { :: }
+ set searchmeth(3,language1) {Group}
+ set searchmeth(3,language2) {Synonyms}
+ set searchmeth(3,grepcmd) {dingonyms}
+ set searchmeth(3,grepopts) {--thesaurus}
+ set searchmeth(3,maxlength) {30}
+ set searchmeth(3,maxresults) {200}
+ set searchmeth(3,minlength) {2}
+ set searchmeth(3,shapedresult) {1}
+ set searchmeth(3,foldedresult) {0}
+
+You might want to add one entry for each search backend even.
+(Unique index, title/name, and grepopts --parameter each.)
+
