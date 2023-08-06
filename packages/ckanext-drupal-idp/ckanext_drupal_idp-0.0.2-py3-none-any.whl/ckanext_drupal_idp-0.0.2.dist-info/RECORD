@@ -1,0 +1,15 @@
+ckanext_drupal_idp-0.0.2-py3.8-nspkg.pth,sha256=VaH--vNo0_vzXvZAeqyq-Bg6m47pBBRlxwvBj0KQxe0,544
+ckanext/drupal_idp/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ckanext/drupal_idp/plugin.py,sha256=nuhIbg4Ixyt5sq1rHCttLkWO-GYuqGYXx8Cydz81414,1426
+ckanext/drupal_idp/utils.py,sha256=s99KgS6SpxnBT_JOP9Az7Qntd7zg1JWN7S6db3s3AXk,6055
+ckanext/drupal_idp/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ckanext/drupal_idp/tests/conftest.py,sha256=LcbxTx4of_srzB03JitXOkyauoTfWzymzbVaav4fWcw,558
+ckanext/drupal_idp/tests/test_plugin.py,sha256=iFBw45T409mJnSG_cEddhSlP-xcszaL8B8aCATyC5ow,1261
+ckanext/drupal_idp/tests/test_utils.py,sha256=p-YtM8XO4uV67TrA-wyEOGpRbDG2AmyxNWvCmgZl-8c,4008
+ckanext_drupal_idp-0.0.2.dist-info/LICENSE,sha256=2lWcRAHjsQhqavGNnR30Ymxq3GJ9BaYL_dnfGO_-WFA,34500
+ckanext_drupal_idp-0.0.2.dist-info/METADATA,sha256=AsNkiIR6s4O5EiGLQ8nWN4MB2Lgub6yxsZ6zYkGIWj8,2530
+ckanext_drupal_idp-0.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+ckanext_drupal_idp-0.0.2.dist-info/entry_points.txt,sha256=7stMrve221N483eacFMiktoxXux38Qd2pZAhmBwnnjw,162
+ckanext_drupal_idp-0.0.2.dist-info/namespace_packages.txt,sha256=5yjNwq-s42weaiMMUuA5lZ45g99ANsfcRBCvac1JMS4,8
+ckanext_drupal_idp-0.0.2.dist-info/top_level.txt,sha256=5yjNwq-s42weaiMMUuA5lZ45g99ANsfcRBCvac1JMS4,8
+ckanext_drupal_idp-0.0.2.dist-info/RECORD,,
