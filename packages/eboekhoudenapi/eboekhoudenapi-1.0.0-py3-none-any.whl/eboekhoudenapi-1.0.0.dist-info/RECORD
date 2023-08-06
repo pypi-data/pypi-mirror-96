@@ -1,0 +1,11 @@
+eboekhoudenapi/__init__.py,sha256=FOdOIa2RXBGo5C01dDwDv408DE7mlkQgB9abAsjiziQ,112
+eboekhoudenapi/client.py,sha256=-GGKGhugqY43QPsjpVdpqN1nXh7rvafOOTwXRMVoCEg,1052
+eboekhoudenapi/models/__init__.py,sha256=5T2VejZY-iNUFRtl6P7SyJWTPTOfg9UwFdUPg1ELol4,126
+eboekhoudenapi/models/mutatie.py,sha256=wvq6jX-8geaWXldZc35C09Npt7o7AkjwD2RkWNvVeDo,1354
+eboekhoudenapi/models/mutatie_regel.py,sha256=A1vBog_AiiiMR1PNdihNt5UEibVO6mtiixNNgIscOIw,933
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_client.py,sha256=DLEXdEehL98ZjSuERYjOadRcVVws5wtv-KNUJ5mFSuU,1733
+eboekhoudenapi-1.0.0.dist-info/METADATA,sha256=gNYc9NTtqzQBepZAYT1rq6CfnxY1Q2s8eayp86pWBrQ,353
+eboekhoudenapi-1.0.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+eboekhoudenapi-1.0.0.dist-info/top_level.txt,sha256=2ceJBnp-nj6ti8My2NcSjfM2pwgLQlYr7cAPVWejzao,21
+eboekhoudenapi-1.0.0.dist-info/RECORD,,
