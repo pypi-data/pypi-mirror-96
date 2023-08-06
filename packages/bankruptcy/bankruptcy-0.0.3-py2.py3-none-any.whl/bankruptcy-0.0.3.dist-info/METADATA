@@ -1,0 +1,174 @@
+Metadata-Version: 2.1
+Name: bankruptcy
+Version: 0.0.3
+Summary: A bankruptcy document parser.
+Home-page: https://github.com/freelawproject/bankruptcy-parser
+Author: Free Law Project
+Author-email: info@free.law
+Maintainer: Free Law Project
+Maintainer-email: info@free.law
+License: BSD
+Keywords: legal,document,bankruptcy,PDF,form
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: appdirs (==1.4.4)
+Requires-Dist: astroid (==2.4.2)
+Requires-Dist: attrs (==20.3.0)
+Requires-Dist: chardet (==4.0.0)
+Requires-Dist: click (==7.1.2)
+Requires-Dist: flake8 (==3.8.4)
+Requires-Dist: iniconfig (==1.1.1)
+Requires-Dist: isort (==5.6.4)
+Requires-Dist: Jinja2 (==2.11.2)
+Requires-Dist: lazy-object-proxy (==1.4.3)
+Requires-Dist: MarkupSafe (==1.1.1)
+Requires-Dist: mccabe (==0.6.1)
+Requires-Dist: mypy (==0.790)
+Requires-Dist: mypy-extensions (==0.4.3)
+Requires-Dist: packaging (==20.9)
+Requires-Dist: pathspec (==0.8.1)
+Requires-Dist: pdfminer.six (==20200517)
+Requires-Dist: pdfplumber (==0.5.26)
+Requires-Dist: Pillow (==8.1.0)
+Requires-Dist: pip (==21.0.1)
+Requires-Dist: pluggy (==0.13.1)
+Requires-Dist: py (==1.10.0)
+Requires-Dist: pycodestyle (==2.6.0)
+Requires-Dist: pycryptodome (==3.10.1)
+Requires-Dist: pyflakes (==2.2.0)
+Requires-Dist: pylint (==2.6.0)
+Requires-Dist: pylint-json2html (==0.2.0)
+Requires-Dist: pyparsing (==2.4.7)
+Requires-Dist: PyPDF2 (==1.26.0)
+Requires-Dist: pytest (==6.2.2)
+Requires-Dist: regex (==2020.11.13)
+Requires-Dist: setuptools (==53.0.0)
+Requires-Dist: six (==1.15.0)
+Requires-Dist: sortedcontainers (==2.3.0)
+Requires-Dist: toml (==0.10.2)
+Requires-Dist: typed-ast (==1.4.1)
+Requires-Dist: typing-extensions (==3.7.4.3)
+Requires-Dist: Wand (==0.6.5)
+Requires-Dist: wrapt (==1.12.1)
+
+Bankruptcy
+==========
+
+A bankruptcy document parser.
+
+Notes
+==========
+
+Bankruptcy is an open source repository to extract content from bankruptcy documents
+It was built for use with Courtlistener.com.
+
+Its main goal is to convert bankruptcy documents into readable JSON data.
+
+Further development is intended and all contributors, corrections and additions are welcome.
+
+Background
+==========
+
+Free Law Project built this ...  This project represents ...
+We believe to be the ....
+
+Documents
+=========
+
+We currently support the following documents in a voluntary petition.
+
+- Bankruptcy Official Form 106 A/B (Property)
+- Bankruptcy Official Form 106 D (Secured Creditors)
+- Bankruptcy Official Form 106 E/F (Unsecured Creditors)
+- Bankruptcy Official Form 106Sum (Statistics)
+
+TODOs
+=====
+
+- B 101 (Official Form 101)
+- B2030 (Form 2030) (12/15)
+- 521.05 (12/1/08)
+- Official Form 106C
+- Official Form 106G
+- Official Form 106H
+- Official Form 106I
+- Official Form 106J
+- Official Form 106Dec
+- Official Form 107
+
+
+Quickstart
+==========
+
+You can feed in a X as ... .. ...
+
+::
+
+    IMPORTS
+
+
+    CALL EXAMPLE
+
+    returns:
+      ""EXAMPLE OUTPUT
+
+
+
+Some Notes
+==========
+
+This tool relies heavily on PDFPlumber.
+
+Somethings to keep in mind this parser has been tested only on digital PDFs
+from recent court filings (ie 2018 and earlier).
+
+
+Installation
+===============
+
+Installing bankruptcy is easy.
+
+::
+
+    pip install bankruptcy
+
+
+
+Or install the latest dev version from github
+
+::
+
+    pip install git+https://github.com/freelawproject/bankruptcy.git@master
+
+
+Future
+==========
+
+1) Continue to improve and add documents for extraction.
+2) Future updates
+
+Deployment
+==========
+
+Tag a release with a similar format v1.0.0, update setup.py and push to master.
+
+License
+==========
+
+This repository is available under the permissive BSD license, making it easy and safe to incorporate in your own libraries.
+
+Pull and feature requests welcome. Online editing in GitHub is possible (and easy!)
+
+
