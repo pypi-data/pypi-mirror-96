@@ -1,0 +1,9 @@
+clover/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+clover/api.py,sha256=wLxnDwowxEz20S2BNDyrBlv4OMM3gmrfL4E8g_5BBi4,3796
+clover/middleware.py,sha256=pKQSL1NHhYZ0s0vpJtnMvPuXt76zYGB6ArbCVnsYBnU,698
+clover/orm.py,sha256=hQrQwedxeofU7lRVC-Wr-AWkVOD2OJP258BH32Hfomg,6184
+clover/response.py,sha256=9ZQ97MLHp4Swxu3y3lw8YzvRd7iMuLvwEb2qsl0WIGc,977
+clovepy-0.0.4.dist-info/METADATA,sha256=qIC23cn6qL9wy_hmP_MTGa5Rv9BMJ6vLaYmhC7aWB38,4061
+clovepy-0.0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+clovepy-0.0.4.dist-info/top_level.txt,sha256=QMpanbW3FyyjPDduhU99zdg8jdUDvO0jSodp27KUYGM,7
+clovepy-0.0.4.dist-info/RECORD,,
