@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+person/__init__.py
+person/descriptor.py
+person/main.py
+person_age.egg-info/PKG-INFO
+person_age.egg-info/SOURCES.txt
+person_age.egg-info/dependency_links.txt
+person_age.egg-info/top_level.txt
+tests/__init__.py
+tests/test_descriptor.py

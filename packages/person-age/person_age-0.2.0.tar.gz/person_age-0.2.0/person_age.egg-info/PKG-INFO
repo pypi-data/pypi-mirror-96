@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: person-age
+Version: 0.2.0
+Summary: Our super useful library
+Home-page: UNKNOWN
+Author: Łukasz Tkaczyk
+Author-email: lukasztkaczyk@hotmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
