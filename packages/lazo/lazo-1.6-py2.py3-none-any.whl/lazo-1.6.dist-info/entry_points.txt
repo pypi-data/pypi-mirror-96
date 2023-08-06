@@ -1,0 +1,3 @@
+[console_scripts]
+my-cli=lazo.__cli__:cli
+
