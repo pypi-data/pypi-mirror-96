@@ -1,0 +1,10 @@
+numpy
+sympy
+numbers
+fractions
+mpmath
+warnings
+copy
+math
+collections
+functools
