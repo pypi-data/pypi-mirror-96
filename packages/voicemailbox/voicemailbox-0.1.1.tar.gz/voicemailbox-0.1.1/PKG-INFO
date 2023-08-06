@@ -1,0 +1,185 @@
+Metadata-Version: 2.1
+Name: voicemailbox
+Version: 0.1.1
+Summary: Application for reading voice messages
+License: CECILL-2.1
+Author: Pierre Gobin
+Author-email: dev@pierregobin.fr
+Requires-Python: >=3.6,<4.0
+Classifier: License :: OSI Approved :: CEA CNRS Inria Logiciel Libre License, version 2.1 (CeCILL-2.1)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: IMAPClient (>=2.2.0,<3.0.0)
+Requires-Dist: PyYAML (>=5.4.1,<6.0.0)
+Requires-Dist: kivy (>=2.0.0,<3.0.0)
+Requires-Dist: python-dotenv (>=0.15.0,<0.16.0)
+Requires-Dist: rpi-backlight (>=2.2.0,<3.0.0)
+Description-Content-Type: text/markdown
+
+# VoicemailBox
+
+VoicemailBox is an application for reading voice messages. Its graphical interface is based on the Kivy framework.
+
+Created to run on a Raspberry Pi with a touch screen, it should work on any GNU/Linux system.
+
+## Installation - General case
+
+VoicemailBox can be installed with pip :
+```bash
+pip install voicemailbox
+```
+
+## Installation - Raspberry Pi
+
+The app has been tested on a Raspberry Pi 3, running Raspberry Pi OS Lite 
+(Buster release), and the following hardware :
+- official Raspberry Pi touchscreen ;
+- OneNiceDesign touchscreen case ;  
+- adafruit speaker bonnet ;
+- adafruit stereo enclosed speaker set.
+
+On this system, some packages have to be installed first 
+([Source](https://kivy.org/doc/stable/installation/installation-rpi.html)) :
+```bash
+apt install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev \ 
+libsdl2-ttf-dev pkg-config libgl1-mesa-dev libgles2-mesa-dev \
+python3-setuptools libgstreamer1.0-dev \
+gstreamer1.0-plugins-{bad,base,good,ugly} \
+gstreamer1.0-{omx,alsa} python3-dev libmtdev-dev \ 
+xclip xsel libjpeg-dev gstreamer1.0-tools
+```
+
+Then, Kivy and VoicemailBox can be installed 
+(virtual environment recommended) :
+```bash
+pip install --upgrade pip setuptools Cython
+pip install kivy[base,media] --no-binary kivy
+pip install voicemailbox
+```
+
+### Additionnal configuration
+
+- create `ssh` file in `/boot` to enable ssh
+
+
+- edit  `/boot/config.txt` :
+	- touchscreen rotation : add `lcd_rotate=2`	
+	- GPU's memory set to 256 Mb : add `gpu_mem=256`
+	- adafruit speaker bonnet :
+		- add `dtoverlay=hifiberry-dac`
+		- add `dtoverlay=i2s-mmap`
+		- comment `dtparam=audio=on`
+	
+
+- for speaker bonnet support, create `/etc/asound.conf` with the following content :
+	```text
+	pcm.speakerbonnet {
+	   type hw card 0
+	}
+
+	pcm.dmixer {
+	   type dmix
+	   ipc_key 1024
+	   ipc_perm 0666
+	   slave {
+	     pcm "speakerbonnet"
+	     period_time 0
+	     period_size 1024
+	     buffer_size 8192
+	     rate 44100
+	     channels 2
+	   }
+	}
+
+	ctl.dmixer {
+	    type hw card 0
+	}
+
+	pcm.softvol {
+	    type softvol
+	    slave.pcm "dmixer"
+	    control.name "PCM"
+	    control.card 0
+	}
+
+	ctl.softvol {
+	    type hw card 0
+	}
+
+	pcm.!default {
+	    type             plug
+	    slave.pcm       "softvol"
+	}	   
+	```
+
+
+- Wi-Fi : create wpa_supplicant.conf file in `/boot` with following content 
+  ([Source](https://www.raspberrypi.org/documentation/configuration/wireless/headless.md)) :
+	```text
+	ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+	update_config=1
+	country=<Insert 2 letter ISO 3166-1 country code here>
+	
+	network={
+	 ssid="<Name of your wireless LAN>"
+	 psk="<Password for your wireless LAN>"
+	}
+	```
+
+
+- to use kivy with Raspberry Pi touchscreen, modify `~/.kivy.config.ini`, 
+  add under `[input]` section :
+	```text
+	mouse = mouse
+	mtdev_%(name)s = probesysfs,provider=mtdev
+	hid_%(name)s = probesysfs,provider=hidinput
+	```
+
+
+- add udev rule to use `rpi-backlight` without root access :
+	```bash
+	$ echo 'SUBSYSTEM=="backlight",RUN+="/bin/chmod 666 /sys/class/backlight/%k/brightness /sys/class/backlight/%k/bl_power"' | sudo tee -a /etc/udev/rules.d/backlight-permissions.rules
+	```
+
+
+- create systemd service : create `/etc/system/systemd/repondeur.service` 
+  with the follonwing content :
+	```text
+	[Unit]
+	Description=repondeur
+	After=multi-user.target
+	
+	[Service]
+	Type=idle
+	Environment=KIVY_AUDIO=ffpyplayer
+	ExecStart=/home/pi/repondeur/env/bin/python -m repondeur
+	WorkingDirectory=/home/pi/repondeur
+	User=pi
+	
+	[Install]
+	WantedBy=multi-user.target
+	```
+
+
+- use `ram2log` :
+	- install :
+		```bash
+		echo "deb http://packages.azlux.fr/debian/ buster main" | sudo tee /etc/apt/sources.list.d/azlux.list
+		wget -qO - https://azlux.fr/repo.gpg.key | sudo apt-key add -
+		apt update
+		apt install log2ram
+		```
+	- modify frequency : run `systemctl edit log2ram-daily.timer` and add :
+		```text
+		[Timer]
+		OnCalendar=weekly
+		```
+
+## License
+
+VoicemailBox is placed under 
+[CeCILL license](http://cecill.info/licences/Licence_CeCILL_V2.1-en.html) 
+(version 2.1).
