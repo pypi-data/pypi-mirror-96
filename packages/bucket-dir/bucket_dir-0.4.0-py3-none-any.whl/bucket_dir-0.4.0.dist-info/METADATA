@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: bucket-dir
+Version: 0.4.0
+Summary: Generate directory listings for S3 statically hosted content.
+License: Apache 2.0
+Author: Dave Randall
+Author-email: 19395688+daveygit2050@users.noreply.github.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: Jinja2 (>=2.11.3,<3.0.0)
+Requires-Dist: boto3 (>=1.17.11,<2.0.0)
+Requires-Dist: humanize (>=3.2.0,<4.0.0)
+Requires-Dist: rich (>=9.11.0,<10.0.0)
