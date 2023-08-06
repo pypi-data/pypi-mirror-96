@@ -1,0 +1,12 @@
+pwptemp/__init__.py,sha256=0p_VgH61QD5EjpdDNKRp_mUs1N_TyFkpHD2VUzrFBhU,86
+pwptemp/heat_coefficients.py,sha256=riPC1RooCGIibiZ6D_9ItJFvjv0ncEG8fZ6zBylUKgc,3949
+pwptemp/inputs.py,sha256=OZRB3dALYcIiSwVbSwluzyIqwTBjUb9Xg9j2jE0RLzU,3959
+pwptemp/linearsystem.py,sha256=YIM8w9QklfTaAhSFi6b7mNv80ZZSm7xyzmSfcUMM1po,10276
+pwptemp/main.py,sha256=3DZcCNeMsLOx_GpTQ03HujMJa-pV2nivZDw26HIJkkY,14291
+pwptemp/plot.py,sha256=Y7awfrIh4ovsOA-SfOm5jHbV6WGG1mHAi4kmQVnbdMI,6066
+pwptemp/well_system.py,sha256=KKLaQT6dNrigxq7wkZu42GcNGwbJU7Dt-tTFQyBxYgQ,16839
+pwptemp-0.3.6b3.dist-info/LICENSE.md,sha256=46mU2C5kSwOnkqkw9XQAJlhBL2JAf1_uCD8lVcXyMRg,7652
+pwptemp-0.3.6b3.dist-info/METADATA,sha256=OWbF18UXvCiSUdrVnZ_MMyQ-EKNSGDmF75Srj0kUH50,3914
+pwptemp-0.3.6b3.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+pwptemp-0.3.6b3.dist-info/top_level.txt,sha256=PWtqi3TfU3mGi9rZ3Gc0oI1KPPZQdQVErQ-MEORv5tE,8
+pwptemp-0.3.6b3.dist-info/RECORD,,
