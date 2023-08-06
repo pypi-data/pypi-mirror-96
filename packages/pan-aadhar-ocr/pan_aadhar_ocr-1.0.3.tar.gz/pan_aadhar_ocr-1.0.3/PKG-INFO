@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pan_aadhar_ocr
+Version: 1.0.3
+Summary: Extract information from the pan and aadhar card image
+Home-page: https://github.com/sanket-eazr/Pan-Aadhaar-OCR-With-API
+Author: Sanket Gadge
+Author-email: gadgesanket75@gmail.com
+License: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Download-URL: https://github.com/sanket-eazr/Pan-Aadhaar-OCR-With-API.git
+Description: # Pan Aadhar OCR
+        
+        ### This package extracts infortmation from the pan card as well as adhar card images.
+        
+        
+Keywords: ocr optical character recognition deep learning neural network
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
