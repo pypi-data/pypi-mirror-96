@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+curr_get_exchange/__init__.py
+curr_get_exchange/get_exchange.py
+curr_get_exchange.egg-info/PKG-INFO
+curr_get_exchange.egg-info/SOURCES.txt
+curr_get_exchange.egg-info/dependency_links.txt
+curr_get_exchange.egg-info/top_level.txt
