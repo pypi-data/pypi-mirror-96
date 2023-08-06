@@ -1,0 +1,4 @@
+lxml
+pysaml2
+xmlschema
+requestspyXMLSecurity
