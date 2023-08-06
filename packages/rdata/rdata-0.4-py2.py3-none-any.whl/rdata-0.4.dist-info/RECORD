@@ -1,0 +1,13 @@
+rdata/__init__.py,sha256=r2_6bhz64n_f4GkzxmtwxT9VGoAvA7t31yZsGcsXxAU,268
+rdata/py.typed,sha256=i0ytqQg05OPbalhC_2IzA_nOUvQN77VMmc4POJKozyI,64
+rdata/conversion/__init__.py,sha256=_BStZ-PFckqFvJycunyosmqq-rWJdzHlDTis55cNkTY,437
+rdata/conversion/_conversion.py,sha256=dorxuKJzX1fIge2hI8Ovhy3SiUyfHdRu9zZy_u0Dcog,20159
+rdata/parser/__init__.py,sha256=F280MGercdIlk7HO8nkR6gH6U21XKy2HjtJSzH3OgII,121
+rdata/parser/_parser.py,sha256=7-rjNy3uSWtVbZOAKUUVh3l0ZfeVSR-S9Y-Ycqiasw8,24233
+rdata/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+rdata/tests/test_rdata.py,sha256=vJ8c5TtrA9olx3LXM0RrAeSquD_3Ce3P1z0RBPQ6Z-Y,7060
+rdata-0.4.dist-info/LICENSE,sha256=YUifNYEug5BJR2ekDj_XqNLmIEi8FfTldeDT0N0NBoA,1078
+rdata-0.4.dist-info/METADATA,sha256=VFXRCPiU34Ng84DS10Toc06vCxgmrxVRxbFuo4byh7k,1117
+rdata-0.4.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+rdata-0.4.dist-info/top_level.txt,sha256=zqfEaYdq9S8sZKU16W4vYpdZQMcI748KUuDkDVBeEqo,6
+rdata-0.4.dist-info/RECORD,,
