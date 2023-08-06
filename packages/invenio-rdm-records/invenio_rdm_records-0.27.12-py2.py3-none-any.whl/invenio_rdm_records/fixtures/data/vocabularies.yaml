@@ -1,0 +1,6 @@
+languages:
+  pid-type: lng
+  data-file: vocabularies/languages.yaml
+licenses:
+  pid-type: lic
+  data-file: vocabularies/licenses.csv
