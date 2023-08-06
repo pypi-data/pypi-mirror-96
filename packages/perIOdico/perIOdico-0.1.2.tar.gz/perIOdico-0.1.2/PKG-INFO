@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: perIOdico
+Version: 0.1.2
+Summary: Download the first page of a newspaper given a date
+Home-page: https://github.com/jtl125/perIOdico
+Author: Arzdou
+Author-email: arzdou@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/jtl125/perIOdico/issues
+Description: <img src="https://github.com/jtl125/perIOdico/blob/master/main_logo.png" width="400" align="right">
+        
+        # perIOdico
+        Small program that obtains the front page of El Pais for a given date
+        
+        ## Installation and use
+        
+        To install just type in the terminal:
+        
+        ```
+        pip install perIOdico
+        ```
+        
+        and simply use the command `perIOdico` in a terminal to run it.
+        
+        ## Future development
+        
+        - Add a variety of newspapers as well as a country / region detection
+        - Create a twiter bot
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
