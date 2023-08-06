@@ -1,0 +1,15 @@
+lyncs_setuptools
+gitpython
+cmake
+numpy
+lyncs-setuptools
+
+[all]
+ipython
+pytest-cov
+pytest
+
+[test]
+pytest
+pytest-cov
+ipython
