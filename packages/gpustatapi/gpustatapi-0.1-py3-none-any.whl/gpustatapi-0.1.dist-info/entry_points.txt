@@ -1,0 +1,3 @@
+[console_scripts]
+gpustatapi = gpustatapi:main
+

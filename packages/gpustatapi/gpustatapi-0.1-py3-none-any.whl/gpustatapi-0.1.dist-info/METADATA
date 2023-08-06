@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: gpustatapi
+Version: 0.1
+Summary: Simple API Wrapper for gpustat
+Home-page: https://github.com/yueyericardo/gpustatapi
+Author: Richard Xue
+Author-email: yueyericardo@gmail.com
+License: Apache License 2.0
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: gpustat
+
+# gpustatapi
+
+Simple API Wrapper for [wookayin/gpustat](https://github.com/wookayin/gpustat)
+
+### 1. Install
+```bash
+pip install gpustatapi
+```
+
+### 2. Usage
+```bash
+gpustatapi &
+# or
+gpustatapi -p 8111 &
+```
+
+
