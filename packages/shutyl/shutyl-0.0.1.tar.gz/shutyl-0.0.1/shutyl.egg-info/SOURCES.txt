@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+shutyl.egg-info/PKG-INFO
+shutyl.egg-info/SOURCES.txt
+shutyl.egg-info/dependency_links.txt
+shutyl.egg-info/top_level.txt
