@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.py
+muzak2yt.egg-info/PKG-INFO
+muzak2yt.egg-info/SOURCES.txt
+muzak2yt.egg-info/dependency_links.txt
+muzak2yt.egg-info/top_level.txt
