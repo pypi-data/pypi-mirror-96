@@ -1,0 +1,15 @@
+decidim/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+decidim/electionguard/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+decidim/electionguard/bulletin_board.py,sha256=rn05WqytGTGRA75B2BfDhlDU6lPrdqEp9au0N0GYprc,8609
+decidim/electionguard/common.py,sha256=SbdCmOenTM7zHFNfaO6nx1nmkCG9eaeen7grlNM79Zs,4015
+decidim/electionguard/dummy_scheduler.py,sha256=5WTqfc-jgWTGy0L3XUEnZ0KujnDtJahzERGxlBnveKw,399
+decidim/electionguard/messages.py,sha256=M0gKDhh8WSZA8oxYs5SDmd6OY32qtiDK4JhulbNgbh0,908
+decidim/electionguard/serializable.py,sha256=v1ItP1iAW3XVdCno1O2kBsM4rLhhhJ29zxyto9807ic,2817
+decidim/electionguard/trustee.py,sha256=969clfgJXfk83hGIS7i6pSbzTqdUtY6F4Q-g1g7kKvI,9731
+decidim/electionguard/utils.py,sha256=mToleaNsJRS9BCqW1h7rBbMe_yji2AgWaOwJlo4rDjA,2350
+decidim/electionguard/voter.py,sha256=JPt9YrNkAoyAhu3-wpkRMc6JLQokHBwTb0MftOgICfA,3174
+bulletin_board_election_guard-0.1.0.dist-info/LICENSE,sha256=hIahDEOTzuHCU5J2nd07LWwkLW7Hko4UFO__ffsvB-8,34523
+bulletin_board_election_guard-0.1.0.dist-info/METADATA,sha256=z7xb_Y-Px31xZgHszao_CzCXd0xaz0IJZVlH5VQY_ao,407
+bulletin_board_election_guard-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+bulletin_board_election_guard-0.1.0.dist-info/top_level.txt,sha256=CTUa557-t9atvmAyR-Q0orUXbU5RAsny_Nmq-__jTno,8
+bulletin_board_election_guard-0.1.0.dist-info/RECORD,,
