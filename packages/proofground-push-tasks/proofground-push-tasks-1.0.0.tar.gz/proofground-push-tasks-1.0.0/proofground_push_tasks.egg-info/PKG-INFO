@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: proofground-push-tasks
+Version: 1.0.0
+Summary: Proof ground push tasks tool
+Home-page: https://github.com/wimmers/push-tasks
+Author: Simon Wimmer
+Author-email: wimmers@in.tum.de
+Maintainer: Fabian Huch
+Maintainer-email: huch@in.tum.de
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
