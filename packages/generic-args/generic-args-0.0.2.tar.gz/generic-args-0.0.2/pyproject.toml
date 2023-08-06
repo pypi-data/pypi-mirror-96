@@ -1,0 +1,77 @@
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poetry]
+name = "generic-args"
+description = "Given an instantiated generic class, retrieve the type arguments of itself or its parents."
+version = "0.0.2"
+license = "MIT"
+
+authors = []
+
+readme = "README.md"
+
+repository = "https://github.com/python-platonic/generic-args"
+
+keywords = []
+
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "Operating System :: OS Independent",
+  "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+[tool.poetry.dependencies]
+python = ">=3.7,<3.10"
+documented = "^0.1.1"
+
+# We only need this on Python < 3.8, but we have to install it anyway because
+# otherwise we can't get mypy to run normally. Perhaps we need to optimize that.
+typing_inspect = "^0.6.0"
+
+[tool.poetry.dev-dependencies]
+
+wemake-python-styleguide = "^0.15"
+flake8-pytest-style = "^1.3"
+
+safety = "^1.10"
+
+pytest = "^6.2"
+pytest-cov = "^2.11"
+pytest-randomly = "^3.5"
+
+m2r2 = "^0.2"
+tomlkit = "^0.7"
+mister-jeeves = "^0.0.3"
+
+[tool.flakehell]
+base = "https://raw.githubusercontent.com/Recall-Masters/standards/main/pyproject.toml"
+
+[tool.flakehell.exceptions."generic_args/get_args.py"]
+# In this file we import a function from two different places depending on
+# Python version.
+wemake-python-styleguide = [
+  # Found block variables overlap: {0}
+  "-WPS440",
+
+  # Found nested import
+  "-WPS433",
+]
+
+pyflakes = [
+  # %r imported but unused
+  "-F401",
+]
+
+
+[tool.flakehell.exceptions."tests/*.py"]
+wemake-python-styleguide = [
+  # Found approximate constant: 3.1415
+  "-WPS446",
+
+  # We describe test cases as lists
+  "-WPS407",
+]
