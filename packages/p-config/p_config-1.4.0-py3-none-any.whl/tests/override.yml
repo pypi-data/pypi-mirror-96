@@ -1,0 +1,14 @@
+server:
+  port: 8080
+dbs:
+  postgresql:
+    hostname: online.com
+    username: root
+  mysql:
+    hostname: online.com
+    port: 3308
+    options:
+      charset: utf8
+      timeout: 1000
+nodes:
+  node1: 127.0.0.1

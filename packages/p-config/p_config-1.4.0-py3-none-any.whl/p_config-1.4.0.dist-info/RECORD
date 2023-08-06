@@ -1,0 +1,14 @@
+p_config/__init__.py,sha256=Brt85fPeK4_CNgsDwVTDmeifdbhbHVwexmj8aAxdmFM,199
+p_config/converter.py,sha256=zZCBFYGCPVCgtkB3YWijrJCtr6aYtP9Vk52Mau0wTkU,986
+p_config/core.py,sha256=fPS6GJRUN4gnvodYYHWys0OhGmXXJEVc6eMBstsao-s,3725
+p_config/utils.py,sha256=hWdN43rRj4yHOymaeACFnnt-BsyFvh9W-ZeJYo98tzw,542
+tests/__init__.py,sha256=DF5Mh-ckd75n2MzIuGb77x1KdYLeTP-TtcUFgW-Gkwo,38
+tests/default.yml,sha256=IQL1yaC_0c9ZqGIr61oms_ScAM3i1E8BRw3mmuo4Uvo,191
+tests/override.yml,sha256=n7AY_fRFM8nm0xs8ZBgIkQGKi1tAtAOIZSR4LhFBHD4,212
+tests/test_p_config.py,sha256=qDB9X-AXt0slE08glZeSHoelB71pHKRyFd4r7sVRuns,3265
+p_config-1.4.0.dist-info/AUTHORS.rst,sha256=cerKJgVOAxFCCvWETP2BpfeC3fajxQMCzEWqW6sPtWc,157
+p_config-1.4.0.dist-info/LICENSE,sha256=mMX6o6trGvuu9Hbnel5Kpg0Dk4xguUzRkXcB2J9uRmk,1502
+p_config-1.4.0.dist-info/METADATA,sha256=w0qpEWmlTNLtm5WoLJyGj8T-YFPYZqtJCtBM-SU8fMc,2750
+p_config-1.4.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+p_config-1.4.0.dist-info/top_level.txt,sha256=Ir09x3RBHBpnUOV6H5jeyiUbPR3a9-6YBvMrtvk0Pu8,15
+p_config-1.4.0.dist-info/RECORD,,
