@@ -1,0 +1,3 @@
+[console_scripts]
+ci-analysis = cia.cia:main
+
