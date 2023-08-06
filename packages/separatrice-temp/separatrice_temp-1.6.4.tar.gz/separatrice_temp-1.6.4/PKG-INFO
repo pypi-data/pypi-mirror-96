@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: separatrice_temp
+Version: 1.6.4
+Summary: Separatrice is able to split a text into sentences and a sentence into clauses (russian). See docs: github.com/constantin50/separatrice/
+Home-page: https://github.com/constantin50/separatrice
+Author: Constantin Werner
+Author-email: const.werner@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: tokenizer,segmentation,NLP,russian,clauses
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
