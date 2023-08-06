@@ -1,0 +1,9 @@
+README.md
+setup.py
+RandomPhone.egg-info/PKG-INFO
+RandomPhone.egg-info/SOURCES.txt
+RandomPhone.egg-info/dependency_links.txt
+RandomPhone.egg-info/requires.txt
+RandomPhone.egg-info/top_level.txt
+random_phone/RandomUkPhone.py
+random_phone/__init__.py
