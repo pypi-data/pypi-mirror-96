@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: sbom
+Version: 0.0.2
+Summary: Tree shaking for the minimal viable SBOM.
+Home-page: https://github.com/sthagen/python-sbom
+Author: Stefan Hagen
+Author-email: stefan@hagen.link
+License: MIT
+Description: # refactored-computing-machine
+        Tree shaking for the minimal viable SBOM.
+        
+        ## Status
+        Experimental.
+        
+        **Note**: The default branch is `default`.
+        
+Keywords: software-bill-of-materials validation cyclonedx spdx baseline extension development
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
