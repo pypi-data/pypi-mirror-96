@@ -1,0 +1,8 @@
+setup.py
+upyr/__init__.py
+upyr/upyr.py
+upyr.egg-info/PKG-INFO
+upyr.egg-info/SOURCES.txt
+upyr.egg-info/dependency_links.txt
+upyr.egg-info/requires.txt
+upyr.egg-info/top_level.txt
