@@ -1,0 +1,4 @@
+isodate
+jsonschema>=3.0.0
+six
+strict_rfc3339
