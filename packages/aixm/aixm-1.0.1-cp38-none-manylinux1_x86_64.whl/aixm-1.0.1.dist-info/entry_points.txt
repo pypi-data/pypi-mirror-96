@@ -1,0 +1,3 @@
+[console_scripts]
+zcompile = aixm.cmd.compile:main
+
