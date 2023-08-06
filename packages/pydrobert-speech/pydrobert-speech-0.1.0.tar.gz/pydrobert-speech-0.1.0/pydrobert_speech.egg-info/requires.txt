@@ -1,0 +1,11 @@
+numpy
+future
+
+[kaldi]
+pydrobert-kaldi
+
+[pytorch]
+pydrobert-pytorch
+
+[vis]
+matplotlib
