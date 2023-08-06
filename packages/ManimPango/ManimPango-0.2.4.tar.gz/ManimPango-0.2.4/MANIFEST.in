@@ -1,0 +1,4 @@
+global-include *.pyx
+recursive-include tests *.py
+prune docs/_build
+recursive-include docs
