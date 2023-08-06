@@ -1,0 +1,9 @@
+janus_client/__init__.py,sha256=wRTK_DTmofrxfyvMw2GCEnVJ5EsBKmZUP2XXMniANko,101
+janus_client/core.py,sha256=73p3WHmiPenTQ4j6mgE1gXxRMC0nxn5V5UJjJ5SIG38,4713
+janus_client/plugin_base.py,sha256=xvDiq7fvHHhR39Aa9MIBoO7LZH6zri5JeglQvTpbqDI,775
+janus_client/session.py,sha256=2vNBj3Y2L_Lzk8bZYf2c4FfoDerU-oS4YEk76QG9ikU,1639
+janus_client-0.0.3.dist-info/LICENSE,sha256=vt-AD0km91M9UDdNoy1FUAkyBZpbfw1YngtsePYwd0g,1069
+janus_client-0.0.3.dist-info/METADATA,sha256=Y9y1XAaaKnEvXCNyzJDpmruj7LJeygtiCw8nqmXdDA8,3704
+janus_client-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+janus_client-0.0.3.dist-info/top_level.txt,sha256=JSFLzbZ4CU5A9_D7xf7e8MtCspFJAa2YvzVIw40IFq8,13
+janus_client-0.0.3.dist-info/RECORD,,
