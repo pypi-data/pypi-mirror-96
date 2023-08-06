@@ -1,0 +1,10 @@
+hypatie/__init__.py,sha256=eINdqiDPeb_40bbil73_o9mt-q4ODPfB_1J82Ro5J7A,70
+hypatie/animation.py,sha256=bz3fMh2jmcDXCYi2sm1SkBturx2jXwHpfWKSIvbFH2U,2970
+hypatie/core.py,sha256=rhassnGJRxwtqDhDpM2u0Ge3sxSIeVrm5Vg0IW2v5WQ,13000
+hypatie/major_bodies.py,sha256=i4t3glpChXL5cWDN3u_OW6wQ3WtlfSZtVI6GZMt9g6Y,4948
+hypatie/plots.py,sha256=Jrn02pmSOtXmiD3JlgJ5dFcDp80b84JN7rjTA2jQVkc,899
+hypatie-1.1.0.dist-info/LICENSE.txt,sha256=bhm39Hv4dvAV9kPMPucRYiY4OFDcmjuLQneWAdmMV80,1092
+hypatie-1.1.0.dist-info/METADATA,sha256=H_OdS5JPO3-kzhXo2SfduIvZpzAXxS-7EqY0VE9GrjU,4006
+hypatie-1.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+hypatie-1.1.0.dist-info/top_level.txt,sha256=tK_m_b0Bvus_LgEgYeiasZAE3RzjCXfYoSIq0mhHGRw,8
+hypatie-1.1.0.dist-info/RECORD,,
