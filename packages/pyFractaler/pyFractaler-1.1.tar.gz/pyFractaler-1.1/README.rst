@@ -1,0 +1,23 @@
+Description
+===========
+
+An example fractal generator in python.
+
+Usage:
+======
+* IMPORT:
+    * ``import pyFractaler``
+* START FRACTAL:
+    * ``angle = 90 # you angle can be 60, 130...``
+    * ``iterations = 4 # you iterations can be 7, 10...``
+    * ``fractal = pyFractal.Fractal('you code generator', angle, iterations)``
+    * ``fractal.start()``
+* YOU CODE GENERATOR SYNTAX:
+    * `F` - go forward
+    * `+` - rotate to angle
+    * `-` - rotate to -angle
+* EXAMPLE CODE GENERATOR:
+    * ``F+F--F+F--F+F--F+F--F+F--F+F``, 60, 7 - Koch snowflake
+    * ``F-F+F+FFF-F-F+F+F-F+F+FFF-F-F+F+F-F+F+FFF-F-F+F+F-F+F+FFF-F-F+F``, 90, 4 - Koha square island
+* ANOTHER:
+    * ``pyFractal.RuledFractal(...)`` see in github.
