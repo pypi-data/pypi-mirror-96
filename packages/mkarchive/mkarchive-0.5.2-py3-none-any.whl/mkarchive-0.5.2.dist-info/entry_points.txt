@@ -1,0 +1,4 @@
+[console_scripts]
+mkarchive = archiver.mkarchive:main
+smartsetup = installer.smartsetup:main
+
