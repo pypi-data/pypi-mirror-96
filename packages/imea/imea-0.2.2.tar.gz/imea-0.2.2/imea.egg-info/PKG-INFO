@@ -1,0 +1,248 @@
+Metadata-Version: 2.1
+Name: imea
+Version: 0.2.2
+Summary: imea is an open source Python package for extracting 2D and 3D shape measurements from images.
+Home-page: https://git.rwth-aachen.de/ants/sensorlab/imea
+Author: Nils Kroell
+Author-email: nils.kroell@ants.rwth-aachen.de
+License: MIT
+Description: ![imea logo](https://git.rwth-aachen.de/ants/sensorlab/imea/raw/development/docs/imea.png "imea logo")
+        
+        ## Introduction
+        Quantitative measurement of particle shapes based on 2D binary images as well as 3D images are used in many research fields, for example chemistry (Lau et al. 2013), mineral engineering (Andersson et al. 2012), medicine (Nguyen et al. 2005), biology (Smith et al. 1996) or environmental engineering (Kandlbauer et al. 2021; Weissenbach & Sarc 2021). Furthermore, a variety of different shape measurements is proposed in scientific literature (e.g. DIN ISO 9276-6; Pahl et al. 1973a, 1973b, 1973c; Pabst & Gregorova 2007; Steuer 2010). 
+        
+        In contrast, existing Python packages for image analysis like [`scikit-image`](https://www.scikit-image.org/) (Walt et al. 2014) or [`opencv`](https://www.opencv.org/) (Itseez, 2015) cover only a few of the 2D and 3D shape measurements proposed in scientific literature. To utilize different shape measurements researchers often have to combine the results of different libaries which means dealing with different coordinate systems, data formats and conventions or implement shape measurements on their own. Both scenarios lead to unnecessary "reinventing the wheel" and can cause significant frustrations and/or potential errors in the results.
+        
+        [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea) solves this problem: Based on a binary images (2D case) or a grayscale heightmaps (3D case)  53 different 2D shape measurements and 13 different 3D shape measurements are extracted and returned as an [`pandas`](https://www.pandas.pydata.org/) dataframe (McKinney, 2010). With [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea) shape measurements can be extracted with a single line of code:
+        
+        ```python
+        # 2D case
+        df_2d = extract_all_shape_measurements_2d(bw, spatial_resolution_xy_mm_per_px)
+        
+        # 3D case
+        df_2d, df_3d = extract_all_shape_measurements_2d_and_3d(img_3d_org, threshold_3d, spatial_resolution_xy_mm_per_px):
+        ```
+        In the background [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea) deals with different coordinate systems and conventions to utilize the implementations of existing functions for shape measurements in [`scikit-image`](https://www.scikit-image.org/) and [`opencv`](https://www.opencv.org/). Furthermore, custom implementations based on [`NumPy`](https://www.numpy.org/) and [`SciPy`](https://www.scipy.org/) are integrated in [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea) for shape measurements that have not been implemented in those libaries yet.
+        
+        ## Installation
+        
+        ### Installing using pip
+        You can install [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea) using the [`pip package manager`](https://pypi.org/project/pip/):
+        
+        ```bash
+        pip install imea
+        ```
+        ### Installing from sources
+        An other option is to clone this repository:
+        
+        ```bash
+        git clone https://git.rwth-aachen.de/ants/sensorlab/imea
+        ```
+        
+        ### Dependencies
+        [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea) is tested in Python **3.7+**. To use [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea) the following packages are required:
+        
+          * [`NumPy`](https://www.numpy.org/)
+          * [`SciPy`](https://www.scipy.org/)
+          * [`scikit-image`](https://www.scikit-image.org/)
+          * [`opencv-python`](https://www.opencv.org/)
+          * [`pandas`](https://www.pandas.pydata.org/)
+          * [`matplotlib`](https://matplotlib.org/) *(only for visualization in demo notebooks)*
+        
+        
+        ## Usage
+        You can use [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea) either to extract 2D shape measurements from 2D binary images or to extract 2D as well as 3D shape measurements from grayscale images (heightmaps). Under the folder [**demo**](https://git.rwth-aachen.de/ants/sensorlab/imea/-/tree/development/demo) you can find two Jupyter notebooks that demonstrate the usage of [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea), as well as several [**example images**](https://git.rwth-aachen.de/ants/sensorlab/imea/-/tree/development/demo/example_imgs).
+        
+        ### 2D measurements
+        For 2D shape measurements insert a binary image `bw` and the spatial resolution `spatial_resolution_xy_mm_per_px` in [mm/px] into the function `extract_all_shape_measurements_2d`:
+        
+        ```python
+        df_2d = extract_all_shape_measurements_2d(bw, spatial_resolution_xy_mm_per_px)
+        ```
+        
+        As a result you get a [`pandas`](https://www.pandas.pydata.org/) dataframe, in which each row represents one particle in the binary image and each column an extracted shape measurement.
+        
+        **Image calibration and spatial resolution:** If your image is not calibrated (i.e. no "square" pixels) you may use [`skimage.transform.rescale`](https://scikit-image.org/docs/dev/api/skimage.transform.html#skimage.transform.rescale) to calibrate your image. If you want your results just in pixels then set `spatial_resolution_xy_mm_per_px=1`.
+        
+        **Optional parameters:** Optional parameters include the rotation stepsize `dalpha` (in degrees) for determinating statistical length and two boolean variables for experts to return the original distribution of statistical lengths (set `return_statistical_lengths_distributions=True`) and all chords (set `return_all_chords=True`).
+        
+        ### 3D measurements
+        For 3D shape measurements insert a 3D grayscale image (`img_3d_org`), define a threshold (`threshold_3d`) and the spatial resolution of one pixel (`spatial_resolution_xy_mm_per_px`). Pixels with grayvalues lower then `threshold_3d` are treated as background, the other ones are considered as regions. 
+        
+        ```python
+        df_2d, df_3d = extract_all_shape_measurements_2d_and_3d(img_3d_org, threshold_3d, spatial_resolution_xy_mm_per_px):
+        ```
+        
+        As a result you get two [`pandas`](https://www.pandas.pydata.org/) dataframes `df_2d` and `df_3d`, in which each row represents one particle in the binary image and each column an extracted shape measurement.
+        
+        **Image calibration and spatial resolution:** Per default we assume that your `img_3d_org` is already calibrated, i.e. 1 grayvalue step is one millimeter, otherwise you can define the spatial resolution in height direction with the optional parameter `spatial_resolution_z_mm_per_gv`. For calibration and spatial resolution the same recommandations as for the 2D case apply (see above).
+        
+        **Optional parameters:** Optional parameters include the rotation stepsize `dalpha` for determinating shape measurements like the feret diameter, the minimum number of pixels per object to be considered (`min_object_area_px`) and the maximum number of objects `n_objects_to_extract_max` you want to extract from `img_3d_org`. Set `n_objects_to_extract_max=-1` if you want to extract all objects, for `n_objects_to_extract_max > 0` the `n_objects_to_extract_max` largest objects (determinated by area) are extracted.
+        
+        ## License
+        [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea) is published under the [MIT](https://en.wikipedia.org/wiki/MIT_License)-License.
+        
+        ## Contribution
+        If you want to contribute to [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea), feel free to contact Nils Kroell via [nils.kroell@ants.rwth-aachen.de](mailto:nils.kroell@ants.rwth-aachen.de). Moreover, you can do so by reporting bugs and/or suggesting new shape measurements.
+        
+        ### Reporting bugs
+        If you encounter any issues or inconsistent results using [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea): Please report them via our [issue tracker](https://git.rwth-aachen.de/ants/sensorlab/imea/-/issues), so we can work on them. Please give details on the used version of Python and other dependencies as well as provide exemplary data together with the output of [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea) and your expected output, so we can reproduce your error.
+        
+        ### Suggesting new shape measurements
+        If you miss any 2D or 3D shape measurement feel free to open an issue providing the following details:
+        
+         * Scientific paper, where the shape measurement is introduced and defined,
+         * evidence why this shape measurement is of scientific relevance (cite at least one scientific paper where the shape measurement is used),
+         * suggestions and/or references for implementation (optional).
+        
+        
+        ## Current available shape measurements
+        ### 2d shape measurements
+        Currently, 53 twodimensional shape measurements are implemented in [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea), as shown in the table below.
+        
+        | Naming   in imea | Description | Implementation | Reference |
+        |-|-|-|-|
+        | `perimeter_2d_mm` | Perimeter. | `skimage.measure.regionprops` | (DIN ISO 9276-6) |
+        | `convex_perimeter_2d_mm` | Perimeter of the convex hull. | custom based on `skimage.measure.regionprops` | (DIN ISO 9276-6) |
+        | `area_2d_mm2` | Projection area. | `skimage.measure.regionprops` | (DIN ISO 9276-6) |
+        | `filled_area_2d_mm2` | Filled projection area. | `skimage.measure.regionprops` | (DIN ISO 9276-6) |
+        | `convex_area_2d_mm2` | Area of the convex hull. | `skimage.measure.regionprops` | (DIN ISO 9276-6) |
+        | `major_axis_length_2d_mm` | Major axis length of the   legendre ellipse of inertia (ellipse that has the same normalized second   central moments as the particle shape). | `skimage.measure.regionprops` | (DIN ISO 9276-6) |
+        | `minor_axis_length_2d_mm` | Minor axis length of the   legendre ellipse of inertia. | `skimage.measure.regionprops` | (DIN ISO 9276-6) |
+        | `max_inclosing_circle_diameter_2d_mm` | Diameter of the maximum   incircle<br>     of the projection area. | based on `cv2.distanceTransform` | (Pahl et al. 1973a) |
+        | `min_enclosing_circle_diameter_2d_mm` | Diameter of the minimum   circumference<br>     of the projection area. | `cv2.minEnclosingCircle` | (Pahl et al. 1973a) |
+        | `circumscribing_circle_diameter_2d_mm` | Diameter of the circumcircle   with<br>     same center as the<br>     particle contour and maximum<br>     area, which touches the particle contour<br>     from the inside. | custom based on `spatial.distance.cdist` | (Li et al. 2020) |
+        | `inscribing_circle_diameter_2d_mm` | Diameter of the circumcircle   with<br>     same center as the<br>     particle contour and minimum<br>     area, which touches the particle contour<br>     from the outside. | custom based on `spatial.distance.cdist` | (Li et al. 2020) |
+        | `x_max_2d_mm` | Maximum<br>     longest chord. | custom | (Steuer 2010) |
+        | `y_max_2d_mm` | Longest chord orthogonal to   `y_max_2d_mm` | custom | (Steuer 2010) |
+        | `width_min_bb_2d_mm` | Width of minimal 2D bounding   box. | `cv2.minAreaRect` | (Steuer 2010) |
+        | `length_min_bb_2d_mm` | Length of minimal 2D bounding   box (`width_min_bb_2d_mm <= length_min_bb_2d_mm`). | `cv2.minAreaRect` | (Steuer 2010) |
+        | `area_equal_diameter_2d_mm` | Diameter of a circle of   equal<br>     projection area. | custom based on DIN ISO 9276-6 | (DIN ISO 9276-6) |
+        | `perimeter_equal_diameter_2d_mm` | Diameter of a circle of   equal<br>     perimeter. | custom based on DIN ISO 9276-6 | (DIN ISO 9276-6) |
+        | `geodeticlength_2d_mm` | Geodetic length. | custom based on DIN ISO 9276-6 | (DIN ISO 9276-6; Pons et al. 1999) |
+        | `thickness_2d_mm` | Thickness. | custom based on DIN ISO 9276-6 | (DIN ISO 9276-6; Pons et al. 1999) |
+        | `n_erosions_binary_image_2d` | Number of pixel erosions   to<br>     completely erase the silhouette of a particle in the binary image. | custom based on `skimage.morphology.binary_erosion` | (DIN ISO 9276-6) |
+        | `n_erosions_complement_2d` | Number of pixel erosions to   completely<br>     erase the complement between convex hull and object. | custom based on `skimage.morphology.binary_erosion` | (DIN ISO 9276-6) |
+        | `fractal_dimension_boxcounting_method_2d` | Fractal dimension determined by the box counting method | custom based on (So et al. 2017) | (So et al. 2017) |
+        | `fractal_dimension_perimeter_method_2d` | Fractal dimension determined by   the perimeter method according to DIN ISO 9276-6 (evenly structured gait). | custom based on DIN ISO 9276-6 | (DIN ISO 9276-6) |
+        | `max_feret_2d_mm` | Maximum Feret diameter. | custom | (Pahl et al. 1973a) |
+        | `min_feret_2d_mm_2d_mm` | Minimum Feret diameter. | custom | (Pahl et al. 1973a) |
+        | `median_feret` | Median of all Feret diameters. | custom | (Pahl et al. 1973a) |
+        | `mean_feret_2d_mm` | Arithmetic mean of all Feret   diameters. | custom | (Pahl et al. 1973a) |
+        | `mode_feret_2d_mm` | Mode of all Feret diameters. | custom | (Pahl et al. 1973a) |
+        | `std_feret_2d` | Standard deviation of all Feret   diameters. | custom | (Pahl et al. 1973a) |
+        | `max_martin_2d_mm` | Maximum Martin diameter. | custom | (Pahl et al. 1973a) |
+        | `min_martin_2d_mm` | Minimum Martin diameter. | custom | (Pahl et al. 1973a) |
+        | `median_martin_2d_mm` | Median of all Martin diameters. | custom | (Pahl et al. 1973a) |
+        | `mean_martin_2d_mm` | Arithmetic mean of all Martin   diameters. | custom | (Pahl et al. 1973a) |
+        | `mode_martin_2d_mm` | Mode of all Martin diameters. | custom | (Pahl et al. 1973a) |
+        | `std_martin_2d` | Standard deviation of all Martin   diameters. | custom | (Pahl et al. 1973a) |
+        | `max_nassenstein_2d_mm` | Maximum Nassenstein diameter. | custom | (Pahl et al. 1973a) |
+        | `min_nassenstein_2d_mm` | Minimum Nassenstein diameter. | custom | (Pahl et al. 1973a) |
+        | `median_nassenstein_2d_mm` | Median of all Nassenstein   diameters. | custom | (Pahl et al. 1973a) |
+        | `mean_nassenstein_2d_mm` | Arithmetic mean of all   Nassenstein diameters. | custom | (Pahl et al. 1973a) |
+        | `mode_nassenstein_2d_mm` | Mode of all Nassenstein   diameters. | custom | (Pahl et al. 1973a) |
+        | `std_nassenstein_2d` | Standard deviation of all   Nassenstein diameters. | custom | (Pahl et al. 1973a) |
+        | `max_max_chords_2d_mm` | Maximum of max chords (max chord   = max of all chords for one particle rotation). | custom | (Pahl et al. 1973a) |
+        | `min_max_chords_2d_mm` | Minimum of max chords. | custom | (Pahl et al. 1973a) |
+        | `median_max_chords_2d_mm` | Median of max chords. | custom | (Pahl et al. 1973a) |
+        | `mean_max_chords_2d_mm` | Mean of max chords. | custom | (Pahl et al. 1973a) |
+        | `mode_max_chords_2d_mm` | Mode of max chords. | custom | (Pahl et al. 1973a) |
+        | `std_max_chords` | Standard deviation of max   chords. | custom | (Pahl et al. 1973a) |
+        | `max_all_chords_2d_mm` | Maximum of all chords for all   rotations. | custom | (Pahl et al. 1973a) |
+        | `min_all_chords_2d_mm` | Minimum of all chords for all   rotations. | custom | (Pahl et al. 1973a) |
+        | `median_all_chords_2d_mm` | Median of all chords for all   rotations. | custom | (Pahl et al. 1973a) |
+        | `mean_all_chords_2d_mm` | Mean of all chords for all   rotations. | custom | (Pahl et al. 1973a) |
+        | `mode_all_chords_2d_mm` | Mode of all chords for all   rotations. | custom | (Pahl et al. 1973a) |
+        | `std_all_chords_2d` | Standard deviation of all chords   for all rotations. | custom | (Pahl et al. 1973a) |
+        
+        ### 3d shape measurements
+        For 3D recordings, there are 13 threedimensional shape measurements implemented in [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea), as shown in the table below.
+        
+        | Naming   in imea | Description | Implementation | Reference |
+        |-|-|-|-|
+        | `volume_3d_mm3` | Volume. | `np.sum`  | (Pahl et al. 1973) |
+        | `volume_convexhull_3d_mm3` | Volume of convex hull. | `scipy.spatial.ConvexHull` | - |
+        | `surf_area_3d_mm2` | Surface area (determined by convex hull). | `scipy.spatial.ConvexHull` | (Pahl et al. 1973) |
+        | `volume_equivalent_diameter_3d_mm` | Diameter of a volume-equivalent sphere. | custom based on (StieÃŸ 2009) | (StieÃŸ 2009) |
+        | `surfacearea_equivalent_diameter_3d_mm` | Diameter of a sphere with the same surface area. | custom based on (StieÃŸ 2009) | (StieÃŸ 2009) |
+        | `width_3d_bb_mm` | Width of minimal 3D bounding box   (equal to minimal 2D bounding box, as minimum 3D bounding box is assumed to   lay on conveyer surface). | `cv2.minAreaRect` | (Steuer 2010) |
+        | `length_3d_bb_mm` | Length of minimal 3D bounding   box (`width_min_bb_3d_mm <= length_min_bb_3d_mm`, ). | `cv2.minAreaRect` | (Steuer 2010) |
+        | `height_3d_bb_mm` | Height of minimal 3D bounding   box in z-direction. | `np.max`  | (Steuer 2010) |
+        | `max_feret_3d_mm` | Maximum 3D feret diameter. | custom based on `scipy.spatial.ConvexHull` | (Pahl et al. 1973) |
+        | `min_feret_3d_mm` | Minimum 3D feret diameter. | custom based on `scipy.spatial.ConvexHull` | (Pahl et al. 1973) |
+        | `x_max_3d_mm` | Maximum particle dimension   (equal to `max_feret_3d_mm`) | custom | (Steuer 2010) |
+        | `x_max_3d_mm` | Mean particle dimension   (`y_max_3d_mm >= x_max_3d_mm`, `y_max_3d_mm` orthogonal to  `x_max_3d_mm`) | custom | (Steuer 2010) |
+        | `z_max_3d_mm` | M particle dimension   (`z_max_3d_mm <= x_max_3d_mm`, `z_max_3d_mm` orthogonal to  `y_max_3d_mm` and  `x_max_3d_mm`) | custom | (Steuer 2010) |
+        
+        
+        ## Conventions
+        
+        ### Coordinate system
+        [`imea`](https://git.rwth-aachen.de/ants/sensorlab/imea) uses right hand cardesian coordinate system, which is also used in [`scikit-image`](https://www.scikit-image.org/):
+        
+        ```python
+        # (row, col, channel)
+        # 
+        # o------------> y
+        #     /|
+        #    / |
+        #   /  |
+        # z    |
+        #      v
+        #      x
+        ```
+        
+        ## Literature
+        T. Andersson, M. J. Thurley and J. E. Carlson  (2012). "A machine vision system for estimation of size distributions by weight of limestone particles". In: *Minerals Engineering*, 25(1), pp. 38â€“46. https://doi.org/10.1016/j.mineng.2011.10.001                            
+        
+        Deutsches Institut fÃ¼r Normung e. V. (2012). *DIN ISO 9276-6 - Darstellung der Ergebnisse von Par-tikelgrÃ¶ÃŸenanalysen: Teil 6: Deskriptive und quantitative Darstellung der Form und Morphologievon Partikeln*.
+        
+        Itseez. (2015). Open source computer vision library. https://github.com/opencv/opencv.
+        
+        L. Kandlbauer, K. Khodier, D. Ninevski, R. Sarc (2021). "Sensor-based Particle Size Determination of Shredded MixedCommercial Waste based on two-dimensional Images". In: *Waste Management*, 120, pp. 794-794. https://doi.org/10.1016/j.wasman.2020.11.003                      
+        
+        Y. M. Lau, N. G. Deen and J. A. M. Kuipers (2013). "Development of an image measurement technique for size distribution in dense bubbly flows". In: *Chemical Engineering Science*, 94, pp. 20â€“29. https://doi.org/10.1016/j.ces.2013.02.043                            
+        
+        X. Li, Z. Wen, H. Zhu, Z. Guo and Y. Liu (2020). "An improved algorithm for evaluation of the
+        minimum circumscribed circle and maximum inscribed circle based on the local minimax
+        radius". In: *The Review of scientific instruments* 91(3) , pp. 035103. DOI: https://doi.org/10.1063/5.0002233      
+        
+        W. McKinney (2010). "Data Structures for Statistical Computing in Python". In: StÃ©fan
+        54 van der Walt & Jarrod Millman (Eds.): *Proceedings of the 9th Python in Science Conference*. (pp. 56â€“61). https://doi.org/10.25080/Majora-92bf1922-00a   
+        
+        T. M. Nguyen and R. M. Rangayyan (2005). "Shape Analysis of Breast Masses in Mammograms via the Fractal Dimension". In: *2005 IEEE Engineering in Medicine and Biology 27th Annual Conference*, Shanghai, pp. 3210-3213. https://doi.org/10.1109/IEMBS.2005.1617159                           
+        
+        W. Pabst und E. Gregorova (2007). *Characterization of particles and particle systems*.
+        
+        M. Pahl, G. SchÃ¤del und H. Rumpf (1973a). "Zusammenstellung von Teilchenformbeschreibungs-methoden: 1. Teil". In: *Aufbereitungstechnik*, 14(5), pp. 257â€“264.
+        
+        M. Pahl, G. SchÃ¤del und H. Rumpf (1973b). "Zusammenstellung von Teilchenformbeschreibungs-methoden: 2. Teil". In: *Aufbereitungstechnik*, 14(10), pp. 672â€“683.
+        
+        M. Pahl, G. SchÃ¤del und H. Rumpf (1973c). "Zusammenstellung von Teilchenformbeschreibungs-methoden: 3. Teil". In: *Aufbereitungstechnik*, 14(11) , pp. 759â€“764.
+        
+        T. G. Smith, G. D. Lange and W. B. Marks (1996). "Fractal methods and results in cellular morphology â€” dimensions, lacunarity and multifractals". In: *Journal of Neuroscience Methods*, 69(2), pp. 123â€“136. https://doi.org/10.1016/s0165-0270(96)00080-5                               
+          
+        M. Steuer (2010). "Serial classification". In: *AT Mineral Processing* 51(1).
+        
+        G.-B. So, H.-R. So, G.-G. Jin (2017): "Enhancement of the Box-Counting Algorithm for fractal dimension estimation". In: *Pattern Recognition Letters*, 98, pp. 53-58. https://doi.org/10.1016/j.patrec.2017.08.022      
+           
+        S. Walt, J. SchÃ¶nberger, J. Nunez-Iglesias, F. Boulogne, J. Warner, N. Yager, E. Gouillart, T. Yu and the scikit-image contributors. "scikit-image: Image processing in Python". In: *PeerJ* 2:e453 (2014) https://doi.org/10.7717/peerj.453                          
+        
+        T. Weissenbach, R. Sarc (2021). "Investigation of particle-specific characteristics of non-hazardous, fine shredded mixed waste". In: *Waste Management*, 119, pp. 162-171. https://doi.org/10.1016/j.wasman.2020.09.033                      
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Image Processing
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

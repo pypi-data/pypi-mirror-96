@@ -1,0 +1,11 @@
+README.md
+setup.py
+imea/__init__.py
+imea/point_rotations_and_projections.py
+imea/shape_measurements_2d.py
+imea/shape_measurements_3d.py
+imea.egg-info/PKG-INFO
+imea.egg-info/SOURCES.txt
+imea.egg-info/dependency_links.txt
+imea.egg-info/requires.txt
+imea.egg-info/top_level.txt
