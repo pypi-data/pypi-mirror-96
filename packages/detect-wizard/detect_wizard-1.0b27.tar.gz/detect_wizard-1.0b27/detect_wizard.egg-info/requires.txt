@@ -1,0 +1,7 @@
+libmagic
+python-magic>=0.4.15
+blackduck>=0.0.55
+texttable>=1.4.0
+
+[:platform_system == "Windows"]
+python-magic-bin>=0.4.14

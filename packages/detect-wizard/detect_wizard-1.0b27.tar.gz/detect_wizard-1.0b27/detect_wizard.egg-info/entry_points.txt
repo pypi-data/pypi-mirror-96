@@ -1,0 +1,3 @@
+[console_scripts]
+detect-wizard = detect_wizard_src.detect_wizard:run
+
