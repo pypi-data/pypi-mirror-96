@@ -1,0 +1,141 @@
+tier2cv5,description,price_weight,adj_paediatric
+10.01,Hyperbaric medicine,0.0842,0.8
+10.02,Interventional imaging,0.4278,1.0
+10.03,Minor surgical,0.0583,1.31
+10.04,Dental,0.0666,1.0
+10.05,Angioplasty/angiography,0.2779,1.0
+10.06,Endoscopy – gastrointestinal,0.4072,0.86
+10.07,Endoscopy – urological/gynaecological,0.0628,1.0
+10.08,Endoscopy – orthopaedic,0.0427,1.0
+10.09,"Endoscopy – respiratory/ear, nose and throat",0.0421,1.0
+10.10,Renal dialysis – hospital delivered,0.0522,1.0
+10.11,Chemotherapy treatment,0.0779,2.0
+10.12,Radiation therapy – treatment,0.0743,1.0
+10.13,Minor medical procedures,0.0898,1.0
+10.14,Pain management interventions,0.0902,1.0
+10.15,Renal dialysis – haemodialysis – home delivered,0.9348,1.0
+10.16,Renal dialysis – peritoneal dialysis – home delivered,0.9633,1.0
+10.17,Total parenteral nutrition – home delivered,2.2086,1.0
+10.18,Enteral nutrition – home delivered,0.0544,1.76
+10.19,Ventilation – home delivered,Block funded,Block funded
+10.20,Radiation therapy – simulation and planning,0.1595,1.0
+20.01,Transplants,0.0767,1.92
+20.02,Anaesthetics,0.0732,1.18
+20.03,Pain management,0.0849,1.35
+20.04,Developmental disabilities,0.0852,1.33
+20.05,General medicine,0.0593,0.91
+20.06,General practice and primary care,Out of scope,Out of scope
+20.07,General surgery,0.0462,1.0
+20.08,Genetics,0.1619,1.0
+20.09,Geriatric medicine,0.0793,1.11
+20.10,Haematology,0.062,1.14
+20.11,Paediatric medicine,0.066,1.21
+20.12,Paediatric surgery,0.0465,1.4
+20.13,Palliative care,0.0651,1.51
+20.14,Epilepsy,0.0495,2.0
+20.15,Neurology,0.0606,1.44
+20.16,Neurosurgery,0.0649,1.32
+20.17,Ophthalmology,0.0405,1.0
+20.18,"Ear, nose and throat",0.042,1.0
+20.19,Respiratory,0.0591,1.65
+20.20,Respiratory – cystic fibrosis,0.1455,1.0
+20.21,Anti-coagulant screening and management,0.0448,1.45
+20.22,Cardiology,0.0541,1.45
+20.23,Cardiothoracic,0.0774,1.68
+20.24,Vascular surgery,0.0607,1.77
+20.25,Gastroenterology,0.0901,1.09
+20.26,Hepatobiliary,0.1152,0.8
+20.27,Craniofacial,0.0449,1.14
+20.28,Metabolic bone,0.05,2.0
+20.29,Orthopaedics,0.0401,1.29
+20.30,Rheumatology,0.0564,1.49
+20.31,Spinal,0.0769,1.82
+20.32,Breast,0.0708,1.0
+20.33,Dermatology,0.04,1.37
+20.34,Endocrinology,0.0492,1.48
+20.35,Nephrology,0.0656,1.68
+20.36,Urology,0.0487,1.0
+20.37,Assisted reproductive technology,0.0716,1.98
+20.38,Gynaecology,0.0531,1.2
+20.39,Gynaecological oncology,0.0739,1.0
+20.40,Obstetrics – management of pregnancy without complications,0.0389,1.69
+20.41,Immunology,0.0672,1.0
+20.42,Medical oncology – consultation,0.0675,1.51
+20.43,Radiation therapy – consultation,0.0602,1.0
+20.44,Infectious diseases,0.1046,0.81
+20.45,Psychiatry,0.0366,1.0
+20.46,Plastic and reconstructive surgery,0.0393,1.06
+20.47,Rehabilitation,0.0419,1.0
+20.48,Multidisciplinary burns clinic,0.0599,1.0
+20.49,Geriatric evaluation and management,0.0835,1.19
+20.50,Psychogeriatric,0.0576,1.0
+20.51,Sleep disorders,0.0679,1.24
+20.52,Addiction medicine,0.0472,2.0
+20.53,Obstetrics – management of complex pregnancy,0.043,0.8
+20.54,Maternal fetal medicine,0.0601,0.8
+20.55,Telehealth – patient location,0.0183,1.0
+30.01,General imaging,Not priced7,Not priced7
+30.02,Magnetic resonance imaging,Not priced7,Not priced7
+30.03,Computerised tomography ,Not priced7,Not priced7
+30.04,Nuclear medicine,Not priced7,Not priced7
+30.05,"Pathology (microbiology, haematology, biochemistry)",Not priced7,Not priced7
+30.06,Positron emission tomography,Not priced7,Not priced7
+30.07,Mammography screening,Not priced7,Not priced7
+30.08,Clinical measurement,Not priced7,Not priced7
+40.02,Aged care assessment,Out of scope,Out of scope
+40.03,Aids and appliances,0.0415,0.8
+40.04,Clinical pharmacy,0.0391,2.0
+40.05,Hydrotherapy,0.0347,1.0
+40.06,Occupational therapy,0.0338,1.33
+40.07,Pre-admission and pre-anaesthesia,0.0469,1.26
+40.08,Primary health care,Out of scope,Out of scope
+40.09,Physiotherapy,0.026,1.4
+40.10,Sexual health,0.0284,1.0
+40.11,Social work,0.0468,1.0
+40.12,Rehabilitation,0.0428,1.81
+40.13,Wound management,0.035,0.92
+40.14,Neuropsychology,0.0981,1.39
+40.15,Optometry,0.0079,1.0
+40.16,Orthoptics,0.0278,0.8
+40.17,Audiology,0.0467,1.13
+40.18,Speech pathology,0.0415,1.45
+40.21,Cardiac rehabilitation,0.0378,2.0
+40.22,Stomal therapy,0.0452,0.81
+40.23,Nutrition/dietetics,0.032,1.18
+40.24,Orthotics,0.0701,0.8
+40.25,Podiatry,0.0359,0.91
+40.27,Family planning,Out of scope,Out of scope
+40.28,Midwifery and maternity,0.034,1.14
+40.29,Psychology,0.0544,1.0
+40.30,Alcohol and other drugs,0.0337,1.0
+40.31,Burns,0.0385,0.8
+40.32,Continence,0.0322,1.0
+40.33,General counselling,Out of scope,Out of scope
+40.34,Specialist mental health,Block funded,Block funded
+40.35,Palliative care,0.0409,1.33
+40.36,Geriatric evaluation and management,0.0493,1.0
+40.37,Psychogeriatric,0.0167,1.0
+40.38,Infectious diseases,0.0633,0.8
+40.39,Neurology,0.056,0.88
+40.40,Respiratory,0.0413,1.48
+40.41,Gastroenterology,0.04,1.0
+40.42,Circulatory,0.0485,1.62
+40.43,Hepatobiliary,0.1035,0.8
+40.44,Orthopaedics,0.0274,1.4
+40.45,Dermatology,0.0341,1.0
+40.46,Endocrinology,0.0362,1.22
+40.47,Nephrology,0.0552,1.14
+40.48,Haematology and immunology,0.0702,0.8
+40.49,Gynaecology,0.0459,1.0
+40.50,Urology,0.0447,1.0
+40.51,Breast,0.0406,1.0
+40.52,Oncology,0.0429,1.72
+40.53,General medicine,0.0436,1.0
+40.54,General surgery,0.0329,1.0
+40.55,Paediatrics,0.0442,0.8
+40.56,Falls prevention,0.0375,1.0
+40.57,Cognition and memory,0.0477,1.0
+40.58,Hospital avoidance programs,0.0468,1.28
+40.59,Post-acute care,0.0387,1.13
+40.60,Pulmonary rehabilitation,0.0347,2.0
+40.61,Telehealth – patient location,0.0086,1.0
