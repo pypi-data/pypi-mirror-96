@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<registry>
+
+  <!-- taxonomy_select widget -->
+  <records prefix="plone.resources/faceted-widgets-taxonomy_select-view"
+           interface='Products.CMFPlone.interfaces.IResourceRegistry'>
+    <value key="css">
+      <element>++resource++collective.faceted.taxonomywidget.widgets.select.view.css</element>
+    </value>
+    <value key="js">++resource++collective.faceted.taxonomywidget.widgets.select.view.js</value>
+  </records>
+
+  <records prefix="plone.resources/faceted-widgets-taxonomy_select-edit"
+           interface='Products.CMFPlone.interfaces.IResourceRegistry'>
+    <value key="css">
+      <element>++resource++eea.facetednavigation.widgets.select.edit.css</element>
+    </value>
+    <value key="js">++resource++collective.faceted.taxonomywidget.widgets.select.edit.js</value>
+  </records>
+
+  <!-- taxonomy_select2 widget -->
+  <records prefix="plone.resources/faceted-widgets-taxonomy_select2-view"
+           interface='Products.CMFPlone.interfaces.IResourceRegistry'>
+    <value key="css">
+      <element>++resource++collective.faceted.taxonomywidget.widgets.select2.view.css</element>
+    </value>
+    <value key="js">++resource++collective.faceted.taxonomywidget.widgets.select2.view.js</value>
+  </records>
+
+  <records prefix="plone.resources/faceted-widgets-taxonomy_select2-edit"
+           interface='Products.CMFPlone.interfaces.IResourceRegistry'>
+    <value key="css">
+      <element>++resource++eea.facetednavigation.widgets.select.edit.css</element>
+    </value>
+    <value key="js">++resource++collective.faceted.taxonomywidget.widgets.select2.edit.js</value>
+  </records>
+
+  <!-- bundles -->
+  <records prefix="plone.bundles/faceted-view"
+           interface='Products.CMFPlone.interfaces.IBundleRegistry'>
+    <value key="resources" purge="false">
+      <element>select2</element>
+      <element>faceted-widgets-taxonomy_select-view</element>
+      <element>faceted-widgets-taxonomy_select2-view</element>
+    </value>
+    <value key="depends">faceted-jquery</value>
+  </records>
+
+  <records prefix="plone.bundles/faceted-edit"
+           interface='Products.CMFPlone.interfaces.IBundleRegistry'>
+    <value key="resources" purge="false">
+      <element>select2</element>
+      <element>faceted-widgets-taxonomy_select-edit</element>
+      <element>faceted-widgets-taxonomy_select2-edit</element>
+    </value>
+    <value key="depends">faceted-jquery</value>
+  </records>
+
+</registry>
