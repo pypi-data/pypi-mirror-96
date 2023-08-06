@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+sqlalchemy_sugar/__init__.py
+sqlalchemy_sugar.egg-info/PKG-INFO
+sqlalchemy_sugar.egg-info/SOURCES.txt
+sqlalchemy_sugar.egg-info/dependency_links.txt
+sqlalchemy_sugar.egg-info/top_level.txt
