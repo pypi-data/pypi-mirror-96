@@ -1,0 +1,9 @@
+README.md
+setup.py
+ramon_stringanalysis.egg-info/PKG-INFO
+ramon_stringanalysis.egg-info/SOURCES.txt
+ramon_stringanalysis.egg-info/dependency_links.txt
+ramon_stringanalysis.egg-info/requires.txt
+ramon_stringanalysis.egg-info/top_level.txt
+stringanalysis/__init__.py
+stringanalysis/string_analysis.py
