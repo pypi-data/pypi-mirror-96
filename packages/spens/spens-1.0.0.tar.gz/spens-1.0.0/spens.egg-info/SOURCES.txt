@@ -1,0 +1,9 @@
+README.md
+setup.py
+spens/__init__.py
+spens/loadspe.py
+spens.egg-info/PKG-INFO
+spens.egg-info/SOURCES.txt
+spens.egg-info/dependency_links.txt
+spens.egg-info/requires.txt
+spens.egg-info/top_level.txt
