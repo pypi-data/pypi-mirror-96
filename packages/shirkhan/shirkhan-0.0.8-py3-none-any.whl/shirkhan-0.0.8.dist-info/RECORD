@@ -1,0 +1,11 @@
+shirkhan/__init__.py,sha256=Hvdxnv6PvXOHMk4I121bbvIWiGOEr5xlJSh3x3myEuI,270
+shirkhan/shir_encode_decode.py,sha256=hb6frL4Jar8U7XHUZGQ8tZWkSdlZaeLaSxPbfTJql_s,1352
+shirkhan/shir_encryption.py,sha256=i0vZMyqnWEoBVlfrkzVLmR_eKgpv4BVsvgl5d3IRwEQ,1151
+shirkhan/shir_file.py,sha256=Hyj7_x2aBmQhEYJ0WDXN7qgkxNJDs4KdzRztaHKQBME,730
+shirkhan/shir_string.py,sha256=1Vf_25v7-ljRwpyPsPSZVnFbknQoxh9hc0GhoU-OyJM,709
+shirkhan/shir_syllable.py,sha256=xD7QtatN3xU0EpQ89motDoQnJrSwiGRypopgtVCk6tw,8692
+shirkhan-0.0.8.dist-info/LICENSE,sha256=C9SlOcHy6dFw3V5opvYUSkU4MrydFqDa6FxlbNtfGhY,1066
+shirkhan-0.0.8.dist-info/METADATA,sha256=YvzMygZqsqulZUW9OObmwww0owsw7hx6DTwUQj5FirQ,3296
+shirkhan-0.0.8.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+shirkhan-0.0.8.dist-info/top_level.txt,sha256=RwAXFDqNOEhvUaEhscRRrvmM_Itx4NpLwfdNAszPBaA,9
+shirkhan-0.0.8.dist-info/RECORD,,
