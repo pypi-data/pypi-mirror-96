@@ -1,0 +1,11 @@
+preadator/__init__.py,sha256=wcWogiBhGEh-y2IfPX0LvIjkVhUlc_B8r11wzWYXX8o,95
+preadator/preadator.py,sha256=LKNBBiN_QALFQTfWMxiuDDcgWW0ecihimuaQfBFtKKQ,15101
+tests/__init__.py,sha256=kZTaArwEjZRAgNzIXp2l5WKWdA9d0OLrP9eSUNsbxe4,346
+tests/docker_test.py,sha256=KhT4Lrcm-eKBoYrc43aHAOyBYPFR3Wah973lK1SQp98,456
+tests/process_test.py,sha256=7vJQXPnYwIXSqyfBB25mPMzDxtsqfM-MQCB6SbJIwBc,919
+tests/thread_test.py,sha256=XnQYxht9SyLclo35Lx2bVJfXIQgGozVJSW_gmYBS-Zw,794
+preadator-0.2.0.dist-info/LICENSE,sha256=aaXu23RLKNjIAuRO3Ne467nfI1cDfvUAfZDBA646f6A,1065
+preadator-0.2.0.dist-info/METADATA,sha256=i0q1DPqqMwpAUH7Wvcf2IuimPjSXRPqlNnvSH-TEghA,1012
+preadator-0.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+preadator-0.2.0.dist-info/top_level.txt,sha256=qkCq63qDYTbnBWt0CeQg9Oitgfi2o2rDJVjvH3ojgro,16
+preadator-0.2.0.dist-info/RECORD,,
