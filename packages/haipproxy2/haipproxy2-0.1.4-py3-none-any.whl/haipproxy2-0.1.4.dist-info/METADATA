@@ -1,0 +1,58 @@
+Metadata-Version: 2.1
+Name: haipproxy2
+Version: 0.1.4
+Summary: High aviariable proxy pool client for crawlers.
+Home-page: https://github.com/SpiderClub/haipproxy
+Author: hzy
+Author-email: resolvewang@foxmail.com
+License: MIT
+Keywords: proxy,client,haipproxy2
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.4.0
+Description-Content-Type: text/markdown
+Requires-Dist: attrs (==20.3.0)
+Requires-Dist: Automat (==20.2.0)
+Requires-Dist: cffi (==1.14.5)
+Requires-Dist: constantly (==15.1.0)
+Requires-Dist: cryptography (==3.4.6)
+Requires-Dist: cssselect (==1.1.0)
+Requires-Dist: hyperlink (==21.0.0)
+Requires-Dist: idna (==3.1)
+Requires-Dist: incremental (==17.5.0)
+Requires-Dist: itemadapter (==0.2.0)
+Requires-Dist: itemloaders (==1.0.4)
+Requires-Dist: jmespath (==0.10.0)
+Requires-Dist: lxml (==4.6.2)
+Requires-Dist: parsel (==1.6.0)
+Requires-Dist: Protego (==0.1.16)
+Requires-Dist: pyasn1 (==0.4.8)
+Requires-Dist: pyasn1-modules (==0.2.8)
+Requires-Dist: pycparser (==2.20)
+Requires-Dist: PyDispatcher (==2.0.5)
+Requires-Dist: PyHamcrest (==2.0.2)
+Requires-Dist: pyOpenSSL (==20.0.1)
+Requires-Dist: queuelib (==1.5.0)
+Requires-Dist: raven (==6.10.0)
+Requires-Dist: redis (==3.5.3)
+Requires-Dist: Scrapy (==2.4.1)
+Requires-Dist: service-identity (==18.1.0)
+Requires-Dist: six (==1.15.0)
+Requires-Dist: Twisted (==20.3.0)
+Requires-Dist: w3lib (==1.22.0)
+Requires-Dist: zope.interface (==5.2.0)
+
+#### 在原先[SpiderClub/haipproxy cli](https://github.com/SpiderClub/haipproxy.git) 的基础上，稍微修改了下
+
+* 可以通过scrapy中的settings配置来覆盖默认配置，
+* 编写了scrapy download middleware ,自动配置proxy,前提是你通过haipproxy配置好了redis proxy pool
+
+###  todo
+
+* delete proxy 逻辑,删除连接失败的代理
+
