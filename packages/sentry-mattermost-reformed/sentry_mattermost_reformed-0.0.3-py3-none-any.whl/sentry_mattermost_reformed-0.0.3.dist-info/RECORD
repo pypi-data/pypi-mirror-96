@@ -1,0 +1,9 @@
+sentry_mattermost_reformed/__init__.py,sha256=-x0s9YIOQmEFEs6qxtBfhiiSQ1WG5WyuA24KPjUV6HI,18
+sentry_mattermost_reformed/client.py,sha256=oZSHY79UVQGhbxWHp8HPfXJTIB8DRqpcfqz71mie6J8,515
+sentry_mattermost_reformed/plugin.py,sha256=ZOkHbGTBnhK0AuMjcY-T8fL9Ovmcq9Vd6eonfthfxhA,9351
+sentry_mattermost_reformed-0.0.3.dist-info/LICENSE,sha256=qVmGA7kqlWhZtuN8fVnLpeh3OJCI1rCEgMSq06nLubk,1053
+sentry_mattermost_reformed-0.0.3.dist-info/METADATA,sha256=jBU_K-7jVKMrdenLgk67SGVYPZVRFTfWSJoz1imBptM,363
+sentry_mattermost_reformed-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+sentry_mattermost_reformed-0.0.3.dist-info/entry_points.txt,sha256=jtXNNQ0gUd0L9xhdndzO4i3IZ2kgMJ9qOPHhsMS61Zg,82
+sentry_mattermost_reformed-0.0.3.dist-info/top_level.txt,sha256=MbMs4HQ5Dglr0pNG_En79G-BNjQGLK7Zb9djrKkcrf8,27
+sentry_mattermost_reformed-0.0.3.dist-info/RECORD,,
