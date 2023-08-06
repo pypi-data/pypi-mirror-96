@@ -1,0 +1,11 @@
+jcm_django_abstract/__init__.py,sha256=HBBMe3IrgmhNAXGzWdJhJQdJj-cT1PUUQRuScI6Fwpo,285
+jcm_django_abstract/fk.py,sha256=GF2C5Izj0EWh_y_y82ZHNxBYPPi9eeGFohECkRSRGnQ,310
+jcm_django_abstract/other.py,sha256=t-Vkl0xzdgolFgPp2Rzdbpd-5C02xl73S1pb8DPkMHM,317
+jcm_django_abstract/slug.py,sha256=BAr9lEEwrn30ZgpBL6HkVqTVhcrGAporwGUVOzUv--8,330
+jcm_django_abstract/tracking.py,sha256=MoHDdh17LlEUWzgVMzsYd9VUAqxCgBDDxw1-TAfs_jE,1570
+jcm_django_abstract/uuid.py,sha256=xusB3gCgaU0TzPXtD6pjM3Jsa12zep9kRiFQoWf-tMk,204
+jcm_django_abstract-0.1.2.dist-info/LICENSE,sha256=Ip-ilFBYdpVRMo47m_LI-dnBRMsrIwgD0YvBi7om0E8,35755
+jcm_django_abstract-0.1.2.dist-info/METADATA,sha256=ngK2r7dv_cGXBsAtejPwZQdkelzsO1do6FVy8zC3VOQ,1127
+jcm_django_abstract-0.1.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+jcm_django_abstract-0.1.2.dist-info/top_level.txt,sha256=dM97Mc-QtQo9xafIeVW16jx2QQ49gCImaQiaxzEreoQ,20
+jcm_django_abstract-0.1.2.dist-info/RECORD,,
