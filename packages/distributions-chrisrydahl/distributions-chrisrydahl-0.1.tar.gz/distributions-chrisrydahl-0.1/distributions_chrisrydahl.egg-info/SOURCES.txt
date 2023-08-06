@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+distributions/Binomialdistribution.py
+distributions/Gaussiandistribution.py
+distributions/Generaldistribution.py
+distributions/__init__.py
+distributions_chrisrydahl.egg-info/PKG-INFO
+distributions_chrisrydahl.egg-info/SOURCES.txt
+distributions_chrisrydahl.egg-info/dependency_links.txt
+distributions_chrisrydahl.egg-info/not-zip-safe
+distributions_chrisrydahl.egg-info/top_level.txt
