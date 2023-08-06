@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "api_2b2t"
+version = "1.0.4"
+description = "This is api for minecraft server 2b2t. Documentation: https://github.com/YegorKryukov404/api2b2t/wiki/DOCS"
+authors = ["yer"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
