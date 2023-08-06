@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: jotion
+Version: 0.0.0
+Summary: 2-way, live Notion<>Jira integration.
+License: MIT
+Author: Gilad Barnea
+Author-email: cr-gbarn-herolo@allot.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: atlassian-python-api (>=3.5.3,<4.0.0)
+Requires-Dist: jira (>=2.0.0,<3.0.0)
+Requires-Dist: jira-cli (>=3.0,<4.0)
+Requires-Dist: notion (>=0.0.28,<0.0.29)
