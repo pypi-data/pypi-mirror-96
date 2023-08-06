@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: oecx
+Version: 0.2.0
+Summary: Network builder for the Observatory for Economic Complexity 
+Home-page: https://github.com/frjrodriguezla/oecx
+Author: Francisco R. Lanza
+Author-email: frjrodriguezla@unal.edu.co
+License: MIT
+Description: # oecx
+         - Instalar la libreria
+         - Uso de la librerias
+         
+        
+Keywords: oec,network
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: ~=3.3
+Description-Content-Type: text/markdown

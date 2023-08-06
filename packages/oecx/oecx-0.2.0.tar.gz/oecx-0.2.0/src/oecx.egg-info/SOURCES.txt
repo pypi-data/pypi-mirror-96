@@ -1,0 +1,11 @@
+README.md
+country_names.tsv
+setup.cfg
+setup.py
+src/country_names.tsv
+src/oecx.py
+src/oecx.egg-info/PKG-INFO
+src/oecx.egg-info/SOURCES.txt
+src/oecx.egg-info/dependency_links.txt
+src/oecx.egg-info/requires.txt
+src/oecx.egg-info/top_level.txt
