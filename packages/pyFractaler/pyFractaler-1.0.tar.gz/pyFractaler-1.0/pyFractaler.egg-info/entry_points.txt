@@ -1,0 +1,4 @@
+[console_scripts]
+fractal_demo = __init__:demo
+fractal_demo_ruled = __init__:demo_ruled
+

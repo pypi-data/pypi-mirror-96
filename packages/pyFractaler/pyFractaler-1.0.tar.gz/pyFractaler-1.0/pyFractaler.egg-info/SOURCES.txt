@@ -1,0 +1,9 @@
+README.txt
+setup.py
+pyFractaler/Fractal.py
+pyFractaler/__init__.py
+pyFractaler.egg-info/PKG-INFO
+pyFractaler.egg-info/SOURCES.txt
+pyFractaler.egg-info/dependency_links.txt
+pyFractaler.egg-info/entry_points.txt
+pyFractaler.egg-info/top_level.txt
