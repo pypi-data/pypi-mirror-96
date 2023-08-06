@@ -1,0 +1,4 @@
+flask
+sqlalchemy_utils
+psycopg2
+flask_migrate
