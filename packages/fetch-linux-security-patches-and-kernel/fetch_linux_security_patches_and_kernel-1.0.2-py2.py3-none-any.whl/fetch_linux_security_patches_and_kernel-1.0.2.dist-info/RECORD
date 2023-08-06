@@ -1,0 +1,10 @@
+fetch_security_patches_and_kernel/__init__.py,sha256=62qeHtUyyHqKFptfrdam7bmqUh2jDxOhud26t3-bgkY,4396
+fetch_security_patches_and_kernel/cmd.py,sha256=o8Jr8dbwK9AXd-Y_whKC88KUl3Z4rvLvjQrqRJ4iFCE,657
+fetch_linux_security_patches_and_kernel-1.0.2.dist-info/AUTHORS,sha256=L99NXDr86zNr3xLc5QVRVaHNVx56iMK3jWX-MB5gmSU,38
+fetch_linux_security_patches_and_kernel-1.0.2.dist-info/LICENSE,sha256=ZWkskCaStn86-rV6LLlyH_59nhnufhTAkAz37_7jjyE,1072
+fetch_linux_security_patches_and_kernel-1.0.2.dist-info/METADATA,sha256=xVenNcaXtpWfxI7G2zVIDWm2c3McoXwHlyz4ZYlxuAI,813
+fetch_linux_security_patches_and_kernel-1.0.2.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+fetch_linux_security_patches_and_kernel-1.0.2.dist-info/entry_points.txt,sha256=UwGreCESMWEuyyeMsROuaOHLlO_hA_gjadYFS4TWecw,98
+fetch_linux_security_patches_and_kernel-1.0.2.dist-info/pbr.json,sha256=kTSGfn4IkAGiHs1_kfq4txIOUXkJjyMeienRq_YG-oA,47
+fetch_linux_security_patches_and_kernel-1.0.2.dist-info/top_level.txt,sha256=oyhCQ0y5_8pb-VcLC4cufywVhn0K17U_gNaoRoLWHlc,34
+fetch_linux_security_patches_and_kernel-1.0.2.dist-info/RECORD,,
