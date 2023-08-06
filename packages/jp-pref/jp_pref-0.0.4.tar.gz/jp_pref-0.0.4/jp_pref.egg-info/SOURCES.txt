@@ -1,0 +1,16 @@
+CONTRIBUTING.md
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+jp_pref/__init__.py
+jp_pref/_nbdev.py
+jp_pref/prefecture.py
+jp_pref.egg-info/PKG-INFO
+jp_pref.egg-info/SOURCES.txt
+jp_pref.egg-info/dependency_links.txt
+jp_pref.egg-info/entry_points.txt
+jp_pref.egg-info/not-zip-safe
+jp_pref.egg-info/requires.txt
+jp_pref.egg-info/top_level.txt
