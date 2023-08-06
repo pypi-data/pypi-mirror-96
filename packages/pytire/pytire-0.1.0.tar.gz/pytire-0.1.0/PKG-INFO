@@ -1,0 +1,58 @@
+Metadata-Version: 2.1
+Name: pytire
+Version: 0.1.0
+Summary: Python library to handle tire attributes.
+Home-page: https://github.com/girotobial/pytire
+License: MIT
+Author: girotobial
+Author-email: abrobinson1907@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: Intended Audience :: Manufacturing
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Project-URL: Documentation, https://pytire.readthedocs.io/en/latest/index.html
+Project-URL: Repository, https://github.com/girotobial/pytire
+Description-Content-Type: text/markdown
+
+# pytire
+[![Documentation Status](https://readthedocs.org/projects/pytire/badge/?version=latest)](https://pytire.readthedocs.io/en/latest/?badge=latest)
+
+A library to make interpreting tire attributes and calculations easier.
+
+### Table of Contents
+## Getting Started
+To use this library install it via pip
+
+```sh
+$ pip install pytire
+```
+
+import into python
+```python
+from pytire import Tire
+
+tire = Tire("34x10.75-16")
+```
+
+## Dev Setup
+
+Clone from github
+```
+$ git clone 
+```
+
+Install using poetry
+```sh
+$ poetry install
+```
+set up pre-commit
+```sh
+$ pre-commit install
+```
+
+Alternatively use the dev container.
+
