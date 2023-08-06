@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        dbf2html=dbf2html.cli:cli
+    
