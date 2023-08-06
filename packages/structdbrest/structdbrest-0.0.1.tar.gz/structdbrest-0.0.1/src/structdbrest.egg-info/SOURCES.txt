@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/structdbrest/__init__.py
+src/structdbrest/data_classes.py
+src/structdbrest/query.py
+src/structdbrest.egg-info/PKG-INFO
+src/structdbrest.egg-info/SOURCES.txt
+src/structdbrest.egg-info/dependency_links.txt
+src/structdbrest.egg-info/requires.txt
+src/structdbrest.egg-info/top_level.txt
+src/structdbrest.egg-info/zip-safe
