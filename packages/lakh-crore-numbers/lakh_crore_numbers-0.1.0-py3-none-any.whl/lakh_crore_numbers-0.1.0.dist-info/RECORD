@@ -1,0 +1,15 @@
+lakh_crore_numbers/__init__.py,sha256=6RULn-sSQnhDedZIQTsGQgJN318QhndA402rh3Br53g,88
+lakh_crore_numbers/errors.py,sha256=31RyhuCrP2aBi8-2Bngl9iM3YaWD6h46q6CKmNy4tGI,278
+lakh_crore_numbers/format.py,sha256=BwJL5qEEbdj_zjbm9Kf5vJDXnsMk8JUYP4L6HvqSMCs,950
+lakh_crore_numbers/parse.py,sha256=vdogztcJJ23MHZFKSGHPM27Sq3n-bHibtnJBUUdEw4c,1659
+lakh_crore_numbers/languages/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+lakh_crore_numbers/languages/nepali.py,sha256=h7Ef9ryoHc1jYfY2fJv3eEwAAmj3rOrugTvygHXsU0E,3233
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_format.py,sha256=C0LYZsazAYZly85sLvlQxrx66a1sT_D4QJDuHQ66naY,2112
+tests/test_init.py,sha256=cS8dWytq32ONb75KWU8pKAEapdfMHoC5p8nOcLibJrk,525
+tests/test_parse.py,sha256=ptFD07EN6D3ucWbxHbuEY1oUiVmunWVza_dXllY7K-w,2562
+lakh_crore_numbers-0.1.0.dist-info/LICENSE,sha256=mxnzJOETeB9JLYKn2CKJW-i7HVYiSHrVXp6Vur_SdZU,747
+lakh_crore_numbers-0.1.0.dist-info/METADATA,sha256=uSaYTb7PhqGUXpWrG5btCMtckoMlERuEnto4YnSYxLE,3243
+lakh_crore_numbers-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+lakh_crore_numbers-0.1.0.dist-info/top_level.txt,sha256=AQK74NSvTiw9w1Y-AqSAOIc6BPQ58DwvTPy5T4CC6PU,25
+lakh_crore_numbers-0.1.0.dist-info/RECORD,,
