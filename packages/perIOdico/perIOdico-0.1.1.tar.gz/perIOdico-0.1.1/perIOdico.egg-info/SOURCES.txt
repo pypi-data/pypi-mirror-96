@@ -1,0 +1,10 @@
+README.md
+setup.py
+bin/perIOdico
+perIOdico/__init__.py
+perIOdico/perIOdico.py
+perIOdico.egg-info/PKG-INFO
+perIOdico.egg-info/SOURCES.txt
+perIOdico.egg-info/dependency_links.txt
+perIOdico.egg-info/requires.txt
+perIOdico.egg-info/top_level.txt

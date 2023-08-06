@@ -1,0 +1,7 @@
+#!usr/bin/env python
+
+from perIOdico import perIOdico, get_date
+
+p = perIOdico(get_date(), verbose=False)
+p.get_image()
+p.open_image()
