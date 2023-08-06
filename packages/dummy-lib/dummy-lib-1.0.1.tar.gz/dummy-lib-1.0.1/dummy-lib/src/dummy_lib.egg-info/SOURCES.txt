@@ -1,0 +1,6 @@
+README.md
+setup.py
+dummy-lib/src/dummy_lib.egg-info/PKG-INFO
+dummy-lib/src/dummy_lib.egg-info/SOURCES.txt
+dummy-lib/src/dummy_lib.egg-info/dependency_links.txt
+dummy-lib/src/dummy_lib.egg-info/top_level.txt
