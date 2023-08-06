@@ -1,0 +1,16 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+app.py
+help.txt
+setup.py
+Commands/__init__.py
+Commands/todos.py
+TodoCLI.egg-info/SOURCES.txt
+TodoCLI.egg-info/dependency_links.txt
+TodoCLI.egg-info/top_level.txt
+py_todocli.egg-info/PKG-INFO
+py_todocli.egg-info/SOURCES.txt
+py_todocli.egg-info/dependency_links.txt
+py_todocli.egg-info/top_level.txt

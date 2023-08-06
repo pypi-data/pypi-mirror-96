@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: py-todocli
+Version: 0.0.1
+Summary: This is a very basic Todo list app, which works on CLI.
+Home-page: UNKNOWN
+Author: Piyush Gupta
+Author-email: piyushguptaa2z123@gmail.com
+License: MIT
+Description: This is a very basic Todo list app, which works on CLI.
+        
+        Change Log
+        ===========
+        
+        0.0.1 (27/02/2021)
+        --------------------
+        - First Release
+Keywords: todo,CLI,todos,TodoCLI
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
