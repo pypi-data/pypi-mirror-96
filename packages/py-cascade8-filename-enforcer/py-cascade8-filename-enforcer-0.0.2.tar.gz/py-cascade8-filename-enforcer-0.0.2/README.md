@@ -1,0 +1,95 @@
+# Cascade CMS Filename Rule Enforcer
+This package was developed to automate the enforcement of file naming conventions in an enterprise instance of Cascade CMS 8 for the College of Charleston, but has been re-written in a way that allows you to set the configuration for your own Cascade CMS environment. With over 100 sites to manage, and each site containing improperly named resources that were allowed in the previous Cascade Server 7 from which we migrated, we needed a way of automatically detecting improper file names (file names with spaces and capitalized letters) and fixing them dynamically. This package handles that automation in an object-oriented way. 
+
+## How To Use 
+You can refer to the test() method [here](https://github.com/austinjhunt/CascadeCMS-filename-rule-enforcer/blob/master/cascade-filename-enforcer/ruleenforcer.py) if you want a more extensive example of usage, but here is the basic flow of using the package. 
+* I recommend first creating and activating a virtual environment:
+* ```python3.6 -m venv venv && source venv/bin/activate ```
+* Next, install the package using ```pip```
+* ``` pip install py-cascadecms-fname-enforcer ```
+* Create a python file, e.g. ```test.py```
+* Inside the file, add the following content 
+```
+from c8ruleenforcer import CascadeCMSFileNameRuleEnforcer
+# specific to my example, I need quote to correctly parse 
+# the password from the environment variable
+from requests.utils import quote 
+# Set your configuration variables
+# I like to use os.environ.get() to pull from environment variables. 
+# There is a start-dev-template.sh script you can use to set the values for these.
+cpass = quote(os.environ.get('CASCADE_CMS_PASS',''))
+cuser = os.environ.get('CASCADE_CMS_USER','')
+# The base URL of the Cascade 8 REST API. THIS SHOULD END WITH /api/v1
+restapi= os.environ.get('CASCADE_CMS_REST_API_BASE','') 
+
+# Create a rule enforcer 
+rule_enforcer = CascadeCMSFileNameRuleEnforcer(
+    cuser=cuser, cpass=cpass, restapi=restapi
+)
+site_name = "name_of_your_site"
+# Call the recursive traversal function that will also 
+# fix your improperly named assets as well as return a list of 
+# the ones it fixes in the form of: 
+[
+    {
+        "old": "old BAD name.png",
+        "new": "old-bad-name.png"
+    },
+    {
+        "old": "old BAD name 2.png",
+        "new": "old-bad-name-2.png"
+    },... 
+] 
+assets_fixed = rule_enforcer.traverse(
+    current_parent_folder=f'{site_name}',
+    site_full_assets_list=[], # initialize empty list 
+    # sites for which you want to skip enforcement
+    skip_sites=["_Auto-Migrated Global_", "_skeleton.cofc.edu"] 
+)
+print(assets_fixed) 
+```
+The following is a more elaborate use of the package to iterate over many sites and keep a record of what 
+was changed for each in JSON format. 
+```
+def main(): 
+    """ Production call - loop through all Cascade CMS sites and 
+    fix improper filenames, keeping a record of the resources changed in 
+    a local JSON file """ 
+    # Create rule enforcer
+    cpass = quote(os.environ.get('CASCADE_CMS_PASS',''))
+    cuser = os.environ.get('CASCADE_CMS_USER','')
+    restapi= os.environ.get('CASCADE_CMS_REST_API_BASE','')
+    rule_enforcer = CascadeCMSFileNameRuleEnforcer(
+        cpass=cpass, cuser=cuser, restapi=restapi
+    ) 
+    site_dicts = []
+    for s in rule_enforcer.get_all_sites():
+        site_name = s['path']['path']
+        site_id = s['id'] 
+        # Start with the base of site_name/content. initialize a
+        print(f"Beginning scan for invalid filenames in site {site_name}")
+        site_dictionary = {
+            f'{site_name}': {
+                'bad_assets': rule_enforcer.traverse(
+                    current_parent_folder=f'{site_name}/content',
+                    site_full_assets_list=[], # always empty initially
+                    skip_sites=["_Auto-Migrated Global_", "_skeleton.cofc.edu"] # sites to skip enforcement
+                )
+            } 
+        }
+        site_dictionary[site_name]['publish_result'] = rule_enforcer.publish_site(site_id) 
+        site_dicts.append(site_dictionary)
+        with open('site_read.json', 'w') as f:
+            json.dump(site_dicts, f)
+        print(f"Completed scan of site {site_name}")
+
+if __name__ == "__main__":
+    # One site: redesign.cofc.edu 
+    # test()
+    # All sites!
+    main()
+```
+--- 
+## Notes
+* If your site(s) does not have a root /content folder (e.g. sitename.edu/content/* in Cascade), be sure to remove the /content portion of the current_parent_folder argument. 
+

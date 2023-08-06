@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+cascade8_filename_enforcer/__init__.py
+cascade8_filename_enforcer/enforcer.py
+py_cascade8_filename_enforcer.egg-info/PKG-INFO
+py_cascade8_filename_enforcer.egg-info/SOURCES.txt
+py_cascade8_filename_enforcer.egg-info/dependency_links.txt
+py_cascade8_filename_enforcer.egg-info/requires.txt
+py_cascade8_filename_enforcer.egg-info/top_level.txt
