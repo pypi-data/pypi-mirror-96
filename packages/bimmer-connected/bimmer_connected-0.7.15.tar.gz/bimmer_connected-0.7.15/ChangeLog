@@ -1,0 +1,7 @@
+CHANGES
+=======
+
+0.7.15
+------
+
+* Revert CRLF issues from #268 (#270)
