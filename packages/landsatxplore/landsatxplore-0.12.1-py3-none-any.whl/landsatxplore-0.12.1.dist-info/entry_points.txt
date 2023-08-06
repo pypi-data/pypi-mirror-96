@@ -1,0 +1,3 @@
+[console_scripts]
+landsatxplore=landsatxplore.cli:cli
+
