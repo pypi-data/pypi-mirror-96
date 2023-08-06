@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+htmlBuilder/__init__.py
+htmlBuilder/attributes.py
+htmlBuilder/exceptions.py
+htmlBuilder/tags.py
+htmlBuilder/test.py
+htmlBuilder/utils.py
+htmlBuilder.egg-info/PKG-INFO
+htmlBuilder.egg-info/SOURCES.txt
+htmlBuilder.egg-info/dependency_links.txt
+htmlBuilder.egg-info/top_level.txt
