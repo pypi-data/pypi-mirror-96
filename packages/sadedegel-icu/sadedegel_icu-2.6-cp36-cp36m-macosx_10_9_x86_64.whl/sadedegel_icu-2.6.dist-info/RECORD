@@ -1,0 +1,12 @@
+sadedegel_icu-2.6.dist-info/RECORD,,
+sadedegel_icu-2.6.dist-info/LICENSE,sha256=dLut7k7jw6GsDs-9dLx85kBG3hzt30cX3JI4CcqP_OM,1284
+sadedegel_icu-2.6.dist-info/WHEEL,sha256=SCcPaD1xriZouD6EXl7AgcYiQmH1NgiskymVTsykSG4,110
+sadedegel_icu-2.6.dist-info/top_level.txt,sha256=-vnrjlwfEQd5PpUolRNdIVCc1hSowmEVUA5uIhN4VnM,4
+sadedegel_icu-2.6.dist-info/METADATA,sha256=fpD90FoXbeoLHQ5bZdscH-s4ArSqee07T7nl-iVnd80,8823
+icu/_icu.cpython-36m-darwin.so,sha256=GajIe27hADY2SczP5uAJB9C-6-hasoOuMPLy7pXQ3wY,1485992
+icu/__init__.py,sha256=M8ijFsTLjEDE2EqQXJUBaeSyNWReMAYza7OyJkYbHCA,1546
+icu/.dylibs/libicudata.68.dylib,sha256=ttZzvovZhq5NVxCXy4qN86ypYNpw5P3x46Ug7BGQNA4,28573792
+icu/.dylibs/libicui18n.68.dylib,sha256=nA0m7CH-pM4YZtll_VQodECPiK5HGKyOaYFsFypzCIs,3130360
+icu/.dylibs/libicuuc.68.dylib,sha256=5h5AOuETKyHxNhZz63NcCiZwwVYj9m7Wg4kAKhmG6_A,1914152
+icu/.dylibs/libicutu.68.dylib,sha256=NLqFixD-y-pSRCPVUWorxYAjMIodifI-lX6QovAn2EE,225864
+icu/.dylibs/libicuio.68.dylib,sha256=2mWm52B-KySRalmPOg5bwroRX1PCh-NZRXo6_5HKIz4,98000
