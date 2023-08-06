@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: resolveit
+Version: 0.1.1
+Summary: Resolve data schemas
+Home-page: https://github.com/dave31415/resolveit
+Author: David Johnston
+Author-email: dave31415@gmail.com
+License: MIT
+Download-URL: https://pypi.org/project/resolveit/
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: pytest
+Requires-Dist: numpy
+Requires-Dist: bokeh
+
+# Resolveit
+
+
+First version April 30, 2020
+
+
+

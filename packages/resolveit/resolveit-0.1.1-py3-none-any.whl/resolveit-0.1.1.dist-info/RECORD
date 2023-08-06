@@ -1,0 +1,15 @@
+resolveit/__init__.py,sha256=txD0jYFkcH4chkZpfnCYvop93hHLEtyltp3hJjeZjyk,15
+resolveit/column_stats.py,sha256=Ac9AgLhv2tPh_mMh6TJ73PqzxdmxWcPg6nrvVhQxGbs,1362
+resolveit/column_stats_numeric.py,sha256=FStXLabsjCyGJhYZyw9irMEy7-kFFZXgZrc20zRECBY,368
+resolveit/column_vectors.py,sha256=8hBj8jh-XgTPKU52lC6W5NwwkDlxEB2QXBz6DiLw374,504
+resolveit/files.py,sha256=tfMXugVOgrnDIB5CKBnCKVbIWFBs_JVJPOP5RYTKlks,1096
+resolveit/get_all_stats.py,sha256=Jxqxqh5IOqxfX8qNqDZ0ZnVVc5pZiZGF9dU8kF3IuJc,2732
+resolveit/get_column_stats.py,sha256=P-A4YZTiGNzjI0i7Wq-CV4_dGnHUVr9QlppBuCVM4QM,3660
+resolveit/shingle.py,sha256=LScoPZkGbiNRWE83HlBcdh61LXT5kCaydaSt57hmqLk,669
+resolveit/show_matrix.py,sha256=O3W8s7l3VjFobk90eqUwnd9SnCUrhUSlrZo8q58F8EY,687
+resolveit/utils.py,sha256=q-JJgn6NSgGjGQ842TDymt39me3x7RIZdE9-jcu9l8A,1026
+resolveit-0.1.1.dist-info/LICENSE.txt,sha256=OW50HvUHkoPzfF-h2Ppn132X03-AaAjjROKhrBPNJSI,1063
+resolveit-0.1.1.dist-info/METADATA,sha256=fFIWYa9MLuBFETCWQdUeYpRtvobQhwzleWTgGyYtHEg,422
+resolveit-0.1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+resolveit-0.1.1.dist-info/top_level.txt,sha256=DBilxKWfwLY2h3K4vGYqhNBfupsN1xHK3D-SsC30Ea8,10
+resolveit-0.1.1.dist-info/RECORD,,
