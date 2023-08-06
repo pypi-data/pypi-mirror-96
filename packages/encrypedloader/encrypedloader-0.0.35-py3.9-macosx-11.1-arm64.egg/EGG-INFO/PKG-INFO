@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: encrypedloader
+Version: 0.0.35
+Summary: import encrypted python code
+Home-page: https://github.com/ipconfiger
+Author: Alexander.Li
+Author-email: superpowerlee@gmail.com
+License: MIT
+Description:  
+Keywords: encrypted python code
+Platform: UNKNOWN
