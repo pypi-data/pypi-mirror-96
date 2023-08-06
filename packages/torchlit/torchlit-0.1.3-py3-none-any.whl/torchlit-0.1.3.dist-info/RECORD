@@ -1,0 +1,12 @@
+torchlit/__init__.py,sha256=9kPVPBNNgs2shT-bT__sJoLgcnxmczCKOj06WQBhrjk,61
+torchlit/data/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+torchlit/data/datasets.py,sha256=zBsCE56f-hKDE0R3thko8CicX5QuXaCXYZ8iPqpZwko,2215
+torchlit/data/scraper.py,sha256=HFDHQoEJN07z1d5O0cO3gmkk2lL6fKY8rxelGtB423k,2422
+torchlit/models/__init__.py,sha256=Co5TILY8ZT_QRBZvoHau6ZIe2t8WymO3cD-IIF-5GZY,85
+torchlit/models/model.py,sha256=7Aoveca8Q63LPG_UsCy8_FIkxrfkiUwODoKVlVq1ctM,2981
+torchlit/utils/__init__.py,sha256=gK4D8twsZITkEdG9qgIBPB-4lWX4X5mJYeogx2P1fwI,166
+torchlit-0.1.3.dist-info/LICENSE,sha256=Mc62B5Gugq795TYKbZ-9zFJstm2-snvikx7a9egY2BI,1080
+torchlit-0.1.3.dist-info/METADATA,sha256=diQK7-JTj9V1UIBBgOJ3zNb7SkFkrJXjNzlVpUYRtrg,5226
+torchlit-0.1.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+torchlit-0.1.3.dist-info/top_level.txt,sha256=6nv5tFjWoYT6JLkxiZvFWyYygxyJncDchn8X9GXNRGk,9
+torchlit-0.1.3.dist-info/RECORD,,
