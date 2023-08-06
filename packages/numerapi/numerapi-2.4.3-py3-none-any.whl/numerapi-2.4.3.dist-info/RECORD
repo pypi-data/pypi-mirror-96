@@ -1,0 +1,13 @@
+numerapi/__init__.py,sha256=8Ft2--UmwyQZJdcTH8CruCydNBWLDwraG2tV1YvTkq0,265
+numerapi/base_api.py,sha256=uChB2v0cVKH48pPlwZn8A7JEr3DtEEPNukawzTYtG84,15484
+numerapi/cli.py,sha256=BBzC2FQK3rxJt-Oo0GPPqB0rPWVbmQ502VUBl3CvB2w,7010
+numerapi/numerapi.py,sha256=kj8uKf23khc6lcFQWLRaffJeVhMyFO2Nt_8li-vzdwk,49143
+numerapi/quantapi.py,sha256=oPfE-oRPNtRcaGmZRWHmUZtuPp6kOYuhnNyxqn0zrMQ,7754
+numerapi/signalsapi.py,sha256=ekT5oRmToWPXUCzGPjkLjMkuJunB6vl-4BldvDXRtUo,12612
+numerapi/utils.py,sha256=NSCgjb3bqeQ8nms9fQ71aeQiPrp6-4QuIj9QjV9IljM,2254
+numerapi-2.4.3.dist-info/LICENSE,sha256=BnOIJOdxTIxmbNPf_ZmCXqepXDTRWad1nQf9eYk-eSg,1056
+numerapi-2.4.3.dist-info/METADATA,sha256=lZlgUdqRy8hhqOo0NOnoWPZcHy0tei5tDEe6j1wPNs0,7063
+numerapi-2.4.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+numerapi-2.4.3.dist-info/entry_points.txt,sha256=rXADI26njzOHNPz62nvThWFEQyvgCM7zlWZKxTzRLVo,47
+numerapi-2.4.3.dist-info/top_level.txt,sha256=7f4lKNQqRDEGaDXGIqRQCx-rU5pNl6ZgbXz864F1uXY,9
+numerapi-2.4.3.dist-info/RECORD,,
