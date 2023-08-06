@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+NOTICE
+README.md
+dev-requirements.in
+dev-requirements.txt
+mypy.ini
+pyproject.toml
+setup.cfg
+setup.py
+securicad/model/__init__.py
+securicad/model/model.py
+securicad_model.egg-info/PKG-INFO
+securicad_model.egg-info/SOURCES.txt
+securicad_model.egg-info/dependency_links.txt
+securicad_model.egg-info/top_level.txt
