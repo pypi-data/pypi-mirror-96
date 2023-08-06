@@ -1,0 +1,8 @@
+README.md
+setup.py
+wxmpy/__init__.py
+wxmpy/wxm.py
+wxmpy.egg-info/PKG-INFO
+wxmpy.egg-info/SOURCES.txt
+wxmpy.egg-info/dependency_links.txt
+wxmpy.egg-info/top_level.txt
