@@ -1,0 +1,3 @@
+[console_scripts]
+dnf-converter = dnf_converter.cli:main
+
