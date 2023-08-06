@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: summarize-cross-validation-score
+Version: 0.1.0
+Summary: summarizes the output of cross_validate function
+License: MIT
+Author: Debananda Sarkar
+Author-email: sarkar.debananda.1@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: numpy (>=1.20.1,<2.0.0)
+Requires-Dist: pandas (>=1.2.2,<2.0.0)
