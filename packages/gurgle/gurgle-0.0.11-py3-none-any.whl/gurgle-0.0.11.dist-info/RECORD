@@ -1,0 +1,11 @@
+gurgle/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+gurgle/base.py,sha256=aM8XqWDqKhQplEPKawz4ZRpan-BJpJLPfLKf4wQnF_0,7480
+gurgle/sp_gurgle.py,sha256=5Trwy9CpGhVmwHyelU_XsZEy4Uxx2ZOObryn_BaRB10,16850
+gurgle/terminal.py,sha256=wdMaMOWAEqftBN7qsKiQ8HFi8MzvI-agutNIYMedhMc,5655
+gurgle/util.py,sha256=jSTqsrHajf6rWUc5nZoIRjjF1NSOeca2ISS5bvi2hQc,1788
+gurgle-0.0.11.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+gurgle-0.0.11.dist-info/METADATA,sha256=X5nfwkGhnjuBsCT-FCyj7futWs5zJABbKIqjyE76rFg,590
+gurgle-0.0.11.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+gurgle-0.0.11.dist-info/entry_points.txt,sha256=bWIyM1XUitiqFyUgbq8t0qrlLHBM1eDNmNN3oV3v4V8,58
+gurgle-0.0.11.dist-info/top_level.txt,sha256=OKJpZUfFTNIrGH0TJk1RVsUOztMmHgQBwH8u9i_QLl0,7
+gurgle-0.0.11.dist-info/RECORD,,
