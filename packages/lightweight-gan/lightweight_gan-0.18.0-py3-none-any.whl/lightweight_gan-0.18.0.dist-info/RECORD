@@ -1,0 +1,12 @@
+lightweight_gan/__init__.py,sha256=mJYuImI6uVnGhgCFKtzoqwWPodt5kPrVu8HysfD7tZg,108
+lightweight_gan/cli.py,sha256=8s-zSs-9xRqxGuhToSd8Yg4cvLWwgEdJIJVSdWAmYOs,5486
+lightweight_gan/diff_augment.py,sha256=d__Z6HI5AA5M02wPFAsjSV3Ob7DUdb5yLPX665rrSpM,3647
+lightweight_gan/diff_augment_test.py,sha256=Q2kS2qYCFXW8IRW7Ig7p_HLudCpq0lj_GcbjGrPkNXQ,1528
+lightweight_gan/lightweight_gan.py,sha256=iRr-7Vq69WTxU8bXYG__4wDsspb2c68TEsncIABe3qI,47386
+lightweight_gan/version.py,sha256=xLQqGjpDoJw8wh7LhnSmkR_X41AAFaOxbyFZXuEbtfY,23
+lightweight_gan-0.18.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+lightweight_gan-0.18.0.dist-info/METADATA,sha256=u-fawHrSiUuaT7hnwxRGUEmVpdV0wZVCsAWOz_23KZA,848
+lightweight_gan-0.18.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+lightweight_gan-0.18.0.dist-info/entry_points.txt,sha256=HsZ1-ssZ-43-lIHzXMKlw4XSDQgOuo5lUBOtSPpmb0A,62
+lightweight_gan-0.18.0.dist-info/top_level.txt,sha256=clQMasbidB0G_6cayDp27FldzKhG35TErvoCLL_DkLc,16
+lightweight_gan-0.18.0.dist-info/RECORD,,
