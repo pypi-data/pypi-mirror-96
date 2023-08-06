@@ -1,0 +1,11 @@
+zenodo_client/__init__.py,sha256=ZCtQESM4y2Ozs1SHL_SdOt0OATpsPDxTmeu0Ur71vYU,114
+zenodo_client/__main__.py,sha256=qfURL3qsKk4MUwTHqTUH26Cyn0gpb1vqBvKgH2haEUg,330
+zenodo_client/api.py,sha256=4iht7PeWrIUPhy-0_pV8fO4_LMaYqJQIsmJhxup9oek,5345
+zenodo_client/cli.py,sha256=l8IVmPPlPOquyCRSxRe-RgrTEWH9Xc_j8ArLbgIHmig,1090
+zenodo_client/version.py,sha256=yOl1jFpPCC2O7DPoF-yvoVw7EHmHYwbyFx0qXyFMGK0,1015
+zenodo_client-0.0.1.dist-info/LICENSE,sha256=GzLA83qaovFgoZWRYwaAmY-lkHZyDySJHU-YKE9NdVs,1076
+zenodo_client-0.0.1.dist-info/METADATA,sha256=ZMPu0HWN5Vwzslt1haT9KoF3dtZlSU6ZsVy62mZ46Xg,6215
+zenodo_client-0.0.1.dist-info/WHEEL,sha256=S6zePDbUAjzMmpYOg2cHDxuYFWw7WiOXt6ogM6hIB5Q,92
+zenodo_client-0.0.1.dist-info/entry_points.txt,sha256=F_TdlOwDF-mtxnrgVGT_i4SkwBbztZLR0xDdKY6R8hk,58
+zenodo_client-0.0.1.dist-info/top_level.txt,sha256=ZiFLRZCNwDHcB9RvK0h9BVXvDlHUs7sy-cLV3zNhSjE,14
+zenodo_client-0.0.1.dist-info/RECORD,,
