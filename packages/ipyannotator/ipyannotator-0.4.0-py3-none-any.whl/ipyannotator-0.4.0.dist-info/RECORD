@@ -1,0 +1,16 @@
+ipyannotator/__init__.py,sha256=ThnCuF3X7rsQSd5PAea_jfYA70ZmhLvkFcLBxBPwZnY,22
+ipyannotator/_nbdev.py,sha256=Nx82Cp3Ij9hM2mj0V-wPwRh_l0onx1zk-zSbUbzI1ek,2887
+ipyannotator/bbox_annotator.py,sha256=UUDSHcai3JGFSK9zmjvAZ82ymCY_Ull12kPG9s9FLhk,5411
+ipyannotator/bbox_canvas.py,sha256=jGR6aSGAk8gMqGZucNtFjfKrEaUN8NErOXITZzJcT0I,7821
+ipyannotator/capture_annotator.py,sha256=INwr4n_BkqqmLv3vYq_-z-SYZAv-sD9c9n3W10DbgT4,9797
+ipyannotator/datasets/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ipyannotator/datasets/download.py,sha256=7qzoozff7mXdy8FS14laD3WK2KIkA0nwGgHc0XumLiU,5782
+ipyannotator/datasets/generators.py,sha256=_CUWwq3RU1Y1A5gujxdkBw_uEk2riaeghWOaThUHRRc,9430
+ipyannotator/im2im_annotator.py,sha256=kXmYcCGQ_E8G_Fz3t6iV_vPfp8w_G4p0c-unSli9d0k,14077
+ipyannotator/image_button.py,sha256=E8iTAMB1LExFWHnU-e5H_aLXRuxH1vON3ZoD0ZsuROc,3793
+ipyannotator/navi_widget.py,sha256=CDUfyddyKsKRcdMcf9IPLhnjepG0IP_l6kFlEmhj5wI,2066
+ipyannotator/storage.py,sha256=chi6mII-2lqbpVIAhYgccCVlSxVgMUYhcwjbNCb5Qb8,9787
+ipyannotator-0.4.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+ipyannotator-0.4.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+ipyannotator-0.4.0.dist-info/METADATA,sha256=yveJZYy6lmcA7fl5EC46IaKOpo7XvVESWXC8ymN4CYU,4914
+ipyannotator-0.4.0.dist-info/RECORD,,
