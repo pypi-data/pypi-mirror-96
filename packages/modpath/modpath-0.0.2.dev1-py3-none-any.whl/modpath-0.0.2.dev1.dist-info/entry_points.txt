@@ -1,0 +1,3 @@
+[console_scripts]
+modpath = modpath.cli:modpath_cli
+

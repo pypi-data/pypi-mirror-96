@@ -1,0 +1,14 @@
+modpath/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+modpath/__main__.py,sha256=QpL7UFRYX0WdyBwm1aJ73jWu75EKNoQ-Vv294ec04zk,104
+modpath/cli.py,sha256=60_9oFvzOP3J9nkN4jRuAmW4culDE2iflId1AiN94kE,2750
+modpath/dtypes.py,sha256=ZZmxEWOOu_WU0knfrMlknIgzJ5jvT8kFY868bfkaNMQ,691
+modpath/errors.py,sha256=wdAH9p6oa9Ag57wXPKE07QwHmiygsTCa0ixW91YIKLQ,82
+modpath/funcs.py,sha256=bTQLGE9RNL3vAYCTnLO8cR0ypJ7Dlg-a5xbZdAg2s6g,1996
+modpath-0.0.2.dev1.dist-info/AUTHORS,sha256=IoHaOeEg0eIHiUuQtGMCjI3CrCFL8ugmDAuVH628AGI,100
+modpath-0.0.2.dev1.dist-info/LICENSE,sha256=C3-psQL_KOm9_utj1mkMEcBrrLuzKGfArK2xg8fNf5w,1071
+modpath-0.0.2.dev1.dist-info/METADATA,sha256=7IT2Zt1t588HXuthRiWSZoxC3JsEjIsy0YmIfnpDqhQ,798
+modpath-0.0.2.dev1.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+modpath-0.0.2.dev1.dist-info/entry_points.txt,sha256=clWq-JfawtqimFYZN6-RE2ociCu-nlliOIfMPSK1zA8,53
+modpath-0.0.2.dev1.dist-info/pbr.json,sha256=nUR9lTwbpx0eRV9MkBIeKBPzmmA-6W9jBAbyLqecEdI,47
+modpath-0.0.2.dev1.dist-info/top_level.txt,sha256=GnDS1e5j4S-T1SqyH1BPc5HNAHJrJeYpeG8C_kRFGWY,8
+modpath-0.0.2.dev1.dist-info/RECORD,,

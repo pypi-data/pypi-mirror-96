@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: modpath
+Version: 0.0.2.dev1
+Summary: Modify paths. A tool to manipulate paths, extensions, directories, and structured filenames
+Home-page: https://github.com/xkortex/modpath
+Author: Michael McDermott
+Author-email: michaelmcdermott11@gmail.com
+License: MIT
+Keywords: path,file,io
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Description-Content-Type: text/markdown; charset=UTF-8
+
+# modpath
+Modify paths. A tool to manipulate paths, extensions, directories, and structured filenames
+
+
+
