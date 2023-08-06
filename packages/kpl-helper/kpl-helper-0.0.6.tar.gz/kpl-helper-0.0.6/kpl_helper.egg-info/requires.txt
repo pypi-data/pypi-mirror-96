@@ -1,0 +1,4 @@
+requests==2.18.4
+PyYAML==3.12
+kpl-dataset
+requests_toolbelt
