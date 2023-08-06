@@ -1,0 +1,11 @@
+b2bapi/__init__.py,sha256=QRSPcXAlFvb2D5AAlc1sX9BI6W09rmjtalKQ6Ab_mkw,46
+b2bapi/madlib.py,sha256=8SJEdIys3KEGqCllhVI7ECrtB0g5vCh7R_RREPOPy8c,715
+b2bapi/meme.py,sha256=oXs1NDNJrOqsCOAYzEVWuZWviBzH-0SH6pYhX9iu6Gs,202
+b2bapi/speedtext.py,sha256=EscOvo7tgKJkP4m6v56KoOOgiMkXa74MxrAEaLWxqxo,340
+b2bapi/word.py,sha256=SwZ32gILn4vemXjUFwGt8oYAVCoXWhyqufqP_MPvG3s,120
+b2bapi/wrapper.py,sha256=DB5RRjQ2Y5Kc0QLpZKARVSoigNryNqHn3UlO7RuQpBk,1163
+b2bapi-1.0.4.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+b2bapi-1.0.4.dist-info/METADATA,sha256=1TDJy4THwMs3RbhjILo9jnuT-9ZFr4MJI9UsOnl2xeg,2781
+b2bapi-1.0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+b2bapi-1.0.4.dist-info/top_level.txt,sha256=NcOCcX0CRsscEgrpcbdEnBZWaH9IVbxsKWz_OQuRwnE,7
+b2bapi-1.0.4.dist-info/RECORD,,
