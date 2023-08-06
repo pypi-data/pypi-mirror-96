@@ -1,0 +1,6 @@
+Corrfunc/_countpairs.cpython-37m-darwin.so
+Corrfunc/_countpairs_mocks.cpython-37m-darwin.so
+smoothcorrfunc/_countpairs.cpython-37m-darwin.so
+smoothcorrfunc/_countpairs_mocks.cpython-37m-darwin.so
+suave/_countpairs.cpython-37m-darwin.so
+suave/_countpairs_mocks.cpython-37m-darwin.so
