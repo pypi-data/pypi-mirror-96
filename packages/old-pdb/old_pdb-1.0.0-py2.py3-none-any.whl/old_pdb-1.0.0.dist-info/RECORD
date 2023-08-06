@@ -1,0 +1,15 @@
+old_pdb/__init__.py,sha256=2ai61nlFmyNcXW1HZu6E1fYD2XfU6l7LJqGPwnnP8ok,121
+old_pdb/annotation.py,sha256=ML9NAW1uOWHvIXIkOdZ0-BjEwAEbsZTdIR01oMYroew,52297
+old_pdb/bookkeeping.py,sha256=j7_4SZ2Rkm5G5RZjg5F_vBTmk86bUfu9TUOvIHKPJj0,6907
+old_pdb/coordinates.py,sha256=z8LczisB2YTx9Mfe4nNEKttW4Ruuow3UEElh9_NaZRg,21355
+old_pdb/crystallography.py,sha256=XeFitQz6FJaxlB2qWwE1xhUmPmT8QwamQx3rRdrS_z8,10605
+old_pdb/general.py,sha256=ALy0EAqv_DLidnG9bpMksI-hUAcOV53ubO3zDtNzmJI,2249
+old_pdb/heterogen.py,sha256=hIxlSUX2Y7dFhWZRq7XdfihDpAeek73_vFMdZl_VPi0,10404
+old_pdb/pdb_entry.py,sha256=qRY0_9mlt2JuJhfnt9k0Jk34ddEJovmgjGEy_1LapLM,29690
+old_pdb/primary.py,sha256=pJGn4ziOqoREo0sCNt5BYtvjaRlKiPzmWtcYmSIcRmE,25205
+old_pdb/secondary.py,sha256=IguCWP3T1Ic5poD-UVAUFH3tKncOEEzvp8tNGII43wU,28684
+old_pdb-1.0.0.dist-info/LICENSE,sha256=9Ofzc7m5lpUDN-jUGkopOcLZC3cl6brz1QhKInF60yg,7169
+old_pdb-1.0.0.dist-info/METADATA,sha256=sNm8wdObDk3Gb-vV0miviT-sr30drXyByCNkUUdtZJI,1132
+old_pdb-1.0.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+old_pdb-1.0.0.dist-info/top_level.txt,sha256=WEMXcXYa2XSBZ1Nf8KCOrWVmLso606pnDhm3JbVLipU,8
+old_pdb-1.0.0.dist-info/RECORD,,
