@@ -1,0 +1,10 @@
+hqchart/HQChartPy2.pyd,sha256=3D2qPMvDkoumbzGq63Oved78kZZ10kd3tc953hdcNKs,685568
+hqchart/__init__.py,sha256=a6uo2w-9oqlCc9aEfRjaLuIy9JzTzGl8ntTzsYmfpF4,71
+hqchart/hqchartpy2_fast.py,sha256=spPW7GClnjOJYJUkvgnJDGAfaLM9e1GUagTMTpAQfCA,8911
+hqchart/hqchartpy2_pandas.py,sha256=mRepf_G9we42DLsLEBJUQuuJt8BXC-yJ4ZazhILdpik,783
+hqchart/libcrypto-1_1-x64.dll,sha256=ZGLa1LF1JTKv9PLJt3kYge2H8qk-8mFlV3vQBhVMVmU,3000832
+hqchart/libssl-1_1-x64.dll,sha256=jKHRzVK18NI_jqCPTPdqEKf7WIIUwoB8S5UjJK2iOIc,515072
+hqchart-1.0.11.dist-info/METADATA,sha256=oSSxBZN7cY2thmMehZIvoC4KBdQ3oacxlM9_D4gETgo,380
+hqchart-1.0.11.dist-info/WHEEL,sha256=v8slff5hmCpvciQ3G55d2d1CnOBupjDFJHDE2dUb1Ao,97
+hqchart-1.0.11.dist-info/top_level.txt,sha256=yDeEniJM8zXHJkmD5j8FU_FREnvdZYu0H6nnHtbh_WQ,8
+hqchart-1.0.11.dist-info/RECORD,,

@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: hqchart
+Version: 1.0.11
+Summary: HQChartPy2 C++
+Home-page: https://github.com/jones2000/HQChart
+Author: jones2000
+Author-email: jones_2000@163.com
+License: Apache License 2.0
+Keywords: HQChart HQChartPy
+Platform: UNKNOWN
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Dist: requests
+Requires-Dist: pandas
+Requires-Dist: numpy
+
+UNKNOWN
+
+
