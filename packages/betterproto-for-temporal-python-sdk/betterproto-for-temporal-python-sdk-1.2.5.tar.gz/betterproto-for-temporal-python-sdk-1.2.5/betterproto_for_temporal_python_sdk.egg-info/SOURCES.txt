@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+betterproto/__init__.py
+betterproto/casing.py
+betterproto/plugin.py
+betterproto/py.typed
+betterproto/templates/template.py.j2
+betterproto_for_temporal_python_sdk.egg-info/PKG-INFO
+betterproto_for_temporal_python_sdk.egg-info/SOURCES.txt
+betterproto_for_temporal_python_sdk.egg-info/dependency_links.txt
+betterproto_for_temporal_python_sdk.egg-info/entry_points.txt
+betterproto_for_temporal_python_sdk.egg-info/not-zip-safe
+betterproto_for_temporal_python_sdk.egg-info/requires.txt
+betterproto_for_temporal_python_sdk.egg-info/top_level.txt
