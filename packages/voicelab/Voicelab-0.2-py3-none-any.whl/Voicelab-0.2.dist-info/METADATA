@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: Voicelab
+Version: 0.2
+Summary: Python GUI for working with voicefiles
+Home-page: UNKNOWN
+Author: David Feinberg
+Author-email: feinberg@mcmaster.ca
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: qdarkstyle
+Requires-Dist: praat-parselmouth (==0.4.0)
+Requires-Dist: librosa
+Requires-Dist: openpyxl
+Requires-Dist: PyQt5
+Requires-Dist: seaborn
+
+UNKNOWN
+
+
