@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: sovon-cms
+Version: 0.1.0
+Summary: A simple content management system to generate static web site from markdown documents and jinja templates.
+Home-page: https://github.com/lixfz/sovon-cms
+Author: SOVON.NET
+Author-email: about@sovon.net
+License: Apache License 2.0
+Description: # Overview
+        
+        This is a simple content management system to generate static web site from markdown documents and jinja templates.
+        
+        # Installation
+        
+        ```
+        pip install sovon-cms
+        ```
+        
+        
+Platform: UNKNOWN
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6.*
+Description-Content-Type: text/markdown

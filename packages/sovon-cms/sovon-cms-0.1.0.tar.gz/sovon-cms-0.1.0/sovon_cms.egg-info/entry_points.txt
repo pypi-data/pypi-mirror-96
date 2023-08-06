@@ -1,0 +1,3 @@
+[console_scripts]
+sovon-cms = sovon_cms.main:run
+
