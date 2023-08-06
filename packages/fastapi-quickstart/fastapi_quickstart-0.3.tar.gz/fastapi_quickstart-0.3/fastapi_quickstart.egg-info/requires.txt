@@ -1,0 +1,8 @@
+fastapi[all]
+pydantic
+python-multipart
+SQLAlchemy
+passlib
+bcrypt
+fastapi-jwt-auth
+python-jose[cryptography]
