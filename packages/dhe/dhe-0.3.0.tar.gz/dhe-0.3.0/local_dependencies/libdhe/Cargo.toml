@@ -1,0 +1,7 @@
+[package]
+name = "libdhe"
+version = "0.3.0"
+authors = ["Gerhard Bräunlich <g.braeunlich@disroot.org>"]
+edition = "2018"
+
+[dependencies]
