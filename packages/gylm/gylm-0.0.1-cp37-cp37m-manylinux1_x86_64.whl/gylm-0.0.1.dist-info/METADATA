@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: gylm
+Version: 0.0.1
+Summary: Implementation of Gnl-Ylm-type 3d convolutional descriptors
+Home-page: https://github.com/capoe/gylmxx
+Author: capoe
+Author-email: carl.poelking@floatlab.io
+License: Apache License 2.0
+Keywords: 3d convolutional descriptors chemical machine learning
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.0
+Requires-Dist: pybind11 (>=2.4)
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+
+This library implements Gnl-Ylm-type convolutions as a superset of SOAP, with additional control over spatial frequency damping and radial discounting
+
+
