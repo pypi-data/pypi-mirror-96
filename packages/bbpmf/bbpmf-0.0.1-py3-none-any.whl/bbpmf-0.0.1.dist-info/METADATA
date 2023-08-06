@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: bbpmf
+Version: 0.0.1
+Summary: Probability mass function for a beta-binomial distribution
+Home-page: https://github.com/anthony-aylward/bbpmf.git
+Author: Anthony Aylward
+Author-email: aaylward@eng.ucsd.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: scipy
+
+# bbpmf
+Probability mass function for a beta binomial distribution
+
+## Installation
+
+```sh
+pip3 install bbpmf
+```
+or
+```
+pip3 install --user bbpmf
+```
+
+## Examples
+
+```python
+from bbpmf import betabinom_pmf
+help(betabinom_pmf)
+betabinom_pmf(5, 30, 4, 6)
+```
+
