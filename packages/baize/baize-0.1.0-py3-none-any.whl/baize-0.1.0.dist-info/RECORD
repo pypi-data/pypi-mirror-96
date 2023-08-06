@@ -1,0 +1,15 @@
+baize/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+baize/__version__.py,sha256=80Yd9HMi-PiVwWrK0qJ623-ZLTQhneWRJEoeDr7HqJs,66
+baize/asgi.py,sha256=z-QmdoYLhYTiOnnLWwctLtecr6aVonw59VzSFyII-ZY,16344
+baize/common.py,sha256=RYzUN2qVPS1wsh1xswhlQeTzGoianr3IWzM2JUarh3Y,4364
+baize/datastructures.py,sha256=dmFq7k6Ms9YK2m3maGVG-OUyAFdJQF4zsOMEdb4I0MI,21238
+baize/exceptions.py,sha256=RW-t9K3bqK2HzdEKpp95llSeLbTQbd5eyDE_xuBB9fg,229
+baize/formparsers.py,sha256=KhaTNVH_YDiKh-9KDCRcbiM7tDvVwVNZ9fWHEiFLjbY,9004
+baize/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+baize/typing.py,sha256=boocLkzAzCbJWEvySsSTOCJR2D6TQcPNQkCgNXjugsQ,1599
+baize/utils.py,sha256=fHoFucapK3A4eG7v8YIOouChiZ2VanbwqXfr1myp7cI,898
+baize/wsgi.py,sha256=BXOokEP0UC4zUrRe1ilDAZlMxuVwnMs4B2RCp-93tSI,9908
+baize-0.1.0.dist-info/LICENSE,sha256=mcM3Z5RsqMJdjYDl_OM-JuLF7HUQMP1ANTRrBZmXOT0,11542
+baize-0.1.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+baize-0.1.0.dist-info/METADATA,sha256=u_CGG-epUVdyjpXDD37VSZtQxzcZ2KCWhZmhPvs9u2g,1453
+baize-0.1.0.dist-info/RECORD,,
