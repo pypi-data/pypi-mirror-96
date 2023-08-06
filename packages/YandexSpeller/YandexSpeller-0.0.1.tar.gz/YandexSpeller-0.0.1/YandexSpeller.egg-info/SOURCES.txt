@@ -1,0 +1,7 @@
+setup.py
+yaspeller.py
+YandexSpeller.egg-info/PKG-INFO
+YandexSpeller.egg-info/SOURCES.txt
+YandexSpeller.egg-info/dependency_links.txt
+YandexSpeller.egg-info/requires.txt
+YandexSpeller.egg-info/top_level.txt
