@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: starlette_swagger
+Version: 0.11
+Summary: swagger ui for starlette
+Home-page: https://github.com/zpdev/starlette-swagger
+Author: zpzhou
+Author-email: himoker@163.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
