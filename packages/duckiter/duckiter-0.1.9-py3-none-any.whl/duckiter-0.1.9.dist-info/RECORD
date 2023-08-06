@@ -1,0 +1,15 @@
+duckiter/__init__.py,sha256=TARauH4NpY2wXbVbDEQq-G_HDSn01bxkC4f-YY5OuY8,52
+duckiter/config.py,sha256=HtqBNkUjRJv73Nv-cjMLlDFTr9AOnKkRrSuJ4h6vhmo,1369
+duckiter/duckiter.py,sha256=Qt1xhksniYRBMOH_g2yKSHw0BamsU-2ZDCDxQSAH9-Q,3983
+duckiter/main.py,sha256=IcF74lK588mO879z2YoGmHtlbfXwiZiObw8NGfutsxI,1404
+duckiter/utility.py,sha256=zF_p6KaCzIWwqXLeCr3Q2lp6PFXNin9Bh9e1D9CjElM,4278
+duckiter/validation.py,sha256=eGc1rR0hZNpmGWjK-MReujoaf0Evjzhn9pCK_wmQEB4,2768
+duckiter/template/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+duckiter/template/config_cfg.py,sha256=hRACX2cvH4Sozyo2AfSBGj2rnTXa7a2oS4l2HGFQpio,202
+duckiter/template/docker_file.py,sha256=V7fx265H1IMhUk26TNhzJ38TwFvopQpIKD_E2Ujv4TE,323
+duckiter-0.1.9.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+duckiter-0.1.9.dist-info/METADATA,sha256=aX_XiTR13YamLplo3IxEMtwr6cCIpxc8egSN6As8dXQ,2753
+duckiter-0.1.9.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+duckiter-0.1.9.dist-info/entry_points.txt,sha256=qeDAAjdO0ncE3mcMj8uFT2WoUrxY8S42E_qcOBjR_FY,49
+duckiter-0.1.9.dist-info/top_level.txt,sha256=nm3u4x4Txu3jmegSK7SFni6iHZ1aPcJP92wSNMl3YyE,9
+duckiter-0.1.9.dist-info/RECORD,,
