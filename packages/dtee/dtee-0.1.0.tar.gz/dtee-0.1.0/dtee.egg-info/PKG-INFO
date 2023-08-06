@@ -1,0 +1,150 @@
+Metadata-Version: 1.1
+Name: dtee
+Version: 0.1.0
+Summary: Tornado tcp stream parser
+Home-page: UNKNOWN
+Author: lee_shaw
+Author-email: 838705177@qq.com
+License: BSD License
+Description: .. dtee documentation master file, created by
+           sphinx-quickstart on Thu Jan 28 16:11:38 2021.
+        
+        dtee 文档
+        ====================================
+        | dtee是一个解析工具。它借助tornado的异步特性，对TCP协议下的数据传输对象stream进行解析。
+        
+        | 示例
+        | 解析如下TCP包：
+        |   ##0183QN=123;PW=123456;SN=a123456;Flag=5;DataTime=20201203133147&&A000\r\n
+        | 配置解析规则：
+        |   DTParserRule(2,6,"MLZ"),   # 通过坐标定位
+        |   DTParserRegxRule(r'QN=(?P<QN>.*?);'),  # 通过正则定位
+        |   DTParserRegxRule(r'PW=(?P<PW>.*?);'),  # 通过正则定位
+        |   DTParserRegxRule(r'SN=(?P<SN>.*?);'),  # 通过正则定位
+        |   DTParserRegxRule(r'Flag=(?P<Flag>.*?);'),  # 通过正则定位
+        |   DTParserRegxRule(r'DataTime=(?P<DataTime>.*?)&&')  # 通过正则定位
+        | 得出如下结果：
+        |   {'MLZ': '0183', 'QN': '123', 'PW': '123456', 'SN': 'a123456', 'Flag': '5', 'DataTime': '20201203133147'}
+        
+        安装
+        ::
+        
+           pip install dtee
+        
+        快速使用
+        
+        1.复制 dtee.example内容（tornado项目）
+           项目示例结构如下：
+        
+        - dtee_client
+           - client.py
+        - dtee_script
+           - dtee_main.py
+           - dtee_script_0119.py      # example1 （选其一，或多个）
+           - dtee_script_0183.py      # example2 （选其一，或多个）
+           - dtee_script_0660.py      # example3 （选其一，或多个）
+        
+        2.编写 dtee_script_xxx.py，用来解析TCP包中的数据  # example: dtee_script/dtee_script_0183.py
+        
+        .. code-block:: python
+        
+           from dtee.dtrule import DTKeyRule, DTParserRule, DTParserRegxRule
+           # Is using this script
+           FLAG = True
+           # flag rule
+           keyrules = (DTKeyRule(2, 6, '0183'))
+           # parse rule
+           parserules = (
+              DTParserRule(2,6,"MLZ"),
+              DTParserRegxRule(r'QN=(?P<QN>.*?);'),
+              DTParserRegxRule(r'PW=(?P<PW>.*?);'),
+              DTParserRegxRule(r'SN=(?P<SN>.*?);'),
+              DTParserRegxRule(r'Flag=(?P<Flag>.*?);'),
+              DTParserRegxRule(r'DataTime=(?P<DataTime>.*?)&&')
+           )
+           # callback
+           def partternback(data,stream):
+              print("partternback 0183:",data)
+        
+        3.编写 client.py, 模拟TCP包  # example: dtee_client/client.py
+        
+        .. code-block:: python
+        
+           import datetime
+        
+           from tornado import ioloop, gen, iostream
+           from tornado.tcpclient import TCPClient
+        
+           '''mock local client'''
+        
+           async def local_request(DATA):
+              stream = await TCPClient().connect( host='localhost',port= 8064 )
+              try:
+                 await stream.write(DATA.encode('utf-8'))
+              except iostream.StreamClosedError:
+                 pass
+        
+           async def main():
+              DATA1 = '##0183QN=123;PW=123456;SN=a123456;Flag=5;DataTime=20201203133147&&A000\r\n'
+        
+              DATA = DATA1
+              await local_request(DATA)
+        
+           if __name__ == '__main__':
+              ioloop.IOLoop.current().run_sync( main )
+        
+        4.运行 TCP服务端
+           python app.py
+        
+        .. code-block:: bash
+        
+           2021-02-26 18:48:52,113 -tools:tools.py-L31-INFO: Current log level is : DEBUG
+           2021-02-26 18:48:52,113 -app:app.py-L24-INFO: Start listening，port:8064
+           2021-02-26 18:48:52,114 -selector_events:selector_events.py-L58-DEBUG: Using selector: SelectSelector
+        
+        5.运行 TCP客户端
+           python client.py
+           查看服务端日志，如下：
+        
+        .. code-block:: bash
+        
+           2021-02-26 18:48:52,113 -tools:tools.py-L31-INFO: Current log level is : DEBUG
+           2021-02-26 18:48:52,113 -app:app.py-L24-INFO: Start listening，port:8064
+           2021-02-26 18:48:52,114 -selector_events:selector_events.py-L58-DEBUG: Using selector: SelectSelector
+           partternback 0183: {'MLZ': '0183', 'QN': '123', 'PW': '123456', 'SN': 'a123456', 'Flag': '5', 'DataTime': '20201203133147'}
+           handle_data data: {'MLZ': '0183', 'QN': '123', 'PW': '123456', 'SN': 'a123456', 'Flag': '5', 'DataTime': '20201203133147'}
+           2021-02-26 18:51:38,832 -dtmanager:dtmanager.py-L38-WARNING: Lost client at host ('::1', 61778, 0, 0)
+        
+        - 其他说明
+           TCP数据包结束标识，可以通过tornado的方法，自定义“read_until”，“read_bytes”等，具体见如下：
+           dtee_script/dtee_main.py
+        
+        .. code-block:: python
+        
+           BaseDir = os.path.dirname(__file__)
+           filename = os.path.basename(__file__)
+        
+           # 二选一
+           # dtparsermanager = DTParserManager(
+           #     eofmethod="read_bytes",
+           #     num_bytes=1024,
+           #     partial=True)
+        
+           # 二选一
+           dtparsermanager = DTParserManager(
+               eofmethod = "read_until",
+               delimiter = b"\r\n")
+        
+        
+Keywords: dtee tornado
+Platform: all
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Chinese (Simplified)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries
