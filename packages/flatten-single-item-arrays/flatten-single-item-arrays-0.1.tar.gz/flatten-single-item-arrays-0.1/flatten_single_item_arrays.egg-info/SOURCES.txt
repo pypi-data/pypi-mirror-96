@@ -1,0 +1,10 @@
+README.md
+setup.py
+flatten_single_item_arrays/__init__.py
+flatten_single_item_arrays/cli.py
+flatten_single_item_arrays.egg-info/PKG-INFO
+flatten_single_item_arrays.egg-info/SOURCES.txt
+flatten_single_item_arrays.egg-info/dependency_links.txt
+flatten_single_item_arrays.egg-info/entry_points.txt
+flatten_single_item_arrays.egg-info/requires.txt
+flatten_single_item_arrays.egg-info/top_level.txt
