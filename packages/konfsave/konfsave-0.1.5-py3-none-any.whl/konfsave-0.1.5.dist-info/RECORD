@@ -1,0 +1,12 @@
+konfsave/__init__.py,sha256=1Z2fj_zOaxSjad4530dh7Diu4Mcl35Tp2qO33_p6kP4,69
+konfsave/__main__.py,sha256=E8f-DSJ_XbEmY96klny2QvsjmndfhvGVu0nui2YCeVU,181
+konfsave/actions.py,sha256=TgJfML-i-DiO2JOWA5r-1GZYSOASLqk0c6V2H43OipU,9531
+konfsave/constants.py,sha256=zS45MPmKmyUEtuBzvxlVIQFwD_0dsMI4wjq6F8HmPa0,1488
+konfsave/default_config.ini,sha256=BP9gkKM3DLvTRFGENBpOna6S8k8BLalc4q-4tlvU89k,334
+konfsave/profiles.py,sha256=qQ5BdbgrpEkWh6TIoHALB-kTy2LCPXTOCjIzPrMLqB0,10084
+konfsave-0.1.5.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+konfsave-0.1.5.dist-info/METADATA,sha256=Cw7c577x5gR463CPRnpXch_Dt_95NgbCHgCbWOXnW9k,3171
+konfsave-0.1.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+konfsave-0.1.5.dist-info/entry_points.txt,sha256=l7DaB23aVMPkL6_E59IJomLZZbuwJmQ45mImf4GL1XI,53
+konfsave-0.1.5.dist-info/top_level.txt,sha256=kuGsSm1k-8HDDKSymWQFPQ6SouN2st31Pll64fFYLuY,9
+konfsave-0.1.5.dist-info/RECORD,,
