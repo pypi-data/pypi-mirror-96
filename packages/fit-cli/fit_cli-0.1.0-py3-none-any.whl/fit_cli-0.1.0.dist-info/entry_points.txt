@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        fit=fit.scripts.fit:cli
+    

@@ -1,0 +1,11 @@
+fit/__init__.py,sha256=B5EZTbOu9jOztp6PhvVSrgDrpGAyo_R7Me3Xbn1dr7k,4362
+fit/exceptions.py,sha256=IIYbd8mnIZL1Zt5Qg0deutE7jbn6n8uPSGxap7BsMqo,85
+fit/models.py,sha256=G9xxKGw0HWYYEH4LDp8GL6d8rCD40KJptHCnoeBhL3E,1060
+fit/scripts/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fit/scripts/fit.py,sha256=wD0hN7cwikeiGASc2c577-j0w14tp7OOHYWIv6g5pb8,9551
+fit_cli-0.1.0.dist-info/LICENSE,sha256=gXf5dRMhNSbfLPYYTY_5hsZ1r7UU1OaKQEAQUhuIBkM,18092
+fit_cli-0.1.0.dist-info/METADATA,sha256=bIeBreplAHjj7fc-eDNpnesVZftnJTKud0IwlGhMSTo,1442
+fit_cli-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+fit_cli-0.1.0.dist-info/entry_points.txt,sha256=N3-iC_dpMCbmIrzN2J3BPDUa8cGxoyowlatLc9fc_rs,63
+fit_cli-0.1.0.dist-info/top_level.txt,sha256=JF-WKFsQnM-Oj9XzA5KeHyrEzR7j6iV3tBsZxFZT6XU,4
+fit_cli-0.1.0.dist-info/RECORD,,
