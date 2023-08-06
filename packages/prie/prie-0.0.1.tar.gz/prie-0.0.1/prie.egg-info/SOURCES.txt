@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.py
+prie.egg-info/PKG-INFO
+prie.egg-info/SOURCES.txt
+prie.egg-info/dependency_links.txt
+prie.egg-info/top_level.txt
