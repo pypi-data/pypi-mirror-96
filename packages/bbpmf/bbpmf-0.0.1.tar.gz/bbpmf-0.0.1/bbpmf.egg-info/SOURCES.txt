@@ -1,0 +1,9 @@
+README.md
+setup.py
+bbpmf/__init__.py
+bbpmf/betabinom_pmf.py
+bbpmf.egg-info/PKG-INFO
+bbpmf.egg-info/SOURCES.txt
+bbpmf.egg-info/dependency_links.txt
+bbpmf.egg-info/requires.txt
+bbpmf.egg-info/top_level.txt
