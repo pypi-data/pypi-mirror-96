@@ -1,0 +1,10 @@
+README.md
+setup.py
+magnet_loss_iclr2016/__init__.py
+magnet_loss_iclr2016/magnet_batcher.py
+magnet_loss_iclr2016/magnet_loss.py
+magnet_loss_iclr2016.egg-info/PKG-INFO
+magnet_loss_iclr2016.egg-info/SOURCES.txt
+magnet_loss_iclr2016.egg-info/dependency_links.txt
+magnet_loss_iclr2016.egg-info/requires.txt
+magnet_loss_iclr2016.egg-info/top_level.txt
