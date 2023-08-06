@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+partlets/__init__.py
+partlets.egg-info/PKG-INFO
+partlets.egg-info/SOURCES.txt
+partlets.egg-info/dependency_links.txt
+partlets.egg-info/top_level.txt
