@@ -1,0 +1,8 @@
+kiwitcms_junit.xml_plugin-10.0.data/scripts/tcms-junit.xml-plugin,sha256=cXNQnv1FBWLjhji98MRP5zs0W3FUphcyewTa8tKnsYM,241
+kiwitcms_junit.xml_plugin-10.0.dist-info/DESCRIPTION.rst,sha256=Vr65gxgUZOwo6nxtJ8PZpmVpFUBnv9X9GVF21WBJ9DQ,4855
+kiwitcms_junit.xml_plugin-10.0.dist-info/METADATA,sha256=_tBSEo9qEQiBrpAY1vpHwJwU-E01r5H9DhBkBD7kpeA,5828
+kiwitcms_junit.xml_plugin-10.0.dist-info/RECORD,,
+kiwitcms_junit.xml_plugin-10.0.dist-info/WHEEL,sha256=rNo05PbNqwnXiIHFsYm0m22u4Zm6YJtugFG2THx4w3g,92
+kiwitcms_junit.xml_plugin-10.0.dist-info/metadata.json,sha256=bs0Tc3x42Xq6bwOnJ4FtvMLZC3ITQlEAUnwhiclL1Ic,1092
+kiwitcms_junit.xml_plugin-10.0.dist-info/top_level.txt,sha256=44EdkOs0Rb0QNM7_ArLSWiF7nh_klLqxIJdi3fwqvKE,18
+tcms_junit_plugin/__init__.py,sha256=dvvYK-zTAgesvE0hMWgadOvicva41M0O7Qqnw-sKysY,2785
