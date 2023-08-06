@@ -1,0 +1,4 @@
+jsonschema==3.0.0a2
+
+[rabbitmq]
+pika==1.0.1
