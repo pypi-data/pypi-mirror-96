@@ -1,0 +1,16 @@
+torch
+torchvision
+pytorch-lightning
+segmentation-models-pytorch
+hydra-core
+albumentations
+pandas
+tensorboardX
+pillow
+matplotlib
+numpy
+dataclasses-jsonschema
+
+[tests]
+pytest
+scikit-image
