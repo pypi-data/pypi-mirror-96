@@ -1,0 +1,31 @@
+Metadata-Version: 2.0
+Name: pdfmap
+Version: 0.0.1
+Summary: Turning PDF into WordMap algorithm
+Home-page: https://github.com/elint-tech/pdfmap/
+Author: elint-tech
+Author-email: contato@elint.com.br
+License: proprietary
+Download-URL: https://github.com/elint-tech/pdfmap/dist/pdfmap-0.0.1tar.gz
+Keywords: pdfmap
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Other Audience
+Classifier: Topic :: Software Development
+Classifier: Topic :: Utilities
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: OS Independent
+Requires-Dist: pdfminer.six (==20201018)
+Requires-Dist: pdfminer (==20191125)
+
+# pdfmap
+
+
