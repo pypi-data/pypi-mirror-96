@@ -1,0 +1,6 @@
+[prodigy_db]
+mondigy.db = mondigy.database:mongodb
+
+[prodigy_loaders]
+mondigy.loader = mondigy.loader:mongo_loader
+
