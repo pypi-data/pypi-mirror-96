@@ -1,0 +1,11 @@
+metaclassifier/__init__.py,sha256=yBWIC_kAksTmEQBza3t4csqqzJtx-WswvbBF64rJT2Y,61
+metaclassifier/__main__.py,sha256=-1PFHjhblxuLO3-vyRxQM1zDHb4ruONzzSMh64a_H-M,8278
+metaclassifier/classify_reads.py,sha256=FAmwMuBt6r5vyhYk4z5DZ1KHru33C8A87IlCgiUystk,10711
+metaclassifier/process_reads.py,sha256=uTFNnQ3mkGPOpYjaEADaXXxQ5YrlXdHZDl8zo3DrX9s,7124
+metaclassifier-1.0.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+metaclassifier-1.0.0.dist-info/METADATA,sha256=cqkzvUPNgRrkqqrhkeoD3ereA3-0cjlOg5XVC4j2b0s,4152
+metaclassifier-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+metaclassifier-1.0.0.dist-info/entry_points.txt,sha256=zE14CYvRulyWycrGt3A7WADb8KYBz3O5YSzLTv6QvlU,176
+metaclassifier-1.0.0.dist-info/top_level.txt,sha256=X3kt9BdzPNNcyQeLGvS5rPpY0oOqv8huOiZCFzV6HB4,15
+metaclassifier-1.0.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+metaclassifier-1.0.0.dist-info/RECORD,,
