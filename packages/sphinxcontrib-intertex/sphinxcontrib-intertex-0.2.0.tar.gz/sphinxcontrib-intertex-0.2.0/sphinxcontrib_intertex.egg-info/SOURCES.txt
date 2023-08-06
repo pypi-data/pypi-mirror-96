@@ -1,0 +1,11 @@
+README.rst
+setup.py
+sphinxcontrib/__init__.py
+sphinxcontrib/intertex/__init__.py
+sphinxcontrib/intertex/version.py
+sphinxcontrib_intertex.egg-info/PKG-INFO
+sphinxcontrib_intertex.egg-info/SOURCES.txt
+sphinxcontrib_intertex.egg-info/dependency_links.txt
+sphinxcontrib_intertex.egg-info/namespace_packages.txt
+sphinxcontrib_intertex.egg-info/requires.txt
+sphinxcontrib_intertex.egg-info/top_level.txt
