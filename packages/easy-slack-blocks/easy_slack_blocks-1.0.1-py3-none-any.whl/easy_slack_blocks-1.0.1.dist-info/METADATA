@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: easy-slack-blocks
+Version: 1.0.1
+Summary: An easy way to format Slack Blocks.
+Home-page: https://github.com/matt-cles/easy-slack-blocks/
+Author: Matthew Cles
+Author-email: matthew@cles.dev
+License: MIT
+Platform: UNKNOWN
+
+# easy-slack-blocks
+easy-slack-blocks is a python module designed to make it easy and intuitive to build the Slack Block json objects that the Slack API uses to display messages from Slack Bots.
+
+
