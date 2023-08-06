@@ -1,0 +1,6 @@
+dataset_iterator>=0.2
+edt
+keras_preprocessing
+numpy
+scipy
+tensorflow
