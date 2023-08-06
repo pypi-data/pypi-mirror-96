@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+chimige_api/__init__.py
+chimige_api.egg-info/PKG-INFO
+chimige_api.egg-info/SOURCES.txt
+chimige_api.egg-info/dependency_links.txt
+chimige_api.egg-info/not-zip-safe
+chimige_api.egg-info/requires.txt
+chimige_api.egg-info/top_level.txt
