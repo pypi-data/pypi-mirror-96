@@ -1,0 +1,13 @@
+numpy>=1.19
+sympy
+scipy
+matplotlib
+networkx
+requests
+pyYAML
+ordered-set
+scikits.odes
+
+[docs]
+sphinx>=1.7
+sphinx_rtd_theme
