@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: functing
+Version: 0.4
+Summary: Library for functional templating for both sync and async execution
+Home-page: http://github.com/hrbolek/functing
+Author: Profesor Hrbolek
+Author-email: profesor@hrbolek.cz
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Text Processing 
