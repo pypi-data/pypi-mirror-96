@@ -1,0 +1,6 @@
+sympy
+markdown
+numpy
+scipy
+pandas
+nlsic
