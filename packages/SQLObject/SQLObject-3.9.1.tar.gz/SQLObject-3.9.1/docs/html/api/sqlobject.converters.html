@@ -1,0 +1,210 @@
+
+
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>sqlobject.converters module &#8212; SQLObject 3.9.1 documentation</title>
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/bizstyle.css" type="text/css" />
+    
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/bizstyle.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <!--[if lt IE 9]>
+    <script src="_static/css3-mediaqueries.js"></script>
+    <![endif]-->
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="../py-modindex.html" title="Python Module Index"
+             >modules</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html">SQLObject 3.9.1 documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">sqlobject.converters module</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="module-sqlobject.converters">
+<span id="sqlobject-converters-module"></span><h1>sqlobject.converters module<a class="headerlink" href="#module-sqlobject.converters" title="Permalink to this headline">¶</a></h1>
+<dl class="py function">
+<dt id="sqlobject.converters.BoolConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">BoolConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#BoolConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.BoolConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py class">
+<dt id="sqlobject.converters.ConverterRegistry">
+<em class="property"><span class="pre">class</span> </em><code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">ConverterRegistry</span></code><a class="reference internal" href="../_modules/sqlobject/converters.html#ConverterRegistry"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.ConverterRegistry" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<dl class="py method">
+<dt id="sqlobject.converters.ConverterRegistry.lookupConverter">
+<code class="sig-name descname"><span class="pre">lookupConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">default</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#ConverterRegistry.lookupConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.ConverterRegistry.lookupConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py method">
+<dt id="sqlobject.converters.ConverterRegistry.registerConverter">
+<code class="sig-name descname"><span class="pre">registerConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">typ</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">func</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#ConverterRegistry.registerConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.ConverterRegistry.registerConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.DateConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">DateConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#DateConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.DateConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.DateTimeConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">DateTimeConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#DateTimeConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.DateTimeConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.DateTimeConverterMS">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">DateTimeConverterMS</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#DateTimeConverterMS"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.DateTimeConverterMS" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.DecimalConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">DecimalConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#DecimalConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.DecimalConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.FloatConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">FloatConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#FloatConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.FloatConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.IntConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">IntConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#IntConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.IntConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.LongConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">LongConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#LongConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.LongConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.NoneConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">NoneConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#NoneConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.NoneConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.SequenceConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">SequenceConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#SequenceConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.SequenceConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.StringLikeConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">StringLikeConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#StringLikeConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.StringLikeConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.StructTimeConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">StructTimeConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#StructTimeConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.StructTimeConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.TimeConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">TimeConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#TimeConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.TimeConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.TimeConverterMS">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">TimeConverterMS</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#TimeConverterMS"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.TimeConverterMS" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.TimedeltaConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">TimedeltaConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#TimedeltaConverter"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.TimedeltaConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.lookupConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">lookupConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">default</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#sqlobject.converters.lookupConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.quote_str">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">quote_str</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">s</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#quote_str"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.quote_str" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.registerConverter">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">registerConverter</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">typ</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">func</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#sqlobject.converters.registerConverter" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.sqlrepr">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">sqlrepr</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">obj</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">db</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#sqlrepr"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.sqlrepr" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt id="sqlobject.converters.unquote_str">
+<code class="sig-prename descclassname"><span class="pre">sqlobject.converters.</span></code><code class="sig-name descname"><span class="pre">unquote_str</span></code><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">s</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../_modules/sqlobject/converters.html#unquote_str"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#sqlobject.converters.unquote_str" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+</div>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../_sources/api/sqlobject.converters.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="../genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="../py-modindex.html" title="Python Module Index"
+             >modules</a> |</li>
+        <li class="nav-item nav-item-0"><a href="../index.html">SQLObject 3.9.1 documentation</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">sqlobject.converters module</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &#169; Copyright 2004-2021, Ian Bicking and contributors.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 3.5.1.
+    </div>
+  </body>
+</html>
