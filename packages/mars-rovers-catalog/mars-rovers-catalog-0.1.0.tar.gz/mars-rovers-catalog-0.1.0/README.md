@@ -1,0 +1,50 @@
+Mars Rovers Catalog toolbox
+===========================
+
+[
+    ![CI/CD](https://gitlab.univ-nantes.fr/mars-rovers/catalog/badges/main/pipeline.svg)
+    ![Coverage](https://gitlab.univ-nantes.fr/mars-rovers/catalog/badges/main/coverage.svg)
+](https://gitlab.univ-nantes.fr/mars-rovers/catalog/pipelines/main/latest)
+[
+    ![Version](https://img.shields.io/pypi/v/mars-rovers-catalog.svg?label=Lastest%20release&color=lightgrey)
+](https://gitlab.univ-nantes.fr/mars-rovers/catalog/-/tags)
+[
+    ![License](https://img.shields.io/pypi/l/mars-rovers-catalog.svg?color=lightgrey&label=License)
+](https://gitlab.univ-nantes.fr/mars-rovers/catalog/-/blob/main/LICENSE.md)
+[
+    ![PyPI](https://img.shields.io/badge/PyPI-mars--rovers--catalog-blue?logo=Python&logoColor=white)
+    ![Python](https://img.shields.io/pypi/pyversions/mars-rovers-catalog.svg?label=Python&logo=Python&logoColor=white)
+](https://pypi.org/project/mars-rovers-catalog/)
+
+
+Install
+-------
+```bash
+pip install mars-rovers-catalog
+```
+
+Please refer to [`notebooks/`](notebooks/) folder for an example of how the module works.
+
+
+Local Testing
+-------------
+
+Setup:
+```bash
+git clone https://gitlab.univ-nantes.fr/mars-rovers/catalog mars-rovers-catalog
+cd mars-rovers-catalog
+
+pip install -e .
+pip install -r tests/requirements.txt
+```
+
+Linter:
+```bash
+flake8 catalog/ tests/ setup.py
+pylint --rcfile=setup.cfg catalog/ tests/*.py setup.py
+```
+
+Unit tests (with `pytest`):
+```bash
+pytest --cov catalog tests/
+```
