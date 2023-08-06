@@ -1,0 +1,9 @@
+flake8>=3.7
+
+[dev]
+flake8
+mypy
+pydocstyle
+pytest
+isort
+black
