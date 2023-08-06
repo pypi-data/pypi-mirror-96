@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+BlueTools/ComplexBlueFile.py
+BlueTools/__init__.py
+BlueTools.egg-info/PKG-INFO
+BlueTools.egg-info/SOURCES.txt
+BlueTools.egg-info/dependency_links.txt
+BlueTools.egg-info/not-zip-safe
+BlueTools.egg-info/top_level.txt
