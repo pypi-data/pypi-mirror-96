@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: upload-manager
+Version: 0.0.1
+Summary: Upload manager
+Home-page: https://github.com/Bigbasket/bbuploadmanager
+Author: bb-tech
+Author-email: asodiyadharmesh@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Requires-Dist: boto3 (==1.10.38)
+Requires-Dist: chardet (==4.0.0)
+Requires-Dist: django (==2.1.4)
+Requires-Dist: python-environ (==0.4.54)
+
+UNKNOWN
+
+
