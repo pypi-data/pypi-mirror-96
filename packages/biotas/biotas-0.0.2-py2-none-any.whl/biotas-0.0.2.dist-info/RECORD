@@ -1,0 +1,14 @@
+biotas/__init__.py,sha256=LvG00JMS4X7uFAA3h2iouAHcxM2eDdge4MWQRQARUIs,212
+biotas/biotas.py,sha256=_tMezKJdEo3VUjPGOXqr2D49YKNIC8sS42szWxID8Zw,237709
+biotas/false_positive.py,sha256=umUq-BKGWJlqf6EVD9eUkfoBZOwlsTS7zdbclrwJjQ8,107786
+biotas/fish_history.py,sha256=8HgoP-MaycghFPx8zPmsDmVqI7GY0D0cMGacg2G0Y5M,6789
+biotas/formatter.py,sha256=3e5LObvi3yjAdISy03HLBh11LTfz3DdOIJIJR3bZlzE,44783
+biotas/overlap_removal.py,sha256=j5J5dcvFbZmLEdaLv0Z5ML7D8jQdODmDf2e3VxZqPJI,21481
+biotas/radio_project.py,sha256=3Kt_xtiZRnQl7ie22wyloS5nolCbov1_bbHm5mBgfMY,38679
+biotas/table_merge.py,sha256=eZFIz61o87WRYGQr7MVmT1lCov2Q631KpKzwO3zfkVc,6573
+biotas-0.0.2.dist-info/DESCRIPTION.rst,sha256=OCTuuN6LcWulhHS3d5rfjdsQtW22n7HENFRh6jC6ego,10
+biotas-0.0.2.dist-info/METADATA,sha256=_7bPJ0y7Zl-u9JqTOm9Yr2zwkShCPLtQfkM-AbcfhEU,595
+biotas-0.0.2.dist-info/RECORD,,
+biotas-0.0.2.dist-info/WHEEL,sha256=90z-L1FjHEv_g8pMPaPbaXuhBIvSlvYObRaa122x8ag,97
+biotas-0.0.2.dist-info/metadata.json,sha256=RasdZj0CyAQfv9-L5hxPXUgsHBnQDLB23pWlALImuls,732
+biotas-0.0.2.dist-info/top_level.txt,sha256=f7hBnivsSJfjKn-rHle7tgPcWpcmQxxrAp_jiaGHjnw,7
