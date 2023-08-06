@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: dpfp-pytorch
+Version: 0.1.0
+Summary: DPFP - Pytorch
+Home-page: https://github.com/i404788/DPFP-pytorch
+Author: Ferris Kwaijtaal
+Author-email: ferris+gh@devdroplets.com
+License: BSD
+Description: UNKNOWN
+Keywords: artificial intelligence,attention mechanism,efficient attention,transformers
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
