@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: assm
+Version: 0.1.1
+Summary: iOS splash screen generator
+Home-page: https://github.com/emilecok/assm
+License: UNKNOWN
+Author: Alexander Popov
+Author-email: iiiypuk@iiiypuk.me
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: Pillow==8.1.0
+
+# Apple Splash Screen Maker
+![Preview](preview.png)
