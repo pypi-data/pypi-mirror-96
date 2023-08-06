@@ -1,0 +1,8 @@
+cluster_coords/__init__.py,sha256=6b9v1CqbZJv8u4pjPuOC80nO8aocEayC9smshCWKaZ0,31
+cluster_coords/cluster_coords.py,sha256=BvXthln96F8K2_WOadHzt1SNPMXfIx85KeAMKYRbNEE,550
+cluster_coords/random.py,sha256=BvXthln96F8K2_WOadHzt1SNPMXfIx85KeAMKYRbNEE,550
+cluster_coords-0.0.5.dist-info/LICENSE,sha256=IeVN-qlGwgdCjJBAOPfavLeBaaKGDToAajjAMz3lSd0,1054
+cluster_coords-0.0.5.dist-info/METADATA,sha256=znnAc81cBFZbN3iOW70JnpOqLcMt0kIhaEi8LYryhBs,1904
+cluster_coords-0.0.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+cluster_coords-0.0.5.dist-info/top_level.txt,sha256=_bkzUM_5z_QpggVgNur834IazJEQ_DYvuh7sgfVKVzc,15
+cluster_coords-0.0.5.dist-info/RECORD,,
