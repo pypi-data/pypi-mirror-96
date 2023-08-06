@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: velopy
+Version: 0.1.1
+Summary: Library for simple calculations with respect to road cycling and training
+Home-page: https://gitlab.com/ce72/velo
+Author: Christoph Ernst
+License: BSD New License
+Keywords: cycling,training with power,training zones,TSS,PMC,power model
+Platform: UNKNOWN
+Requires-Python: >3.6
+
+UNKNOWN
+
+
