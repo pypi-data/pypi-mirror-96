@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.rst
+pyproject.toml
+setup.cfg
+setup.py
+src/papyrus/__init__.py
+src/sphinx_papyrus_theme.egg-info/PKG-INFO
+src/sphinx_papyrus_theme.egg-info/SOURCES.txt
+src/sphinx_papyrus_theme.egg-info/dependency_links.txt
+src/sphinx_papyrus_theme.egg-info/entry_points.txt
+src/sphinx_papyrus_theme.egg-info/not-zip-safe
+src/sphinx_papyrus_theme.egg-info/requires.txt
+src/sphinx_papyrus_theme.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+include LICENSE
+include *.rst
+# graft papyrus/bootstrap
+# graft papyrus/materialdesign
+global-exclude __pycache__
+global-exclude *.py[cod]
