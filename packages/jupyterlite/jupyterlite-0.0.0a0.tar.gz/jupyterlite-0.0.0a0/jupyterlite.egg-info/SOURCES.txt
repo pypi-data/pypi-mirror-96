@@ -1,0 +1,5 @@
+setup.py
+jupyterlite.egg-info/PKG-INFO
+jupyterlite.egg-info/SOURCES.txt
+jupyterlite.egg-info/dependency_links.txt
+jupyterlite.egg-info/top_level.txt
