@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: plotbbox
+Version: 0.0.5
+Summary: A package to draw pretty bounding boxes for object detection task
+Home-page: https://github.com/developer0hye/plotbbox
+Author: Yonghye Kwon
+Author-email: developer.0hye@gmail.com
+License: UNKNOWN
+Description: # plotbbox
+        A package to plot pretty bounding boxes for object detection task
+        
+Keywords: object-detection,bounding-box,bbox,box
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Education
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Scientific/Engineering :: Image Recognition
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
