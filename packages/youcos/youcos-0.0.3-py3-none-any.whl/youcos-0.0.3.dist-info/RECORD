@@ -1,0 +1,9 @@
+youcos/__init__.py,sha256=iLyo83mV3M40FR7EgQtOeymjmrVU7P_1yiHItSkAb0E,150
+youcos/requests.py,sha256=piBH7LIKKT6XWUD5zLEsuzg95IFV6aGYKH6QCh2dmpg,4755
+youcos/scrape_youtube.py,sha256=YilSK9zO1FL5u39oOEkYLQluFn6rg_Q2TWePdo2wlAE,10885
+youcos/test.py,sha256=3Z3jTZZjo013n3ywPV4VIi83-YCiKGHvW8o9DmBLKZ4,758
+youcos-0.0.3.dist-info/LICENSE,sha256=Qv2ilebwoUtMJnRsZwRy729xS5JZQzLauJ0tQzkAkTA,1088
+youcos-0.0.3.dist-info/METADATA,sha256=ObOPU0C3q7PNf_3VdCBOziBoN5e--ohKRimM0uo_TME,3766
+youcos-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+youcos-0.0.3.dist-info/top_level.txt,sha256=GNuy7LcI1GaLoqMqrY6ap9CK_IISXEJF__pa-6fdY80,7
+youcos-0.0.3.dist-info/RECORD,,
