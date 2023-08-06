@@ -1,0 +1,17 @@
+play/__init__.py,sha256=EuTK4J3VsjEfoJhTmnkuBrK6qsXubrpfaKfmPiBFfSQ,186
+play/cpu_train.py,sha256=d1iM62r9gQyyo11_jgmXOUebTiRtz5DxdVrJtYlAjo4,2183
+play/human_train.py,sha256=vZJnZIqPUPtOyewZKqvJZi3sgdTQWsIN1OsBKGV_ZRo,1829
+play/human_vs_cpu.py,sha256=nq__XXGdMND2VZIp5A6VgMAfyuCzinHh6q0ZMI8PKYk,1500
+tictactoe/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tictactoe/board.py,sha256=mUpFjYGkhYqeAOhF-01rClMV9wNn6Cbhq6i1b5Hj1Wc,1621
+tictactoe/game.py,sha256=xqkl_cjwVFJTIDkq_zPtCHol1-rhsZGGpCJ3MNvFsOU,2277
+tictactoe/styledprint.py,sha256=FgonkRX3xFlxQjpNUeqI2Lm2NElxsW2hnk6CBDzgckY,1788
+tictactoe/player/__init__.py,sha256=jINZZVGkZf99Hs_BCnkG-mxqogWmhBTLJLrRJ85--Dk,628
+tictactoe/player/human_player.py,sha256=b3gpLf9-0WO3BZMABgQ6gNnETAOW63TL7gt7-SyA4SU,779
+tictactoe/player/learner_player.py,sha256=KTUKnmO2Zx2CfP1SOXKM-nYbAD-XuwHumuvXSkWKcb0,2785
+tictactoe/player/random_player.py,sha256=NhF27t5fV2tJT3_70Ar7D6b2Dcx50kfUHAkpWAbgFx0,343
+tictactoe_q_learning-0.0.1.dist-info/LICENSE,sha256=HrhfyXIkWY2tGFK11kg7vPCqhgh5DcxleloqdhrpyMY,11558
+tictactoe_q_learning-0.0.1.dist-info/METADATA,sha256=QEIXSkE196iTqchKHd4gSQpbbyAcTsxqYH3ZArO470E,491
+tictactoe_q_learning-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+tictactoe_q_learning-0.0.1.dist-info/top_level.txt,sha256=d2ORcOCHiBhZtV1y8RjJSLvhdCXESjqao46vG4kbp5A,15
+tictactoe_q_learning-0.0.1.dist-info/RECORD,,
