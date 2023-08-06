@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: plover-spanish-system-eo-variant
+Version: 0.0.1
+Summary: Spanish System (eo variant) for Plover
+Home-page: https://github.com/roskoff/plover_spanish_system_eo_variant
+Author: Eliseo Ocampos
+Author-email: roskoff@gmail.com
+License: GNU General Public License v2 or later (GPLv2+)
+Keywords: plover plover_plugin
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Plugins
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Requires-Dist: plover (>=4.0.0.dev0)
+
+file: README.md
+
+
