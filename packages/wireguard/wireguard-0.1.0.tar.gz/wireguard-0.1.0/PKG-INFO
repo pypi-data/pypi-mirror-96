@@ -1,0 +1,52 @@
+Metadata-Version: 1.2
+Name: wireguard
+Version: 0.1.0
+Summary: Wireguard Utilities
+Home-page: https://github.com/fictivekin/wireguard
+Author: Fictive Kin LLC
+Author-email: hello@fictivekin.com
+Maintainer: Fictive Kin LLC
+Maintainer-email: hello@fictivekin.com
+License: MIT
+Description: 
+        Wireguard Utilities
+        ===================
+        
+        This is a helper module for creating configs for WireGuard_ VPN for both the server side and the
+        client side.
+        
+        .. _WireGuard: https://wireguard.com
+        
+        
+        Quick Start
+        -----------
+        
+        Setup a WireGuard server::
+        
+            from wireguard import WireGuardServer
+        
+            server = WireGuardServer('myvpnserver.com', '192.168.24.0/24', address='192.168.24.1')
+        
+            # Write out the server config to the default location: /etc/wireguard/wg0.conf
+            server.write_config()
+        
+        
+        Create a client::
+        
+            peer = server.new_peer('my-client')
+        
+            # Copy this outputted config to the client device
+            print(peer.config)
+        
+            # Rewrite the server config file including the newly created peer
+            server.write_config()
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development
+Requires-Python: >=3.6
