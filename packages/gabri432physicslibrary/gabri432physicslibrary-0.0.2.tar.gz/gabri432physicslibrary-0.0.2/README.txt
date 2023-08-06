@@ -1,0 +1,6 @@
+Physics.py is a simple  list of some of the most important Physics Formulas and Constants.
+Examples of basic constants are Earth mass, Moon mass, Sun mass, speed of light, speed of sound.
+Other notorius examples are Coulomb, Stefan-Boltzmann, Planck constants.
+
+Examples of basic formulas are Force, Distance, Time, Speed, Work...
+Examples of more complex formulas are Poiseuille, Stokes, Fourier, Gay-Lussac laws... 
