@@ -1,0 +1,9 @@
+mlalgs/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mlalgs/logistic_regression.py,sha256=FH_n68pxwQXXnY0qU1OsPlONbALbD0Rya7b0L6KDVlw,5284
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/logistic_regression_test.py,sha256=-nb-TxGsrAZBNW-RNuHm1nhjYd6urZ5XnZamnT0dKqw,87
+mlalgs-0.0.3.dist-info/LICENSE,sha256=bP3rZPZT2pOoQHtYCLymc56_aTnu6X8GDxM6e3pe9CA,1078
+mlalgs-0.0.3.dist-info/METADATA,sha256=utU_dDj_gidATjuandAyimMjt5uIgu37VlyLZ7Ma8gE,2547
+mlalgs-0.0.3.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+mlalgs-0.0.3.dist-info/top_level.txt,sha256=4P8TQuS_0mvZXTJXWIaa9biwItZL7VjdXQs_3iND4Qk,13
+mlalgs-0.0.3.dist-info/RECORD,,
