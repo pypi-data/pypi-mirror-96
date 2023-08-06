@@ -1,0 +1,8 @@
+setup.py
+weworkhelper/WeworkHelper.py
+weworkhelper/__init__.py
+weworkhelper.egg-info/PKG-INFO
+weworkhelper.egg-info/SOURCES.txt
+weworkhelper.egg-info/dependency_links.txt
+weworkhelper.egg-info/requires.txt
+weworkhelper.egg-info/top_level.txt
