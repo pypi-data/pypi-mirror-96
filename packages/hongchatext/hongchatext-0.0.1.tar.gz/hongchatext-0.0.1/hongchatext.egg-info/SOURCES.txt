@@ -1,0 +1,5 @@
+setup.py
+hongchatext.egg-info/PKG-INFO
+hongchatext.egg-info/SOURCES.txt
+hongchatext.egg-info/dependency_links.txt
+hongchatext.egg-info/top_level.txt
