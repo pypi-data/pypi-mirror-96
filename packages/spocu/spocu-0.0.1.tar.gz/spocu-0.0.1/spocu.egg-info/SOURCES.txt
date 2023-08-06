@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+spocu/__init__.py
+spocu/spocu_pytorch.py
+spocu/spocu_tensorflow.py
+spocu.egg-info/PKG-INFO
+spocu.egg-info/SOURCES.txt
+spocu.egg-info/dependency_links.txt
+spocu.egg-info/top_level.txt
