@@ -1,0 +1,9 @@
+README.md
+setup.py
+stockai/__init__.py
+stockai/utils.py
+stockai.egg-info/PKG-INFO
+stockai.egg-info/SOURCES.txt
+stockai.egg-info/dependency_links.txt
+stockai.egg-info/requires.txt
+stockai.egg-info/top_level.txt
