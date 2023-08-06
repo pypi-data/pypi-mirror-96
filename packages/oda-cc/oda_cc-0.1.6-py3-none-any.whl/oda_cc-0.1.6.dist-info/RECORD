@@ -1,0 +1,8 @@
+odacc/__init__.py,sha256=n3oM6B_EMz93NsTI18NNZd-jKFcUPzUkbIKj5VFK5ok,22
+odacc/cli.py,sha256=Qj3m13ChZCGp42D35Iqd7t7w8CdT5Lk2gK7nsbww7tk,3892
+tests/test_cli.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+oda_cc-0.1.6.dist-info/METADATA,sha256=29KEPLDdCg8JHKWq3RtRwY6BrghozImbYZ_udST08dI,337
+oda_cc-0.1.6.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+oda_cc-0.1.6.dist-info/entry_points.txt,sha256=PMmUPMn1ntJ3MQgWd8eyJyMOEvhpa-QQT0X6b8SHPYA,42
+oda_cc-0.1.6.dist-info/top_level.txt,sha256=4mkukZBqcpc8Q3K7r_7n_wwhPMuXNnpHoppYqIcj030,12
+oda_cc-0.1.6.dist-info/RECORD,,
