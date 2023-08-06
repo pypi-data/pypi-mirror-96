@@ -1,0 +1,13 @@
+aiopyql/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aiopyql/cache.py,sha256=oqXckCMlYXkVCUhCdCNHGaGp2Sbw2WTa4KiVXIqzfuw,2785
+aiopyql/data.py,sha256=Bv0BXoepPY1HnW8aYrCH-hmiIlknxdS_deD7NY7oPgM,21588
+aiopyql/exceptions.py,sha256=Xe1iSA4sZ3RvYUGy9QpCumoU5GGvLR983A9TerBaVl8,337
+aiopyql/mysql_connector.py,sha256=8xJTUmZlQ-MMF0dLcjuq5qevKJUpkOXBvogvOhgiQ_I,9951
+aiopyql/postgres_connector.py,sha256=w1useKxjQhgrO1MHgEXQUFp8JsjJNZ3mPEuo5y0UQ88,13406
+aiopyql/sqlite_connector.py,sha256=_ZcnbCuT-He1GPVTqHGk-g6tJGoYt-T5oqqyRi0CY80,9197
+aiopyql/table.py,sha256=s6UPrqxuJUv7lYZAuyKYxnmatZ4Mq_sYWMyGmznt8JA,30733
+aiopyql/utilities.py,sha256=sTM9Hugl159GN9mEYdnX7L2odoVaytU22xCNY2wl418,726
+aiopyql-0.355.dist-info/METADATA,sha256=blm4TiA8dg5l9d72nvUscPN5S6qic491B59jHRRE-es,20525
+aiopyql-0.355.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+aiopyql-0.355.dist-info/top_level.txt,sha256=Xae7UlTAPVM8Aybh84pV-YllvTBf8utzxmca9gLi5GY,8
+aiopyql-0.355.dist-info/RECORD,,
