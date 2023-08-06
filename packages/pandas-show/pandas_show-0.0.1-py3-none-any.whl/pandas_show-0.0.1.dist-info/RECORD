@@ -1,0 +1,9 @@
+pandas_show/__init__.py,sha256=sXLh7g3KC4QCFxcZGBTpG2scR7hmmBsMjq6LqRptkRg,22
+pandas_show/_nbdev.py,sha256=Sb4eiSsqEQxh8sxt5s52SLfL6VN0Csnh9M2VWOS458E,377
+pandas_show/core.py,sha256=zIikJSs6d6rHl31F_41aWxNfopezOsDddRVeslt5djk,905
+pandas_show-0.0.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+pandas_show-0.0.1.dist-info/METADATA,sha256=s3KaE7AZXONKEXWtNWQ7ZXgOtUSPcSdfJ-_RgJduujY,15026
+pandas_show-0.0.1.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+pandas_show-0.0.1.dist-info/entry_points.txt,sha256=eqGnTHtEVMYwfXVk1Z9MhC8O2N8wuqAbr0lisLmrkxs,20
+pandas_show-0.0.1.dist-info/top_level.txt,sha256=Z7pjM6ymhQD4VKr_qSRH5WHHTwynA36cWWYfMFaXc2Y,12
+pandas_show-0.0.1.dist-info/RECORD,,
