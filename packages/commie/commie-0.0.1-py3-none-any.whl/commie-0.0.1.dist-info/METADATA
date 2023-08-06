@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: commie
+Version: 0.0.1
+Summary: Finds comments in source code in different programming languages
+Home-page: https://github.com/rtmigo/commie.python
+Author: Art Galkin
+Author-email: ortemeo@gmail.com
+License: MIT
+Keywords: comments,source code
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Software Development :: Documentation
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+[![Actions Status](https://github.com/rtmigo/commie.python/workflows/CI/badge.svg?branch=master)](https://github.com/rtmigo/commie.python/actions)
+
+
+A fork from [comment_parser](https://github.com/jeanralphaviles/comment_parser). 
+Differences from the original:
+- `comment_parser` returned only a line number, `commie` returns exact positions where the comment
+starts and ends (just like regular string search)
+- `comment_parser` returned only the text of a comment, but `commie` respects markup as well, 
+making it possible to remove or replace the comment   
+- `comment_parser` depends on [python-magic](https://pypi.org/project/python-magic) requiring 
+optional installation of binaries. `commie` removes this dependency 
+
+
