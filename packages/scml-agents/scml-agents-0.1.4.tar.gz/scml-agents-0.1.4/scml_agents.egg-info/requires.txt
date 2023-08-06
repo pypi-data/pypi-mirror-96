@@ -1,0 +1,7 @@
+Click>=6.0
+torch
+tensorflow-cpu
+scml
+
+[:python_version < "3.7"]
+dataclasses
