@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: automatic-extraction
+Version: 0.1
+Summary: automatic extraction
+Home-page: https://github.com/winner-hue/automatic_extraction
+Author: winner-hue
+Author-email: 1344246287@qq.com
+License: MIT License
+Keywords: automatic extract
+Platform: UNKNOWN
+Requires-Dist: lxml (>=4.6.2)
+Requires-Dist: numpy (>=1.20.1)
+Requires-Dist: PyYAML (>=5.4.1)
+Requires-Dist: dateparser (>=0.7.6)
+
+automatic extraction
+
+
