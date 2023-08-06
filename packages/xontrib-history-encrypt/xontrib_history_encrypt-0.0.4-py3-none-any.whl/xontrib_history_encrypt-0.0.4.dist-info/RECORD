@@ -1,0 +1,8 @@
+xontrib/history_encrypt/__init__.py,sha256=ADLNEWq9TK1Ro8GgXC0emU_JJOEQfX16zxieEnIwMkQ,4842
+xontrib/history_encrypt/base64.py,sha256=a6rs1pVPZIwiIbOKhpHO95eNE0WoJBlrnk3tyOA5eqI,204
+xontrib/history_encrypt/fernet.py,sha256=-PzXwTYL2wJLZWLPyobBryjBK2ziTlXm1uT1WOB9olA,524
+xontrib_history_encrypt-0.0.4.dist-info/LICENSE,sha256=3Fbw1VejTNS3jnn2JqgvHA3SVMRrVxAdQrvG1vWnmEI,1067
+xontrib_history_encrypt-0.0.4.dist-info/METADATA,sha256=UuwwBQyL_8zElbnapcI7j4rKeGEgicTSGSQ9YqsFFIc,4143
+xontrib_history_encrypt-0.0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+xontrib_history_encrypt-0.0.4.dist-info/top_level.txt,sha256=zMF4bMS5glluyovRAtqdRjEJ6zHZc_WoC7CQj6vmdA8,8
+xontrib_history_encrypt-0.0.4.dist-info/RECORD,,
