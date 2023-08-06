@@ -1,0 +1,17 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+src/__init__.py
+src/create_portfolio.py
+src/df_converter.py
+src/get_google_sheets_data.py
+src/google_sheets_login.py
+src/search_in_df.py
+src/wave_data_manager.py
+wave_api.egg-info/PKG-INFO
+wave_api.egg-info/SOURCES.txt
+wave_api.egg-info/dependency_links.txt
+wave_api.egg-info/requires.txt
+wave_api.egg-info/top_level.txt
