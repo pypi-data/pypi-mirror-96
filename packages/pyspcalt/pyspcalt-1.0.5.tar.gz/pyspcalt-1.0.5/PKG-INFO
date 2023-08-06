@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pyspcalt
+Version: 1.0.5
+Summary: Statistical Process Control Charts Library for Humans
+Home-page: https://github.com/carlosqsilva/pyspc
+Author: Carlos Silva
+Author-email: carlosqsilva@outlook.com
+License: GPLv3
+Description: Statistical Process Control Charts Library for Humans
+Platform: UNKNOWN
