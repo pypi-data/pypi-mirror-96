@@ -1,0 +1,7 @@
+ssh2http/__init__.py,sha256=XzD47iJ9Wm6dq2FzoNXNFCks0jeM0TDScNSDsoHqOgk,1784
+ssh2http/__main__.py,sha256=YOZr4smYKU4jNO1pEvIi2etNYJEM5D4zs-BykQnAN9A,86
+ssh2http/client.py,sha256=gawOLxbxqEZhJuDLNqT7KMaYsQ9f3iDJb5MmSyd6ojQ,780
+ssh2http-0.1.0.dist-info/METADATA,sha256=8yCsXAbOYo-xSoiNmOThTZ14z1PQOFNPAtezSf4azCs,1077
+ssh2http-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+ssh2http-0.1.0.dist-info/top_level.txt,sha256=BurTTpJpSGDHimsiLnkcq6A-hmRXQEJ6WwFtZZyzkFc,9
+ssh2http-0.1.0.dist-info/RECORD,,
