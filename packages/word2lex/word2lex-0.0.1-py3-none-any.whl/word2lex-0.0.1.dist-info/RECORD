@@ -1,0 +1,16 @@
+word2lex/__init__.py,sha256=kFiOZv6KBsLfDgfmS8aw05qXz0bOo3_7CMKqADhz7Vg,70
+word2lex/word2lex.py,sha256=IaxOJaL47DsPvj_opYPnQQc021xPmIhCWtMGvm1-IFA,1092
+word2lex/data/__init__.py,sha256=5YdTwwQoP6maFB-_aV12Jf5cZJMLoUeunz-pb1XWKV0,14
+word2lex/data/britain.json,sha256=rwzL6gFeuxooWKmoE7DakVe8RmXgbFH0CmTGeTe936k,1843742
+word2lex/data/canada.json,sha256=jj49WwQ5iW-Ks-eYqpL7mlJbv3bkAKK3dvIW1FgeQcU,1843673
+word2lex/data/news_media.json,sha256=HbEq9QyBrwQYh80QX9ZuBu2VcuxEh7DxUJtcyRWoFto,1818579
+word2lex/data/politics_en.json,sha256=pYjIgKf8N6U33yDXk5rzuAKay7eaWbgBcv3AKboqRKk,1835456
+word2lex/data/twitter.json,sha256=vxtCpHD0RGSYvIPRO9zUs-yjsH_s7i4g9ZtK0eLehss,1975156
+word2lex/data/usa.json,sha256=dNljFlGNe5mOgIZ76QYgGp5a6wBYGQtftFFxvv-iyJI,1838173
+word2lex/utils/__init__.py,sha256=5YdTwwQoP6maFB-_aV12Jf5cZJMLoUeunz-pb1XWKV0,14
+word2lex/utils/custom_vader.py,sha256=QLekimhM3KgfugrthDMKKJ-g1HlULP0Vj-A-a3KE9nY,19360
+word2lex-0.0.1.dist-info/LICENSE,sha256=ThMgKw3Qw6Q4D8FgBTpP_MZxxxIp-4Y0N_8uTZyjraA,1074
+word2lex-0.0.1.dist-info/METADATA,sha256=yI5E97QtEjBn6WBh5gBppzpQh9zOaMMZPJ4tNVAzOZA,5689
+word2lex-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+word2lex-0.0.1.dist-info/top_level.txt,sha256=Y_4mNMHFJ_UwPPXk8DLDxsrYsTiop9gGNehJt_v7o1A,9
+word2lex-0.0.1.dist-info/RECORD,,
