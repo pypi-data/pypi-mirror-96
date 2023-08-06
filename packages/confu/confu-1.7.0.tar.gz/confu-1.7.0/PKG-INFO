@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: confu
+Version: 1.7.0
+Summary: Configuration file validation and generation
+Home-page: https://github.com/20c/confu
+License: Apache-2.0
+Author: 20C
+Author-email: code@20c.com
+Requires-Python: >=3.6,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Provides-Extra: docs
+Requires-Dist: markdown-include (>=0.5,<1)
+Requires-Dist: mkdocs (>=1.0.0,<2.0.0); extra == "docs"
+Requires-Dist: pymdgen (<2); extra == "docs"
+Project-URL: Repository, https://github.com/20c/confu
