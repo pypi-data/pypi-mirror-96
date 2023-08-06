@@ -1,0 +1,10 @@
+README.md
+setup.py
+jdplay/__init__.py
+jdplay/media_player.py
+py_jdplayss/__init__.py
+py_jdplayss/jdplay_telnet.py
+py_jdplayss.egg-info/PKG-INFO
+py_jdplayss.egg-info/SOURCES.txt
+py_jdplayss.egg-info/dependency_links.txt
+py_jdplayss.egg-info/top_level.txt

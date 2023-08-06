@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: py-jdplayss
+Version: 0.0.1
+Summary: home-assistant skill api for Judian background Music player.
+Home-page: https://github.com/iessen/py_jdplayss.git
+Author: iessen
+Author-email: essen.wang@outlook.com
+License: UNKNOWN
+Description: # py_jdplayss
+        home-assistant skill api for Judian background Music player.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
