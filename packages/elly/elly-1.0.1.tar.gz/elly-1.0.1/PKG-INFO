@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: elly
+Version: 1.0.1
+Summary: elly.love
+Home-page: http://elly.love
+Author: lihao
+Author-email: it_fk@163.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Utilities
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.9
