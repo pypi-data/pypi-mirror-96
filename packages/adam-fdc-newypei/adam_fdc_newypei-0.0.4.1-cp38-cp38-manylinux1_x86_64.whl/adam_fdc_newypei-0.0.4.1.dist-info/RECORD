@@ -1,0 +1,9 @@
+add_wrapper.cpython-38-x86_64-linux-gnu.so,sha256=jdwdrwZq42zLP1WTTNvu4QIkIgOPGlHN5xVLwXa2W20,137576
+adam_fdc/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+adam_fdc/add.py,sha256=86aagj9mO0DJIqmy71zn3OcjoOIIz2vybzkH8LGyjTY,141
+adam_fdc/addlib/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+adam_fdc_newypei-0.0.4.1.dist-info/LICENSE,sha256=7EI8xVBu6h_7_JlVw-yPhhOZlpY9hP8wal7kHtqKT_E,1074
+adam_fdc_newypei-0.0.4.1.dist-info/METADATA,sha256=0grHBoYg06euGTp6dNV2ZAhZcBocF1urEJPicsrOXdw,670
+adam_fdc_newypei-0.0.4.1.dist-info/WHEEL,sha256=Dh4w5P6PPWbqyqoE6MHlzbFQwZXlM-voWJDf2WUsS2g,108
+adam_fdc_newypei-0.0.4.1.dist-info/top_level.txt,sha256=K7X7_c4dlGrqFbM6k4a9uEQw2dmG_N8inMKThW_Pic4,21
+adam_fdc_newypei-0.0.4.1.dist-info/RECORD,,
