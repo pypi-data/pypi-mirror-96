@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: snex
+Version: 2021.2.28.1
+Summary: snex - snippet extractor
+Home-page: https://github.com/jwbargsten/snex/
+Author: Joachim Bargsten
+Author-email: jw@bargsten.org
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Requires-Dist: click (>=7.1.2,<8.0.0)
+Requires-Dist: pyhocon (>=0.3.57,<0.4.0)
+Requires-Dist: pystache (>=0.5.4,<0.6.0)
