@@ -1,0 +1,6 @@
+README.md
+setup.py
+didkit.egg-info/PKG-INFO
+didkit.egg-info/SOURCES.txt
+didkit.egg-info/dependency_links.txt
+didkit.egg-info/top_level.txt
