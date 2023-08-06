@@ -1,0 +1,10 @@
+aitk/networks/__init__.py,sha256=-hk9H0DAOP8Lt62hxF1wj2wZUB2zwmpEOuhfWO1zzo8,411
+aitk/networks/_version.py,sha256=nvwKfQenvbRAnaqHGtqz_hFKuvGkviN29fBsHeLHusE,367
+aitk/networks/callbacks.py,sha256=l-EtGcJfQUNy7zOff6M4vaA4olWahUyfN9tXBC23BRA,4262
+aitk/networks/metrics.py,sha256=jxSfaKiHhGgLfBdRPRl3sKUB-B2SdUT2Vc9c4lKm_qQ,473
+aitk/networks/network.py,sha256=lYWD36T4onUz8SXcBwDCsIj-1Exu4N63mApQCsvjczg,94721
+aitk/networks/utils.py,sha256=ylmCCmOJo66TjL8W2_aZSOby_VmGA3sUTxSBnwDbCHE,12649
+aitk.networks-0.2.1.dist-info/METADATA,sha256=gXHHRuVfk7zW9I-uedfwveKVviQbv8GI-Oe353_UUrw,1117
+aitk.networks-0.2.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+aitk.networks-0.2.1.dist-info/top_level.txt,sha256=Nd1TXMWwE1VIGABpa4lX9EdmidaqlayqBFLVnVNuCvM,5
+aitk.networks-0.2.1.dist-info/RECORD,,
