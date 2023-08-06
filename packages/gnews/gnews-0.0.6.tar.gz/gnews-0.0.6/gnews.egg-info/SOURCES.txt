@@ -1,0 +1,8 @@
+README.md
+setup.py
+gnews/__init__.py
+gnews/gnews.py
+gnews.egg-info/PKG-INFO
+gnews.egg-info/SOURCES.txt
+gnews.egg-info/dependency_links.txt
+gnews.egg-info/top_level.txt
