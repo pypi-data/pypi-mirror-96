@@ -1,0 +1,3 @@
+[console_scripts]
+redbox_exporter = redbox:main
+
