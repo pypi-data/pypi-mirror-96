@@ -1,0 +1,6 @@
+README.md
+setup.py
+b2bapi.egg-info/PKG-INFO
+b2bapi.egg-info/SOURCES.txt
+b2bapi.egg-info/dependency_links.txt
+b2bapi.egg-info/top_level.txt
