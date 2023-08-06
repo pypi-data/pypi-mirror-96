@@ -1,0 +1,16 @@
+body {
+  margin: 10px;
+  padding: 0;
+}
+
+#layout {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: grid;
+  grid-template-columns: [col-line] repeat(12, 8.333% [col-line]);
+  grid-template-rows: repeat(12, 1fr [row-line]);
+  grid-auto-flow: row;
+}

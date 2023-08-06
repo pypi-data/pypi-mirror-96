@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="/projection/css/main.css" type="text/css"/>
+    <title>Stand by...</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script type="module" src="/projection/js/main.js"></script>
+    <script type="text/javascript">
+      function expose() {
+        import('/projection/js/main.js').then(m => window.main = m);
+        import('/projection/js/stores.js').then(m => window.stores = m);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="layout">
+    </div>
+  </body>
+</html>

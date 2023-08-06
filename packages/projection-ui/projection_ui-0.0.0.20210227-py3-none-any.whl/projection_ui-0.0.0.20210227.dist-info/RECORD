@@ -1,0 +1,14 @@
+projection/__init__.py,sha256=j_SIxFNj74cLEJM9eoE8XTaYzEGcBJjkfMz-Fy_H3ig,3066
+projection/elements/__init__.py,sha256=tCwsFWOWwPo-5Crnm5F7EdzZxGK3uOnQL-sUItGxKuo,24
+projection/elements/base.py,sha256=8gH7QNdXcjCbhoQRC07ReZ8CXFmh9w_ZxEw5NBmv0jc,787
+projection/elements/div.py,sha256=Cx2jjzRuCSEx4YekWzvPUYNUUAHSYVu25dr43ZXBvUE,1146
+projection/externals/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+projection/externals/stdout.py,sha256=pR4X7K0sCxuMcif60b35ob2onJfTUw-Sdjuqgy8HV98,2093
+projection/static/css/main.css,sha256=s7-3dxVwurrkITexHD0LYwKO9Oje3AJXbwhAol2C-lk,277
+projection/static/index.html,sha256=cKc3eaMgQ6klrhnG7DpXYBqN0WfP8VKZX33SXT6Dc4Q,559
+projection/static/js/elements.js,sha256=WvNkmxdPtbL1jYWesNP78N8pzeNN7oWsz8_a2vAkVkE,5419
+projection/static/js/main.js,sha256=DbJPGhjgGiJ3GzxFdrZ3JGsl7rpm58_qWVA5ej7d0QU,1565
+projection/static/js/stores.js,sha256=PGQasIv1jfwcx16ed_u-mRSdW_F36iG9OKiLhu6Fh3g,94
+projection_ui-0.0.0.20210227.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+projection_ui-0.0.0.20210227.dist-info/METADATA,sha256=cjZp_NdzTjYjaeK6KAp2blwO8BR1Q4tp_Hy_14O0pjw,513
+projection_ui-0.0.0.20210227.dist-info/RECORD,,
