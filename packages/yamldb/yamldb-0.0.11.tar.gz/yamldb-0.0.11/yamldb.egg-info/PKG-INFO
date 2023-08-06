@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: yamldb
+Version: 0.0.11
+Summary: A database with yaml files as backend
+Home-page: https://github.com/laszewsk/yamldb
+Author: Gregor von Laszewski
+Author-email: laszewski@gmail.com
+License: Apache 2.0
+Description: Documentation
+        =============
+        
+        
+        [![image](https://img.shields.io/travis/TankerHQ/cloudmesh-db.svg?branch=main)](https://travis-ci.org/TankerHQ/cloudmesn-db)
+        
+        [![image](https://img.shields.io/pypi/pyversions/cloudmesh-db.svg)](https://pypi.org/project/cloudmesh-db)
+        
+        [![image](https://img.shields.io/pypi/v/cloudmesh-db.svg)](https://pypi.org/project/cloudmesh-db/)
+        
+        [![image](https://img.shields.io/github/license/TankerHQ/python-cloudmesh-db.svg)](https://github.com/TankerHQ/python-cloudmesh-db/blob/main/LICENSE)
+        
+        see cloudmesh.cmd5
+        
+        * https://github.com/cloudmesh/cloudmesh.cmd5
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Database
+Classifier: Topic :: Database :: Database Engines/Servers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
