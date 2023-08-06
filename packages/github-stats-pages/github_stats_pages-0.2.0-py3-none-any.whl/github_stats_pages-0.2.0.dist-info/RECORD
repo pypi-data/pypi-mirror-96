@@ -1,0 +1,14 @@
+github_stats_pages/__init__.py,sha256=Zn1KFblwuFHiDRdRAiRnDBRkbPttWh44jKa5zG2ov0E,22
+github_stats_pages/gts_run.py,sha256=ZE562YDKY5Wkudx-y0K0fbc80dmEOdheMJANUEJP9Cs,219
+github_stats_pages/repo_list.py,sha256=YXjj3RwTJKoI7AlUgtoyajz_OovUzDO_gJ0M58-AUKk,1567
+github_stats_pages-0.2.0.data/scripts/get_repo_list,sha256=4Fxm1H2AZQaaR1Dcadp-DWCj5vad5byMOXzKhlEl-DM,510
+github_stats_pages-0.2.0.data/scripts/gts_run_all_repos,sha256=_i2JY03DaHvb_1vstvQV7VzKi2ZfjDQXbV4wOMFsj4g,894
+github_stats_pages-0.2.0.data/scripts/merge-csv.sh,sha256=yiQApamgOq7-QYY47Y9kHD3pHLix2rEL8f7k6XxP2O8,687
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_gts_run.py,sha256=VUVkZQ6gr0POXSkD-55ms4QlbnDV585MlojVbZnNcrA,377
+tests/test_repo_list.py,sha256=7r4JZPdU_Qiq_dNi5hwHri24X6lhJiK3Yk5tpaQjFZk,394
+github_stats_pages-0.2.0.dist-info/LICENSE,sha256=9wtf09COT9cu89I-3ZcmaIMbyob9pXyJOUyRqZaQkiM,1064
+github_stats_pages-0.2.0.dist-info/METADATA,sha256=BRbncQbM9yUnSl0z4jc3w0Pa96ikyvTN2X20haC1VeE,1732
+github_stats_pages-0.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+github_stats_pages-0.2.0.dist-info/top_level.txt,sha256=tOjrB4KlUAgo6zJiyqfN53YtWpf8uZu-Jw1URCH1_z8,25
+github_stats_pages-0.2.0.dist-info/RECORD,,
