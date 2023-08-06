@@ -1,0 +1,15 @@
+paranestamol/LoadWindow.qml,sha256=lNlxUaLHQ35fs22nWMgTZpXhX67gKGQ0bW6OyOXp1hc,4644
+paranestamol/Manipulator.qml,sha256=i70H1lFvhzOg2Iyulpo7A6tFD8M444XqEIgiQvKKA04,2055
+paranestamol/PlotSelector.qml,sha256=INJJRUBunecr0sWMDNswHcY6ZHdt5bVaaT5vt4zrtjI,1078
+paranestamol/__init__.py,sha256=HW5Ucvw9Kt1fzmo5hvLTqg7WKnifqKNHGaLiZFbcIiw,22
+paranestamol/__main__.py,sha256=9N6LbJgbcB2u7Ngvd2KZbbWRSfywmsPeirC8NDD8QLE,3199
+paranestamol/plt_managers.py,sha256=92z0xGycvLtSRZ5emZbFhgG9vLsnYYXr6TTkob84uVs,8757
+paranestamol/samples_model.py,sha256=jHzvlhLE-nXSmbViwMVMJNZ7Lk1jPsSusq9G-o2yonM,10448
+paranestamol/utils.js,sha256=jF1rD9Z5QAAINYhsckkuV8dMRVGnmiyNCnRZWkz2fSg,533
+paranestamol/utils.py,sha256=vmmeCeZ5nHGid-jxFXspO7vjIFLlxoYhofyNCB9wRrI,1550
+paranestamol/view.qml,sha256=DTKr7KPCS0UzfDqgtXAV9VDL8UgIKCcvqMBcE9lUuTY,5401
+paranestamol-0.0.12.dist-info/LICENSE.txt,sha256=FN6yoGfBrGrZ6Q5m37Rnfn9hrZiL_MTc-6RnrDDQG34,1072
+paranestamol-0.0.12.dist-info/METADATA,sha256=c7WIHumWKhvAgYoAxrOax3cCnrJC6b2B_6FXKhhYb6M,563
+paranestamol-0.0.12.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+paranestamol-0.0.12.dist-info/top_level.txt,sha256=NfOaTxtYt5kKvY-8oRd24u-gFWKFSGTQytZZi78Ay1M,13
+paranestamol-0.0.12.dist-info/RECORD,,
