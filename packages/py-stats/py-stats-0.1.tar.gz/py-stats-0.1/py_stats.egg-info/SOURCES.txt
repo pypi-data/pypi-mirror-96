@@ -1,0 +1,8 @@
+README.md
+setup.py
+stats
+py_stats.egg-info/PKG-INFO
+py_stats.egg-info/SOURCES.txt
+py_stats.egg-info/dependency_links.txt
+py_stats.egg-info/requires.txt
+py_stats.egg-info/top_level.txt
