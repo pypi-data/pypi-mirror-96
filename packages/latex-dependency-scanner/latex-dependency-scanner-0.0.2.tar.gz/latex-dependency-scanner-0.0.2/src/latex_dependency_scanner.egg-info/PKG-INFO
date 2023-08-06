@@ -1,0 +1,19 @@
+Metadata-Version: 1.2
+Name: latex-dependency-scanner
+Version: 0.0.2
+Summary: Scan LaTeX documents for their dependencies.
+Home-page: UNKNOWN
+Author: Tobias Raabe
+Author-email: raabe@posteo.de
+License: MIT
+Description: UNKNOWN
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
