@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: ukhotides
+Version: 0.1.1
+Summary: Python library for interfacing with the UKHO Admiralty Tidal API
+Home-page: https://github.com/ianByrne/PyPI-ukhotides
+Author: Ian Byrne
+Author-email: ian.byrne@burnsie.com.au
+License: MIT
+Download-URL: https://github.com/ianByrne/PyPI-ukhotides/archive/v0.1.1.tar.gz
+Description: TODO
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Description-Content-Type: text/markdown
