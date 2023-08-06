@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: korsubset
+Version: 0.1
+Summary: An easy font subsetting tool for Korean fonts.
+Home-page: https://github.com/SeokminHong/korsubset
+Author: Seokmin Hong
+Author-email: ghdtjrals240@naver.com
+License: MIT
+Keywords: font,Korean,Hangul,subset
+Platform: UNKNOWN
+Requires-Dist: fonttools
+Requires-Dist: Brotli
+Requires-Dist: zopfli
+
+UNKNOWN
+
+

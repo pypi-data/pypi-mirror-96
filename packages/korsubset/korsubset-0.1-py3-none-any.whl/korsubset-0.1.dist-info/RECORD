@@ -1,0 +1,10 @@
+korsubset/__init__.py,sha256=w4Wu-6YYtwJOLNe5lwTwIjtY7vDm2U-JZaDFZ4Xcr6I,66
+korsubset/__main__.py,sha256=sNgbPIu62lODgH3KD_uSSBS6opHSbJ4cN_Nnsaqm8Bw,1944
+korsubset/subset_font.py,sha256=B48FLhvlKt___nclnu1a42WjnjrcCeDgnfqQwt3FYu8,4496
+korsubset/unicode-range.txt,sha256=ZmpFZnWz7eQD4H4HdB4twWl7m58KFZ8MSOY2ACqPWis,42053
+korsubset-0.1.dist-info/LICENSE,sha256=eew47xUGl2DkyV5V4PFvXTutywFbEtAABhuUZCDsBjg,1069
+korsubset-0.1.dist-info/METADATA,sha256=_EqMAg5tonvDIsDhANOPfHfHiSR4FE_eM7DmNAmFEK0,364
+korsubset-0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+korsubset-0.1.dist-info/entry_points.txt,sha256=mS5uNgr24lES5X9P7NzVWqZvBfadRGa39iU8qDPMd0E,55
+korsubset-0.1.dist-info/top_level.txt,sha256=eJYUepRVN4yhU7n8jL2gPik6WJ-gGWjkdzxM4gpiTP0,10
+korsubset-0.1.dist-info/RECORD,,
