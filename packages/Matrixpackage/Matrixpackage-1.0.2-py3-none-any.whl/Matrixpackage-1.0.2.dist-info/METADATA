@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: Matrixpackage
+Version: 1.0.2
+Summary: Matrix Package provides matrix addition,subtraction and matrix multiplication
+Home-page: https://github.com/pavishri
+Author: Pavithra.K, Maria Irudaya Regilan J
+Author-email: <pavithrak.vec@gmail.com>
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# **Matrixpackage1.0*
+
+Matrix Package is a PYPI package that includes a method that performs addition,subtraction and multiplication for the matrices using functions.
+
+# **Installation**
+
+Run the following to install:
+'''cmd 
+pip install Matrixpackage==1.0.2
+'''
+# **Usage**
+
+Install the package in our device. 
+We could use this package for matrix operations.
+This method receives two mandatory parameters.
+The first and second parameters are received dynamically and passed in the code.
+
+
+# **Version==1.0.2**
+
+# **Released Date:25Feb2021**
+
+# **Author:Pavithra.K, Maria Irudaya Regilan J**
+
+
+
+
