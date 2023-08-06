@@ -1,0 +1,8 @@
+setup.py
+minnn/__init__.py
+minnn/toolkit.py
+minnn.egg-info/PKG-INFO
+minnn.egg-info/SOURCES.txt
+minnn.egg-info/dependency_links.txt
+minnn.egg-info/requires.txt
+minnn.egg-info/top_level.txt
