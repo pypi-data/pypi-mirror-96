@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: trignometry
+Version: 0.1
+Summary: To find complex numbers
+Home-page: https://github.com/Vid-27/Trignometry
+Author: Vidhya Lakshmi D , Maria Irudaya Regilan J
+Author-email: vidhyasumathi27@outlook.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# Complex Numbers
+
+##### Package that is used to convert real numbers into complex numbers using the function complex(x,y).
+
+# Installation
+
+ Run the following to install :
+
+```cmd pip install complex-numbers```
+
+### Contributor : Vidhya Lakshmi D
+### Mentor : Maria Irudaya Regilan J
+
+
