@@ -1,0 +1,6 @@
+qdarkstyle
+praat-parselmouth==0.4.0
+librosa
+openpyxl
+PyQt5
+seaborn
