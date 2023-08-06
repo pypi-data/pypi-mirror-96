@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: round2
+Version: 0.0.3
+Summary: Round half away from zero.
+Home-page: https://github.com/MrThearMan/round2
+Author: Matti Lamppu
+Author-email: lamppu.matti.akseli@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/MrThearMan/round2/issues
+Description: # Round half away from zero. 
+        
+        ```
+        pip install round2
+        ```
+        
+        Since python's default round function uses 'bankers rounding', I made this small module that uses 'commercial rounding' instead. This means half is rounded up for positive numbers and down for negative numbers:
+        
+        ```
+        >>> from round2 import round2
+        >>> round2(1.5)
+        2
+        >>> round2(2.5)
+        3
+        >>> round2(-1.5)
+        -2
+        >>> round2(-2.5)
+        -3
+        >>> round2(2.5, decimals=1)
+        2.5
+        ```
+        
+        If decimals=0 (default), returns an int, otherwise a float, just like Python’s round function.
+        
+        Implemented in Cython with type hinting in Python.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
