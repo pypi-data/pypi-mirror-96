@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+setup.py
+dictionizr/__init__.py
+dictionizr/conftest.py
+dictionizr/dictionizr.py
+dictionizr.egg-info/PKG-INFO
+dictionizr.egg-info/SOURCES.txt
+dictionizr.egg-info/dependency_links.txt
+dictionizr.egg-info/top_level.txt
+tests/__init__.py
+tests/complex_dictionizr_test.py
+tests/dictionizr_test.py
+tests/utils/__init__.py
+tests/utils/utils.py
