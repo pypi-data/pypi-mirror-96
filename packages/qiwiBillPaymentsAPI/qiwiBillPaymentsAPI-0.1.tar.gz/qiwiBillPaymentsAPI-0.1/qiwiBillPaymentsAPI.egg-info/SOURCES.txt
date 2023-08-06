@@ -1,0 +1,8 @@
+README.md
+setup.py
+QiwiBillPaymentsAPI/QiwiBillPaymentsAPI.py
+QiwiBillPaymentsAPI/__init__.py
+qiwiBillPaymentsAPI.egg-info/PKG-INFO
+qiwiBillPaymentsAPI.egg-info/SOURCES.txt
+qiwiBillPaymentsAPI.egg-info/dependency_links.txt
+qiwiBillPaymentsAPI.egg-info/top_level.txt
