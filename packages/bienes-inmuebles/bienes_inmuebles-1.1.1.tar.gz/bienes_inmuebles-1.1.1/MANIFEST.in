@@ -1,0 +1,3 @@
+include bienes_inmuebles/data/csv_barcelona.csv
+include bienes_inmuebles/data/*
+recursive-include bienes_inmuebles/data/ *

@@ -1,0 +1,9 @@
+numpy
+matplotlib==3.2
+scipy
+pandas
+scikit-learn
+sklearn
+pytest
+joblib
+colorama
