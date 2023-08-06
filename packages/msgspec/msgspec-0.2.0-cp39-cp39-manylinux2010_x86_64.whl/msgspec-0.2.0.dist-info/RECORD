@@ -1,0 +1,11 @@
+msgspec-0.2.0.dist-info/LICENSE,sha256=b96LZyOIXoUIgI9lrDcv65fT7uLqsrkdNNeWt1t6xzQ,1498
+msgspec-0.2.0.dist-info/WHEEL,sha256=C-sg6l2ppbqlkU_0fUt0o5fTSvsM-h9TfVKAh4ryMfI,111
+msgspec-0.2.0.dist-info/METADATA,sha256=-VdJ5sir0KGupSSHogHIFSBeuvYOh0bAyFcjN3KBzhg,2417
+msgspec-0.2.0.dist-info/RECORD,,
+msgspec-0.2.0.dist-info/top_level.txt,sha256=8Ysnxa29QLhdPtjPGjyc1hmx3nOmKeu_OAk2682ZdvU,8
+msgspec/_version.py,sha256=PG20kuCpykEZDfkI0OFmK7-xYlN5Vy7raxybEsKAtOU,497
+msgspec/core.pyi,sha256=i3VdZFdm2rhEErrGji_2yAEukCuMZ39-gOytwnHIZB8,665
+msgspec/__init__.py,sha256=N6qmw7DuCnvST5-pjv87B-EhZArUBcxPevs0Hzgl5tQ,234
+msgspec/core.cpython-39-x86_64-linux-gnu.so,sha256=Tmhfb60BDNX9HCDVdvv-e3qLGLbvYLkC34OXFdx4bNs,368808
+msgspec/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+msgspec/core.c,sha256=o7F9LDiFz3bKRsUcAM1W0sRYEwbwIYlni_KAsiHseOE,111104
