@@ -1,0 +1,7 @@
+README.md
+setup.py
+openapi_perf/__init__.py
+openapi_perf.egg-info/PKG-INFO
+openapi_perf.egg-info/SOURCES.txt
+openapi_perf.egg-info/dependency_links.txt
+openapi_perf.egg-info/top_level.txt
