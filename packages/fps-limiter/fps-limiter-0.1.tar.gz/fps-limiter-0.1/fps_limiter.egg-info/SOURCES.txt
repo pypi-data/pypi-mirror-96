@@ -1,0 +1,8 @@
+README.md
+setup.py
+fps_limiter/__init__.py
+fps_limiter.egg-info/PKG-INFO
+fps_limiter.egg-info/SOURCES.txt
+fps_limiter.egg-info/dependency_links.txt
+fps_limiter.egg-info/not-zip-safe
+fps_limiter.egg-info/top_level.txt
