@@ -1,0 +1,38 @@
+#!/usr/bin/env python
+from cloudlaunchinstance import CloudLaunchInstance
+from allproviderutil import *
+from constants import *
+import os
+import argparse
+
+parser = argparse.ArgumentParser(
+    description='susecloudlaunch')
+parser.add_argument(
+    "-c",
+    help="Show all created environments", action="store_true")
+parser.add_argument(
+    "-d", nargs=2, help="Destroy environment (e.g. -d myenv aws)", action="store", metavar=("env", "provider"))
+args = parser.parse_args()
+if args.c:
+    # Clear screen
+    os.system('clear')
+    for provider in PROVIDERS:
+        print(OKGREEN + provider.upper() + ENDC)
+        print(*get_terraform_project_dirs(provider), sep='\n')
+        print()
+elif args.d:
+    provider = args.d[1].lower()
+    env_name = args.d[0].lower()
+    if provider in ["aws", "azure", "gcp"]:
+        if env_name in get_terraform_project_dirs(provider):
+            destroy_terraform_env(provider, env_name)
+        else:
+            print("No environment by that name.")
+    else:
+        print("No provider by that name")
+
+else:
+    instance = CloudLaunchInstance("new-instance")
+    # Clear screen
+    os.system('clear')
+    instance.user_interface()
