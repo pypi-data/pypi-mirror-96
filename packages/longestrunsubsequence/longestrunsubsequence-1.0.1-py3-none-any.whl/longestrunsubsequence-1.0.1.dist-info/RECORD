@@ -1,0 +1,10 @@
+longestrunsubsequence/__init__.py,sha256=9ewE7vBgrg8udISjeSx4JqoyYCFZVaXcJ3Z3NCcuv_A,813
+longestrunsubsequence/algorithms.py,sha256=2a2436u38wDMXWuyys6aLQvbaqYbDso7UtKERe7e6lQ,9041
+longestrunsubsequence/lrs.py,sha256=JnB0MHrXBwbrD3mht4uW0irApEYx4J0oInWDhw33fOs,1080
+longestrunsubsequence/reduction.py,sha256=acwqkSlD6ev5XIYlaZxPzndIuJdRBh4A88N7CwEmrEU,8581
+longestrunsubsequence/util.py,sha256=CbETpty3plh7fcrQCHoIo59AO-r6GCNrDddBGrKSMig,1532
+longestrunsubsequence-1.0.1.dist-info/LICENSE,sha256=LjmL6ATYCuCuKZeegP4ts8nopyuK2xqTR8eXijZEl3c,1064
+longestrunsubsequence-1.0.1.dist-info/METADATA,sha256=WQECTeFeRUILDd5YQaaWT5f_9hmoH4mwGEXr_TtXRUo,2621
+longestrunsubsequence-1.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+longestrunsubsequence-1.0.1.dist-info/top_level.txt,sha256=nERZqvH1fNAI1iSpXnLqBN5nWz8bDyJ0TfrA7l7iPhQ,22
+longestrunsubsequence-1.0.1.dist-info/RECORD,,
