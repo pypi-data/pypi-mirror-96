@@ -1,0 +1,29 @@
+{% extends "python_docs_theme/layout.html" %}
+
+{% block rootrellink %}
+{% if theme_root_url is defined and theme_root_url | length 
+    and theme_root_name is defined and theme_root_name | length %}
+    <li><a href="{{theme_root_url}}">{{theme_root_name}}</a>{{ reldelim1 }}</li>
+{% endif %}
+{% if theme_root_include_title %}
+    <a href="{{ pathto('index') }}">{{ shorttitle }}</a>{{ reldelim1 }}
+{% endif %}
+{% endblock %}
+
+{% block extrahead %}
+    {% if builder != "htmlhelp" %}
+    {% if not embedded %}<script type="text/javascript" src="{{ pathto('_static/copybutton.js', 1) }}"></script>{% endif %}
+    {% endif %}
+{% endblock %}
+
+{%- block footer %}
+    <div class="footer">
+    {%- if last_updated %}
+    {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}<br />
+    {%- endif %}
+    This theme is a customization of <a href="https://github.com/python/python-docs-theme">python-docs-theme</a>.<br />
+    {%- if show_sphinx %}
+      {% trans sphinx_version=sphinx_version|e %}Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}
+    {%- endif %}
+    </div>
+{%- endblock %}

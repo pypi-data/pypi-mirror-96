@@ -1,0 +1,17 @@
+CHANGELOG.rst
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+supersk_python_docs/__init__.py
+supersk_python_docs/_version.py
+supersk_python_docs/layout.html
+supersk_python_docs/theme.conf
+supersk_python_docs.egg-info/PKG-INFO
+supersk_python_docs.egg-info/SOURCES.txt
+supersk_python_docs.egg-info/dependency_links.txt
+supersk_python_docs.egg-info/entry_points.txt
+supersk_python_docs.egg-info/requires.txt
+supersk_python_docs.egg-info/top_level.txt
+supersk_python_docs/static/custom_pydoctheme.css_t

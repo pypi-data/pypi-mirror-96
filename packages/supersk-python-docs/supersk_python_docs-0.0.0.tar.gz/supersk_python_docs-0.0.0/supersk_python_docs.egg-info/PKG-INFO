@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: supersk-python-docs
+Version: 0.0.0
+Summary: Simple theme for sphinx-doc based on official python docs theme
+Home-page: https://gitlab.com/supersk-docs/supersk-python-docs
+Author: super-sk
+Author-email: 1206305-super-sk@users.noreply.gitlab.com
+License: MIT
+Project-URL: Code, https://gitlab.com/supersk-docs/supersk-python-docs
+Project-URL: Issues, https://gitlab.com/supersk-docs/supersk-python-docs/-/issues
+Description: ========================
+        Custom Python docs Theme
+        ========================
+        
+        Simple sphinx theme based on
+        `Python Docs Sphinx Theme <https://github.com/python/python-docs-theme>`_.
+        
+        Configuration Options
+        =====================
+        
+        Inside ``conf.py``, add options in the form of : ::
+        
+            html_theme_options = {
+                'key': 'value',
+            }
+        
+        * **link_color**
+        * **hover_link_color**
+        * **visited_link_color**
+        
+        
+        =========
+        CHANGELOG
+        =========
+        
+        0.0.0
+        =====
+        
+        * Minimal config to override parent layout.html
+        * Init project
+        
+        
+Keywords: docs,sphinx,theme
+Platform: UNKNOWN
+Classifier: Framework :: Sphinx
+Classifier: Framework :: Sphinx :: Theme
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Documentation
+Classifier: Topic :: Software Development :: Documentation
+Description-Content-Type: text/x-rst

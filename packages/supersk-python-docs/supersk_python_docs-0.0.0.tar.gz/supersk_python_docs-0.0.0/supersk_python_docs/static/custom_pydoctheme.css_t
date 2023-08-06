@@ -1,0 +1,54 @@
+{#- set link style #}
+{%- set theme_link_color = theme_link_color or theme_primary_green %}
+{%- set theme_hover_link_color = theme_hover_link_color or theme_secondary_green %}
+{%- set theme_visited_link_color = theme_visited_link_color or theme_blue_green %}
+
+@import 'pydoctheme.css';
+
+/* Space out the top level tree items */
+.sphinxsidebar .toctree-l1 {
+    margin-bottom: 0.4em;
+}
+
+/* Color the current tree differently */
+.sphinxsidebar li.current a {
+    color: {{ theme_link_color }};
+}
+
+/* Color the current tree headers differently */
+.sphinxsidebar li.current > a {
+    font-weight: bold;
+}
+
+/* change link color  */
+a.external {
+    border-bottom-color: {{ theme_link_color }};
+}
+
+a.external:visited {
+    border-bottom-color: {{ theme_visited_link_color }};
+}
+
+div.body a {
+    color: {{ theme_link_color }};
+}
+
+div.body a:hover {
+    color: {{ theme_hover_link_color }};
+}
+
+div.footer a:hover {
+    color: {{ theme_hover_link_color }};
+}
+
+div.related a:hover {
+    color: {{ theme_hover_link_color }};
+}
+
+div.sphinxsidebar a:hover {
+    color: {{ theme_hover_link_color }};
+}
+
+div.body a:visited {
+    color: {{ theme_visited_link_color }};
+}

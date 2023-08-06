@@ -1,0 +1,5 @@
+include LICENSE
+include README.rst
+include CHANGELOG.rst
+recursive-include supersk_python_docs *.*
+recursive-exclude supersk_python_docs *.pyc
