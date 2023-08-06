@@ -1,0 +1,7 @@
+configerus>=0.3.9
+pyyaml
+docker
+kubernetes==17.14.0a1
+fire
+pytest
+pytest-order
