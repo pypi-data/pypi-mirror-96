@@ -1,0 +1,13 @@
+README.md
+setup.py
+quran/Errors.py
+quran/MiddleWare.py
+quran/Quran_api.py
+quran/Sunnah_api.py
+quran/__init__.py
+quran/extractMethods.py
+quran.egg-info/PKG-INFO
+quran.egg-info/SOURCES.txt
+quran.egg-info/dependency_links.txt
+quran.egg-info/requires.txt
+quran.egg-info/top_level.txt
