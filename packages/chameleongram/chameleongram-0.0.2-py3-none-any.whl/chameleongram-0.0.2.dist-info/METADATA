@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: chameleongram
+Version: 0.0.2
+Summary: An async (trio) MTProto Client written in Python 3
+Home-page: https://gitlab.com/DavideGalilei/chameleongram
+Author: Davide Galilei
+Author-email: davidegalilei2018@gmail.com
+License: LGPLv3+
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: pretty-errors
+Requires-Dist: cryptg
+Requires-Dist: rsa
+Requires-Dist: trio
+
+## ChameleonGram
+An async (trio) MTProto Client written in Python 3 (Work In Progress).
+
+
