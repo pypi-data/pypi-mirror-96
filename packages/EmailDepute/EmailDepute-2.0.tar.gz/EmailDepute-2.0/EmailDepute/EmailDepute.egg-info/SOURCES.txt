@@ -1,0 +1,16 @@
+LICENSE.txt
+MANIFEST.in
+README.html
+README.rst
+pyproject.toml
+setup.cfg
+setup.py
+EmailDepute/DepartementFrancais
+EmailDepute/GroupePolitiqueFrancais
+EmailDepute/Logo_Assemblee_nationale_francaise.gif
+EmailDepute/RegionsFrancaises
+EmailDepute/depute1.db
+EmailDepute/EmailDepute.egg-info/PKG-INFO
+EmailDepute/EmailDepute.egg-info/SOURCES.txt
+EmailDepute/EmailDepute.egg-info/dependency_links.txt
+EmailDepute/EmailDepute.egg-info/top_level.txt
