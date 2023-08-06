@@ -1,0 +1,17 @@
+README.md
+setup.py
+stroll/__init__.py
+stroll/conllu.py
+stroll/download.py
+stroll/graph.py
+stroll/labels.py
+stroll/loss.py
+stroll/model.py
+stroll/naf.py
+stroll/srl.py
+stroll/stanza.py
+stroll_srl.egg-info/PKG-INFO
+stroll_srl.egg-info/SOURCES.txt
+stroll_srl.egg-info/dependency_links.txt
+stroll_srl.egg-info/requires.txt
+stroll_srl.egg-info/top_level.txt

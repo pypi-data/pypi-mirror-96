@@ -1,0 +1,11 @@
+torch
+dgl
+matplotlib
+numpy
+sklearn
+progress
+argparse
+fasttext
+seaborn
+stanza
+KafNafParserPy
