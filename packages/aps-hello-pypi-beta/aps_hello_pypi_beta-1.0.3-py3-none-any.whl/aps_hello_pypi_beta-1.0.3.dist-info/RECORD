@@ -1,0 +1,9 @@
+sample/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sample/calculator.py,sha256=DyjWiKzs2DR69Q2q83ixfnNOPQE_I9aXK0ccmocaRRE,93
+sample-package/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sample-package/calculator.py,sha256=DyjWiKzs2DR69Q2q83ixfnNOPQE_I9aXK0ccmocaRRE,93
+aps_hello_pypi_beta-1.0.3.dist-info/METADATA,sha256=NaIzv77elZmULh3dYr5KlGRR7kRR3r6dG8BPc0F-UHk,897
+aps_hello_pypi_beta-1.0.3.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+aps_hello_pypi_beta-1.0.3.dist-info/entry_points.txt,sha256=-UA4Yu4eCKrn1Y0UlJ455x2ZquuHTCxZIp-BYdTWiTg,43
+aps_hello_pypi_beta-1.0.3.dist-info/top_level.txt,sha256=qvn_SI4HZ9peodVhGOb2WhbFYzsM78H6CJvTqxgQYT0,7
+aps_hello_pypi_beta-1.0.3.dist-info/RECORD,,
