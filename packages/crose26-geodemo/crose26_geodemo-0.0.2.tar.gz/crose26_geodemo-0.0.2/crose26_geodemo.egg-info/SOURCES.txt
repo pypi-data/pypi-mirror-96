@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+crose26_geodemo/__init__.py
+crose26_geodemo/crose26_geodemo.py
+crose26_geodemo.egg-info/PKG-INFO
+crose26_geodemo.egg-info/SOURCES.txt
+crose26_geodemo.egg-info/dependency_links.txt
+crose26_geodemo.egg-info/not-zip-safe
+crose26_geodemo.egg-info/top_level.txt
