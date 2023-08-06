@@ -1,0 +1,10 @@
+README.md
+setup.py
+functing/__init__.py
+functing/asynchronous.py
+functing/synchronous.py
+functing.egg-info/PKG-INFO
+functing.egg-info/SOURCES.txt
+functing.egg-info/dependency_links.txt
+functing.egg-info/not-zip-safe
+functing.egg-info/top_level.txt
