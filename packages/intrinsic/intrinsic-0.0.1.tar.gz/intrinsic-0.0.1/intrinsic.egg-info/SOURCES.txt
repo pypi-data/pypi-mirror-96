@@ -1,0 +1,6 @@
+README.md
+setup.py
+intrinsic.egg-info/PKG-INFO
+intrinsic.egg-info/SOURCES.txt
+intrinsic.egg-info/dependency_links.txt
+intrinsic.egg-info/top_level.txt
