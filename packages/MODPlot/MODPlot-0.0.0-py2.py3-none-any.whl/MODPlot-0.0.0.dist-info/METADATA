@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: MODPlot
+Version: 0.0.0
+Summary: Functions to make matplotlib plots in the MOD style
+Home-page: https://github.com/pkomiske/MODPlot
+Author: Patrick T. Komiske III
+Author-email: pkomiske@mit.edu
+License: GPL-3.0
+Keywords: mod,plot,cms open data,matplotlib
+Platform: UNKNOWN
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+Requires-Dist: numpy (>=1.16.0)
+
+UNKNOWN
+
+
