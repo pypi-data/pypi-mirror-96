@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: xDNN-classifier
+Version: 0.1.21
+Summary: eXplainable Deep Neural Network (xDNN)
+Home-page: https://github.com/Plamen-Eduardo/xDNN
+Author: Eduardo Almeida Soares, Plamen Angelov
+Author-email: e.almeidasoares@lancaster.ac.uk
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: tensorflow
+Requires-Dist: Keras
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+
+UNKNOWN
+
+
