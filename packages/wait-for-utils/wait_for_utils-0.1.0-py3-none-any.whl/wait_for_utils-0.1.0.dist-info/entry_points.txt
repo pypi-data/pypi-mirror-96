@@ -1,0 +1,3 @@
+[console_scripts]
+wait-for-postgres=wait_for_utils.cli:wait_for_postgres
+
