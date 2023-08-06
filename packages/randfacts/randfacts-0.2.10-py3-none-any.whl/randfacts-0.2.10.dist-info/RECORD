@@ -1,0 +1,10 @@
+randfacts/__init__.py,sha256=sIeuZcWgRZc7JajBDJ4Xcu7lBUYYTRxh2Yhq33naAS0,167
+randfacts/__version__.py,sha256=M4_1KB7WlWS_spwBk_OuXhCc49qfLlddsNKR-Ci8mAU,291
+randfacts/main.py,sha256=4l86dCzEG_ojojElqQA-P5NcI7YKV06H9FPZrCLpjD0,476
+randfacts/safe.txt,sha256=9mef-B7im1KgQJ8tmo-q-fRDLQdif2I79-TqisCQQM8,141872
+randfacts/unsafe.txt,sha256=SFadRUr9tfzJDS3ccU0SBmVTwFxkI3-RvyhkqeJthG0,3637
+randfacts-0.2.10.dist-info/LICENSE.txt,sha256=MV0O-_E0DNx6iBE1wdVgHoZ5fBcEjO0CorKlYz2NxKM,1081
+randfacts-0.2.10.dist-info/METADATA,sha256=N-CnRYRHm1_P__L8rtd1clnog_JHNGctHY3hF8uR7CE,1584
+randfacts-0.2.10.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+randfacts-0.2.10.dist-info/top_level.txt,sha256=CtuA0wZECn98oIjL-EgzBRN804oPMLtAPPpM0KJbWIU,10
+randfacts-0.2.10.dist-info/RECORD,,
