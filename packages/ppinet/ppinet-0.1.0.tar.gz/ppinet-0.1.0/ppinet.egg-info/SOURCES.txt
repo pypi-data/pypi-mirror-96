@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+ppinet/__init__.py
+ppinet/clustering.py
+ppinet/initial.py
+ppinet/network_metrics.py
+ppinet/ppinet.py
+ppinet/sp.py
+ppinet.egg-info/PKG-INFO
+ppinet.egg-info/SOURCES.txt
+ppinet.egg-info/dependency_links.txt
+ppinet.egg-info/entry_points.txt
+ppinet.egg-info/requires.txt
+ppinet.egg-info/top_level.txt
