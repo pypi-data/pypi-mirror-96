@@ -1,0 +1,7 @@
+README.md
+setup.py
+longtext/longtext.py
+longtext/longtext.egg-info/PKG-INFO
+longtext/longtext.egg-info/SOURCES.txt
+longtext/longtext.egg-info/dependency_links.txt
+longtext/longtext.egg-info/top_level.txt
