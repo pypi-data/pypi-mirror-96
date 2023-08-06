@@ -1,0 +1,7 @@
+include LICENSE
+recursive-include examples *.py
+
+include Makefile
+recursive-include qndiag *.py
+
+recursive-exclude matlab_octave *

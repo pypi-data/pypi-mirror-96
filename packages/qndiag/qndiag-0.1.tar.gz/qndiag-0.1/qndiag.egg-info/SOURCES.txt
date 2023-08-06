@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+Makefile
+README.md
+setup.py
+examples/article_figure.py
+examples/plot_tutorial.py
+examples/toy_example.py
+qndiag/__init__.py
+qndiag/pham.py
+qndiag/qndiag.py
+qndiag.egg-info/PKG-INFO
+qndiag.egg-info/SOURCES.txt
+qndiag.egg-info/dependency_links.txt
+qndiag.egg-info/top_level.txt
+qndiag/tests/test_pham.py
+qndiag/tests/test_qndiag.py

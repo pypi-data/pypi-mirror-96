@@ -1,0 +1,45 @@
+# Quasi-Newton algorithm for joint-diagonalization
+
+
+![Travis](https://api.travis-ci.org/pierreablin/qndiag.svg?branch=master)
+![Codecov](https://codecov.io/gh/pierreablin/qndiag/branch/master/graph/badge.svg)
+
+## Summary
+
+This Python package contains code for fast joint-diagonalization of a set of
+positive definite symmetric matrices. The main function is `qndiag`,
+which takes as input a set of matrices of size `(p, p)`, stored as a `(n, p, p)`
+array, `C`. It outputs a `(p, p)` array, `B`, such that the matrices
+`B @ C[i] @ B.T` (python), i.e. `B * C(i,:,:) * B'` (matlab/octave)
+are as diagonal as possible.
+
+## Installation of Python package
+
+To install the package, do:
+
+  `$ pip install -U https://github.com/pierreablin/qndiag/archive/master.zip`
+
+You can also simply clone it, and then do:
+
+  `$ pip install -e .`
+
+To check that everything worked, the command
+
+  `$ python -c 'import qndiag'`
+
+should not return any error.
+
+
+## Use with Matlab or Octave
+
+See `qndiag.m` and `toy_example.m` in the folder `matlab_octave`.
+
+## Cite
+
+If you use this code please cite:
+
+    P. Ablin, J.F. Cardoso and A. Gramfort. Beyond Pham’s algorithm
+    for joint diagonalization. Proc. ESANN 2019.
+    https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2019-119.pdf
+    https://hal.archives-ouvertes.fr/hal-01936887v1
+    https://arxiv.org/abs/1811.11433
