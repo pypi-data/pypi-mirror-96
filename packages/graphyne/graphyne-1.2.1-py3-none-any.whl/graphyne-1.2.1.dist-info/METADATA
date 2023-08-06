@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: graphyne
+Version: 1.2.1
+Summary: A fully native Python 'smart graph' property graph database. It is designed to be easy to integrate into your Python projects, simple to use and very powerful.
+Home-page: https://github.com/davidhstocker/Graphyne
+Author: David Stocker
+Author-email: mrdave991@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/davidhstocker/Graphyne/raw/master/dist/graphyne-1.2.2-py3-none-any.whl
+Keywords: graph,propertygraph,property graph,graphdatabase,graph database,smart graph,smartgraph
+Platform: UNKNOWN
+
+UNKNOWN
+
+
