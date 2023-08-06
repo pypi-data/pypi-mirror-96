@@ -1,0 +1,11 @@
+fattails/__init__.py,sha256=xPMdSfoMaoPxRNgOqlD_au1H6WvalvInir5yjR2heNU,30
+fattails/express.py,sha256=Z5Verj6cnA0Nb2eweM4UkgShm1ShG5wS4m5-_aHqi-U,904
+fattails/metrics.py,sha256=JHzmf-hU1MrjLpXDIHTcbU9F3LT14v_XlY3BLQtDSCo,4460
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_express.py,sha256=G-TCEBT8vER6W5vJvrVePRAZfosMkhSLgKBXLBdstCI,1084
+tests/test_metrics.py,sha256=88nKoYTacjkn_tnh1KeActfuHQqeAwCrm0uDJEj_l3o,3731
+fattails-0.0.4.dist-info/LICENSE,sha256=Ho2Kv_ENvmrsj62cPhBEUCpFzvvg-K3L4qKBdcusf6w,1088
+fattails-0.0.4.dist-info/METADATA,sha256=2RdQ0WfIQx7n18IWSiUa7ZSFh-ALAISl2nQctn_sDYM,3405
+fattails-0.0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+fattails-0.0.4.dist-info/top_level.txt,sha256=BTi6Csdn8ICZJY1290Z0DD4R_m8xDODW8VbrBocDd7w,15
+fattails-0.0.4.dist-info/RECORD,,
