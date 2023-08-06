@@ -1,0 +1,11 @@
+storagebox/__init__.py,sha256=LhhstD64uYGKLRCyFGLsLIuld2gVYhoDdTZP0INFJCU,191
+storagebox/api.py,sha256=JWRRtXlbqSoHImkx5BySeWunKJyGjM6Kg4AfwVOXFnE,1558
+storagebox/repository/__init__.py,sha256=GOIf7oAmdZVcwC1HFEVUP79WPR35bbxzR1pElvNHlFA,151
+storagebox/repository/deduplication.py,sha256=0RqJEEA8FkgE0lcagOWQ1m3swuIT_Kxu0gvNFeJVcqw,1260
+storagebox/repository/dynamodb.py,sha256=brKF5HfwgyETr-puRmQFEyV_1t7K7cG8yhAkXdC57W0,665
+storagebox/repository/item_bank.py,sha256=8_h3RzCT5ZyjIXocEN6SJH9b18qFl6swcoqjJqBy9YI,4513
+storagebox/settings.py,sha256=0Kvv3A4Uwnp5lKF8KM9Kfd7I-svUIaKTqGF9D22wx78,453
+storagebox-1.0.7.dist-info/LICENSE,sha256=lLhhuJNXNgO3hahSlNp1Pke-o0kWSmpnRLSm1G19p8A,1067
+storagebox-1.0.7.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+storagebox-1.0.7.dist-info/METADATA,sha256=HyI99VLFOaWa11SH0QN-hZ1sppr-39Qy3_tBotxPrpY,5675
+storagebox-1.0.7.dist-info/RECORD,,
