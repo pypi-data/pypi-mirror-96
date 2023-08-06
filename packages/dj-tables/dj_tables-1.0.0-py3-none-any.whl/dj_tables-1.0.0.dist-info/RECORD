@@ -1,0 +1,9 @@
+dj_tables/__init__.py,sha256=bT8UOt_2Ll2ZSNFpbHteW7OaqeTBGdG5RiqIf9-eNOI,179
+dj_tables/mixins.py,sha256=a0eovolI6-6KiJCN9Puu7M92CrkIGvz3Jm1XSe16V_8,572
+dj_tables/templates/dj_tables/bootstrap4.html,sha256=rDJb-HFARroO5McDtJWy_YU18r_7epUujgpuaodTENg,3608
+dj_tables/templates/dj_tables/bootstrap4_sortlink.html,sha256=n3gb4QR3rno1or_NR6me7lGDiCpBk46Qvjx7RRwM1Cc,208
+dj_tables/templatetags/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dj_tables/templatetags/dj_tables.py,sha256=dfJpTQM4AbH1iAuxuqOQ8f0d9E0KSiWROLWk9GGlf_w,10685
+dj_tables-1.0.0.dist-info/WHEEL,sha256=GLESb-AiO9TFjbXrEA7UrNl4dwWlkXoKZg6N6Vg0OJg,81
+dj_tables-1.0.0.dist-info/METADATA,sha256=ZHpqDFZC3HbW7rI8U-RuecR6ObSiWGlkdNZXqZn31rg,1509
+dj_tables-1.0.0.dist-info/RECORD,,
