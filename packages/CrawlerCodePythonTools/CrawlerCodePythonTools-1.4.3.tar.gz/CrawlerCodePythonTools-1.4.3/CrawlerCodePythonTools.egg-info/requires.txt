@@ -1,0 +1,4 @@
+colorama
+getmac
+stdiomask
+cryptography
