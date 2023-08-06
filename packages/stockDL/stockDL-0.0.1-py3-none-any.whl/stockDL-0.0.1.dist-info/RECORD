@@ -1,0 +1,17 @@
+stockDL/__init__.py,sha256=YOpy1BzBWcqEZsMwDkfo99ax5Mx7O0yMbeIslhcsan8,159
+stockDL/__main__.py,sha256=SWW65E7YEKDQL7DdAP3nqG7g7XoXLkWGxTCHSHcZy8E,142
+stockDL/calculations.py,sha256=Z5Q6MUJuydeXwoSXobKqv4KV3IM_kcWywqDO5g1xV1M,1408
+stockDL/data.py,sha256=2EZVQm8dbpxKBmCp_q-3GN8rm7wXeuhms6LHOBILjaw,1528
+stockDL/main.py,sha256=4Monx-Gi8YoTsH-YydnNONocvpl6t5NRi4cAmnyIO4Y,830
+stockDL/market.py,sha256=e4urxfRHdHJWmTpg_cFbcAxyXmlN90Vsq6oqYt5eO6s,861
+stockDL/models.py,sha256=eI1ce6vs_YlrdpKy8Gkj10-iF0-N5G3Ysuya9VZ0Kn0,1707
+stockDL/plots.py,sha256=O6Nih1ZydlqY6YPaUPhKEuHpPZWI54UKW_7DlJN2vl4,2616
+stockDL/preprocessing.py,sha256=hx1M4NLIaDpnsTloyMSqtX39U-tAss50vBpLZWS9Pc0,2369
+stockDL/results.py,sha256=oobjU07aQRUrxiUoD2yMulPfr0PIM76NmhlapnfvPog,1559
+stockDL/train.py,sha256=rDfXU_wlmjuiIbOy2jliA_vhwxvnjhnNtwH8Z4Xcx1I,2219
+stockDL-0.0.1.dist-info/LICENSE,sha256=xojA-VGUI_1DFhXXTcKWEwnIuQFG1HJvNfF6YSQuzZM,1071
+stockDL-0.0.1.dist-info/METADATA,sha256=vt8zylDJIuP1N2zamhe-adhrPOOu_UaBOFQ7XH_snkM,977
+stockDL-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+stockDL-0.0.1.dist-info/entry_points.txt,sha256=ytz4iLfHiDFuK7Zk6mG9lI9Sf2mZFjtE2TZ4DT_IX6M,53
+stockDL-0.0.1.dist-info/top_level.txt,sha256=8K_CGUoDiLCVJXhGH84ZbLHblg2la3QI1FQUfEa6brc,79
+stockDL-0.0.1.dist-info/RECORD,,
