@@ -1,0 +1,11 @@
+language: python
+python:
+- '3.7'
+script: true
+deploy:
+  provider: pypi
+  username: __token__
+  on:
+    tags: true
+  password:
+    secure: MTmAK+JKevAPKLGajs2dnHcUVxYGiOrRKvts17pbYq0suMdpEnVpapQT25aG7o00ozQB/X/vxpK1iKnNsA+ViveGamDZ+plVo1ksqIpDX4UaDlibXRnmR4rObztsjV8huYPYKISbtIPgUBIhnIMO8VCO1GMGTlxXstKNAnTWsQNUmAQTeHprkTc6fadrYxuZAFhJE8YmnmlIS/oq5GG6LghfrpyXOIF39FhpeZiVUQFGKvKhvDmPpFmSB3SjDnEP+AWbxlt44Bun2joTc4mSydU/4RkOVSsZkLIPfnIEBsXhIku/SphzIvYxiQlaigVYx5/ImFs7nWl1fP89X5q14b6ZKo7DkN7mei0qn6LQTbztBY9CaFWf3G1iOQgWs6rvbex8NrT8wtN4AND3xkxKOvaOdAjUYLq9bYhs3aFRePDrJxc9cUai9HpClGKPa1osq47Foe2deUYZn+jb1qhKwk4qLJOtVX5fIfgQViqbJa4Ojz0ZDXPe2DGc09AxUga3HbAjefuuDNVzeAo8R21XxBs5/MCjU5wZsmnsf+j9xo6bjJ20nnQlDD9MUGQzcYgy7laFGvyioIPfPo4RReXF6Xb4BfdjdZVPN4J6csDvQPu6wrrmmLHRkDi73lkM9bG4LrMbiXp9ldCPhOhEj3TWXuLQx+CxzeVefWe3rbDT32M=
