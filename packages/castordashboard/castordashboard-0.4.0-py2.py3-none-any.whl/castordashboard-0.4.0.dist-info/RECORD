@@ -1,0 +1,13 @@
+castordashboard/__init__.py,sha256=cTEAyBt_j0n9vAtvCWwTFFCPU7EpibL9t-wd4GzZLE4,153
+castordashboard/dashboard/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+castordashboard/dashboard/main.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+castordashboard/etl/__init__.py,sha256=c-eLsCJ_yOg-JeWzr6sHqM9vPwoe9h9jZi5UG49hazU,182
+castordashboard/etl/script_runner.py,sha256=PtnwDKFqKtaXn0BOPvc4FWKsCpbMTwODGDnGs-QxkrI,2844
+castordashboard/etl/scripts.py,sha256=QN1KDoXTleOfLblr4KpTTuhmIiGXz6J2NSbBxO0O9jo,5113
+castordashboard-0.4.0.dist-info/AUTHORS.rst,sha256=g5ZrhuGA9GgExwh1QxZyJh2CvuQlMELXVxbNh9jG3wA,168
+castordashboard-0.4.0.dist-info/LICENSE,sha256=aq4FfMVeaqEyF-S2xK6BHG5hjlSSd-KP8711n8gkQ7g,1075
+castordashboard-0.4.0.dist-info/METADATA,sha256=Jq3u2FU1I6odGMJzbTOqdBi4c7wM2ALJGatqVHCEiSw,1914
+castordashboard-0.4.0.dist-info/WHEEL,sha256=8zNYZbwQSXoB9IfXOjPfeNwvAsALAjffgk27FqvCWbo,110
+castordashboard-0.4.0.dist-info/entry_points.txt,sha256=jwuMtxqJcGQuJPEIszn6Hd7R2JKS-46-RorolUTT6Bo,118
+castordashboard-0.4.0.dist-info/top_level.txt,sha256=mc_AIJ9-SyPPtDxVfzZ1dVSMu6b7AcGuyX6igkTZGZg,16
+castordashboard-0.4.0.dist-info/RECORD,,
