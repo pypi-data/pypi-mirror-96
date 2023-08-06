@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+symba/__init__.py
+symba.egg-info/PKG-INFO
+symba.egg-info/SOURCES.txt
+symba.egg-info/dependency_links.txt
+symba.egg-info/top_level.txt
