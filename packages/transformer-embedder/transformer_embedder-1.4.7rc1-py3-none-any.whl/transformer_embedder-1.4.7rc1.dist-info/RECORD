@@ -1,0 +1,8 @@
+transformer_embedder/__init__.py,sha256=LiH9I1PgxX_xVSVspng3J38lKVh2Pv8mUqwr-7KlnDs,930
+transformer_embedder/embedder.py,sha256=aBF3SY90KBIxL_MP9W8zJa2kwyWN9HOB4thme_7-iCg,6917
+transformer_embedder/tokenizer.py,sha256=fpMFMtHLqXLQOuBi_uaJb5t3vqxUq8AhBXKNeIxOBsE,15754
+transformer_embedder/utils.py,sha256=nMXrf7FescwaKBukfp6hRpwWRXRwMbszuJv7bwKhico,8864
+transformer_embedder-1.4.7rc1.dist-info/METADATA,sha256=89IFhE65PL2YlpGwoFUJwMmpnygzm-S0-sXXS6iG2ew,7609
+transformer_embedder-1.4.7rc1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+transformer_embedder-1.4.7rc1.dist-info/top_level.txt,sha256=2iagjWBeIeIDnAu96T-rJnHW-vOV3lhBsbj2m9PJz6w,21
+transformer_embedder-1.4.7rc1.dist-info/RECORD,,
