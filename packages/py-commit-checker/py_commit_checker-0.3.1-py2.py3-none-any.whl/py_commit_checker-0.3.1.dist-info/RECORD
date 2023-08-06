@@ -1,0 +1,10 @@
+py_commit_checker/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+py_commit_checker/__version__.py,sha256=ndJ2L33kowwWecFkG6fZaDso8IkEjVplpHn3jP_oR7U,78
+py_commit_checker/py_commit_checker.py,sha256=Ol8tjFIWVl5ALzK3QuuUQlLz0yoIU_yE04CF2pthD2I,5613
+py_commit_checker-0.3.1.data/scripts/py-commit-checker-branch,sha256=A1gr_T26OZ7v_enu8_JIxDT39i9dt1tWfp_eJ4oz0BU,373
+py_commit_checker-0.3.1.dist-info/LICENSE,sha256=ezUfelFvv-MiFn0AtFZaDkE4YlsOdoFtkbG5QpXsBN4,1058
+py_commit_checker-0.3.1.dist-info/METADATA,sha256=wvZV6pGWnwiDo474cQs6ZRmhjmhRZ4w8OUPtur6PwqA,3639
+py_commit_checker-0.3.1.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+py_commit_checker-0.3.1.dist-info/entry_points.txt,sha256=om4AvSnnhURwZFFVwc2zJvLfwtfLUxC-X6fYJVXNmS0,80
+py_commit_checker-0.3.1.dist-info/top_level.txt,sha256=KPIj5FfzEBypLZSqD9z-GZnrNaCxcYD2G6N1BnZy_B4,18
+py_commit_checker-0.3.1.dist-info/RECORD,,
