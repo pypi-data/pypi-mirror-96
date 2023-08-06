@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: beam-bc365
+Version: 0.0.2
+Summary: Collection of transforms for the Apache beam python SDK.
+Home-page: https://github.com/Spazzy757/beam-bc365
+Author: Brendan Kamp
+Author-email: brendankamp757@gmail.com
+License: UNKNOWN
+Description: [![PyPI](https://img.shields.io/pypi/v/beam-bc365.svg)](https://pypi.org/project/beam-bc365/) [![PyPI - Downloads](https://img.shields.io/pypi/dm/beam-bc365.svg)](https://pypi.org/project/beam-bc365/)
+        
+        # About
+        
+        A collection of transforms for Microsoft Business Central 265 for the [Apache beam](https://beam.apache.org/) python SDK.
+        
+        # Installation
+        
+        - Using pip
+        
+        ```bash
+        pip install beam-bc3675
+        ```
+        
+        - From source
+        
+        ```bash
+        git clone git@github.com:Spazzy757/beam-bc365.git
+        cd beam-bc365
+        pip install .
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Provides-Extra: dev
