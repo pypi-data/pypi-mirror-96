@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+horo/__init__.py
+horo/__main__.py
+horo.egg-info/PKG-INFO
+horo.egg-info/SOURCES.txt
+horo.egg-info/dependency_links.txt
+horo.egg-info/entry_points.txt
+horo.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+
+    [console_scripts]
+    horo=horo.__main__:main
+    
