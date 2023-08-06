@@ -1,0 +1,19 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    >
+
+  <browser:page
+      name="recaptcha_form"
+      for="Products.CMFPlone.interfaces.siteroot.IPloneSiteRoot"
+      permission="zope.Public"
+      class=".form.ReCaptchaForm"
+      />
+
+  <adapter
+      provides=".form.IReCaptchaForm"
+      for="Products.CMFPlone.interfaces.siteroot.IPloneSiteRoot"
+      factory=".form.ReCaptcha"
+      />
+
+</configure>
