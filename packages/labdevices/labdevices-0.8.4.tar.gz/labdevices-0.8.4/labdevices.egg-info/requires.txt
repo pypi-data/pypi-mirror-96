@@ -1,0 +1,5 @@
+numpy
+pymba
+pyusb
+PyVISA
+PyVISA-py
