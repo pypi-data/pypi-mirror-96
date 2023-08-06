@@ -1,0 +1,10 @@
+README.md
+setup.py
+words_count/__init__.py
+words_count/main.py
+words_count/parser.py
+words_count.egg-info/PKG-INFO
+words_count.egg-info/SOURCES.txt
+words_count.egg-info/dependency_links.txt
+words_count.egg-info/entry_points.txt
+words_count.egg-info/top_level.txt
