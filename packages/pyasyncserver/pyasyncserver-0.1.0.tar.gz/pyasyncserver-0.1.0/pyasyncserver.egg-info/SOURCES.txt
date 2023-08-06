@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+pyasyncserver/__init__.py
+pyasyncserver.egg-info/PKG-INFO
+pyasyncserver.egg-info/SOURCES.txt
+pyasyncserver.egg-info/dependency_links.txt
+pyasyncserver.egg-info/requires.txt
+pyasyncserver.egg-info/top_level.txt
+pyasyncserver.egg-info/zip-safe
+pyasyncserver/core/__init__.py
