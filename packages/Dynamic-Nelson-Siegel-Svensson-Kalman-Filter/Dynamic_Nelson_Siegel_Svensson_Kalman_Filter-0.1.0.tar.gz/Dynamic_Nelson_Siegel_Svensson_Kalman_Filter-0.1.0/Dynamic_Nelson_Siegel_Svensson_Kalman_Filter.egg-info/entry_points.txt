@@ -1,0 +1,3 @@
+[console_scripts]
+Dynamic_Nelson_Siegel_Svensson_Kalman_Filter = Dynamic_Nelson_Siegel_Svensson_Kalman_Filter.cli:cli_main
+
