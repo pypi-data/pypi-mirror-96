@@ -1,0 +1,57 @@
+// Lark grammar for BBDB (file version 9).
+
+records         : record*
+record          : "[" _recdata _uuid _creation _timestamp cache "]"
+_recdata        : _name _affix _aka _company phone address net notes
+
+_name           : _firstname _lastname
+_firstname      : string | nil
+_lastname       : string | nil
+
+_affix          : "(" string ")" | nil
+_aka            : "(" string ")" | nil
+_company        : "(" string ")" | nil
+
+phone           : "(" phone_record+ ")" | nil
+phone_record    : "[" _phone_tag _phone_number "]"
+_phone_tag      : string
+_phone_number   : phone_usa | _phone_nonusa
+phone_usa       : number+
+_phone_nonusa   : string
+
+address         : "(" address_record+ ")" | nil
+address_record  : "[" _address_tag streets _address_fields "]"
+_address_tag    : string
+streets         : "(" string+ ")"
+_address_fields : _city _state _zipcode _country
+
+_city           : string
+_state          : string
+_zipcode        : string
+_country        : string
+
+net             : "(" string+ ")" | nil
+
+notes           : "(" field+ ")" | nil
+field           : "(" atom "." string ")"
+
+_uuid           : string | nil
+_creation       : string | nil
+_timestamp      : string | nil
+
+cache           : nil
+
+string          : STRING
+number          : NUMBER
+atom            : ATOM
+nil             : "nil" -> none
+
+ATOM            : /[a-z][a-z-]*/
+COMMENT         : ";" /[^\n]/*
+
+%import common.ESCAPED_STRING -> STRING
+%import common.INT            -> NUMBER
+%import common.WS
+
+%ignore COMMENT
+%ignore WS
