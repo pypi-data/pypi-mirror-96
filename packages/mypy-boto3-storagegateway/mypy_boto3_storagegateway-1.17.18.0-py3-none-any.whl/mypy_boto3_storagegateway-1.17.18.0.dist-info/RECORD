@@ -1,0 +1,15 @@
+mypy_boto3_storagegateway/__init__.py,sha256=vBBv-g3Pzgf3NagTWLaavRN2hVMzKejIUfO-1XbtcVk,2584
+mypy_boto3_storagegateway/__init__.pyi,sha256=goB3NTEgEtMukDCp95oILcpFPqKRflg7oFUC1FgPv9s,2583
+mypy_boto3_storagegateway/__main__.py,sha256=fsIGcM2hlPw-J09XTLg5KpBK1RnzCEZtBAYKS5veOEE,408
+mypy_boto3_storagegateway/client.py,sha256=GOMlKYZ4IU9CdsM4UOPsc_JxGvUAXfXF_1542VNnAyc,43754
+mypy_boto3_storagegateway/client.pyi,sha256=ctWcqPGdc_M6oUW4dsFL-1MqWUXQ1ynhqoLioM8LfN0,43653
+mypy_boto3_storagegateway/paginator.py,sha256=aQrBN7Mz8lWg3yqTcnibHGVbrRn66Ldi26cDX-78AeA,8887
+mypy_boto3_storagegateway/paginator.pyi,sha256=TL0QyspzhlJGq5DRI6J2eJ5O3ZwFKulxaxc-ZpaI9X0,8877
+mypy_boto3_storagegateway/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mypy_boto3_storagegateway/type_defs.py,sha256=qG-u2WbG_H0U86n_BBOMqcAPunk_N91JsxclJmy_fpg,33095
+mypy_boto3_storagegateway/type_defs.pyi,sha256=2X6JPVVEsi1WLde3KjXwxJGsgczJinqG3or4kv8UKK4,33090
+mypy_boto3_storagegateway/version.py,sha256=NzK2tM68Ds_5MfRobVWH1Z6V_TGevYJP7r_0bmdyR9A,57
+mypy_boto3_storagegateway-1.17.18.0.dist-info/METADATA,sha256=Gsehhqj9qTHaZqQKSiNt-GL87i98X7Cyuz5j2peTMpY,11962
+mypy_boto3_storagegateway-1.17.18.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mypy_boto3_storagegateway-1.17.18.0.dist-info/top_level.txt,sha256=Xm4rOhM6pqwjI_nUAdSTk5PL7W09g4dDyia0Xs-xXXs,26
+mypy_boto3_storagegateway-1.17.18.0.dist-info/RECORD,,
