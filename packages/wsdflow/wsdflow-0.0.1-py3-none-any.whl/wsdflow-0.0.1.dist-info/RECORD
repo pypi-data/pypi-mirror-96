@@ -1,0 +1,10 @@
+wsdflow/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wsdflow/nn/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wsdflow/nn/core.py,sha256=Ro7yDsLSRnSGOMG-opxTYUFH2TUQ_j3i7U4gwSUeQXA,4470
+wsdflow/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wsdflow/utils/utilities.py,sha256=TDso7I3E_lCVt-fB-aWBfhGN-RiS-Zil8gS7lXf4R4c,2295
+wsdflow-0.0.1.dist-info/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+wsdflow-0.0.1.dist-info/METADATA,sha256=ou7ILgXgirDd9AypFs7B655OvGhWg1W0CgStXL04JlA,525
+wsdflow-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+wsdflow-0.0.1.dist-info/top_level.txt,sha256=BDnuJS5OajMLNpnRmXMRMpKWbikYXTSGp2qZ7AhaB2g,8
+wsdflow-0.0.1.dist-info/RECORD,,
