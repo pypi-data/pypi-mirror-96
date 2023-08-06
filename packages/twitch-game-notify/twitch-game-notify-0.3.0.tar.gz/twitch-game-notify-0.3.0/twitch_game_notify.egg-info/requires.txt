@@ -1,0 +1,6 @@
+dbus-python
+notify2
+PyGObject
+PyYAML
+requests
+schema
