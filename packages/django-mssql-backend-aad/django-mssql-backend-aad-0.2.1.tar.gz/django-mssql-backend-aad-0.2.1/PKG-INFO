@@ -1,0 +1,108 @@
+Metadata-Version: 1.1
+Name: django-mssql-backend-aad
+Version: 0.2.1
+Summary: Django backend for Microsoft SQL Server with AAD and Azure MSI suport
+Home-page: https://bitbucket.org/patagoniantech/django-mssql-backend-aad
+Author: Agustin Lucchetti
+Author-email: agustin.lucchetti@patagonian.it
+License: BSD
+Description: django-mssql-backend-aad
+        ========================
+        
+        *django-mssql-backend-aad* is a fork of
+        `django-mssql-backend <https://pypi.org/project/django-mssql-backend/>`__ 
+        to add support for AAD (backported changes from `django-azure-sql-backend <https://github.com/langholz/django-azure-sql-backend>`__),
+        and Azure MSI
+        
+        This package is not being actively maintain. Use only as reference
+        
+        Dependencies
+        ------------
+        
+        -  Django 2.2 or newer
+        -  pyodbc 3.0 or newer
+        -  msal 1.5.1 or newer
+        
+        Installation
+        ------------
+        
+        1. Install pyodbc and Django
+        
+        2. Install django-mssql-backend ::
+        
+            pip install django-mssql-backend-aad
+        
+        3. Now you can point the ``ENGINE`` setting in the settings file used by
+           your Django application or project to the ``'sql_server.pyodbc'``
+           module path ::
+        
+            'ENGINE': 'sql_server.pyodbc'
+        
+        Configuration
+        -------------
+        
+        AAD Example
+        -----------
+        
+        ::
+        
+            DATABASES = {
+                'default': {
+                    'ENGINE': 'sql_server.pyodbc',
+                    'NAME': 'mydb',
+                    'HOST': 'myserver.database.windows.net',
+                    'PORT': '',
+                    'AAD-AUTH': {
+                        'tenant_id': '02a2e49f-b581-45c4-84a9-bdee0198b26f',
+                        'client_id': '818979f8-a731-48d9-bf42-b00a04e1e618',
+                        'secret': "MY_SUPER_SECRET",
+                    },
+                    'OPTIONS': {
+                        'driver': 'ODBC Driver 13 for SQL Server',
+                    },
+                },
+            }
+            
+            # set this to False if you want to turn off pyodbc's connection pooling
+            DATABASE_CONNECTION_POOLING = False
+        
+        MSI Example
+        -----------
+        
+        ::
+        
+            DATABASES = {
+                'default': {
+                    'ENGINE': 'sql_server.pyodbc',
+                    'NAME': 'mydb',
+                    'HOST': 'myserver.database.windows.net',
+                    'PORT': '',
+                    'MSI-AUTH': 'True',
+                    'OPTIONS': {
+                        'driver': 'ODBC Driver 13 for SQL Server',
+                    },
+                },
+            }
+            
+            # set this to False if you want to turn off pyodbc's connection pooling
+            DATABASE_CONNECTION_POOLING = False
+        
+        
+        
+        For additional usage and installation instructions, please refer to:
+        - https://pypi.org/project/django-mssql-backend
+        - https://github.com/langholz/django-azure-sql-backend
+        
+Keywords: django
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Framework :: Django
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Framework :: Django :: 2.2
+Classifier: Framework :: Django :: 3.0
