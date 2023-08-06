@@ -1,0 +1,12 @@
+ppinet/__init__.py,sha256=TOci1NT2Brm4nonMgbH-0PbiMwAXPz3vs9vR2J0LIOM,427
+ppinet/clustering.py,sha256=tL1rWCtpJkvDvy-oCOM6Lkcpf1fMoEg1NmAGWjyn0h0,722
+ppinet/initial.py,sha256=PpT3dFBSsfcodzfzYqo96HzhrjLxzzOq1P3F5KKjNP0,769
+ppinet/network_metrics.py,sha256=Az6Qmgfj7eR-vpOAde2WWzQMpxwaVZIMSCJslFKGR84,3964
+ppinet/ppinet.py,sha256=vqj2XGqZassJX_RNVzFwsrNNMpK3FfEmeWOPD1P3x4w,1952
+ppinet/sp.py,sha256=HmZGXpWvUmJ0KJQyx8i_mqVzHO-wvTxw0r52jso8zBk,1534
+ppinet-0.1.0.dist-info/LICENSE,sha256=5X8cMguM-HmKfS_4Om-eBqM6A1hfbgZf6pfx2G24QFI,35150
+ppinet-0.1.0.dist-info/METADATA,sha256=Id6DtdKMzt4xAFm_Cs2C79sDQxmBEYJ-xShCdgOB1x0,4862
+ppinet-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+ppinet-0.1.0.dist-info/entry_points.txt,sha256=0I61CZK8NlO29bC_znDD3qxnF7UawxFnsjscEb2iBeE,47
+ppinet-0.1.0.dist-info/top_level.txt,sha256=i5TgLCOON0S_yNYzl-MXyNYlt4ZrUZWuNI9izoQeBL8,7
+ppinet-0.1.0.dist-info/RECORD,,
