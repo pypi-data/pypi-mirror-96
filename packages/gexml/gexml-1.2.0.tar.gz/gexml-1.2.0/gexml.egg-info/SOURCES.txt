@@ -1,0 +1,14 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.py
+gexml/__init__.py
+gexml/compat.py
+gexml/fields.py
+gexml/test.py
+gexml/utils.py
+gexml.egg-info/PKG-INFO
+gexml.egg-info/SOURCES.txt
+gexml.egg-info/dependency_links.txt
+gexml.egg-info/not-zip-safe
+gexml.egg-info/top_level.txt
