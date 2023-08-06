@@ -1,0 +1,4 @@
+include pyproject.toml
+include *.env
+include CONFIG_TEMPLATE.yml
+include leona.py
