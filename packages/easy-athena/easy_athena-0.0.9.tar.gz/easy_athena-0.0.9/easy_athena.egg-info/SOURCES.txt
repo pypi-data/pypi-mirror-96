@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+easy_athena/__init__.py
+easy_athena.egg-info/PKG-INFO
+easy_athena.egg-info/SOURCES.txt
+easy_athena.egg-info/dependency_links.txt
+easy_athena.egg-info/requires.txt
+easy_athena.egg-info/top_level.txt
+tests/__init__.py
+tests/test_default.py
