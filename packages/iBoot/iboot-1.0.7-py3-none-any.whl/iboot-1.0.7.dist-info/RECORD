@@ -1,0 +1,9 @@
+iboot/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+iboot/iboot.py,sha256=Nukn2xMeFt9k-Ag_1aYG7iTReLJcyO9lBT5DB3nUEfw,11880
+iboot/onboarding.py,sha256=NZV0t_l-iPayj_OxfaGLVXrNWr6bhgoTgkDPymlmrGA,2588
+iboot/pack_model.py,sha256=vu7GFcVuQ-lDw3hLCIvBFvj91ec4wI4UqMgUYNUEFGs,8637
+iboot-1.0.7.dist-info/METADATA,sha256=TW-hh3yYKAqJD5KscseuzHuXVi1Hqg8XvNgDsCGsX_Q,1490
+iboot-1.0.7.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+iboot-1.0.7.dist-info/entry_points.txt,sha256=yfz5RV2Y0Ztq8geVABYABOLBxgqgAO6Po3-yK9Kt3iw,213
+iboot-1.0.7.dist-info/top_level.txt,sha256=wN7DFXoKXCGKQMl0Eal-IX_yZQtpbLxD5ouNKsIL4lE,6
+iboot-1.0.7.dist-info/RECORD,,
