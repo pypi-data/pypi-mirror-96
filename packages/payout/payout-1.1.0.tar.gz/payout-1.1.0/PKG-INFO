@@ -1,0 +1,280 @@
+Metadata-Version: 2.1
+Name: payout
+Version: 1.1.0
+Summary: Python API for integrating with the Red Shepherd Payouts
+Home-page: https://bitbucket.org/redshepherdinc/python-payout-api.git
+Author: Red Shepherd Inc.
+Author-email: support@redshepherd.com
+License: UNKNOWN
+Description: ![logo](https://redshepherdmedia.s3-us-west-2.amazonaws.com/red_logo_64.png "logo")
+        
+        # Red Shepherd Python Payout API Docs
+        
+        ## _Follow these steps for Simple API Integration_
+        
+        ---
+        
+        ### Step 1 a- Adding the payout library using pip
+        
+        > **_Add the payout library to your code using pip_**
+        
+        ```python
+        > pip install payout
+        ```
+        
+        ---
+        
+        ### Step 1 b - Create a Payout object for secure API methods
+        
+        > **_Create a payout API object which lets you access all the payout functions_**
+        
+        ```python
+        from payout import Payout
+        
+        ### REPLACE app and key with your PROD keys and use a valid account
+        ### These are DEMO Keys which you can safely use for testing
+        app = "DEMO";
+        key = "MIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAtsQxNp3vmKVNYIxfWSi0LIRgCnPaMn0MUNouxgrs4zmg4cnvSeQ3I8YP03YbpXuWA80RvOw/nWErYAKomniJw8Y+xexMfBQ5sgJgewn3ZnRPNM9Y4Z62gwfIlsrs7Bwvpz9uUtLgeQLl1ffNaumnu1IBrqRps0EZ1QyDuu41UckTyo31C40Wez6IbeMfZeusrmPlIWqyBacdviJ5zHCA3zHNq86QMnB8HOP1U81HOSs6GTTelhD7lCoJ+fHKHxcz0MDr37fNpKpC57B0/20wBXFp9tlVtSkHcIty1lyNk2/HDH8knCdqkZk+fCvWgGwdex41x8/rM+LKC13c5J/yG6Gb2PnKhwNk4lvvnz73YAdqTUJ7qNrdtWVnOTWfbMBiNlpBCVqt8xY8UK6u83AVWrWXse0xe2Pn/kRqlXmxWT0mGEoCavjvZ9lQUL7LXAXZ1dff9r+oFUZo6xDQ3ER/OTIKa4jpvaI9S/J1drsrI1f9kkMWFwEh48dCPYplGSxzAgMBAAE=";
+        
+        ### Use this payout object for all the API calls
+        payout = Payout(app, key)
+        
+        ```
+        
+        ---
+        
+        ---
+        
+        ---
+        
+        ## _API Functions_
+        
+        ---
+        
+        ### Create a Payout Account
+        
+        > **_Create a new Payout Account in the system which will later be configure to receive payouts from the Red Shepherd payout scheduler_**
+        >
+        > > id should be unique identifier for each Payout Account
+        > > **_rest of the request fields are self explanatory_**
+        
+        ```python
+        import json
+        
+        request = {
+          "id": "PZZA",
+          "name": "Pizza Pizza",
+          "website": "www.pizzapizza.com",
+          "address1": "123 Main Street",
+          "address2": "Suite 2001",
+          "city": "Chicago",
+          "state": "IL",
+          "zip": "60004",
+          "country": "US",
+          "contactName": "John Smith",
+          "contactPhone": "312-899-8999",
+          "contactEmail": "john@pizzapizza.com",
+          "status": "A"
+        }
+        
+        print("CREATE PAYOUT ACCOUNT request >>>")
+        print(json.dumps(request, indent=2))
+        
+        response = payout.CreatePayoutAccount(request)
+        
+        print("CREATE PAYOUT ACCOUNT response >>>")
+        print(json.dumps(response, indent=2))
+        
+        ```
+        
+        **_CreatePayoutAccount Request Example_**
+        
+        ```python
+        {
+          "id": "PZZA",
+          "name": "Pizza Pizza",
+          "website": "www.pizzapizza.com",
+          "address1": "123 Main Street",
+          "address2": "Suite 2001",
+          "city": "Chicago",
+          "state": "IL",
+          "zip": "60004",
+          "country": "US",
+          "contactName": "John Smith",
+          "contactPhone": "312-899-8999",
+          "contactEmail": "john@pizzapizza.com",
+          "status": "A"
+        }
+        ```
+        
+        **_CreatePayoutAccount Response_**
+        
+        ```python
+        {
+          "id": "PZZA",
+          "app": "DEMO",
+          "logoUrl": null,
+          "name": "Pizza Pizza",
+          "address1": "123 Main Street",
+          "address2": "Suite 2001",
+          "city": "Chicago",
+          "state": "IL",
+          "zip": "60004",
+          "country": "US",
+          "contactName": "John Smith",
+          "contactPhone": "312-899-8999",
+          "contactEmail": "john@pizzapizza.com",
+          "website": "www.pizzapizza.com",
+          "status": "A"
+        }
+        ```
+        
+        ---
+        
+        ### Update a Payout Account
+        
+        > **Update an existing Payout Account in the system\_**
+        >
+        > > id should be the unique identifier for an existing Payout Account
+        > > **_rest of the request fields are self explanatory_**
+        
+        ```python
+        import json
+        
+        request = {
+          "id": "PZZA",
+          "name": "Johns Pizza Inc.",
+          "website": "www.pizzapizza.com",
+          "address1": "123 Main Street",
+          "address2": "Suite 2001",
+          "city": "Chicago",
+          "state": "IL",
+          "zip": "60004",
+          "country": "US",
+          "contactName": "John Smith",
+          "contactPhone": "312-899-8999",
+          "contactEmail": "john@pizzapizza.com",
+          "status": "A"
+        }
+        
+        print("UPDATE PAYOUT ACCOUNT request >>>")
+        print(json.dumps(request, indent=2))
+        
+        response = payout.UpdatePayoutAccount(request)
+        
+        print("UPDATE PAYOUT ACCOUNT response >>>")
+        print(json.dumps(response, indent=2))
+        
+        ```
+        
+        **_UpdatePayoutAccount Request Example_**
+        
+        ```python
+        {
+          "id": "PZZA",
+          "name": "Johns Pizza Inc.",
+          "website": "www.pizzapizza.com",
+          "address1": "123 Main Street",
+          "address2": "Suite 2001",
+          "city": "Chicago",
+          "state": "IL",
+          "zip": "60004",
+          "country": "US",
+          "contactName": "John Smith",
+          "contactPhone": "312-899-8999",
+          "contactEmail": "john@pizzapizza.com",
+          "status": "A"
+        }
+        ```
+        
+        **_UpdatePayoutAccount Response_**
+        
+        ```python
+        {
+          "id": "PZZA",
+          "app": "DEMO",
+          "logoUrl": null,
+          "name": "Johns Pizza Inc.",
+          "address1": "123 Main Street",
+          "address2": "Suite 2001",
+          "city": "Chicago",
+          "state": "IL",
+          "zip": "60004",
+          "country": "US",
+          "contactName": "John Smith",
+          "contactPhone": "312-899-8999",
+          "contactEmail": "john@pizzapizza.com",
+          "website": "www.pizzapizza.com",
+          "status": "A"
+        }
+        ```
+        
+        ---
+        
+        ### Find a Payout Account by Id
+        
+        > **Get an existing Payout Account in the system\_**
+        >
+        > > id should be the unique identifier for an existing Payout Account
+        > > **_rest of the request fields are self explanatory_**
+        
+        ```python
+        import json
+        
+        request = {
+          "id": "PZZA",
+        }
+        
+        print("FIND PAYOUT ACCOUNT request >>>")
+        print(json.dumps(request, indent=2))
+        
+        response = payout.FindPayoutAccount(request)
+        
+        print("FIND PAYOUT ACCOUNT response >>>")
+        print(json.dumps(response, indent=2))
+        
+        ```
+        
+        **_FindPayoutAccount Request Example_**
+        
+        ```python
+        {
+          "id": "PZZA",
+        }
+        ```
+        
+        **_FindPayoutAccount Response_**
+        
+        ```python
+        {
+          "id": "PZZA",
+          "app": "DEMO",
+          "logoUrl": null,
+          "name": "Johns Pizza Inc.",
+          "address1": "123 Main Street",
+          "address2": "Suite 2001",
+          "city": "Chicago",
+          "state": "IL",
+          "zip": "60004",
+          "country": "US",
+          "contactName": "John Smith",
+          "contactPhone": "312-899-8999",
+          "contactEmail": "john@pizzapizza.com",
+          "website": "www.pizzapizza.com",
+          "status": "A"
+        }
+        ```
+        
+        ---
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
