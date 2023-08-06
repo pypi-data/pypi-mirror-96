@@ -1,0 +1,71 @@
+Metadata-Version: 2.1
+Name: DataAnnotated
+Version: 1.0.0
+Summary: Python package for DataAnnotated platform
+Home-page: https://github.com/SiddeshSambasivam/DataAnnotated-PythonPackage
+Author: Siddesh Sambasivam Suseela
+Author-email: plutocrat45@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/SiddeshSambasivam/DataAnnotated-PythonPackage/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7.9
+Description-Content-Type: text/markdown
+Requires-Dist: appdirs (==1.4.4)
+Requires-Dist: args (==0.1.0)
+Requires-Dist: certifi (==2020.12.5)
+Requires-Dist: chardet (==4.0.0)
+Requires-Dist: click (==7.1.2)
+Requires-Dist: clint (==0.5.1)
+Requires-Dist: colorama (==0.4.4)
+Requires-Dist: idna (==2.10)
+Requires-Dist: numpy (==1.20.1)
+Requires-Dist: pandas (==1.2.2)
+Requires-Dist: prompt-toolkit (==1.0.14)
+Requires-Dist: pyfiglet (==0.7)
+Requires-Dist: Pygments (==2.8.0)
+Requires-Dist: PyInquirer (==1.0.3)
+Requires-Dist: python-dateutil (==2.8.1)
+Requires-Dist: pytz (==2021.1)
+Requires-Dist: regex (==2020.11.13)
+Requires-Dist: requests (==2.25.1)
+Requires-Dist: six (==1.15.0)
+Requires-Dist: termcolor (==1.1.0)
+Requires-Dist: urllib3 (==1.26.3)
+Requires-Dist: wcwidth (==0.2.5)
+
+<p align="center">
+  <img src="./assets/logo.png" width="150" margin-right="100px"/>
+  <img src="./assets/python.png" width="120" /> 
+</p>
+<h1 align="center" style="font-weight:bold">
+    DataAnnotated Python Package
+</h1>
+
+<p align="center">
+A python package for DataAnnotated platform to provide seamless integration between data in annotation and data in development.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+<img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" />
+</p>
+
+<p align="center">
+<img src="./assets/sample code.png" width="800" height="500"/>
+</p>
+
+
+<h2 align="center" style="font-weight:bold">
+Installation
+</h2>
+
+1. **Install the package using pip**
+
+    ```bash
+    $ pip install DataAnnotated
+    ```
+
