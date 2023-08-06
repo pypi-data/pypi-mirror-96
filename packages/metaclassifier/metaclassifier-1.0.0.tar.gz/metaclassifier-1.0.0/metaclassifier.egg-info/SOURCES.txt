@@ -1,0 +1,13 @@
+README.md
+setup.py
+metaclassifier/__init__.py
+metaclassifier/__main__.py
+metaclassifier/classify_reads.py
+metaclassifier/process_reads.py
+metaclassifier.egg-info/PKG-INFO
+metaclassifier.egg-info/SOURCES.txt
+metaclassifier.egg-info/dependency_links.txt
+metaclassifier.egg-info/entry_points.txt
+metaclassifier.egg-info/requires.txt
+metaclassifier.egg-info/top_level.txt
+metaclassifier.egg-info/zip-safe
