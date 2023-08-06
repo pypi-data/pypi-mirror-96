@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: odoo10-addons-oca-server-ux
+Version: 10.0.20210228.0
+Summary: Meta package for oca-server-ux Odoo addons
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Odoo
+Requires-Dist: odoo10-addon-base-search-custom-field-filter
+
+UNKNOWN
+
+
