@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+fala_assis/assisfala.py
+fala_assis.egg-info/PKG-INFO
+fala_assis.egg-info/SOURCES.txt
+fala_assis.egg-info/dependency_links.txt
+fala_assis.egg-info/requires.txt
+fala_assis.egg-info/top_level.txt
