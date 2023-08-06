@@ -1,0 +1,6 @@
+tethys-utils
+salem
+dask
+descartes
+shapely
+xarray==0.16.2
