@@ -1,0 +1,9 @@
+include .editorconfig
+include .gitignore
+include .travis.yml
+include *.py
+include *.txt
+include LICENSE
+include data/example.json
+recursive-include screenshots *.png
+recursive-include tests *.py
