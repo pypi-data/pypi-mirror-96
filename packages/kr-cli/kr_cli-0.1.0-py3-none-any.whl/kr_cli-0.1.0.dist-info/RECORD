@@ -1,0 +1,11 @@
+kr/__init__.py,sha256=VwTI45VhNR5Kj9mLLaAuQcZK2Obveei3avvyM_PZThI,2855
+kr/config.py,sha256=bVSlcxN9AjPYct90k_dDJMx2EOoQ3sN58bbuffmJM8I,39
+kr/consoles.py,sha256=O8TypT9fo2rpknN4qLPF3C0dTUl-YGw6DHgtOyPLobg,2766
+kr/download.py,sha256=A9kYuQz-g12CqkR6JsNfxPwYyhsk6_7CC7Qdf8ZLXHM,775
+kr/search.py,sha256=UyKh5lDlp_Fz9_AjefC4U64KsETZHHbW2TtFsrTmfC8,1225
+kr_cli-0.1.0.dist-info/LICENSE,sha256=It-bKLKjMPVtQDnGQOWV-me7O9iAdOGGOxVKOoFvdYk,1069
+kr_cli-0.1.0.dist-info/METADATA,sha256=E9wXNo4yRiZp0h_SfmPQsWoIkoNEQqTsDs7fUuYnctg,1877
+kr_cli-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+kr_cli-0.1.0.dist-info/entry_points.txt,sha256=bktLEINfzYT2PIKytZ_PEsdrITknXFRxp8LqBfPFgIk,49
+kr_cli-0.1.0.dist-info/top_level.txt,sha256=idXeIwyuJFsq-8DzJX-mn6WL5fwEhDX5drM2nDDigLE,3
+kr_cli-0.1.0.dist-info/RECORD,,
