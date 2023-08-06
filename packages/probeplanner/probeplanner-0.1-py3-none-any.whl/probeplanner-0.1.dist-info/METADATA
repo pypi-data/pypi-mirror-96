@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: probeplanner
+Version: 0.1
+Summary: Plan probe locations
+Home-page: https://github.com/brainglobe/probeplanner
+Author: Federico Claudi
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: brainrender (>=2.0.2.0)
+Requires-Dist: rich (>=9.12.0)
+Requires-Dist: myterial
+Requires-Dist: loguru
+Requires-Dist: typer
+
+# Probe planner
+
+**CAUTION**: this project is in alpha stage. The docs are incomplete and it is bound to change in the future. Use at your own risk.
+
+A tool to help plan where to implant electrodes, plobes and fibers.
+
+It visualizes the probe given the location of it's tip (in AP/ML/DV coordinates expressed micrometers) and it's angles (relative to the ML and AP plane, as you'd tilt a stereotax).
+As the probe is moved around this application displays which brain regions the probe is going through.
+
+![screeenshot.png](screeenshot.png)
+
