@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: htmlBuilder
+Version: 0.2.1
+Summary: A beautiful html builder library.
+Home-page: https://github.com/jaimevp54/htmlBuilder
+Author: Jaime Viñas
+Author-email: jaimevp54@gmail.com
+License: MIT
+Download-URL: https://github.com/jaimevp54/htmlBuilder/archive/0.2.1.tar.gz
+Keywords: hmtl,builder,render
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.6
+
+UNKNOWN
+
+
