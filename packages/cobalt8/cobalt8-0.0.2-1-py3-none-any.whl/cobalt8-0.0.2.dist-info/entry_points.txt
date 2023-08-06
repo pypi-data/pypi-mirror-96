@@ -1,0 +1,3 @@
+[console_scripts]
+cobalt8 = cobalt8.cobalt8:entry
+
