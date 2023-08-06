@@ -1,0 +1,3 @@
+[console_scripts]
+test-evocraft-py = test_evocraft_py.cli:main
+
