@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: jupyterbook-latex
+Version: 0.2.0
+Summary: Latex specific features for jupyter book
+Home-page: https://executablebooks.org/
+Author: Executable Book Project
+Author-email: jupyter@googlegroups.com
+License: BSD
+Project-URL: Source, https://github.com/executablebooks/jupyter-book/
+Project-URL: Tracker, https://github.com/executablebooks/jupyter-book/issues
+Description: # jupyterbook-latex
+        
+        Supporting LaTeX infrastructure for Jupyter Book
+        
+        This repository is a **development** project to improve LaTeX support
+        in `Jupyter Book`.
+        
+        ## Get started
+        
+        To get started with `jupyterbook-latex`, first install it through `pip`:
+        
+        ```
+        pip install jupyterbook-latex
+        ```
+        
+        then, add `jupyterbook_latex` to the `config.yml` file in your jupyterbook projects:
+        
+        ```
+        sphinx:
+            extra_extensions:
+                - jupyterbook_latex
+        ```
+        
+        Issues
+        ------
+        
+        A list of issues that need to be addressed:
+        
+        https://github.com/executablebooks/meta/issues/169
+        
+        Developer Notes
+        ---------------
+        
+        A [repository that contains many different project configurations](https://github.com/mmcky/ebp-test-projectstructure)
+        for testing and development is available, along with implementation
+        idea and notes
+        
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: code_style
+Provides-Extra: testing
+Provides-Extra: rtd
