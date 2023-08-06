@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: collectors-channel-cli
+Version: 1.0.0
+Summary: 
+Author: Paulo Salgado
+Author-email: pjosalgado@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: dnspython (>=2.1.0,<3.0.0)
+Requires-Dist: pymongo (>=3.11.3,<4.0.0)
+Requires-Dist: python-dotenv (>=0.15.0,<0.16.0)
+Requires-Dist: typer[all] (>=0.3.2,<0.4.0)
+Description-Content-Type: text/markdown
+
+# collectors-channel-cli
+
+Create a properties file at _$HOME/.cc/my.properties_, using the following as an example: 
+```
+# MongoDB
+MONGO_URL=mongodb+srv://user:password@url/database
+```
+
+Check out the project at GitLab: https://gitlab.com/collectors-channel.
+
