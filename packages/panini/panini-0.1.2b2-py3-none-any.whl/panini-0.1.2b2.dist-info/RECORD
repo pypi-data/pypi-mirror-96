@@ -1,0 +1,11 @@
+panini/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+panini/app.py,sha256=LVJznwIYC145uBVukGz0ji17mnBOw5gwxdvV-sCrvIo,10522
+panini/exceptions.py,sha256=JCxC_5b_83Ry3meGWj75zx1QdWWRKYq9P4ZojBbcTIs,1840
+panini/managers.py,sha256=r1QceJDRwFkpop5zMhP--Rt1J6FWYcJSPbUmLWF7T1A,4928
+panini/test_client.py,sha256=n_NDBHyDaT4svCwLmnontndN1eCrz_Qd72ZSQll-duU,5509
+panini/validator.py,sha256=7ve1eai2fZtxhuh_h_0iWhFZVGHqhJ0-rN7T5mSCVGw,5233
+panini-0.1.2b2.dist-info/LICENSE.md,sha256=5Npa8Z3igfH455TZJfj6oVmBE4lBPMJ0-AWq5zVxnTw,1091
+panini-0.1.2b2.dist-info/METADATA,sha256=kcY1m7PiHwWWE44ZRwc3LcuTwqxcpq05IXoWVs71rKE,1839
+panini-0.1.2b2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+panini-0.1.2b2.dist-info/top_level.txt,sha256=DHh29ov9P7UCFc0V-FAsy8PO7Kvcjaky7cKQ-4dwLrM,7
+panini-0.1.2b2.dist-info/RECORD,,
