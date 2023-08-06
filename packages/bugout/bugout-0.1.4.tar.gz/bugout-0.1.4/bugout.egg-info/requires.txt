@@ -1,0 +1,6 @@
+pydantic
+requests
+
+[dev]
+black
+mypy
