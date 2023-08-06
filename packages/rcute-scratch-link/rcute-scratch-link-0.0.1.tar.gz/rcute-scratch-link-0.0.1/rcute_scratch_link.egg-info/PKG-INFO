@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: rcute-scratch-link
+Version: 0.0.1
+Summary: scratch link for rcute robots
+Home-page: https://github.com/r-cute/rcute-scratch-link
+Author: Huang Yan
+Author-email: hyansuper@foxmail.com
+License: MIT
+Description: scratch link for rcute robots
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

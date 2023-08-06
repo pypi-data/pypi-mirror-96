@@ -1,0 +1,6 @@
+opencv-python
+rcute-ai
+rcute-cozmars
+websockets
+wsmprpc>=1.1.3
+zeroconf
