@@ -1,0 +1,9 @@
+README.md
+setup.py
+ssjson/__init__.py
+ssjson/mainfile.py
+ssjson.egg-info/PKG-INFO
+ssjson.egg-info/SOURCES.txt
+ssjson.egg-info/dependency_links.txt
+ssjson.egg-info/requires.txt
+ssjson.egg-info/top_level.txt
