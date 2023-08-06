@@ -1,0 +1,10 @@
+influxLogger/__init__.py,sha256=HojyUSkhrWupNBM6CcD7rjvmenSht8pi8gPMhhN-Fxw,38
+influxLogger/influxLogger.py,sha256=_z4otqXdSndz86yzsCwOwUhBZoGji1avrTSlMHf-7Rc,3537
+influxLogger/tests/__init__.py,sha256=Ra9flI2_C305I4lMDnPbjSWJ80Mykqp3nvHn7d3L-E4,40
+influxLogger/tests/test.py,sha256=xZD20yMICY42U8YbdtfI9d1KS06i0bd6H7sntl8-09s,480
+influxLogger/tests/test2.py,sha256=hxJk-2WwJI6viC-Fl1FPlN4aDs8ZKAOhEyUzRdRBOxo,57
+influxLogger-0.0.3.dist-info/LICENSE,sha256=IwGE9guuL-ryRPEKi6wFPI_zOhg7zDZbTYuHbSt_SAk,35823
+influxLogger-0.0.3.dist-info/METADATA,sha256=Ro-SLTVy-atoDnstmuHy7r1m22VCvHEPjJSQRzBYEMs,685
+influxLogger-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+influxLogger-0.0.3.dist-info/top_level.txt,sha256=2DHeDUPOWThsPH7WbffOXN6beNvYrPlCBWMl8-iGNGM,13
+influxLogger-0.0.3.dist-info/RECORD,,
