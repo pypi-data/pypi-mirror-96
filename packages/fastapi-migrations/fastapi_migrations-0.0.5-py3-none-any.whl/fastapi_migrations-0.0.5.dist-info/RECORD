@@ -1,0 +1,12 @@
+fastapi_migrations/__init__.py,sha256=56GaJJH1x8VfgFQEEQsxe33n2AcZTe0endC2Rr9gL5A,226
+fastapi_migrations/cli.py,sha256=k-Lhaparn6QYcnRN_zbS22JAZnp4DUNCTDJdJF3LXls,1322
+fastapi_migrations/lib.py,sha256=PRCVsxbBIHyvMgQpiCQ-wu9wtIxFaE62F5k2E3Rmz7U,7592
+fastapi_migrations/templates/default/README,sha256=MVlc9TYmr57RbhXET6QxgyCcwWP7w-vLkEsirENqiIQ,38
+fastapi_migrations/templates/default/alembic.ini.mako,sha256=aCr1_OklwN5GRdMDClncbZQUayPVjpxTavhRJu2020Q,591
+fastapi_migrations/templates/default/env.py,sha256=dU_HIb68O9cDxjMeVpInDjQyr40cG2GRost7IoRLEBE,3383
+fastapi_migrations/templates/default/script.py.mako,sha256=ie8RZD226b2-MjOQiCOZk54MCsYDom6dcF85Uai6SWM,518
+fastapi_migrations-0.0.5.dist-info/LICENSE,sha256=KwC0sb7o8cElV-zv-iTn0odbpaWX64EUcL7t7r-oRjw,1092
+fastapi_migrations-0.0.5.dist-info/METADATA,sha256=FPc1i83zwdGOpJiyGueJ3cXzbzG69etI_uq8tqJHAFU,4177
+fastapi_migrations-0.0.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+fastapi_migrations-0.0.5.dist-info/top_level.txt,sha256=3fiC-DOklOtiB3nsIZxJKbREw5GLQBte_wfgoNpxRMU,19
+fastapi_migrations-0.0.5.dist-info/RECORD,,
