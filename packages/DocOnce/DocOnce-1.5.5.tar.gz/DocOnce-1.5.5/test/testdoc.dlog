@@ -1,0 +1,3133 @@
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'pandoc', 'DEVICE': 'screen', 'testdoc': ''}
+*** warning : Removing heading with title. Consider to place it in _config.yml
+*** warning : Removing heading with author. Consider to place it in _config.yml
+*** warning : Removing heading with date. Consider to place it in _config.yml
+*** warning : Removing the toc tag
+*** warning: footnotes are not supported for format html
+    footnotes will be left in the doconce syntax
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format ipynb
+*** warning: footnotes are not supported for format ipynb
+    footnotes will be left in the doconce syntax
+collected all required additional files in ipynb-testdoc-src.tar.gz which must be distributed with the notebook
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'pandoc', 'DEVICE': 'screen', 'testdoc': ''}
+*** warning : Removing heading with title. Consider to place it in _config.yml
+*** warning : Removing heading with author. Consider to place it in _config.yml
+*** warning : Removing heading with date. Consider to place it in _config.yml
+*** warning : Removing the toc tag
+*** warning: footnotes are not supported for format html
+    footnotes will be left in the doconce syntax
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format ipynb
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: footnotes are not supported for format ipynb
+    footnotes will be left in the doconce syntax
+collected all required additional files in ipynb-testdoc-src.tar.gz which must be distributed with the notebook
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'pandoc', 'DEVICE': 'screen', 'testdoc': ''}
+*** warning : Removing heading with title. Consider to place it in _config.yml
+*** warning : Removing heading with author. Consider to place it in _config.yml
+*** warning : Removing heading with date. Consider to place it in _config.yml
+*** warning : Removing the toc tag
+*** warning: footnotes are not supported for format html
+    footnotes will be left in the doconce syntax
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format ipynb
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: footnotes are not supported for format ipynb
+    footnotes will be left in the doconce syntax
+collected all required additional files in ipynb-testdoc-src.tar.gz which must be distributed with the notebook
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'pandoc', 'DEVICE': 'screen', 'testdoc': ''}
+*** warning : Removing heading with title. Consider to place it in _config.yml
+*** warning : Removing heading with author. Consider to place it in _config.yml
+*** warning : Removing heading with date. Consider to place it in _config.yml
+*** warning : Removing the toc tag
+*** warning: footnotes are not supported for format html
+    footnotes will be left in the doconce syntax
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format ipynb
+*** warning: footnotes are not supported for format ipynb
+    footnotes will be left in the doconce syntax
+collected all required additional files in ipynb-testdoc-src.tar.gz which must be distributed with the notebook
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'pandoc', 'DEVICE': 'screen', 'testdoc': ''}
+*** warning : Removing heading with title. Consider to place it in _config.yml
+*** warning : Removing heading with author. Consider to place it in _config.yml
+*** warning : Removing heading with date. Consider to place it in _config.yml
+*** warning : Removing the toc tag
+*** warning: footnotes are not supported for format html
+    footnotes will be left in the doconce syntax
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format ipynb
+*** warning: footnotes are not supported for format ipynb
+    footnotes will be left in the doconce syntax
+collected all required additional files in ipynb-testdoc-src.tar.gz which must be distributed with the notebook
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'pandoc', 'DEVICE': 'screen', 'testdoc': ''}
+*** warning : Removing heading with title. Consider to place it in _config.yml
+*** warning : Removing heading with author. Consider to place it in _config.yml
+*** warning : Removing heading with date. Consider to place it in _config.yml
+*** warning : Removing the toc tag
+*** warning: footnotes are not supported for format html
+    footnotes will be left in the doconce syntax
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format ipynb
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: footnotes are not supported for format ipynb
+    footnotes will be left in the doconce syntax
+collected all required additional files in ipynb-testdoc-src.tar.gz which must be distributed with the notebook
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+... checking existence of https://raw.github.com/hplgit/doconce/master/test/../doc/src/manual/fig/wave1D.html ...
+    found!
+figure file https://raw.github.com/hplgit/doconce/master/test/../doc/src/manual/fig/wave1D:
+    can use https://raw.github.com/hplgit/doconce/master/test/../doc/src/manual/fig/wave1D.html for format html
+... checking existence of https://raw.github.com/hplgit/doconce/master/test/../doc/src/manual/fig/wave1D.png ...
+    found!
+... checking existence of https://raw.github.com/hplgit/doconce/master/test/bokeh_test.html ...
+    found!
+figure file https://raw.github.com/hplgit/doconce/master/test/bokeh_test:
+    can use https://raw.github.com/hplgit/doconce/master/test/bokeh_test.html for format html
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+output in testdoc.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSOMEVAR testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SOMEVAR': True}
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: <code>exp(-x)</code>, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+<p></p>
+$$ y(x) = e^{-y}.$$
+
+output in testdoc.html
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: <code>exp(-x)</code>, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+<p></p>
+$$ y(x) = e^{-y}.$$
+
+output in testdoc.html
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: <code>exp(-x)</code>, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+<p></p>
+$$ y(x) = e^{-y}.$$
+
+output in testdoc.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DSOMEVAR testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'SOMEVAR': True}
+Translating doconce text in tmp_mako__testdoc.do.txt to latex
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+transforming sections: subsection to subsubsection...
+transforming sections: section to subsection...
+transforming sections: chapter to section...
+found info about 11 exercises
+figure ../doc/src/manual/fig/wave1D.png must have extension(s) .eps, .ps
+*** warning: need to convert from ../doc/src/manual/fig/wave1D.png to ../doc/src/manual/fig/wave1D.eps
+using ImageMagick's convert program, but the result will
+be loss of quality. Generate a proper ../doc/src/manual/fig/wave1D.eps file (if possible).
+
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+found ../doc/src/manual/fig/wave1D.png
+figure ../doc/src/manual/fig/wave1D.png must have extension(s) .eps, .ps
+*** warning: need to convert from ../doc/src/manual/fig/wave1D.png to ../doc/src/manual/fig/wave1D.eps
+using ImageMagick's convert program, but the result will
+be loss of quality. Generate a proper ../doc/src/manual/fig/wave1D.eps file (if possible).
+
+
+exporting publish database papers.pub to papers.bib:
+*** made directory latex_figs for admon figures
+output in testdoc.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+*** warning: found link tag "...": "..." in footnote, which was removed
+    from tooltip (since it does not work with bootstrap tooltips)
+URL: "google.com" is perhaps the most famous web site today.
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: TITLE may look strange with a template -
+             it is recommended to comment out the title: #TITLE:
+
+*** warning: AUTHOR may look strange with a template -
+ it is recommended to comment out all authors: #AUTHOR.
+ Usually better to hardcode authors in a footer in the template.
+output in testdoc.html
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+*** warning: --pygm_style=emacs is not recommended when --html_style=solarized
+    automatically changed to --html_style=perldoc
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: <code>exp(-x)</code>, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+<p></p>
+$$ y(x) = e^{-y}.$$
+
+output in testdoc.html
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: --pygm_style=emacs is not recommended when --html_style=solarized
+    automatically changed to --html_style=perldoc
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: <code>exp(-x)</code>, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+<p></p>
+$$ y(x) = e^{-y}.$$
+
+output in demo_testdoc.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DSOMEVAR testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'SOMEVAR': True}
+Translating doconce text in tmp_mako__testdoc.do.txt to latex
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure ../doc/src/manual/fig/wave1D.png must have extension(s) .eps, .ps
+*** warning: need to convert from ../doc/src/manual/fig/wave1D.png to ../doc/src/manual/fig/wave1D.eps
+using ImageMagick's convert program, but the result will
+be loss of quality. Generate a proper ../doc/src/manual/fig/wave1D.eps file (if possible).
+
+found ../doc/src/manual/fig/wave1D.png
+figure ../doc/src/manual/fig/wave1D.png must have extension(s) .eps, .ps
+*** warning: need to convert from ../doc/src/manual/fig/wave1D.png to ../doc/src/manual/fig/wave1D.eps
+using ImageMagick's convert program, but the result will
+be loss of quality. Generate a proper ../doc/src/manual/fig/wave1D.eps file (if possible).
+
+
+exporting publish database papers.pub to papers.bib:
+output in testdoc.p.tex
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to pdflatex
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.pdf for format pdflatex
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+
+exporting publish database papers.pub to papers.bib:
+output in testdoc.tex
+running preprocess -DFORMAT=pdflatex -DDEVICE=paper  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to pdflatex
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.pdf for format pdflatex
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+
+exporting publish database papers.pub to papers.bib:
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+output in testdoc.p.tex
+running preprocess -DFORMAT=plain -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to plain
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+standalone exercises in testdoc_exercises.zip
+found info about 11 exercises
+output in testdoc.txt
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+... fetching source code from https://raw.githubusercontent.com/hplgit/doconce/master/test
+copying from regex "subroutine" until end of file
+     file: https://raw.githubusercontent.com/hplgit/doconce/master/test/../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+... fetching source code from https://raw.githubusercontent.com/hplgit/doconce/master/test
+copying after regex "a comment" until "^C\s+END1"
+     file: https://raw.githubusercontent.com/hplgit/doconce/master/test/../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+... fetching source code from https://raw.githubusercontent.com/hplgit/doconce/master/test
+copy complete file https://raw.githubusercontent.com/hplgit/doconce/master/test/../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: <code>exp(-x)</code>, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+<p></p>
+$$ y(x) = e^{-y}.$$
+
+output in testdoc_code_prefix.html
+running preprocess -DFORMAT=plain -DDEVICE=screen -DSOMEVAR="1" testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'plain', 'DEVICE': 'screen', 'SOMEVAR': '1'}
+Translating doconce text in tmp_mako__testdoc.do.txt to plain
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+output in testdoc.txt
+running preprocess -DFORMAT=st -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to st
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+*** warning: footnotes are not supported for format st
+    footnotes will be left in the doconce syntax
+*** warning: table headline with entries
+    | S | command |
+   has 2 columns while further down there are 3 columns
+   the list of columns in the headline reads
+['S', 'command']
+   Here is the entire table:
+[['horizontal rule'], ['S', 'command'], ['horizontal rule'], ['$ ||a_0|| $', "'norm", "length'"], ['x\\cap y', "'x", "y'"], ['horizontal rule']]
+output in testdoc.st
+running preprocess -DFORMAT=sphinx -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to sphinx
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** error: heading "=== Here is a list with subsubsection heading ===" is subsubsection and
+    comes after section, but will be treated as subsection in sphinx
+*** warning: hyperlink to URL ../doc/src/manual/mov/wave_frames/frame_0080.png is to a local file,
+    recommended to be _static/../doc/src/manual/mov/wave_frames/frame_0080.png for sphinx
+*** warning: hyperlink to URL ../doc/src/manual/mov/wave_frames/frame_0090.png is to a local file,
+    recommended to be _static/../doc/src/manual/mov/wave_frames/frame_0090.png for sphinx
+*** warning: hyperlink to URL ../doc/src/manual/mov/wave_frames/frame_0100.png is to a local file,
+    recommended to be _static/../doc/src/manual/mov/wave_frames/frame_0100.png for sphinx
+*** warning: hyperlink to URL testdoc.do.txt is to a local file,
+    recommended to be _static/testdoc.do.txt for sphinx
+*** warning: hyperlink to URL ../doc/src/manual/mov/wave_frames/frame_0085.png is to a local file,
+    recommended to be _static/../doc/src/manual/mov/wave_frames/frame_0085.png for sphinx
+*** warning: hyperlink to URL google.com is to a local file,
+    recommended to be _static/google.com for sphinx
+*** warning: hyperlink to URL ../doc/src/manual/mov/wave_frames/frame_0105.png is to a local file,
+    recommended to be _static/../doc/src/manual/mov/wave_frames/frame_0105.png for sphinx
+*** warning: hyperlink to URL ../doc/src/manual/mov/wave_frames/frame_0095.png is to a local file,
+    recommended to be _static/../doc/src/manual/mov/wave_frames/frame_0095.png for sphinx
+    move linked file to _static and change URLs unless
+    you really know that the links will be correct when the
+    sphinx build directory is moved to its final destination
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format sphinx
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: new !split inserted (override all existing !split)
+    before every ======= heading =======
+    because this strategy gives a well-functioning
+    table of contents in Sphinx
+    (use --sphinx_keep_splits to enforce your own !split commands)
+*** warning: sphinx/rst is a suboptimal format for
+    typesetting edit markup such as
+    [hpl 3: laptops and mobile units -> computers, tablets,
+and phones]
+    Use HTML or LaTeX output instead, implement the
+    edits (doconce apply_edit_comments) and then use sphinx.
+
+*** warning: pyscpro for computer code (sage cells) is requested, but'
+    icsecontrib.sagecellserver from https://github.com/kriskda/sphinx-sagecell
+    is not installed. Using plain Python typesetting instead.
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: ``exp(-x)``, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+.. math::
+         y(x) = e^{-y}.
+
+output in testdoc.rst
+running preprocess -DFORMAT=rst -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to rst
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** error: heading "=== Here is a list with subsubsection heading ===" is subsubsection and
+    comes after section, but will be treated as subsection in rst
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format rst
+output in testdoc.rst
+running preprocess -DFORMAT=epytext -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to epytext
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+*** warning: footnotes are not supported for format epytext
+    footnotes will be left in the doconce syntax
+output in testdoc.epytext
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to pandoc
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+output in testdoc.md
+running preprocess -DFORMAT=mwiki -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to mwiki
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format mwiki
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+ ...checking if wave1D.png is stored at en.wikipedia.org/w/api.php...
+ ...for wikipedia/wikibooks you must upload image file wave1D.png to
+    common.wikimedia.org
+ ...for now we use local file Wave1D.png
+ ...checking if wave1D.png is stored at en.wikipedia.org/w/api.php...
+ ...for wikipedia/wikibooks you must upload image file wave1D.png to
+    common.wikimedia.org
+ ...for now we use local file Wave1D.png
+ ...checking if wave1D.png is stored at en.wikipedia.org/w/api.php...
+ ...for wikipedia/wikibooks you must upload image file wave1D.png to
+    common.wikimedia.org
+ ...for now we use local file Wave1D.png
+ ...checking if df_plot.png is stored at en.wikipedia.org/w/api.php...
+ ...found Df plot.png at wikimedia
+ ...checking if df2s8765s_plot.png is stored at en.wikipedia.org/w/api.php...
+ ...for wikipedia/wikibooks you must upload image file df2s8765s_plot.png to
+    common.wikimedia.org
+ ...for now we use local file Df2s8765s plot.png
+*** warning: footnotes are not supported for format mwiki
+    footnotes will be left in the doconce syntax
+*** warning: reference to label "mymatrix:eq1" in an equation does not work in MediaWiki
+*** warning: reference to label "mymatrix:eq2" in an equation does not work in MediaWiki
+*** warning: reference to label "my:eq1" in an equation does not work in MediaWiki
+*** warning: reference to label "circle:x" in an equation does not work in MediaWiki
+*** warning: reference to label "circle:y" in an equation does not work in MediaWiki
+output in testdoc.mwiki
+running preprocess -DFORMAT=cwiki -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to cwiki
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format cwiki
+*** warning: footnotes are not supported for format cwiki
+    footnotes will be left in the doconce syntax
+*** warning: table headline with entries
+    |  |  |  |
+   has 3 columns while further down there are 5 columns
+   the list of columns in the headline reads
+['', '', '']
+   Here is the entire table:
+[['horizontal rule'], ['', '', ''], ['horizontal rule'], ['{{{\\mathcal{L}=0}}}', '[[../doc/src/manual/mov/wave_frames/frame_0080.png', '{{{080}}}]]', '[[../doc/src/manual/mov/wave_frames/frame_0085.png', '{{{085}}}]]'], ['{{{a=b}}}', '[[../doc/src/manual/mov/wave_frames/frame_0090.png', '{{{090}}}]]', '[[../doc/src/manual/mov/wave_frames/frame_0095.png', '{{{095}}}]]'], ['{{{\\nabla\\cdot\\bm{u} =0 }}}', '[[../doc/src/manual/mov/wave_frames/frame_0100.png', '{{{100}}}]]', '[[../doc/src/manual/mov/wave_frames/frame_0105.png', '{{{105}}}]]'], ['horizontal rule']]
+output in testdoc.cwiki
+running preprocess -DFORMAT=ipynb -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to ipynb
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format ipynb
+*** warning: footnotes are not supported for format ipynb
+    footnotes will be left in the doconce syntax
+collected all required additional files in ipynb-testdoc-src.tar.gz which must be distributed with the notebook
+Failed to remove ans_at_end environment
+Failed to remove sol_at_end environment
+output in testdoc.ipynb
+running preprocess -DFORMAT=matlabnb -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to matlabnb
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format matlabnb
+*** warning: \begin{align}-\end{align} does not work in Matlab notebooks
+*** warning: \begin{align}-\end{align} does not work in Matlab notebooks
+*** warning: \begin{align}-\end{align} does not work in Matlab notebooks
+*** warning: \begin{align}-\end{align} does not work in Matlab notebooks
+*** warning: \begin{align}-\end{align} does not work in Matlab notebooks
+*** warning: \begin{align*}-\end{align*} does not work in Matlab notebooks
+*** warning: \begin{align}-\end{align} does not work in Matlab notebooks
+output in testdoc.m
+running preprocess -DFORMAT=gwiki -DDEVICE=screen -DMYVAR1="3" -DMYVAR2="a string" testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'gwiki', 'DEVICE': 'screen', 'MYVAR1': 3, 'MYVAR2': 'a string'}
+Translating doconce text in tmp_mako__testdoc.do.txt to gwiki
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format gwiki
+
+NOTE: Place ../doc/src/manual/fig/wave1D.png at some place on the web and edit the
+      .gwiki page, either manually (seach for 'Figure: ')
+      or use the doconce script:
+      doconce gwiki_figsubst.py mydoc.gwiki URL
+
+
+NOTE: Place ../doc/src/manual/fig/wave1D.png at some place on the web and edit the
+      .gwiki page, either manually (seach for 'Figure: ')
+      or use the doconce script:
+      doconce gwiki_figsubst.py mydoc.gwiki URL
+
+
+NOTE: Place ../doc/src/manual/fig/wave1D.png at some place on the web and edit the
+      .gwiki page, either manually (seach for 'Figure: ')
+      or use the doconce script:
+      doconce gwiki_figsubst.py mydoc.gwiki URL
+
+
+NOTE: Place https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png at some place on the web and edit the
+      .gwiki page, either manually (seach for 'Figure: ')
+      or use the doconce script:
+      doconce gwiki_figsubst.py mydoc.gwiki URL
+
+*** warning: footnotes are not supported for format gwiki
+    footnotes will be left in the doconce syntax
+output in testdoc.gwiki
+running preprocess -DFORMAT=latex -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to latex
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+figure ../doc/src/manual/fig/wave1D.png must have extension(s) .eps, .ps
+*** warning: need to convert from ../doc/src/manual/fig/wave1D.png to ../doc/src/manual/fig/wave1D.eps
+using ImageMagick's convert program, but the result will
+be loss of quality. Generate a proper ../doc/src/manual/fig/wave1D.eps file (if possible).
+
+found ../doc/src/manual/fig/wave1D.png
+figure ../doc/src/manual/fig/wave1D.png must have extension(s) .eps, .ps
+*** warning: need to convert from ../doc/src/manual/fig/wave1D.png to ../doc/src/manual/fig/wave1D.eps
+using ImageMagick's convert program, but the result will
+be loss of quality. Generate a proper ../doc/src/manual/fig/wave1D.eps file (if possible).
+
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+
+exporting publish database papers.pub to papers.bib:
+output in testdoc.p.tex
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to pandoc
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+output in testdoc.md
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'pandoc', 'DEVICE': 'screen', 'testdoc': ''}
+*** warning : Removing heading with title. Consider to place it in _config.yml
+*** warning : Removing heading with author. Consider to place it in _config.yml
+*** warning : Removing heading with date. Consider to place it in _config.yml
+*** warning : Removing the toc tag
+*** warning: footnotes are not supported for format html
+    footnotes will be left in the doconce syntax
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format ipynb
+*** warning: footnotes are not supported for format ipynb
+    footnotes will be left in the doconce syntax
+collected all required additional files in ipynb-testdoc-src.tar.gz which must be distributed with the notebook
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'pandoc', 'DEVICE': 'screen', 'testdoc': ''}
+*** warning : Removing heading with title. Consider to place it in _config.yml
+*** warning : Removing heading with author. Consider to place it in _config.yml
+*** warning : Removing heading with date. Consider to place it in _config.yml
+*** warning : Removing the toc tag
+*** warning: footnotes are not supported for format html
+    footnotes will be left in the doconce syntax
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format ipynb
+*** warning: footnotes are not supported for format ipynb
+    footnotes will be left in the doconce syntax
+collected all required additional files in ipynb-testdoc-src.tar.gz which must be distributed with the notebook
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'pandoc', 'DEVICE': 'screen', 'testdoc': ''}
+*** warning : Removing heading with title. Consider to place it in _config.yml
+*** warning : Removing heading with author. Consider to place it in _config.yml
+*** warning : Removing heading with date. Consider to place it in _config.yml
+*** warning : Removing the toc tag
+*** warning: footnotes are not supported for format html
+    footnotes will be left in the doconce syntax
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+*** warning : skipped a separator, which appeared to be inside the !bc and !ec directives
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format ipynb
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: footnotes are not supported for format ipynb
+    footnotes will be left in the doconce syntax
+collected all required additional files in ipynb-testdoc-src.tar.gz which must be distributed with the notebook
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+... checking existence of https://raw.github.com/hplgit/doconce/master/test/bokeh_test.html ...
+    found!
+figure file https://raw.github.com/hplgit/doconce/master/test/bokeh_test:
+    can use https://raw.github.com/hplgit/doconce/master/test/bokeh_test.html for format html
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+... checking existence of https://raw.github.com/hplgit/doconce/master/test/../doc/src/manual/fig/wave1D.html ...
+    found!
+figure file https://raw.github.com/hplgit/doconce/master/test/../doc/src/manual/fig/wave1D:
+    can use https://raw.github.com/hplgit/doconce/master/test/../doc/src/manual/fig/wave1D.html for format html
+... checking existence of https://raw.github.com/hplgit/doconce/master/test/../doc/src/manual/fig/wave1D.png ...
+    found!
+output in testdoc.html
+running preprocess -DFORMAT=html -DDEVICE=screen -DSOMEVAR testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'html', 'DEVICE': 'screen', 'SOMEVAR': True}
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: <code>exp(-x)</code>, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+<p></p>
+$$ y(x) = e^{-y}.$$
+
+output in testdoc.html
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: <code>exp(-x)</code>, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+<p></p>
+$$ y(x) = e^{-y}.$$
+
+output in testdoc.html
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: <code>exp(-x)</code>, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+<p></p>
+$$ y(x) = e^{-y}.$$
+
+output in testdoc.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DSOMEVAR testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'SOMEVAR': True}
+Translating doconce text in tmp_mako__testdoc.do.txt to latex
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+transforming sections: subsection to subsubsection...
+transforming sections: section to subsection...
+transforming sections: chapter to section...
+found info about 11 exercises
+figure ../doc/src/manual/fig/wave1D.png must have extension(s) .eps, .ps
+*** warning: need to convert from ../doc/src/manual/fig/wave1D.png to ../doc/src/manual/fig/wave1D.eps
+using ImageMagick's convert program, but the result will
+be loss of quality. Generate a proper ../doc/src/manual/fig/wave1D.eps file (if possible).
+
+found ../doc/src/manual/fig/wave1D.png
+figure ../doc/src/manual/fig/wave1D.png must have extension(s) .eps, .ps
+*** warning: need to convert from ../doc/src/manual/fig/wave1D.png to ../doc/src/manual/fig/wave1D.eps
+using ImageMagick's convert program, but the result will
+be loss of quality. Generate a proper ../doc/src/manual/fig/wave1D.eps file (if possible).
+
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+
+exporting publish database papers.pub to papers.bib:
+*** made directory latex_figs for admon figures
+output in testdoc.p.tex
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+*** warning: found link tag "...": "..." in footnote, which was removed
+    from tooltip (since it does not work with bootstrap tooltips)
+URL: "google.com" is perhaps the most famous web site today.
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: TITLE may look strange with a template -
+             it is recommended to comment out the title: #TITLE:
+
+*** warning: AUTHOR may look strange with a template -
+ it is recommended to comment out all authors: #AUTHOR.
+ Usually better to hardcode authors in a footer in the template.
+output in testdoc.html
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+*** warning: --pygm_style=emacs is not recommended when --html_style=solarized
+    automatically changed to --html_style=perldoc
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: <code>exp(-x)</code>, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+<p></p>
+$$ y(x) = e^{-y}.$$
+
+output in testdoc.html
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+*** warning: --pygm_style=emacs is not recommended when --html_style=solarized
+    automatically changed to --html_style=perldoc
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: <code>exp(-x)</code>, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+<p></p>
+$$ y(x) = e^{-y}.$$
+
+output in demo_testdoc.html
+running preprocess -DFORMAT=latex -DDEVICE=screen -DSOMEVAR testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'latex', 'DEVICE': 'screen', 'SOMEVAR': True}
+Translating doconce text in tmp_mako__testdoc.do.txt to latex
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+found ../doc/src/manual/fig/wave1D.png
+figure ../doc/src/manual/fig/wave1D.png must have extension(s) .eps, .ps
+*** warning: need to convert from ../doc/src/manual/fig/wave1D.png to ../doc/src/manual/fig/wave1D.eps
+using ImageMagick's convert program, but the result will
+be loss of quality. Generate a proper ../doc/src/manual/fig/wave1D.eps file (if possible).
+
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure ../doc/src/manual/fig/wave1D.png must have extension(s) .eps, .ps
+*** warning: need to convert from ../doc/src/manual/fig/wave1D.png to ../doc/src/manual/fig/wave1D.eps
+using ImageMagick's convert program, but the result will
+be loss of quality. Generate a proper ../doc/src/manual/fig/wave1D.eps file (if possible).
+
+
+exporting publish database papers.pub to papers.bib:
+output in testdoc.p.tex
+running preprocess -DFORMAT=pdflatex -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to pdflatex
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.pdf for format pdflatex
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+
+exporting publish database papers.pub to papers.bib:
+output in testdoc.tex
+running preprocess -DFORMAT=pdflatex -DDEVICE=paper  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to pdflatex
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.pdf for format pdflatex
+
+exporting publish database papers.pub to papers.bib:
+*** warning: --latex_double_hyphen may lead to unwanted edits.
+             search for all -- in the .p.tex file and check.
+output in testdoc.p.tex
+running preprocess -DFORMAT=plain -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to plain
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+standalone exercises in testdoc_exercises.zip
+found info about 11 exercises
+output in testdoc.txt
+running preprocess -DFORMAT=html -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to html
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+... fetching source code from https://raw.githubusercontent.com/hplgit/doconce/master/test
+copying from regex "subroutine" until end of file
+     file: https://raw.githubusercontent.com/hplgit/doconce/master/test/../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+... fetching source code from https://raw.githubusercontent.com/hplgit/doconce/master/test
+copying after regex "a comment" until "^C\s+END1"
+     file: https://raw.githubusercontent.com/hplgit/doconce/master/test/../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+... fetching source code from https://raw.githubusercontent.com/hplgit/doconce/master/test
+copy complete file https://raw.githubusercontent.com/hplgit/doconce/master/test/../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file bokeh_test:
+    can use bokeh_test.html for format html
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format html
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+*** warning: inline math in HTML must have space around <:
+    <1/2  ->  < 1/2
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: <code>exp(-x)</code>, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+<p></p>
+$$ y(x) = e^{-y}.$$
+
+output in testdoc_code_prefix.html
+running preprocess -DFORMAT=plain -DDEVICE=screen -DSOMEVAR="1" testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'plain', 'DEVICE': 'screen', 'SOMEVAR': '1'}
+Translating doconce text in tmp_mako__testdoc.do.txt to plain
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+output in testdoc.txt
+running preprocess -DFORMAT=st -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to st
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+*** warning: footnotes are not supported for format st
+    footnotes will be left in the doconce syntax
+*** warning: table headline with entries
+    | S | command |
+   has 2 columns while further down there are 3 columns
+   the list of columns in the headline reads
+['S', 'command']
+   Here is the entire table:
+[['horizontal rule'], ['S', 'command'], ['horizontal rule'], ['$ ||a_0|| $', "'norm", "length'"], ['x\\cap y', "'x", "y'"], ['horizontal rule']]
+output in testdoc.st
+running preprocess -DFORMAT=sphinx -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to sphinx
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** error: heading "=== Here is a list with subsubsection heading ===" is subsubsection and
+    comes after section, but will be treated as subsection in sphinx
+*** warning: hyperlink to URL ../doc/src/manual/mov/wave_frames/frame_0095.png is to a local file,
+    recommended to be _static/../doc/src/manual/mov/wave_frames/frame_0095.png for sphinx
+*** warning: hyperlink to URL testdoc.do.txt is to a local file,
+    recommended to be _static/testdoc.do.txt for sphinx
+*** warning: hyperlink to URL ../doc/src/manual/mov/wave_frames/frame_0090.png is to a local file,
+    recommended to be _static/../doc/src/manual/mov/wave_frames/frame_0090.png for sphinx
+*** warning: hyperlink to URL ../doc/src/manual/mov/wave_frames/frame_0100.png is to a local file,
+    recommended to be _static/../doc/src/manual/mov/wave_frames/frame_0100.png for sphinx
+*** warning: hyperlink to URL ../doc/src/manual/mov/wave_frames/frame_0085.png is to a local file,
+    recommended to be _static/../doc/src/manual/mov/wave_frames/frame_0085.png for sphinx
+*** warning: hyperlink to URL google.com is to a local file,
+    recommended to be _static/google.com for sphinx
+*** warning: hyperlink to URL ../doc/src/manual/mov/wave_frames/frame_0080.png is to a local file,
+    recommended to be _static/../doc/src/manual/mov/wave_frames/frame_0080.png for sphinx
+*** warning: hyperlink to URL ../doc/src/manual/mov/wave_frames/frame_0105.png is to a local file,
+    recommended to be _static/../doc/src/manual/mov/wave_frames/frame_0105.png for sphinx
+    move linked file to _static and change URLs unless
+    you really know that the links will be correct when the
+    sphinx build directory is moved to its final destination
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format sphinx
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+... checking existence of https://openclipart.org/people/jpneok/junebug.svg ...
+    found!
+*** warning: new !split inserted (override all existing !split)
+    before every ======= heading =======
+    because this strategy gives a well-functioning
+    table of contents in Sphinx
+    (use --sphinx_keep_splits to enforce your own !split commands)
+*** warning: sphinx/rst is a suboptimal format for
+    typesetting edit markup such as
+    [hpl 3: laptops and mobile units -> computers, tablets,
+and phones]
+    Use HTML or LaTeX output instead, implement the
+    edits (doconce apply_edit_comments) and then use sphinx.
+
+*** warning: pyscpro for computer code (sage cells) is requested, but'
+    icsecontrib.sagecellserver from https://github.com/kriskda/sphinx-sagecell
+    is not installed. Using plain Python typesetting instead.
+*** warning: quiz explanation contains block (fig/code/math)
+    and is therefore skipped
+Ooops, forgot a minus: ``exp(-x)``, otherwise this Python code
+must be considered as a good answer. It is more natural,
+though, to write the solution to the problem
+in mathematical notation:
+
+.. math::
+         y(x) = e^{-y}.
+
+output in testdoc.rst
+running preprocess -DFORMAT=rst -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to rst
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** error: heading "=== Here is a list with subsubsection heading ===" is subsubsection and
+    comes after section, but will be treated as subsection in rst
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format rst
+output in testdoc.rst
+running preprocess -DFORMAT=epytext -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to epytext
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+*** warning: footnotes are not supported for format epytext
+    footnotes will be left in the doconce syntax
+output in testdoc.epytext
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to pandoc
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+output in testdoc.md
+running preprocess -DFORMAT=mwiki -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to mwiki
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format mwiki
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+ ...checking if wave1D.png is stored at en.wikipedia.org/w/api.php...
+ ...for wikipedia/wikibooks you must upload image file wave1D.png to
+    common.wikimedia.org
+ ...for now we use local file Wave1D.png
+ ...checking if wave1D.png is stored at en.wikipedia.org/w/api.php...
+ ...for wikipedia/wikibooks you must upload image file wave1D.png to
+    common.wikimedia.org
+ ...for now we use local file Wave1D.png
+ ...checking if wave1D.png is stored at en.wikipedia.org/w/api.php...
+ ...for wikipedia/wikibooks you must upload image file wave1D.png to
+    common.wikimedia.org
+ ...for now we use local file Wave1D.png
+ ...checking if df_plot.png is stored at en.wikipedia.org/w/api.php...
+ ...found Df plot.png at wikimedia
+ ...checking if df2s8765s_plot.png is stored at en.wikipedia.org/w/api.php...
+ ...for wikipedia/wikibooks you must upload image file df2s8765s_plot.png to
+    common.wikimedia.org
+ ...for now we use local file Df2s8765s plot.png
+*** warning: footnotes are not supported for format mwiki
+    footnotes will be left in the doconce syntax
+*** warning: reference to label "mymatrix:eq1" in an equation does not work in MediaWiki
+*** warning: reference to label "mymatrix:eq2" in an equation does not work in MediaWiki
+*** warning: reference to label "my:eq1" in an equation does not work in MediaWiki
+*** warning: reference to label "circle:x" in an equation does not work in MediaWiki
+*** warning: reference to label "circle:y" in an equation does not work in MediaWiki
+output in testdoc.mwiki
+running preprocess -DFORMAT=cwiki -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to cwiki
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format cwiki
+*** warning: footnotes are not supported for format cwiki
+    footnotes will be left in the doconce syntax
+*** warning: table headline with entries
+    |  |  |  |
+   has 3 columns while further down there are 5 columns
+   the list of columns in the headline reads
+['', '', '']
+   Here is the entire table:
+[['horizontal rule'], ['', '', ''], ['horizontal rule'], ['{{{\\mathcal{L}=0}}}', '[[../doc/src/manual/mov/wave_frames/frame_0080.png', '{{{080}}}]]', '[[../doc/src/manual/mov/wave_frames/frame_0085.png', '{{{085}}}]]'], ['{{{a=b}}}', '[[../doc/src/manual/mov/wave_frames/frame_0090.png', '{{{090}}}]]', '[[../doc/src/manual/mov/wave_frames/frame_0095.png', '{{{095}}}]]'], ['{{{\\nabla\\cdot\\bm{u} =0 }}}', '[[../doc/src/manual/mov/wave_frames/frame_0100.png', '{{{100}}}]]', '[[../doc/src/manual/mov/wave_frames/frame_0105.png', '{{{105}}}]]'], ['horizontal rule']]
+output in testdoc.cwiki
+running preprocess -DFORMAT=ipynb -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to ipynb
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format ipynb
+*** warning: footnotes are not supported for format ipynb
+    footnotes will be left in the doconce syntax
+collected all required additional files in ipynb-testdoc-src.tar.gz which must be distributed with the notebook
+Failed to remove ans_at_end environment
+Failed to remove sol_at_end environment
+output in testdoc.ipynb
+running preprocess -DFORMAT=matlabnb -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to matlabnb
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format matlabnb
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: \begin{align}-\end{align} does not work in Matlab notebooks
+*** warning: \begin{align}-\end{align} does not work in Matlab notebooks
+*** warning: \begin{align}-\end{align} does not work in Matlab notebooks
+*** warning: \begin{align}-\end{align} does not work in Matlab notebooks
+*** warning: \begin{align}-\end{align} does not work in Matlab notebooks
+*** warning: \begin{align*}-\end{align*} does not work in Matlab notebooks
+*** warning: \begin{align}-\end{align} does not work in Matlab notebooks
+output in testdoc.m
+running preprocess -DFORMAT=gwiki -DDEVICE=screen -DMYVAR1="3" -DMYVAR2="a string" testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+mako variables: {'FORMAT': 'gwiki', 'DEVICE': 'screen', 'MYVAR1': 3, 'MYVAR2': 'a string'}
+Translating doconce text in tmp_mako__testdoc.do.txt to gwiki
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format gwiki
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+
+NOTE: Place ../doc/src/manual/fig/wave1D.png at some place on the web and edit the
+      .gwiki page, either manually (seach for 'Figure: ')
+      or use the doconce script:
+      doconce gwiki_figsubst.py mydoc.gwiki URL
+
+
+NOTE: Place ../doc/src/manual/fig/wave1D.png at some place on the web and edit the
+      .gwiki page, either manually (seach for 'Figure: ')
+      or use the doconce script:
+      doconce gwiki_figsubst.py mydoc.gwiki URL
+
+
+NOTE: Place ../doc/src/manual/fig/wave1D.png at some place on the web and edit the
+      .gwiki page, either manually (seach for 'Figure: ')
+      or use the doconce script:
+      doconce gwiki_figsubst.py mydoc.gwiki URL
+
+
+NOTE: Place https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png at some place on the web and edit the
+      .gwiki page, either manually (seach for 'Figure: ')
+      or use the doconce script:
+      doconce gwiki_figsubst.py mydoc.gwiki URL
+
+*** warning: footnotes are not supported for format gwiki
+    footnotes will be left in the doconce syntax
+output in testdoc.gwiki
+running preprocess -DFORMAT=latex -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to latex
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+found info about 11 exercises
+figure ../doc/src/manual/fig/wave1D.png must have extension(s) .eps, .ps
+*** warning: need to convert from ../doc/src/manual/fig/wave1D.png to ../doc/src/manual/fig/wave1D.eps
+using ImageMagick's convert program, but the result will
+be loss of quality. Generate a proper ../doc/src/manual/fig/wave1D.eps file (if possible).
+
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+found ../doc/src/manual/fig/wave1D.png
+figure ../doc/src/manual/fig/wave1D.png must have extension(s) .eps, .ps
+*** warning: need to convert from ../doc/src/manual/fig/wave1D.png to ../doc/src/manual/fig/wave1D.eps
+using ImageMagick's convert program, but the result will
+be loss of quality. Generate a proper ../doc/src/manual/fig/wave1D.eps file (if possible).
+
+
+exporting publish database papers.pub to papers.bib:
+output in testdoc.p.tex
+running preprocess -DFORMAT=pandoc -DDEVICE=screen  testdoc.do.txt > tmp_preprocess__testdoc.do.txt
+running mako on tmp_preprocess__testdoc.do.txt to make tmp_mako__testdoc.do.txt
+Translating doconce text in tmp_mako__testdoc.do.txt to pandoc
+
+*** warning: found multi-line caption for ../doc/src/manual/fig/wave1D.png
+
+ A long
+caption spanning
+several lines and containing verbatim words like `my_file_v1` and `my_file_v2`
+as well as math with subscript as in $t_{i+1}$. label{myfig}
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** running OS command python -c 'print("Testing\noutput\nfrom\nPython.")'
+-------- terminal output ----------
+Testing
+output
+from
+Python.
+-----------------------------------
+copying from regex "subroutine" until end of file
+     file: ../doc/src/manual/__testcode.f,lines 3-16 (format: fcod)
+copying after regex "a comment" until "^C\s+END1"
+     file: ../doc/src/manual/__testcode.f,lines 2-11 (format: fcod)
+copy complete file ../doc/src/manual/__testcode.f (format: ccq)
+*** replacing \bm{...} by \boldsymbol{...} (\bm is not supported by MathJax)
+found info about 11 exercises
+figure file ../doc/src/manual/fig/wave1D:
+    can use ../doc/src/manual/fig/wave1D.png for format pandoc
+... checking existence of https://raw.github.com/doconce/doconce/master/doc/src/blog/f_plot.png ...
+    found!
+*** warning: footnotes are not supported for format pandoc
+    footnotes will be left in the doconce syntax
+*** warning: latex envir \begin{alignat} does not work well.
+
+output in testdoc.md
