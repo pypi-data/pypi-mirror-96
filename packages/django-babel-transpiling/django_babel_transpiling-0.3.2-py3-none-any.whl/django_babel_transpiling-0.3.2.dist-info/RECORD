@@ -1,0 +1,12 @@
+babel_transpiling/__init__.py,sha256=bqu4G7Is-8Were-hMi-SthEalL7QW-PAbKWGZ9pVB6U,22
+babel_transpiling/middlewares.py,sha256=qUxHW1UsXwqrDl7ZcSgXth0mAzQ5sydon1BiIEQ9Rpc,2023
+babel_transpiling/storage.py,sha256=K-BGx6SUMNlcbWioKexfy1pB8amASYlBWBOTbKxElnA,922
+babel_transpiling/utils.py,sha256=CjLXsUw1uHkNJ-xmvoAXVl0oE_uY65P_p_HKP5fRzyc,2059
+babel_transpiling/static/npm/@babel/standalone@7.12.15/babel.min.js,sha256=fRdNqR-JGHJstznn56ibOIsBKuYrhYprwg5bJ9VMY6M,1686493
+babel_transpiling/static/npm/babel-plugin-transform-import-cssm@1.0.0/index.standalone.js,sha256=uCLzCgMKwiYy67M_qaxIFrg_8HykkxxDd9rgUoVUoTs,1086
+babel_transpiling/templatetags/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+babel_transpiling/templatetags/babel_transpiling.py,sha256=-9Wko4G2HVaoso_xmJU6YtkS9yIe4BzyjpztIPvSDwI,1300
+django_babel_transpiling-0.3.2.dist-info/METADATA,sha256=IWVsJlFT1Qez-KbXk2AmupTKJ7y2KOodCPX1n130ROE,3753
+django_babel_transpiling-0.3.2.dist-info/RECORD,,
+django_babel_transpiling-0.3.2.dist-info/WHEEL,sha256=FRuHuBX28RTgsOL603qIpbSc2WeDgbsFBWKj9XFOCpg,92
+django_babel_transpiling-0.3.2.dist-info/top_level.txt,sha256=MrHJl3zjnjr8Nt-EKKUh314RgmVLXT2bLmVpWndchSg,18
