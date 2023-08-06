@@ -1,0 +1,4 @@
+motor>=2.3
+aiohttp<4,>=3.7
+aiohttp_session>=2.9.0
+Bubot_Core
