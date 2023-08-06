@@ -1,0 +1,24 @@
+0.21.1 - 2021/02/25
+-------------------
+
+New release to fix package publishing on Pypi, no other changes.
+
+0.21.0 - 2021/02/25
+-------------------
+
+* Drop support for Django<3.1;
+* Migrated urls from "url()" to "path()" with pattern converters;
+* Use 'force_str()' instead of deprecated 'force_text()';
+* Remove 'providing_args' argument in Signals;
+
+
+0.20.1 - 2021/02/23
+-------------------
+
+* Some fixes for Django>=3.0 support;
+
+Legacy
+------
+
+Previous release history can be find in
+`original fork <https://github.com/Fantomas42/django-blog-zinnia>`_.
