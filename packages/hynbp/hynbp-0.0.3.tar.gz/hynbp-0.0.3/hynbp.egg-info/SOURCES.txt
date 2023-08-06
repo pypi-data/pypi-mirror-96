@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+hynbp.egg-info/PKG-INFO
+hynbp.egg-info/SOURCES.txt
+hynbp.egg-info/dependency_links.txt
+hynbp.egg-info/top_level.txt
+nbp/NBPSolver.py
+nbp/__init__.py
