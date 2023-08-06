@@ -1,0 +1,8 @@
+easy_athena/__init__.py,sha256=HjbKQntFidfNuJlSVqwMlYFrimid1nUpl7Tffi13J30,3518
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_default.py,sha256=D90pRZ9qLiJ7I3ON5--n-OVuKo3MbVxDEGUG1uF-SnM,298
+easy_athena-0.0.8.dist-info/LICENSE,sha256=Y6djVYAARgNr0uxT4ZkGaVZZQFnFRb08jEtYFi7fmZQ,1070
+easy_athena-0.0.8.dist-info/METADATA,sha256=n84Sg5efsHmn4ANgq5ObpiFR-ipaJf3ZJ-ADt3f50Mc,492
+easy_athena-0.0.8.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+easy_athena-0.0.8.dist-info/top_level.txt,sha256=mVcF6yKyi540WoczfV-FFTWGopj_MJQIVvbYd8W3WQs,18
+easy_athena-0.0.8.dist-info/RECORD,,
