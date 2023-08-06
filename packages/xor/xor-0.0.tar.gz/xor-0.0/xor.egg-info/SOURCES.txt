@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+xor/__init__.py
+xor.egg-info/PKG-INFO
+xor.egg-info/SOURCES.txt
+xor.egg-info/dependency_links.txt
+xor.egg-info/not-zip-safe
+xor.egg-info/top_level.txt
