@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: crontabs
+Version: 0.2.2
+Summary: Simple job scheduling for python
+Home-page: https://github.com/robdmc/crontabs
+Author: Rob deCarvalho
+Author-email: unlisted@unlisted.net
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: fleming
+Requires-Dist: daiquiri[json]
+Provides-Extra: dev
+Requires-Dist: coverage ; extra == 'dev'
+Requires-Dist: flake8 ; extra == 'dev'
+Requires-Dist: mock ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: pytest-cov ; extra == 'dev'
+Requires-Dist: pytest-xdist ; extra == 'dev'
+Requires-Dist: wheel ; extra == 'dev'
+
+Simple job scheduling for python
+
+
