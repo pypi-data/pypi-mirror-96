@@ -1,0 +1,14 @@
+CHANGELOG.rst,sha256=adzNlMOLWdS60gKrgQReB5z5DK4jY5I8vCNQiCC7H0A,1210
+databricks_dbapi/__init__.py,sha256=A6U07Qh2LpMdlL45lu31EcRwBg7-_tUAsTZDxqS-Abo,276
+databricks_dbapi/_version.py,sha256=dA32rLCt8zmJ1bDDMvdRe512DOilL1zVCRPnHfLXrtY,321
+databricks_dbapi/hive.py,sha256=MEwveCyauBR4YCTA9Yfby6YceII16pDfZsRl0FlbOA8,2426
+databricks_dbapi/odbc.py,sha256=Xp-khM0jdwZRLpLpV_tvjHO0x6iwZrt6WS-ge9zt91s,2334
+databricks_dbapi/sqlalchemy_dialects/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+databricks_dbapi/sqlalchemy_dialects/base.py,sha256=IZ5qnG1hAGo64pTCdil28I5YxfDvD1XoDbvJRMmWPGg,1857
+databricks_dbapi/sqlalchemy_dialects/hive.py,sha256=F9da-vGdHpaVP4x66UkMY4Xgc7ZcJeZ5K4qtAcxybEI,713
+databricks_dbapi/sqlalchemy_dialects/odbc.py,sha256=31myfZn3JbyfwvmENlhgWjW4ZPpFPnwtqvS3ESQIU6o,606
+databricks_dbapi-0.5.0.dist-info/entry_points.txt,sha256=8MXujRxxN13ImKkV-RpZgiN7_Dbe1kO_BrnWo3W02p0,191
+databricks_dbapi-0.5.0.dist-info/LICENSE.txt,sha256=tOUSRPpcrR1pBTPz3XgRV-N5YqTqGsiNuZWfEZ3p2mU,1078
+databricks_dbapi-0.5.0.dist-info/WHEEL,sha256=2SyTS6-hWVbCVhxpPo1j5f9gwaWw-hVIJs0s_cC8MXM,87
+databricks_dbapi-0.5.0.dist-info/METADATA,sha256=eBLhdnUIS2SMK8hokucmyRBubCokv1-iywZlNjmMmhM,6493
+databricks_dbapi-0.5.0.dist-info/RECORD,,
