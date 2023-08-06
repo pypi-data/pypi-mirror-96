@@ -1,0 +1,30 @@
+Metadata-Version: 1.1
+Name: MeaxisNetwork
+Version: 0.0.1
+Summary: A python wrapper for the MeaxisNetwork API.
+Home-page: UNKNOWN
+Author: MeaxisNetwork
+Author-email: meaxis@meaxisnetwork.net
+License: MIT
+Description: A python wrapper for Version 3 of the MeaxisNetwork API. 
+        
+        --------------------------
+        
+        Changelog
+        
+        --------------------------
+        
+        Version 0.0.1
+        
+        - Beta Version released
+        - Users, Account, Funfact, LeafyStatus, Shop and Creations class.
+        - Custom errors for missing keyword arguments.
+        
+        
+Keywords: meaxisnetwork
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
