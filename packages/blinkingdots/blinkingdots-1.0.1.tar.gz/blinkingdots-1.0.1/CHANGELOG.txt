@@ -1,0 +1,20 @@
+«CHANGELOG»
+
+»» Version 1.0 (01/03/2021)
+╠═══════════ Features ═══════════╣
+
+«Added» Simple Loading
+«Added» Bar Loading
+«Added» Custom Text Blinking Loading
+
+╠═══════════ Removed ════════════╣
+
+«Nothing»
+
+╠═══════════ Bug Fix ════════════╣
+
+«Nothing»
+
+
+
+Made by SciRcher

@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.md
+blinkingdots.py
+setup.py
+blinkingdots.egg-info/PKG-INFO
+blinkingdots.egg-info/SOURCES.txt
+blinkingdots.egg-info/dependency_links.txt
+blinkingdots.egg-info/top_level.txt

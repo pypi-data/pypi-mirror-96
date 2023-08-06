@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: blinkingdots
+Version: 1.0.1
+Summary: Principally a module that allows you to use a custom loading bar
+Home-page: https://github.com/SciRcher/BlinkingDots
+Author: scircher
+Author-email: scircher@gmail.com
+License: MIT
+Description: BlinkingDots allow you to use the custom loading process and the "waiting functions" that allow it
+        to make your terminal a little more interesting and fancy
+        
+Keywords: loadingbars
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
