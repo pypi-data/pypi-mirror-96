@@ -1,0 +1,8 @@
+setup.py
+HubSale/HubSale-api/Hubsale/__init__.py
+HubSale/HubSale-api/Hubsale/__init__.py
+hubsale.egg-info/PKG-INFO
+hubsale.egg-info/SOURCES.txt
+hubsale.egg-info/dependency_links.txt
+hubsale.egg-info/requires.txt
+hubsale.egg-info/top_level.txt
