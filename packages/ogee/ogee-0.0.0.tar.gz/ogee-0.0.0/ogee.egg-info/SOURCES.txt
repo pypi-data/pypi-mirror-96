@@ -1,0 +1,7 @@
+README.md
+setup.py
+ogee.egg-info/PKG-INFO
+ogee.egg-info/SOURCES.txt
+ogee.egg-info/dependency_links.txt
+ogee.egg-info/not-zip-safe
+ogee.egg-info/top_level.txt
