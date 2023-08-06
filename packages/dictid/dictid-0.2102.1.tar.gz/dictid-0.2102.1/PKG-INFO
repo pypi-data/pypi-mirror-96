@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: dictid
+Version: 0.2102.1
+Summary: 
+Author: davips
+Author-email: dpsabc@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: orjson (>=3.5.0,<4.0.0)
