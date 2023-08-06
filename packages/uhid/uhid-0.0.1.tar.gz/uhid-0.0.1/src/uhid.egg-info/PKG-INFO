@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: uhid
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Filipe Laíns
+Author-email: lains@archlinux.org
+License: MIT
+Project-URL: homepage, https://github.com/FFY00/python-uhid
+Description: # python-uhid
+        
+        ![checks](https://github.com/FFY00/python-uhid/workflows/checks/badge.svg)
+        [![Documentation Status](https://readthedocs.org/projects/python-uhid/badge/?version=latest)](https://python-uhid.readthedocs.io/en/latest/?badge=latest)
+        
+        Pure Python typed UHID wrapper
+        
+        UHID is a Linux API to create virtual HID devices.
+        See the [official UHID documentation](https://www.kernel.org/doc/Documentation/hid/uhid.txt).
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: System :: Operating System Kernels :: Linux
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: trio
+Provides-Extra: test
+Provides-Extra: docs
