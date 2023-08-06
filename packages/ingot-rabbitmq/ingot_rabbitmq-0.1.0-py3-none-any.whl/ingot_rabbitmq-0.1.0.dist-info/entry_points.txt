@@ -1,0 +1,3 @@
+[console_scripts]
+ingot-rabbitmq-cli = ingot_rabbitmq.scripts.ingot_rabbitmq:main
+
