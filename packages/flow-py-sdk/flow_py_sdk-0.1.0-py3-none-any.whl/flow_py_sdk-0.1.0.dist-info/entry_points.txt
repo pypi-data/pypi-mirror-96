@@ -1,0 +1,3 @@
+[console_scripts]
+examples=flow_py_sdk.run_examples:run
+
