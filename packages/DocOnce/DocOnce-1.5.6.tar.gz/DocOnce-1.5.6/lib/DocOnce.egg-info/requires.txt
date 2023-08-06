@@ -1,0 +1,7 @@
+pygments
+preprocess
+wheel
+mako
+future
+pygments-doconce
+publish-doconce
