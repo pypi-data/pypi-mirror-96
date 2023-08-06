@@ -1,0 +1,10 @@
+README.md
+setup.py
+subsparser.egg-info/PKG-INFO
+subsparser.egg-info/SOURCES.txt
+subsparser.egg-info/dependency_links.txt
+subsparser.egg-info/top_level.txt
+subtitleparser/__init__.py
+subtitleparser/constants.py
+subtitleparser/subtitle.py
+subtitleparser/times.py
