@@ -1,0 +1,3 @@
+[console_script]
+copy_content = copy_content.__main__:main
+
