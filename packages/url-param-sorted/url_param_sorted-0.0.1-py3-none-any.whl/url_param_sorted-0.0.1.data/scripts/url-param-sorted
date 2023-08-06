@@ -1,0 +1,25 @@
+#!python
+usage = """
+    Сортирует параметры url в порядке их возрастания.
+
+    Вывести эту справку и завершиться:
+    $ python-url-param-sorted -h
+    $ python-url-param-sorted --help
+
+    $ python-url-param-sorted 'y=1&x=2&x=3&x=1'
+    x=1&x=2&x=3&y=1
+
+"""
+
+from url_param_sorted import url_param_sorted
+import sys
+
+
+options = {a: 1 for a in sys.argv if a and a[0] == '-'}
+av = [a for a in sys.argv if not a or a and a[0] != '-']
+
+if '-h' in options or '--help' in options:
+    print(usage)
+    exit(0)
+else:
+    print(url_param_sorted("" if len(av)<2 else av[1]))
