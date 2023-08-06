@@ -1,0 +1,13 @@
+transmogripy/__init__.py,sha256=2GtOBYu5bmBhidDOOzubnPOADoOUVkM8DEuFfHKgiBQ,483
+transmogripy/__util.py,sha256=hNesJ7Fo8j8txFt6zy3iee8PmaQzWmVTFvpaveXPpwo,868
+transmogripy/convert.py,sha256=k5XelwkFAoyDto9HJbnzS2sqk_2fbZBRc77xdmXFV8w,4152
+transmogripy/filter_multiline_comments.py,sha256=UISf2M5wPr1bOI8GEwdQdQfZ1gDcFx6wSGfr4jISOYM,7331
+transmogripy/rule.py,sha256=FDMUDLa-KeVIGBOxF3amWx5SXkHA9cCfWFy2LxRdC9U,4235
+transmogripy/rules.py,sha256=upSCGbvP7hIPHPKy55cK3m0wu8MuCYO7D1yBLAjdbyo,6095
+transmogripy/segment.py,sha256=XqyScaW0qQkmc6MfAJJEA8Su052Y5sBZAItYu-dnpU0,1510
+transmogripy/trans_dir.py,sha256=HEAxqpEqh0n1F-f8mGYjQxnubvDGfp8djG4Coo7c4-g,2532
+transmogripy-1.2.0.dist-info/LICENSE,sha256=gh7IegX2pVJynGG1byRJpQ6vR6DTmPkwRaEdYeETHZw,1087
+transmogripy-1.2.0.dist-info/METADATA,sha256=E2KawYyJydZZhRg0Lap01rGgQn6oKy8GgsmCXqRr66g,5023
+transmogripy-1.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+transmogripy-1.2.0.dist-info/top_level.txt,sha256=5LevxBmBI_z5coSdh9VycRlgL8z_pISEKTtn7G3zKIE,13
+transmogripy-1.2.0.dist-info/RECORD,,
