@@ -1,0 +1,14 @@
+README.md
+setup.cfg
+setup.py
+bin/minerva
+data/.minerva-info
+src/minerva_ufrj/__init__.py
+src/minerva_ufrj/__main__.py
+src/minerva_ufrj/minerva.py
+src/minerva_ufrj.egg-info/PKG-INFO
+src/minerva_ufrj.egg-info/SOURCES.txt
+src/minerva_ufrj.egg-info/dependency_links.txt
+src/minerva_ufrj.egg-info/entry_points.txt
+src/minerva_ufrj.egg-info/requires.txt
+src/minerva_ufrj.egg-info/top_level.txt

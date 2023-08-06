@@ -1,0 +1,75 @@
+Metadata-Version: 2.1
+Name: minerva-ufrj
+Version: 1.2.0
+Summary: Book-renewal project for UFRJ library users
+Home-page: https://www.lam.ufrj.br/~pmxavier/projects/minerva/
+Author: Pedro Maciel Xavier
+Author-email: pedromxavier@poli.ufrj.br
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/pedromxavier/minerva/issues
+Project-URL: Source, https://github.com/pedromxavier/minerva
+Description: # minerva
+        ### Um renovador automático de livros da biblioteca da UFRJ
+        
+        ## Instalação
+        Requer Python3.7+, pode ser obtido via ``pip`` ou executando o script ``setup.py`` em um clone do repositório.
+        
+        ### Linux, OSx
+        ```bash
+        $ python3 -m pip install minerva-ufrj
+        ```
+        ou
+        ```bash
+        $ pip3 install minerva-ufrj
+        ```
+        
+        ### Windows
+        ```shell
+        > pip install minerva-ufrj
+        ```
+        
+        ## Uso
+        ```
+        $ minerva --help
+        ```
+        
+        Para renovar os livros de uma conta use o comando:
+        ```
+        minerva [user] [pswd]
+        ```
+        
+        Para guardar em cache suas credenciais:
+        ```
+        minerva -c [user] [pswd]
+        ```
+        
+        Para listar as credenciais armazenadas:
+        ```
+        minerva -l
+        ```
+        
+        Para renovar os livros de todas as credenciais armazenadas:
+        ```
+        minerva -r
+        ```
+        
+        ## Por fazer:
+        - Implementar configurações de renovação automática (agendada).<br>
+            Algo como
+            ```
+            minerva --schedule
+            ```
+            que agende uma renovação ao conectar-se à internet.
+        
+        - Implementar casos de erro ao renovar.
+            Simplesmente melhores relatórios de falha.
+Platform: UNKNOWN
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: MacOS :: MacOS X
+Requires-Python: <4,>=3.7
+Description-Content-Type: text/markdown
