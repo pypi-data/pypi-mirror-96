@@ -1,0 +1,16 @@
+README.md
+setup.py
+WCFkCenters/FuzzyClusteringAlgorithm.py
+WCFkCenters/Measure.py
+WCFkCenters/MeasureManager.py
+WCFkCenters/Overlap.py
+WCFkCenters/TDef.py
+WCFkCenters/TUlti.py
+WCFkCenters/WCFkCenters.py
+WCFkCenters/__init__.py
+WCFkCenters/cvi.py
+WCFkCenters/fuzzy_cluster_validity_indices.py
+wcfkcenters.egg-info/PKG-INFO
+wcfkcenters.egg-info/SOURCES.txt
+wcfkcenters.egg-info/dependency_links.txt
+wcfkcenters.egg-info/top_level.txt
