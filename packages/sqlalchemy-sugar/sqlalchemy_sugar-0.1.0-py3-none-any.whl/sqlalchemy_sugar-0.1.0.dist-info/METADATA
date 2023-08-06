@@ -1,0 +1,75 @@
+Metadata-Version: 2.1
+Name: sqlalchemy-sugar
+Version: 0.1.0
+Summary: select/delete wrapper for SQLAlchemy Asyncio
+Home-page: https://github.com/yosshy/sqlalchemy-sugar
+Author: Akira Yoshiyama
+Author-email: akirayoshiyama@gmail.com
+License: Copyright (c) 2020, Akira Yoshiyama
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Description: # SQLAlchemy Sugar
+        
+        Sugar syntax of select/delete functions of SQLAlchemy, especially asyncio.
+        
+        In `SQLAlchemy document`_ , the original Asyncio API of SQLAlchemy is like below::
+        
+            engine = create_async_engine("sqlite:///:memory:")
+        
+            async with AsyncSession(engine) as session:
+                stmt = select(A).options(selectinload(A.bs))
+                result = await session.execute(stmt)
+                for a1 in result.scalars():
+                    print(a1)
+            
+                result = await session.execute(select(A).order_by(A.id))
+                a1 = result.scalars().first()
+                a1.data = "new data"
+                await session.commit()
+        
+        but with this wrapper::
+        
+            from sqlalchemy_sugar import select
+        
+            engine = create_async_engine("sqlite:///:memory:")
+        
+            async with AsyncSession(engine) as session:
+                for a1 in await select(A).options(selectinload(A.bs)).scalar(session):
+                    print(a1)
+            
+                a1 = await select(A).order_by(A.id).first(session)
+                a1.data = "new data"
+                await session.commit()
+        
+        And also, deleting row is like below::
+        
+            async with AsyncSession(engine) as session:
+                stmt = delete(A).filter_by(data="a2")
+                await session.execute(stmt)
+        
+        but with this wrapper::
+        
+            from sqlalchemy_sugar import delete
+        
+            async with AsyncSession(engine) as session:
+                await delete(A).filter_by(data="a2").execute(session)
+        
+        _`SQLAlchemy document`: https://docs.sqlalchemy.org/en/14/orm/extensions/asyncio.html#sqlalchemy.ext.asyncio.AsyncScalarResult
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/x-rst
