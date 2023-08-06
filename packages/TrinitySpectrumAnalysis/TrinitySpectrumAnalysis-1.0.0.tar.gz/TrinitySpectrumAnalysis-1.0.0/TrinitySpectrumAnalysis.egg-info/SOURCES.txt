@@ -1,0 +1,7 @@
+README.txt
+setup.py
+TrinitySpectrumAnalysis.egg-info/PKG-INFO
+TrinitySpectrumAnalysis.egg-info/SOURCES.txt
+TrinitySpectrumAnalysis.egg-info/dependency_links.txt
+TrinitySpectrumAnalysis.egg-info/requires.txt
+TrinitySpectrumAnalysis.egg-info/top_level.txt
