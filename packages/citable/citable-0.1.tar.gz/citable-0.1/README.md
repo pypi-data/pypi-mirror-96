@@ -1,0 +1,53 @@
+# Citable
+
+**Citable** is a Python package for downloading datasets from [Zenodo](https://zenodo.org/) by using their DOIs.
+
+```python
+from citable import Citable
+dataset = Citable('DOI')
+r = dataset.download()
+```
+
+## Installing Citable and supported versions
+
+Citable is available on PyPI:
+
+```shell
+$ python -m pip install citable
+```
+
+Citable supports Python 3.6+.
+
+## Supported Features
+
+Citable is a handy tool for downloading and using data from Zenodo.
+* Downloading data from Zenodo
+* Unzipping the downloaded data if necessary
+* Returning suitable data as a [pandas](https://pandas.pydata.org/pandas-docs/stable/) DataFrame or displaying [Markdown](https://daringfireball.net/projects/markdown/) descriptions if you like to
+
+## Usage
+
+First the Citable class must be imported into Python:
+```python
+from citable import Citable
+```
+
+After doing so you must initiate a Citable object. You pass a DOI from Zenodo formatted as a string into the initiating method and give the returned object a name:
+```python
+dataset = Citable('DOI')
+```
+
+The Citable class has only one function. This is the `download()` function. 
+```python
+r = dataset.download(showMarkdown = True, pandas = True)
+```
+
+You can pass along two arguments with this function, both of which are boolean: *showMarkdown* and *pandas*. By default both are set to **True**, meaning that any markdown description contained in the downloaded data is shown via [IPython](https://ipython.org/) and the package assumes you are using [pandas DataFrames](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html).
+### Input
+* showMarkdown: if you don't want the markdown displayed, insert the argument `showMarkdown = False` into the download function
+* pandas: if you don't want to return a list containing pandas DataFrames but rather want to do your own thing and just want to know where the downloaded data was stored, insert the argument `pandas = False` into the `download()` function.
+
+### Output
+The output of the download function depends whether the input variable pandas is True or False:
+* `pandas == True`: The download function returns a list of pandas DataFrames and strings ready for you to use
+* `pandas == False`: The download function returns a dictionary of the file names of the downloaded data and where they have been stored, so that you can copy & paste the path of the data you want to work with into your favourite data handler
