@@ -1,0 +1,13 @@
+bfio/OmeXml.py,sha256=jBI3vJo8l0jOuqIa-XniAGYCHEylYBxOnm4F_ooE49Y,60748
+bfio/VERSION,sha256=t74eGBgcjYufGY1ovA15QlQU9mRwkJ6g7YbMhfA7nZU,7
+bfio/__init__.py,sha256=xtO2oY8L6S0_vyGzmJL-CTVxWeB3v0NVphOrxGOLezg,1537
+bfio/backends.py,sha256=BqarltTD3LFzkwIi9YUyim14SZUJAZGsjxJ3vMZIMC8,32852
+bfio/base_classes.py,sha256=UXIw5a3DGSXHGrt4BjkRUpbenHOENEmQZ15E44Xkhq4,24101
+bfio/bfio.py,sha256=Uzn1KnwnQ-q5wXwWDRI5V7yvIRi-C5wTi1RAEddrWls,49764
+bfio/jars/loci_tools.jar,sha256=sy6FRFvC_hgp9U86wBvFqX5rfeEEplixpKNjh2YlmqU,37950957
+bfio/jars/log4j.properties,sha256=tRSdihgveJz03KxJmAMkbIflRpa55ILW1nm-mkPXQTI,477
+bfio-2.0.6a1.dist-info/LICENSE,sha256=aaXu23RLKNjIAuRO3Ne467nfI1cDfvUAfZDBA646f6A,1065
+bfio-2.0.6a1.dist-info/METADATA,sha256=Jm2KOfiGC4cPe9pLsqTh_SLxPjlE1btlxzFdpzUf-0I,3879
+bfio-2.0.6a1.dist-info/WHEEL,sha256=U88EhGIw8Sj2_phqajeu_EAi3RAo8-C6zV3REsWbWbs,92
+bfio-2.0.6a1.dist-info/top_level.txt,sha256=Gk5d47AUNcTVyMrhLvkvWRQxvIdN8c7fhIx235nJZ2Y,5
+bfio-2.0.6a1.dist-info/RECORD,,
