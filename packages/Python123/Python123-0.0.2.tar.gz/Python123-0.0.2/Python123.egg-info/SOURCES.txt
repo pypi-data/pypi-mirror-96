@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+Python123/__init__.py
+Python123/content.py
+Python123.egg-info/PKG-INFO
+Python123.egg-info/SOURCES.txt
+Python123.egg-info/dependency_links.txt
+Python123.egg-info/top_level.txt
