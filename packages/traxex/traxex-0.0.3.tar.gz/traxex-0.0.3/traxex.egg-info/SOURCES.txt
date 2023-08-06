@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+traxex/__init__.py
+traxex/dict.py
+traxex/errors.py
+traxex/http.py
+traxex/traxex.py
+traxex.egg-info/PKG-INFO
+traxex.egg-info/SOURCES.txt
+traxex.egg-info/dependency_links.txt
+traxex.egg-info/requires.txt
+traxex.egg-info/top_level.txt

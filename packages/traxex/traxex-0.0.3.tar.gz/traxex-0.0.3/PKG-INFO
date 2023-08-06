@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: traxex
+Version: 0.0.3
+Summary: Quick schedule for competitive DotA 2 Tournaments.
+Home-page: https://github.com/sinkaroid/traxex.py
+Author: sinkaroid
+Author-email: anakmancasan@gmail.com
+License: MIT
+Description: # Traxex
+        
+        Quick schedule for competitive DotA 2 Tournaments.
+        
+        ## Installation
+        
+        ```
+        pip install traxex
+        ```
+        
+        ## Endpoints
+        
+        * ongoing
+        * upcoming
+        * ended
+        
+        # Usage example
+        ```py
+        import traxex
+        print(traxex.ongoing())
+        ```
+Keywords: dota 2,wrapper,liquipedia
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
