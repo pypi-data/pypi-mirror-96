@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+src/standpy/__init__.py
+src/standpy/standpy.py
+src/standpy.egg-info/PKG-INFO
+src/standpy.egg-info/SOURCES.txt
+src/standpy.egg-info/dependency_links.txt
+src/standpy.egg-info/requires.txt
+src/standpy.egg-info/top_level.txt
