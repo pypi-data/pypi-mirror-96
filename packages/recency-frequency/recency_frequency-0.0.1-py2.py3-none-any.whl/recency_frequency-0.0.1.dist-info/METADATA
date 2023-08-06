@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: recency-frequency
+Version: 0.0.1
+Summary: Recency + Frequency
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: requests
+Requires-Dist: pandas
+Requires-Dist: xlrd
+Requires-Dist: openpyxl
+
+UNKNOWN
+
+
