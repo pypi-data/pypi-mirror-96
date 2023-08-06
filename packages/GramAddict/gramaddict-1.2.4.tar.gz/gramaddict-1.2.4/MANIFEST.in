@@ -1,0 +1,10 @@
+include *.MD
+include *.md
+include *.py
+include *.txt
+include *.yml
+include LICENSE
+recursive-include GramAddict *.dis
+recursive-include GramAddict *.example
+recursive-include res *.gif
+recursive-include res *.png
