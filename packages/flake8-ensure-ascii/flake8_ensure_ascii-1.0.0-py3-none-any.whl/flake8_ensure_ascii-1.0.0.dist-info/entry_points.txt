@@ -1,0 +1,3 @@
+[flake8.extension]
+ENC = flake8_ensure_ascii:Flake8EnsureASCII
+
