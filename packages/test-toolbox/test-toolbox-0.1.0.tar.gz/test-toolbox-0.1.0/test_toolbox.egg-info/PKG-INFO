@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: test-toolbox
+Version: 0.1.0
+Summary: A toolbox for testing Python code.
+Home-page: https://gitlab.com/elritsch/python-test-toolbox
+Author: Elmar Ritsch
+Author-email: elmar@ritsch.io
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: testing
+Platform: UNKNOWN
+Requires-Python: >=3.3.0
