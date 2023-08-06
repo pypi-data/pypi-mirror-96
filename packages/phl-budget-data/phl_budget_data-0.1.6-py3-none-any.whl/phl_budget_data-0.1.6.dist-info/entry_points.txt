@@ -1,0 +1,7 @@
+[console_scripts]
+phl-etl-monthly-collections=phl_budget_data.__main__:monthly_collections_etl
+phl-etl-sector-collections=phl_budget_data.__main__:etl_sector_collections
+phl-update-monthly-city-collections=phl_budget_data.etl.sentinel.core:update_monthly_city_collections
+phl-update-monthly-school-collections=phl_budget_data.etl.sentinel.core:update_monthly_school_collections
+phl-update-monthly-wage-collections=phl_budget_data.etl.sentinel.core:update_monthly_wage_collections
+
