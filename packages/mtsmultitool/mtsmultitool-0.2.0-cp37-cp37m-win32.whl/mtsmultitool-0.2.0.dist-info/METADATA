@@ -1,0 +1,87 @@
+Metadata-Version: 2.1
+Name: mtsmultitool
+Version: 0.2.0
+Summary: Library and command line tool for working with Multitech products.
+Home-page: UNKNOWN
+Author: MultiTech Systems, Inc.
+Author-email: 
+License: Proprietary
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: Other/Proprietary License
+Classifier: Environment :: Console
+Classifier: Programming Language :: C
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Utilities
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: ecdsa (>=0.15)
+Requires-Dist: cbor (>=1.0.0)
+Requires-Dist: pyserial (>=3.5)
+Requires-Dist: xmodem (>=0.4.6)
+
+# MultiTech Multitool Utility
+
+Library and command line tool for working with Multitech products.
+
+## Usage
+
+Command line tool `multitool` has functionality split into subcommands.  To get a list of valid subcommands use `--help`
+or `-h`.  Each subcommand can also be queried for details using `--help`.
+
+### Examples
+
+Get help:
+```
+multitool --help
+multitool device --help
+multitool device patch --help
+```
+
+#### Device Subcommand
+
+The `device` command has tools for packaging device firmware upgrades.
+
+Create a patch for an MDot when the images contain bootloaders:
+```
+multitool device patch -m -V 4.0.2 -v 4.0.5 -i MTDOT -b mdot_image_4.0.2.bin mdot_image_4.0.5.bin
+```
+
+Compress an XDot image which does not contain a bootloader and append a CRC32:
+```
+multitool device compress -m -c -i XDOT xdot_image_4.0.5_application.bin
+```
+
+Upgrade an mDot over serial with an image that contains a bootloader:
+```
+multitool device upgrade -b COM3 MTDOT mdot_image_4.0.5.bin
+```
+
+#### Version Number Format
+
+Version numbers can be four parts.  When specified as rc, beta, or alpha only three parts can be included.
+* 1.2
+* 1.2.3.4
+* 1.2-rc4
+* 1.2-beta4
+* 1.2-alpha4
+
+## Installation 
+Use PIP to install, the `multitool` executable will be added to the Python scripts directory.
+
+```
+pip install mtsmultitool
+```
+## Change Log
+
+### v0.2
+* Change device model to series, supported series are MTDOT, MDOT, XDOT, MTQ, and MTQN.
+* Automatically determine application offset for `-b` option based on specified device series.
+* Added ability to upgrade a device over serial, it must have MultiTech's bootloader.
+* Added additional fields to manifest to support future versions of FOTA
+* Added and modified CLI options for changes to manifest 
+
+
