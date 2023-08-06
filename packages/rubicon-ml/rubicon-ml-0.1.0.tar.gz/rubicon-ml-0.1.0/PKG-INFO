@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: rubicon-ml
+Version: 0.1.0
+Summary: an ML library for model development and governance
+Home-page: https://github.com/capitalone/rubicon
+Author: Joe Wolfe, Ryan Soley, Diane Lee, Mike McCarty, CapitalOne
+License: Apache License, Version 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Software Development :: Documentation
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Provides-Extra: all
+Provides-Extra: prefect
+Provides-Extra: ui
