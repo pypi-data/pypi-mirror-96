@@ -1,0 +1,8 @@
+dbutils_phornee/__init__.py,sha256=elwZWulEM4feR6JxwS_NuCGiAOtjRqD1QryIBBj54m0,175
+dbutils_phornee/hometelemetry_db.py,sha256=Z0IumpG4CzMLEguxXj_u4A-MdnUgNVjrtaCMwjpTVJ4,2958
+dbutils_phornee/hometelemetry_mariadb.py,sha256=5DKx8rlV6X8_a2pNMM-LkU3fnRcu6dWnlwDhPsavIps,3750
+dbutils_phornee/hometelemetry_mongodb.py,sha256=rkEmzOtmMonegcbOmyM3ZhmBBtIBj6OSxCs6gnsj2HE,2981
+dbutils_phornee-0.0.4.dist-info/METADATA,sha256=l3XBXOrKU0qW7D7s5BcdgUWoiHyI7HOqEKKfBW4eRDY,698
+dbutils_phornee-0.0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+dbutils_phornee-0.0.4.dist-info/top_level.txt,sha256=IN7rlX7PrNdbEnDaWllN4R7RNWr5tJ5rqKfqMyHJDcY,16
+dbutils_phornee-0.0.4.dist-info/RECORD,,
