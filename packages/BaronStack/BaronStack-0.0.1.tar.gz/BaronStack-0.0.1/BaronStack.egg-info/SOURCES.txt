@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+BaronStack.egg-info/PKG-INFO
+BaronStack.egg-info/SOURCES.txt
+BaronStack.egg-info/dependency_links.txt
+BaronStack.egg-info/top_level.txt
