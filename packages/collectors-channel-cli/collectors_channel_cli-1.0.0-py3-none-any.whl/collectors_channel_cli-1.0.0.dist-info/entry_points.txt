@@ -1,0 +1,3 @@
+[console_scripts]
+cc=collectors_channel_cli.main:setup
+
