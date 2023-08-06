@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.rst
+requirements.txt
+setup.py
+dataclass_property/__init__.py
+dataclass_property/__meta__.py
+dataclass_property/internals.py
+dataclass_property.egg-info/PKG-INFO
+dataclass_property.egg-info/SOURCES.txt
+dataclass_property.egg-info/dependency_links.txt
+dataclass_property.egg-info/top_level.txt
