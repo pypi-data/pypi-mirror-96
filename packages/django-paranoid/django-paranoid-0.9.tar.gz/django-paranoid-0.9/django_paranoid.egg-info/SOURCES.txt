@@ -1,0 +1,9 @@
+README.md
+setup.py
+django_paranoid/__init__.py
+django_paranoid/admin.py
+django_paranoid/models.py
+django_paranoid.egg-info/PKG-INFO
+django_paranoid.egg-info/SOURCES.txt
+django_paranoid.egg-info/dependency_links.txt
+django_paranoid.egg-info/top_level.txt
