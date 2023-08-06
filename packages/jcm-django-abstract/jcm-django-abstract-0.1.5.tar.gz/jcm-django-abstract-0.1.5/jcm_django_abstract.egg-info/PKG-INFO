@@ -1,0 +1,29 @@
+Metadata-Version: 1.1
+Name: jcm-django-abstract
+Version: 0.1.5
+Summary: Common Abstract Models
+Home-page: https://gitlab.com/jcmcph-django/jcm-django-abstract
+Author: John McPherson
+Author-email: UNKNOWN
+License: GNU GENERAL PUBLIC LICENSE
+Description: ==========================
+        JCM Django Abstract Models
+        ==========================
+        
+        These are common models that I use on a regular basis.
+        I'm simplifying how I can include them for future projects.
+        
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
