@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+src/oswhich/__init__.py
+src/oswhich/oswhich.py
+src/oswhich.egg-info/PKG-INFO
+src/oswhich.egg-info/SOURCES.txt
+src/oswhich.egg-info/dependency_links.txt
+src/oswhich.egg-info/top_level.txt
