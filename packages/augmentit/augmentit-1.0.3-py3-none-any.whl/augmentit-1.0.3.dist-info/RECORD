@@ -1,0 +1,13 @@
+augmentit/__init__.py,sha256=FymoVr6GloMQAa70cvNy32qbXKMUG5Ln-jo1kby294Q,255
+augmentit/draw/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+augmentit/draw/plot_box.py,sha256=NBTu298RO3GC_lTJn1owcSyhTASkE24ZGtMjGFSoLf0,1701
+augmentit/formats/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+augmentit/formats/yolo.py,sha256=Vg1NyAIZyDm90_tyjXXaYKgr-YCHjYnvx36FAX_oPac,492
+augmentit/segmentation/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+augmentit/segmentation/crop_image.py,sha256=uEbnIdqjT31udDiWsbKYGTWhEz6yJ5iC1aKDqnyiy-g,2487
+augmentit/segmentation/resize_image.py,sha256=K-EUU_xUB0UNZmhs3IFTXrb9iALCvT_hIGKPyUcvgXU,1312
+augmentit-1.0.3.dist-info/LICENSE.txt,sha256=y-ohPubKiTfs6lbOVtCi11awJ-aF37xjoJeN2CgH08A,1070
+augmentit-1.0.3.dist-info/METADATA,sha256=mfGoUy68PQgjJOxAMeaMyahrERqpp48eKQqosjb7AVk,560
+augmentit-1.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+augmentit-1.0.3.dist-info/top_level.txt,sha256=mfcj6cr8o0cx6r6VOqLPtDlHw-NzE7Ly5cY4PjmBPSk,10
+augmentit-1.0.3.dist-info/RECORD,,
