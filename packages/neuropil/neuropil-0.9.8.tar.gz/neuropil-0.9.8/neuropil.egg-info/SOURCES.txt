@@ -1,0 +1,13 @@
+MANIFEST.in
+neuropil.py
+neuropil_build.py
+setup.py
+testneuropil.py
+include/neuropil_comb.h
+include/neuropil_comb_in.h
+include/neuropil_comb_in.h.tmp
+neuropil.egg-info/PKG-INFO
+neuropil.egg-info/SOURCES.txt
+neuropil.egg-info/dependency_links.txt
+neuropil.egg-info/requires.txt
+neuropil.egg-info/top_level.txt
