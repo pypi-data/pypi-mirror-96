@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+cypress_db/__init__.py
+cypress_db/__main__.py
+cypress_db/cmd.py
+cypress_db/settings.py
+cypress_django.egg-info/PKG-INFO
+cypress_django.egg-info/SOURCES.txt
+cypress_django.egg-info/dependency_links.txt
+cypress_django.egg-info/entry_points.txt
+cypress_django.egg-info/requires.txt
+cypress_django.egg-info/top_level.txt
