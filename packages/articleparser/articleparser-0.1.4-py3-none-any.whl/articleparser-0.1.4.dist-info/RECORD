@@ -1,0 +1,14 @@
+articleparser/__init__.py,sha256=J6i31HaYGe8ucu7HEmjkQ2IwgK22rbpiIS0CH2nwzcM,106
+articleparser/article.py,sha256=DO-2nSoGjKhgUVnJuMqp9E7sV3j_VD7VCHb4NxBqWpE,11967
+articleparser/cleaner.py,sha256=ro7eveJp1Ve_RpgRFZpmsEydt3wLQmHzXWjyFMlUDeQ,21114
+articleparser/config.py,sha256=XzZ5jeKKdBY3IjZ4JhzmOU8Uc7UHNC7bXbl3UtIB6EM,3588
+articleparser/extractor.py,sha256=duIU4DLTzo1gOrUDa2c-gKIkqpBogW4IyQjLFM1agSU,122569
+articleparser/metadata.py,sha256=rahk0vRXP5oXYiDY__3Fpd3Pg5stjfiW-4-yaK7tuLY,22712
+articleparser/settings.py,sha256=BzhZE9lEtweOFiP8oIo2N3AYZU6quPQeP-ecYafR5NM,23043
+articleparser/util.py,sha256=SFEgEGOz6Qxf5e1_L-Lzzh8ENjYW2DLZJxhE22yZmaE,11430
+articleparser/version.py,sha256=hE6HhcIRHmP0F9u93w1sUfL285wxuTd5RRqBzmOb_Lg,118
+articleparser-0.1.4.dist-info/LICENSE,sha256=aFLFZg6LEJFpTlNQ8su3__jw4GfV-xWBmC1cePkKZVw,35802
+articleparser-0.1.4.dist-info/METADATA,sha256=CYjjfV6VoDVhRNRDVRTOx6SLAhbheGVEXoP2q9SpOjg,21643
+articleparser-0.1.4.dist-info/WHEEL,sha256=D1Wh14kWDxPnrM-5t_6UCB-UuQNrEODtRa3vF4OsvQY,97
+articleparser-0.1.4.dist-info/top_level.txt,sha256=oJSbPyCAIm-5NlwYfuB-Q_e1_ztSdhCNIBF1D6__STo,14
+articleparser-0.1.4.dist-info/RECORD,,
