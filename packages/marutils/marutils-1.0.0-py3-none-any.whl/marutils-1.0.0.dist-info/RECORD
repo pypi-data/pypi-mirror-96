@@ -1,0 +1,10 @@
+marutils/__init__.py,sha256=_sBBRq0t2BjdFSty1pF3psdnJMxj_xKvzH6cYCZNOM8,479
+marutils/georef.py,sha256=b0QsCHbYWfHdcBoYKcOphH0Jse0VCveIw5grvIDSzHw,1474
+marutils/io.py,sha256=X2UnXEw-NjDeMOZgXWIzEz4TYdnOWpsga4A2SXL-_sg,5856
+marutils/masking.py,sha256=L0DPb4u71P19LiZGoH9wV7mAd8lUjx4HYmns2zD79tQ,1760
+marutils/xhourly.py,sha256=GpBeUhtrCZPH4oxEYZYHvIGrJqiSEC3TUyDfAGavLhc,1899
+marutils-1.0.0.dist-info/LICENSE,sha256=23uyRMWV77GdxMZ3tV5eiDvP5SlmcLrwsuIfBxwQd_s,1517
+marutils-1.0.0.dist-info/METADATA,sha256=KcHtCSghrJS5yDto4Wd2yX9y0T-5jo9R05PdPwV5dH0,3460
+marutils-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+marutils-1.0.0.dist-info/top_level.txt,sha256=sZID9yR9NomuCvCI2GMoickqPsiUMUej7NsSThjyL1M,9
+marutils-1.0.0.dist-info/RECORD,,
