@@ -1,0 +1,6 @@
+README.md
+set-up.py
+src/trignometry.egg-info/PKG-INFO
+src/trignometry.egg-info/SOURCES.txt
+src/trignometry.egg-info/dependency_links.txt
+src/trignometry.egg-info/top_level.txt
