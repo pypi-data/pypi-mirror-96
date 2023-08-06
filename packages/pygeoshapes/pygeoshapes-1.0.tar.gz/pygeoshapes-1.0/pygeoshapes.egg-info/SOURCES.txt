@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+pygeoshapes.egg-info/PKG-INFO
+pygeoshapes.egg-info/SOURCES.txt
+pygeoshapes.egg-info/dependency_links.txt
+pygeoshapes.egg-info/top_level.txt
+shapes/Equilateral_Triangle.py
+shapes/Right_Angled_Triangle.py
+shapes/__init__.py
+shapes/butterfly.py
+shapes/kite.py

@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: pygeoshapes
+Version: 1.0
+Summary: Use this package to draw some shapes by using Python
+Home-page: UNKNOWN
+Author: Mehrdad Kalateh Arabi
+Author-email: mehrdad1234kalateh@gmail.com
+License: UNKNOWN
+Description: Thanks for downloading this package!
+        
+        Use this packege to draw geometric shapes by using stars
+        
+        This package can draw a Butterfly, an Equilateral Triangle, an Right Angled Triangle and a kite 
+        
+        Each shape has a class that can draw it!
+        Just call the class! The class takes two arguments(int(even or odd) number) and after that it draws a shape base on the number
+        
+        Enjoy!
+        
+        
+Keywords: Butterfly,kite,Right_Angled_Triangle,Equilateral_Triangle,pygeoshapes
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
