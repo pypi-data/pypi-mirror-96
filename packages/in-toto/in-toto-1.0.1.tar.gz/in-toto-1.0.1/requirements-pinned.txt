@@ -1,0 +1,14 @@
+attrs==20.3.0
+cffi==1.14.5              # via cryptography, pynacl
+cryptography==3.4.6       ; python_version >= '3' # via securesystemslib
+cryptography==3.3.2       ; python_version < '3' # via securesystemslib
+enum34==1.1.10            # via cryptography
+ipaddress==1.0.23         # via cryptography
+iso8601==0.1.14
+pathspec==0.8.1
+pycparser==2.20           # via cffi
+pynacl==1.4.0             # via securesystemslib
+python-dateutil==2.8.1
+securesystemslib[crypto,pynacl]==0.20.0
+six==1.15.0
+subprocess32==3.5.4       # via securesystemslib
