@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: insipher
+Version: 0.0.3
+Summary: Insipher Python SDK
+Home-page: https://www.insipher.com
+Author: Insipher
+Author-email: info@insipher.com
+License: MIT
+Project-URL: Source Code, https://github.com/insipher/insipher-python
+Platform: UNKNOWN
+Requires-Dist: uvicorn (==0.13.4)
+Requires-Dist: mlflow (==1.13.1)
+Requires-Dist: fastapi (==0.63.0)
+Requires-Dist: minio (==7.0.2)
+Requires-Dist: pyyaml (==5.4.1)
+
+UNKNOWN
+
+
