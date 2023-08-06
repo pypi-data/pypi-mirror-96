@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: shuwen-gateway-sign-sdk
+Version: 1.0.0
+Summary: Shuwen Gateway Sign Python SDK
+Home-page: https://code.aliyun.com/xhzy_backend/shuwen-gateway-sign-python-sdk.git
+Author: lawrence
+Author-email: UNKNOWN
+License: MIT
+Description: 
+            Provides shuwen gateway request url sign util.
+        
+Platform: UNKNOWN
