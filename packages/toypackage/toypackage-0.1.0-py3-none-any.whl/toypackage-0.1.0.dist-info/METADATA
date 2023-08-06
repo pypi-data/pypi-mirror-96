@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: toypackage
+Version: 0.1.0
+Summary: A toy package so we would learn how to create a python package
+Author: kshahnazari1998
+Author-email: kshahnazari@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: pandas (>=1.2.2,<2.0.0)
