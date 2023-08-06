@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: sps-parser
+Version: 0.2.0
+Summary: Metadata extractor from MineLP skins
+Home-page: https://git.mc4ep.org/mc4ep/sps_parser
+Author: Andriy Kushnir (Orhideous)
+Author-email: me@orhideous.name
+License: MIT
+Description: # Special Pony Scaler parser
+        
+        This package contains a metadata extractor from MineLP skins
+        
+        
+        # History
+        
+        
+Keywords: Minecraft,MineLP
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: No Input/Output (Daemon)
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Utilities
+Description-Content-Type: text/markdown
