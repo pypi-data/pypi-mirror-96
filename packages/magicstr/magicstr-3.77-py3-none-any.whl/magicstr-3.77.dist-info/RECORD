@@ -1,0 +1,11 @@
+magicstr/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+magicstr/gspread_tools.py,sha256=CJV5LWF7z9hJMmBZFic4vwLC1fegkeLfe6g0Uam5OwI,5809
+magicstr/magicstr.py,sha256=-saV0niVrYIGu9T7tBqkUhHHdLmFnowF4Fi_dVPLnG4,15327
+magicstr/namestring.py,sha256=YGcITbWfpacqfvrPbRhyyHmQ0ezEAXC57uwbhTbuFUE,24457
+magicstr/template_strings.xml,sha256=FiZ_7fjS4VsIz9kpbf2NB13ttmfnVKsjguGlPWlNwn4,85
+magicstr/word.py,sha256=viUXeOVNIJ59KFYsBX66etfgUpCf1EY-HQDsbLjbA8Y,3310
+magicstr-3.77.data/scripts/magicstr,sha256=GZT8PgOSalR1m7rK_t394zcXw2dtLNmVuy0WVmp_0RM,132
+magicstr-3.77.dist-info/METADATA,sha256=OUaIUt3CC68RlUzcXDh9sWg4KdZF3y4F2LpBNZSw-3k,285
+magicstr-3.77.dist-info/WHEEL,sha256=MYFsq5fFBwF_oyJgrOoFmYYB1K6Sw7MxY-0897ZLbdM,92
+magicstr-3.77.dist-info/top_level.txt,sha256=zoxlRVHe0F-C5lNfmBaJp5m6ZBMuJUoRuo54d3gccak,9
+magicstr-3.77.dist-info/RECORD,,
