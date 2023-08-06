@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: longtext
+Version: 0.0.1
+Summary: Text line generator and repeater.
+Home-page: UNKNOWN
+Author: Akash.A
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+## longtext
+
+longtext is a python module which is used to generate text and repeat the text in where user want to fill with strings.
+
+
+
