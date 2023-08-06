@@ -1,0 +1,9 @@
+README.md
+setup.py
+amitapdf/__init__.py
+amitapdf/pdf2image.py
+amitapdf/pdf2text.py
+amitapdf.egg-info/PKG-INFO
+amitapdf.egg-info/SOURCES.txt
+amitapdf.egg-info/dependency_links.txt
+amitapdf.egg-info/top_level.txt
