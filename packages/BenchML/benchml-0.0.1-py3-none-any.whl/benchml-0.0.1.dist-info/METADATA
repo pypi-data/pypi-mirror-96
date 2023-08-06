@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: benchml
+Version: 0.0.1
+Summary: Chemical ML workbench
+Home-page: https://github.com/capoe/benchml
+Author: capoe
+Author-email: carl.poelking@floatlab.io
+License: Apache License 2.0
+Keywords: chemical machine learning pipelining benchmarking
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.7
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+
+Benchmarking and pipelining for chemical machine learning
+
+
