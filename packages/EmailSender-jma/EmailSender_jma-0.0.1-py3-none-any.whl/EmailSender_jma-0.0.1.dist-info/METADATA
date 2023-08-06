@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: EmailSender-jma
+Version: 0.0.1
+Summary: A package to send auto email
+Home-page: https://github.com/jm-h10/utility_jma/AutoEmailSender
+Author: Jinghan Ma
+Author-email: jinghan.m@helium10.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/jm-h10/utility_jma/AutoEmailSender
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# AutoEmailSender
+This is an internal pakcage for helium10 data team to send auto emails. In Summary, you need SendEmail.py and oauth_email_config.py to do the job.
+
+
