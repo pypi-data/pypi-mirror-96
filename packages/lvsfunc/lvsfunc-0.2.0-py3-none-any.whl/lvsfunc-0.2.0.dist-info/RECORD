@@ -1,0 +1,16 @@
+lvsfunc/__init__.py,sha256=ayd2LCuRl8u1b_PPclI1ZXOpMSFxz-bRwFEGU0QZ88c,606
+lvsfunc/aa.py,sha256=Nd_18OshYzTj4Qd9JGOmYZmoA54s_7m0gB3vcVZvZqA,12790
+lvsfunc/comparison.py,sha256=G0bHfZnIh4dm0Ywk_N6qF8_geZQB8iPPi49zhpQ7VS8,31813
+lvsfunc/deinterlace.py,sha256=yIq5mz2rSmJ7z03niIAugzUREWmbAkOPy4GGJQtcgnk,8203
+lvsfunc/denoise.py,sha256=tP0cOmAzesZU5SywU-F2Jw7uxGhNTT-Nq_oB3el1Nj4,6562
+lvsfunc/kernels.py,sha256=pvOHJMsVi5zpAVu59U8CH7ZC14G_D63TLSz2LBKW7vY,5350
+lvsfunc/mask.py,sha256=fd69Q1fgrLhc3LGiCo34yGS2HLPfi2VMVJYEMXMWZIY,6766
+lvsfunc/misc.py,sha256=AFXKVhFDRbRYVIDzX1JpOn1uvVHl7WwrWdThD3qor78,22336
+lvsfunc/recon.py,sha256=912b95yeuCvV8V01EUE9rKkTlvt0Onnd9RnSkx_kFqc,4562
+lvsfunc/scale.py,sha256=7jwHvfRCLVBLNFlE34O-3wT3cnrUYE_KRGBZUtlE2h4,14460
+lvsfunc/util.py,sha256=vmtZLikUwApS1ZFxKSua4aEP46sx3zb12PvtUikLU2M,3280
+lvsfunc-0.2.0.dist-info/LICENSE,sha256=63kJaTQFBDuCqT-ov9sCmkSTkyDAmtQq9XAgGz64PZc,1092
+lvsfunc-0.2.0.dist-info/METADATA,sha256=ty9HPhrm3PJ_FUi4t0oZSammbOoHAK6KKEf8kVWxr94,1493
+lvsfunc-0.2.0.dist-info/WHEEL,sha256=YUYzQ6UQdoqxXjimOitTqynltBCkwY6qlTfTh2IzqQU,97
+lvsfunc-0.2.0.dist-info/top_level.txt,sha256=dXnCCUFUuEu6hokLb_nU6jJ1qbZX4NwUUMNp4TLn1Dc,8
+lvsfunc-0.2.0.dist-info/RECORD,,
