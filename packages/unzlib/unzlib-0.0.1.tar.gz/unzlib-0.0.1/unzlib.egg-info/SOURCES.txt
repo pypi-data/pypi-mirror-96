@@ -1,0 +1,7 @@
+README.md
+setup.py
+unzlib/unzlib.py
+unzlib.egg-info/PKG-INFO
+unzlib.egg-info/SOURCES.txt
+unzlib.egg-info/dependency_links.txt
+unzlib.egg-info/top_level.txt
