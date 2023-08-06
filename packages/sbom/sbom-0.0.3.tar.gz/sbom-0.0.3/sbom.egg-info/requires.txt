@@ -1,0 +1,3 @@
+cyclonedx-bom
+spdx-tools
+xmlschema
