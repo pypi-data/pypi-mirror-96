@@ -1,0 +1,16 @@
+dnf_converter/__init__.py,sha256=7Mp8iqklf3_AKmDXbtfWFufmP2NUURhE5CXW4A0vn-c,22
+dnf_converter/__main__.py,sha256=9XfD0nlKv3rFJSwJNlqi4omM5W4r_fbROyi5qjWBAN4,395
+dnf_converter/cli.py,sha256=ZwfwF3uY94U3q6AylPdrvm1qHGOL2NHOHM7QDNpi9Vo,828
+dnf_converter/dnf_converter.py,sha256=O39EEU4WOXNp8fzlKW9kBECoPb6jokEh7ZHTudwWLU8,4332
+dnf_converter/flask_app/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dnf_converter/flask_app/flask_app.py,sha256=gO45zwRV4jipWK6NzqFS5cBgAxMVAMBUC2wZFhDP4GY,1417
+dnf_converter/flask_app/templates/index.html,sha256=ykkkBwjmKR09d0dn3ubOOcK5iUCWlfIUUlXbfrAN_mA,802
+dnf_converter/flask_app/upload_files/test.txt,sha256=03psC1gQRu7ASj2BW82frbzom9IXhCed7_QYNqdm1XA,7
+dnf_converter/flask_app/upload_files/test2.txt,sha256=oXfLE365YZOFoDIfiDPsdLFjfsRY7s4fRWnQ_uGr4LQ,23
+dnf_converter-0.1.0.dist-info/AUTHORS.rst,sha256=1D36qTuNocAJQevtUO5KAfvM3cr5wvNPeB9QVsIZxjg,65
+dnf_converter-0.1.0.dist-info/LICENSE,sha256=gkY2QvSqqOAaMtVxGiK7xFSl2PZBxbEfPHNLqVNZnfs,1106
+dnf_converter-0.1.0.dist-info/METADATA,sha256=NfrMmWWNZqvp4wNaSRQWXvbaMiBVkX6PWPSvpFbvEMM,2367
+dnf_converter-0.1.0.dist-info/WHEEL,sha256=kGT74LWyRUZrL4VgLh6_g12IeVl_9u9ZVhadrgXZUEY,110
+dnf_converter-0.1.0.dist-info/entry_points.txt,sha256=YlL_5jHY3t0wwPNpVOtdKeqtYgVKztVnTsxM5gRDXuI,58
+dnf_converter-0.1.0.dist-info/top_level.txt,sha256=sljxaY-ky-OjY8AtsDhJnMKaCl7NKww6ZfgR977H4x8,14
+dnf_converter-0.1.0.dist-info/RECORD,,
