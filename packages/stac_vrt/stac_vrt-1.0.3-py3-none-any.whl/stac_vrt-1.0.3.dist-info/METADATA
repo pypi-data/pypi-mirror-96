@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: stac_vrt
+Version: 1.0.3
+Summary: Quickly build a GDAL VRT from a STAC Item Collection.
+Home-page: UNKNOWN
+License: UNKNOWN
+Author: Tom Augspurger
+Author-email: taugspurger@microsoft.com
+Requires-Python: >=3.7
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: affine
+Requires-Dist: pyproj
+Requires-Dist: rasterio
+Requires-Dist: numpy
+Requires-Dist: myst-parser>=0.13.5 ; extra == "docs"
+Requires-Dist: pydata-sphinx-theme ; extra == "docs"
+Requires-Dist: numpydoc ; extra == "docs"
+Requires-Dist: pytest>=6 ; extra == "test"
+Provides-Extra: docs
+Provides-Extra: test
