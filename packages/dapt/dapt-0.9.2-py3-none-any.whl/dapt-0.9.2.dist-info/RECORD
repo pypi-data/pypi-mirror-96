@@ -1,0 +1,17 @@
+dapt/__init__.py,sha256=OFCscNyVPOFfB8-QvdMECxZUoGIpX5a8_MjdjMel_GQ,228
+dapt/config.py,sha256=1KmrCfyxMdbCLMpEev7Xoahe1_x51EdcQm2u6HcP7bQ,17936
+dapt/param.py,sha256=rAh4kjRnxRdx9rbdtlWdr9OjeD4Q3PjEW5UUX5CoVWI,14034
+dapt/tools.py,sha256=2HGixmv8mWmJ-_ex2usPoszT5IlI9Cdn2pTYQRhS9oM,8021
+dapt/db/__init__.py,sha256=6gl729KM5yq5C9PWnS1UPKTREkyly5CBF6VlKXVndII,3160
+dapt/db/base.py,sha256=YXis6Zwcv2PCNkLOiKsr8pJHrG7hrz9xWHUFOCEBsb0,2704
+dapt/db/delimited_file.py,sha256=Ek3ZFNahTxV0pv1J0QpvzgjTaKSAQse0xG-D7a-bxZ0,3727
+dapt/db/sheets.py,sha256=X5TGA6Vo7sSfVjMolSpfyuBDpL0SZ3ndq3PFRwOSkjQ,7358
+dapt/storage/__init__.py,sha256=b8Y2knKmTxlint6-H-RnbtKYLXHYsXbybSQNjkTU8Xw,112
+dapt/storage/base.py,sha256=GnLYOb3WrhN_jX_nkmz1koUlDVfckKb3yuSr4FHJTOc,8377
+dapt/storage/box.py,sha256=w2QMGG3QhDktVcQh68aW0UJeIFiVH6m7llEqUHWvrR0,18166
+dapt/storage/google_drive.py,sha256=6UYq6burB6aSW1Xi8BrXZxdovSp7RvKXO8TXdQJ9ks0,12406
+dapt-0.9.2.dist-info/LICENSE,sha256=4Zt_O8cqQc3Y8cvMQOnzKcu5ap6sLefkX4MggG7085M,1512
+dapt-0.9.2.dist-info/METADATA,sha256=Icm4w59rAd5WWcs7wuYtUiA1ANzcso4n510XGUE5m28,6408
+dapt-0.9.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+dapt-0.9.2.dist-info/top_level.txt,sha256=jULk07QBCt33ROqnDzHdj7rD0aawFdlPBeJpeh_a8pU,5
+dapt-0.9.2.dist-info/RECORD,,
