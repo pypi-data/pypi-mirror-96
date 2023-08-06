@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: CHATB0Tv3
+Version: 0.0.0
+Summary: A Chatbot
+Home-page: UNKNOWN
+Author: myspacebarbroke
+Author-email: notmyrealemail@gmail.com
+License: UNKNOWN
+Description: A easy to use chatbot package. Example: 
+        ```py
+        from CHATB0Tv3 import Chatbot
+        while True:
+            WhatYouWantToSay = input(">>> ")
+            chatbot = Chatbot(WhatYouWantToSay)
+            print(chatbot.response())
+        
+        ```
+        
+Keywords: chatbot
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown

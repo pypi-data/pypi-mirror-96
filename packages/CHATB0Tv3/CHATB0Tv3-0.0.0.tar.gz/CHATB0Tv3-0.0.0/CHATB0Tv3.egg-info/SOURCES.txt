@@ -1,0 +1,7 @@
+setup.py
+CHATB0Tv3/__init__.py
+CHATB0Tv3.egg-info/PKG-INFO
+CHATB0Tv3.egg-info/SOURCES.txt
+CHATB0Tv3.egg-info/dependency_links.txt
+CHATB0Tv3.egg-info/requires.txt
+CHATB0Tv3.egg-info/top_level.txt
