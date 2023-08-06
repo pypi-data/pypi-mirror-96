@@ -1,0 +1,14 @@
+xwire/rest/__init__.py,sha256=Mszg9xASpAmL315MUTSQbM9g8YwT1Z3Zv0eMxMkOsFY,27
+xwire/rest/_private/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+xwire/rest/_private/proxy/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+xwire/rest/_private/proxy/decorators/__init__.py,sha256=2dgSUjCDhsgdqRRrTPSYe7cMIz21T-mGT3oVOIIwUZY,108
+xwire/rest/_private/proxy/decorators/cookies.py,sha256=j7vHhvQRUAFdiEIwNB2NMo8l07MqL4YHz7rM6juE5Lc,146
+xwire/rest/_private/proxy/decorators/get.py,sha256=EGjZfHSzE-9Vsv6x9VbhCFWM4Za3kEeEF0WW6EMzkaY,1084
+xwire/rest/_private/proxy/decorators/post.py,sha256=m4_7mWyqbT-DgYXFS0NOpr2Xf3EdRqSvVL6JjhX0sUs,1191
+xwire/rest/_private/proxy/decorators/resource.py,sha256=_bfn_YaqqbqGa6V8nOdYMBOX1G4WRYau1w7k3qVJZz0,375
+xwire/rest/_private/utils.py,sha256=EQ-4XtdHV6IxOeIFwgGAgeOHZBKIGn6KxQsStOuqGYU,925
+xwire/rest/public/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+xwire/rest/public/proxy.py,sha256=hkhRcuT40TKzfLfKugr2dyEfDsDTl06NlG66AUrcMuk,81
+xwire.rest-0.1.2.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+xwire.rest-0.1.2.dist-info/METADATA,sha256=0GLRTIfJ-Y_pEDJn9Ea-3PiIbBqa_Tea1scpsUO8WyM,482
+xwire.rest-0.1.2.dist-info/RECORD,,
