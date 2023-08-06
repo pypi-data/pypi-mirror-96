@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+nitinreal_distributions/Binomialdistribution.py
+nitinreal_distributions/Gaussiandistribution.py
+nitinreal_distributions/Generaldistribution.py
+nitinreal_distributions/__init__.py
+nitinreal_distributions.egg-info/PKG-INFO
+nitinreal_distributions.egg-info/SOURCES.txt
+nitinreal_distributions.egg-info/dependency_links.txt
+nitinreal_distributions.egg-info/not-zip-safe
+nitinreal_distributions.egg-info/top_level.txt
