@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: xym
+Version: 0.5
+Summary: A tool to fetch and extract YANG modules from IETF RFCs and Drafts
+Home-page: https://github.com/xym-tool/xym
+Author: Jan Medved
+Author-email: jmedved@cisco.com
+License: New-style BSD
+Description: xym is a simple tool for fetching and extracting YANG modules from IETF RFCs and drafts as local files and from URLs.
+Keywords: yang,extraction
+Platform: UNKNOWN
+Requires-Python: >=3.4
