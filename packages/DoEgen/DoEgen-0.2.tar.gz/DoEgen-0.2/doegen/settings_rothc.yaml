@@ -1,0 +1,10 @@
+# Settings for Experiment Design Generation
+
+# Path to exp design setup file
+inpath: '../rothc/'
+# Set path for output files. Ff '', output folder will be same  as above for setup file
+outpath: '../rothc/evaluation_results/'
+# Filename for exp design table in inpath
+fname_design: 'Designtable_RothC.csv'
+# Filename for exp results in inpath:
+fname_results: 'Expresult_RothC.csv'
