@@ -1,0 +1,9 @@
+README.rst
+setup.py
+querido_diario/__init__.py
+querido_diario_api_wrapper.egg-info/PKG-INFO
+querido_diario_api_wrapper.egg-info/SOURCES.txt
+querido_diario_api_wrapper.egg-info/dependency_links.txt
+querido_diario_api_wrapper.egg-info/not-zip-safe
+querido_diario_api_wrapper.egg-info/requires.txt
+querido_diario_api_wrapper.egg-info/top_level.txt
