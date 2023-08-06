@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+virtualserialports.py
+PyVirtualSerialPorts.egg-info/PKG-INFO
+PyVirtualSerialPorts.egg-info/SOURCES.txt
+PyVirtualSerialPorts.egg-info/dependency_links.txt
+PyVirtualSerialPorts.egg-info/entry_points.txt
+PyVirtualSerialPorts.egg-info/top_level.txt
