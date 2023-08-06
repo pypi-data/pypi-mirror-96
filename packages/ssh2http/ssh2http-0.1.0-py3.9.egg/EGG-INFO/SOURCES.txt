@@ -1,0 +1,10 @@
+README.md
+setup.py
+ssh2http/__init__.py
+ssh2http/__main__.py
+ssh2http/client.py
+ssh2http.egg-info/PKG-INFO
+ssh2http.egg-info/SOURCES.txt
+ssh2http.egg-info/dependency_links.txt
+ssh2http.egg-info/requires.txt
+ssh2http.egg-info/top_level.txt

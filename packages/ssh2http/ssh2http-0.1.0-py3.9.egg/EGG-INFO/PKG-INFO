@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: ssh2http
+Version: 0.1.0
+Summary: Simple utility to tunnel ssh over http
+Home-page: https://github.com/4thel00z/ssh2http
+Author: 4thel00z
+Author-email: 4thel00z@gmail.com
+License: GPL
+Description: # ssh2http
+        
+        ## Motivation
+        
+        Imagine you want to multiplex/expose one ssh connection over a simple REST API.
+        Ideally you want to just pass the hostname and it does the lookup via the `ssh_agent`.
+        
+        Something like this:
+        
+        ```
+        ssh2http <something-in-your-~/.ssh/config> <port-no>
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
