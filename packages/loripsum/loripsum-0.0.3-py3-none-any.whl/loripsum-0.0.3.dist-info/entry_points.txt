@@ -1,0 +1,3 @@
+[console_scripts]
+loripsum=loripsum.__main__:main
+
