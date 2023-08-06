@@ -1,0 +1,137 @@
+.codecov.yml
+.gitignore
+CHANGELOG.rst
+LICENSE
+README.html
+README.md
+setup.py
+.circleci/config.yml
+.github/workflows/tests.yml
+docs/.gitignore
+docs/Makefile
+docs/conf.py
+docs/development.rst
+docs/example_sim.slim
+docs/index.rst
+docs/installation.rst
+docs/introduction.rst
+docs/metadata.rst
+docs/migrants.slim
+docs/python_api.rst
+docs/rapid_adaptation.slim
+docs/selection.slim
+docs/tutorial.rst
+docs/vignette_continuing.rst
+docs/vignette_space.rst
+docs/vignette_space.slim
+docs/_static/Makefile
+docs/_static/export-layers-svg.sh
+docs/_static/pedigree0.png
+docs/_static/pedigree0.svg
+docs/_static/pedigree01.png
+docs/_static/pedigree1.png
+docs/_static/pedigree1.svg
+docs/_static/pedigree2.png
+docs/_static/pedigree2.svg
+docs/_static/pedigree3.svg
+docs/_static/pedigree_mutate.png
+docs/_static/pedigree_mutate.svg
+docs/_static/pedigree_recapitate.png
+docs/_static/pedigree_recapitate.svg
+docs/_static/pedigree_remember.png
+docs/_static/pedigree_simplify.png
+docs/_static/pedigree_simplify.svg
+docs/_static/pedigrees.ink.svg
+docs/_static/recomb_rates.tsv
+docs/_static/spatial_sim_ibd.png
+docs/_static/spatial_sim_locations.png
+pyslim/__init__.py
+pyslim/_version.py
+pyslim/provenance.py
+pyslim/slim_metadata.py
+pyslim/slim_tree_sequence.py
+pyslim/util.py
+pyslim.egg-info/PKG-INFO
+pyslim.egg-info/SOURCES.txt
+pyslim.egg-info/dependency_links.txt
+pyslim.egg-info/not-zip-safe
+pyslim.egg-info/requires.txt
+pyslim.egg-info/top_level.txt
+requirements/conda-minimal.txt
+requirements/rtd.txt
+requirements/CI/conda-requirements.txt
+requirements/CI/pip-requirements.txt
+tests/README.md
+tests/__init__.py
+tests/conftest.py
+tests/recipe_specs.py
+tests/test_annotation.py
+tests/test_legacy_metadata.py
+tests/test_metadata.py
+tests/test_provenance.py
+tests/test_tree_sequence.py
+tests/test_util.py
+tests/benchmark/annotation.sh
+tests/benchmark/metadata.sh
+tests/benchmark/metadata.slim
+tests/extra_recipes/.gitignore
+tests/extra_recipes/Makefile
+tests/extra_recipes/Recipe 17.1 - A minimal tree-seq model.txt
+tests/extra_recipes/Recipe 17.10 - Adding a neutral burn-in after simulation with recapitation I.txt
+tests/extra_recipes/Recipe 17.10 - Adding a neutral burn-in after simulation with recapitation II.py
+tests/extra_recipes/Recipe 17.2 - Overlaying neutral mutations.py
+tests/extra_recipes/Recipe 17.3 - Simulation conditional upon fixation of a sweep, preserving ancestry I.txt
+tests/extra_recipes/Recipe 17.3 - Simulation conditional upon fixation of a sweep, preserving ancestry II.txt
+tests/extra_recipes/Recipe 17.5 - Mapping admixture (analyzing ancestry in Python) I.txt
+tests/extra_recipes/Recipe 17.5 - Mapping admixture (analyzing ancestry in Python) II.py
+tests/extra_recipes/Recipe 17.7 - Analyzing selection coefficients in Python with pyslim I.txt
+tests/extra_recipes/Recipe 17.7 - Analyzing selection coefficients in Python with pyslim II.py
+tests/extra_recipes/Recipe 17.8 - Starting a hermaphroditic WF model with a coalescent history I.py
+tests/extra_recipes/Recipe 17.8 - Starting a hermaphroditic WF model with a coalescent history II.txt
+tests/extra_recipes/Recipe 17.8 - Starting a hermaphroditic WF model with a coalescent history III.py
+tests/extra_recipes/Recipe 17.9 - Starting a sexual nonWF model with a coalescent history I.py
+tests/extra_recipes/Recipe 17.9 - Starting a sexual nonWF model with a coalescent history II.txt
+tests/extra_recipes/Recipe 18.13 - Tree-sequence recording and nucleotide-based models I.txt
+tests/extra_recipes/Recipe 18.13 - Tree-sequence recording and nucleotide-based models II.py
+tests/extra_recipes/Recipe 18.13 - Tree-sequence recording and nucleotide-based models III.py
+tests/extra_recipes/check_trees.py
+tests/test_recipes/make_v3_tests.sh
+tests/test_recipes/recipe_WF.slim
+tests/test_recipes/recipe_WF.v3.0.trees
+tests/test_recipes/recipe_WF.v3.2.trees
+tests/test_recipes/recipe_WF.v3.3.1.trees
+tests/test_recipes/recipe_WF.v3.4.trees
+tests/test_recipes/recipe_WF.v3.5.trees
+tests/test_recipes/recipe_WF_early.slim
+tests/test_recipes/recipe_WF_migration.slim
+tests/test_recipes/recipe_init_mutated_WF.slim
+tests/test_recipes/recipe_init_mutated_nonWF.slim
+tests/test_recipes/recipe_long_WF.slim
+tests/test_recipes/recipe_long_nonWF.slim
+tests/test_recipes/recipe_long_nucleotides.slim
+tests/test_recipes/recipe_nonWF.slim
+tests/test_recipes/recipe_nonWF.v3.0.trees
+tests/test_recipes/recipe_nonWF.v3.2.trees
+tests/test_recipes/recipe_nonWF.v3.3.1.trees
+tests/test_recipes/recipe_nonWF.v3.4.trees
+tests/test_recipes/recipe_nonWF.v3.5.trees
+tests/test_recipes/recipe_nonWF_early.slim
+tests/test_recipes/recipe_nonWF_selfing.slim
+tests/test_recipes/recipe_nucleotides.slim
+tests/test_recipes/recipe_record_everyone_WF_early.slim
+tests/test_recipes/recipe_record_everyone_WF_late.slim
+tests/test_recipes/recipe_record_everyone_nonWF_early.slim
+tests/test_recipes/recipe_record_everyone_nonWF_late.slim
+tests/test_recipes/recipe_remember_and_retain.slim
+tests/test_recipes/recipe_retain_everyone_WF_late.slim
+tests/test_recipes/recipe_retain_everyone_nonWF_late.slim
+tests/test_recipes/recipe_retain_sometimes_WF_late.slim
+tests/test_recipes/recipe_retain_sometimes_nonWF_late.slim
+tests/test_recipes/recipe_retain_unary_WF_late.slim
+tests/test_recipes/recipe_retain_unary_nonWF_late.slim
+tests/test_recipes/recipe_roots.slim
+tests/test_recipes/recipe_with_metadata.slim
+tests/test_recipes/restart_WF.slim
+tests/test_recipes/restart_msprime.slim
+tests/test_recipes/restart_nonWF.slim
+tests/test_recipes/restart_nucleotides.slim
