@@ -1,0 +1,4 @@
+[console_scripts]
+flyvec_compile = flyvec.train_flyvec:init
+flyvec_train = flyvec.train_flyvec:main
+
