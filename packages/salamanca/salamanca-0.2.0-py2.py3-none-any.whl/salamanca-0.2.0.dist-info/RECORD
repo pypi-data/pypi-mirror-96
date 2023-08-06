@@ -1,0 +1,12 @@
+salamanca/__init__.py,sha256=clN3TnyYyt5T_wUJLVBmutS2kYLLBET4JFB2QXnRm2Q,21
+salamanca/cli.py,sha256=NTOhUdxMPh-pNL1Cb7K9uyRETpvBHmGfGc_8ttqfs1Q,4709
+salamanca/currency.py,sha256=Gup8KhZ_DCze_KPLPmgSio7-L9YZ19487HR41Nml5LE,4714
+salamanca/data.py,sha256=W_qOS79XZsJc7IiXCJFX9md7E1oxc7F2IBNANCwbiTc,6823
+salamanca/ineq.py,sha256=pRnCisdMNxv4Soavg2Tn8uqNeV8CxHwryw7kHjrVXL8,6447
+salamanca/utils.py,sha256=ls5v7K6vL-KJD9wqk53Z3RHJ_RfZ6lszZW0cWDuEXnc,2091
+salamanca-0.2.0.dist-info/LICENSE,sha256=du0_hTZ1diz34t503BamSfWecYkSS5s2aMD_QUjfy-A,11346
+salamanca-0.2.0.dist-info/METADATA,sha256=XkD5pmv24Yv71lK_mKX5wixWg9tjsyfhM0-DuDZifAM,2083
+salamanca-0.2.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+salamanca-0.2.0.dist-info/entry_points.txt,sha256=_HLF_O1IFdnGuSJRha1wdF6OU9tKPfMAGUUujwOnoH8,44
+salamanca-0.2.0.dist-info/top_level.txt,sha256=sHE_twfhcbHCpzARSe3hYoOKLcXroWPxeH-bLuX7vuU,10
+salamanca-0.2.0.dist-info/RECORD,,

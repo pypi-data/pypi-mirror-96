@@ -1,0 +1,61 @@
+Metadata-Version: 2.1
+Name: salamanca
+Version: 0.2.0
+Summary: Provides access to and operations on commonly used socio-economic indicators
+Home-page: http://github.com/gidden/salamanca
+Author: salamanca authors
+Author-email: matthew.gidden@gmail.com
+License: Apache 2.0
+Platform: UNKNOWN
+Description-Content-Type: text/x-rst
+Requires-Dist: pandas
+Requires-Dist: pyomo
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: requests
+Provides-Extra: doc
+Requires-Dist: sphinx ; extra == 'doc'
+Requires-Dist: cloud-sptheme ; extra == 'doc'
+Requires-Dist: nbsphinx ; extra == 'doc'
+Requires-Dist: numpydoc ; extra == 'doc'
+Requires-Dist: sphinxcontrib-bibtex (<2.0) ; extra == 'doc'
+Requires-Dist: sphinxcontrib-programoutput ; extra == 'doc'
+Provides-Extra: test
+Requires-Dist: pytest ; extra == 'test'
+Requires-Dist: pytest-cov ; extra == 'test'
+
+salamanca: A Python Toolbox for Economic and Monetary Analysis
+==============================================================
+
+|license| |tests| |codecov| |rtd|
+
+.. |license| image:: https://img.shields.io/badge/License-Apache%202.0-black
+   :target: https://github.com/IAMconsortium/pyam/blob/master/LICENSE
+
+.. |tests| image:: https://github.com/gidden/salamanca/actions/workflows/test.yml/badge.svg
+   :target: https://github.com/gidden/salamanca/actions/workflows/test.yml
+
+.. |codecov| image:: https://coveralls.io/repos/github/gidden/salamanca/badge.svg?branch=master
+    :target: https://coveralls.io/github/gidden/salamanca?branch=master
+
+.. |rtd| image:: https://readthedocs.org/projects/salamanca/badge/?version=latest
+   :target: https://salamanca.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
+
+
+**salamanca** is a Python package for working with economic and monetary data,
+including supporting currency conversion calculations. It provides a robust API and and 
+Command Line Interface (CLI).
+
+Documentation
+-------------
+
+All documentation can be found at https://salamanca.readthedocs.io/en/latest/index.html
+
+
+License
+-------
+
+Licensed under Apache 2.0. See the LICENSE file for more information
+
+

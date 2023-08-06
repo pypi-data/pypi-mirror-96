@@ -1,0 +1,3 @@
+[console_scripts]
+sal = salamanca.cli:main
+
