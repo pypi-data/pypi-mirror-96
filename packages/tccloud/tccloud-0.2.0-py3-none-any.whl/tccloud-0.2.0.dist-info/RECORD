@@ -1,0 +1,10 @@
+tccloud/__init__.py,sha256=l19e0398XlXmwVcRSYnjrf-usRWB1_7DMo0rG8q3dD4,144
+tccloud/client.py,sha256=sfD0jxkx6qSJIBQ5IPYo-X9W-12EUJNnu8NvXU6lxs0,2940
+tccloud/config.py,sha256=9IoILoBEkFLVIYbCEu4bX1_iCyMzyqpt3VADEHbHc24,652
+tccloud/exceptions.py,sha256=yngKamX6M_z77gA0YfYGqelfaWVfmHbNBsv3CmpLoII,259
+tccloud/http_client.py,sha256=ZwO6iSvnHX1RCtr24oNZjI1RDaIjs7M8PA3rG5y_dj0,11072
+tccloud/models.py,sha256=qfL7DeJKncNB2EmAWKnXWDEwaKNBsSvEUZmJb9Nx8iY,3589
+tccloud-0.2.0.dist-info/LICENSE,sha256=2U6Q_LesW51Jy-va7TZUineBanmxGyBUvxMUTMbgbRk,1079
+tccloud-0.2.0.dist-info/WHEEL,sha256=CqyTrkghQBNsEzLD3HbCSEIJ_fY58-XpoU29dUzwHSk,81
+tccloud-0.2.0.dist-info/METADATA,sha256=sodA43d4q-LTj94v-msEIU7fAfkFoppunzd5VVdbXWY,5830
+tccloud-0.2.0.dist-info/RECORD,,
