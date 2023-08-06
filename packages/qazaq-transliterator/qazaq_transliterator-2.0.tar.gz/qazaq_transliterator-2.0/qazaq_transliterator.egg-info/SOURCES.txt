@@ -1,0 +1,9 @@
+README.md
+setup.py
+qazaq_transliterator/__init__.py
+qazaq_transliterator/qazaq_transliterator.py
+qazaq_transliterator.egg-info/PKG-INFO
+qazaq_transliterator.egg-info/SOURCES.txt
+qazaq_transliterator.egg-info/dependency_links.txt
+qazaq_transliterator.egg-info/requires.txt
+qazaq_transliterator.egg-info/top_level.txt
