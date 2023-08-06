@@ -1,0 +1,9 @@
+Cython>=0.19.0
+numpy>=1.6
+mpi4py
+h5py
+psutil
+natsort<=7.0.0
+prody
+pyRMSD
+bottleneck
