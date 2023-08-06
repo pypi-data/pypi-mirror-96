@@ -1,0 +1,9 @@
+README.md
+setup.py
+dpfp_pytorch/__init__.py
+dpfp_pytorch/dpfp.py
+dpfp_pytorch.egg-info/PKG-INFO
+dpfp_pytorch.egg-info/SOURCES.txt
+dpfp_pytorch.egg-info/dependency_links.txt
+dpfp_pytorch.egg-info/requires.txt
+dpfp_pytorch.egg-info/top_level.txt
