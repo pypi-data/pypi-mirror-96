@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: beamfed
+Version: 0.0.1
+Summary: A DataFed wrapper for beamline data
+Home-page: https://github.com/JBlaschke/BeamFed
+Author: Johannes Blaschke
+Author-email: johannes@blaschke.science
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: datafed
+
+# BeamFed
+
+A DataFed interface for beamline data files
+
+
