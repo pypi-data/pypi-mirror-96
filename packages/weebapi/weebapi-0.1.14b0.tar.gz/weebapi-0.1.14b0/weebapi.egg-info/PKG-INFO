@@ -1,0 +1,108 @@
+Metadata-Version: 1.1
+Name: weebapi
+Version: 0.1.14b0
+Summary: Weeb.sh API Wrapper, customised for use in discord.py
+Home-page: https://github.com/AndyTempel/weebapi
+Author: AndyTempel
+Author-email: andraz@korenc.eu
+License: UNKNOWN
+Download-URL: https://github.com/AndyTempel/weebapi/archive/0.1.14b.tar.gz
+Description: 
+        weebapi
+        =======
+        
+        
+        .. image:: https://img.shields.io/pypi/v/weebapi.svg
+           :target: https://img.shields.io/pypi/v/weebapi.svg
+           :alt: img
+         
+        .. image:: https://img.shields.io/pypi/pyversions/weebapi.svg
+           :target: https://img.shields.io/pypi/pyversions/weebapi.svg
+           :alt: img2
+        
+        
+        .. image:: https://app.fossa.io/api/projects/git%2Bgithub.com%2FAndyTempel%2Fweebapi.svg?type=shield
+           :target: https://app.fossa.io/projects/git%2Bgithub.com%2FAndyTempel%2Fweebapi?ref=badge_shield
+           :alt: FOSSA Status
+        
+        
+        Pluggable Weeb.sh API Wrapper
+        -----------------------------
+        
+        Documentation
+        ^^^^^^^^^^^^^
+        
+        **All available documentation can be found here:** `weebapi.readthedocs.io <https://weebapi.readthedocs.io>`_
+        
+        How to install:
+        ^^^^^^^^^^^^^^^
+        
+        **1. With pip**
+        
+        ``pip install -U weebapi``
+        
+        **2. From GitHub**
+        
+        ``pip install -U git+https://github.com/AndyTempel/weebapi#egg=weebapi``
+        
+        Usage:
+        ^^^^^^
+        
+        **With bot integration:**
+        
+        .. code-block:: python
+        
+           from discord.ext.commands import Bot
+           from weebapi import Client
+        
+           bot = Bot(command_prefix="+")
+           Client.pluggable(bot=bot, api_key="VeryNiceKey123")
+        
+           @bot.command()
+           async def owo(ctx):
+               image = await bot.weebsh.get_random(image_type="owo")
+               await ctx.send(str(image))
+        
+           >>> https://cdn.weeb.sh/images/SklMOkytDb.jpeg
+        
+        **or without bot integration:**
+        
+        .. code-block:: python
+        
+           from discord.ext.commands import Bot
+           from weebapi import Client
+        
+           bot = Bot(command_prefix="+")
+           weeb = Client(api_key="VeryNiceKey123")
+        
+           @bot.command()
+           async def owo(ctx):
+               image = await weeb.get_random(image_type="owo")
+               await ctx.send(str(image))
+        
+           >>> https://cdn.weeb.sh/images/SklMOkytDb.jpeg
+        
+        License
+        -------
+        
+        
+        .. image:: https://app.fossa.io/api/projects/git%2Bgithub.com%2FAndyTempel%2Fweebapi.svg?type=large
+           :target: https://app.fossa.io/projects/git%2Bgithub.com%2FAndyTempel%2Fweebapi?ref=badge_large
+           :alt: FOSSA Status
+        
+        
+Keywords: weebapi
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Internet
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Utilities
