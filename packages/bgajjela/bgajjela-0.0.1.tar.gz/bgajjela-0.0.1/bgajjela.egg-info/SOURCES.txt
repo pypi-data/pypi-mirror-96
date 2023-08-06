@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+bgajjela.egg-info/PKG-INFO
+bgajjela.egg-info/SOURCES.txt
+bgajjela.egg-info/dependency_links.txt
+bgajjela.egg-info/top_level.txt
+my-package/1.py
+my-package/__init__.py
