@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+smashtheque/__init__.py
+smashtheque.egg-info/PKG-INFO
+smashtheque.egg-info/SOURCES.txt
+smashtheque.egg-info/dependency_links.txt
+smashtheque.egg-info/requires.txt
+smashtheque.egg-info/top_level.txt
