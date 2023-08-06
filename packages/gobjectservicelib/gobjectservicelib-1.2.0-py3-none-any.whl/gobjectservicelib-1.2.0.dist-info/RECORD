@@ -1,0 +1,9 @@
+gobjectservicelib/__init__.py,sha256=ouLg6Q44edQj45hPUR6Cm1FSmh61NxWw8cW3PL6Jd5w,195
+gobjectservicelib/eventloop.py,sha256=eIyXMZ9rIPLqKaqfTytW0JWfV5tu-Brinu1dE9IZXek,1414
+gobjectservicelib/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+gobjectservicelib/service.py,sha256=CglzYhG9oZtlg9pe4U1xz3Lw1xhFWTViWFAVcHW5By4,2437
+gobjectservicelib/widgets.py,sha256=xR8G5DU_xIqwBiuP5SSLik4qqp1JViJagWvCR3L1kr0,729
+gobjectservicelib-1.2.0.dist-info/LICENSE,sha256=OG-hgkUe8vhpxwMq4kMNPOff_0leZjZnknjAkFYBw70,1066
+gobjectservicelib-1.2.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+gobjectservicelib-1.2.0.dist-info/METADATA,sha256=FeVLl9RgSwvUZWojf63A8rHGLVXF73IZTlbQMSL3N74,4384
+gobjectservicelib-1.2.0.dist-info/RECORD,,
