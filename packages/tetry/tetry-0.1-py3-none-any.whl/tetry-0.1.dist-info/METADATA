@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: tetry
+Version: 0.1
+Summary: tetr.io api wrapper
+Home-page: UNKNOWN
+Author: apes0
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3
+Requires-Dist: requests
+
+UNKNOWN
+
+
