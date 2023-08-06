@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: cubrium
+Version: 0.1.0
+Summary: Cube in Equilibrium
+Home-page: https://github.com/adtzlr/cubrium
+Author: Andreas Dutzler
+Author-email: a.dutzler@gmail.com
+License: GPL-3.0-or-later
+Project-URL: Code, https://github.com/adtzlr/cubrium
+Project-URL: Issues, https://github.com/adtzlr/cubrium/issues
+Description: # cubrium
+        cubrium
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
