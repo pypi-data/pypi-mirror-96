@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: python-bitcoin-test
+Version: 0.2.9
+Summary: quick description
+Home-page: UNKNOWN
+Author: alexzander
+Author-email: just.python.mail.test@gmail.com
+License: UNKNOWN
+Platform: any
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+### package bitcoin
+```
+there is no description available for this package
+sorry for the inconvenience
+```
+
+
