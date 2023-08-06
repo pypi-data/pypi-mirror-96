@@ -1,0 +1,9 @@
+tests/__init__.py,sha256=z2nFVvvIzirxklQ9i5-F1nR-WOgcDttYtog_jx4yN5I,12
+tests/test_data_ingress.py,sha256=5-UOS0Zq-Uzm7wX6etmKEAzCZSYGhpbtbGNMUUNO8iQ,16995
+vespr_model_deployment_utils/__init__.py,sha256=z2nFVvvIzirxklQ9i5-F1nR-WOgcDttYtog_jx4yN5I,12
+vespr_model_deployment_utils/config.py,sha256=TS4dnRoyUjkLsywAe2gBVyi29jXp41WWmJANnCDdYac,2145
+vespr_model_deployment_utils/data_ingress.py,sha256=e-F56IUGxJ-5VSy5xD6bGSslIK852SlzQMZDZO5C7wI,10468
+vespr_model_deployment_utils-2.0.0.dist-info/METADATA,sha256=1QNQyrXDvfeyUDtWCVeqj1RgWSvb9DEtxHv1-T2FHKc,574
+vespr_model_deployment_utils-2.0.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+vespr_model_deployment_utils-2.0.0.dist-info/top_level.txt,sha256=DQfcOdo-ngnFLMb_3YLPVvfEGMKPrldeqwD6M1JmrJk,35
+vespr_model_deployment_utils-2.0.0.dist-info/RECORD,,
