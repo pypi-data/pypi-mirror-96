@@ -1,0 +1,11 @@
+matplotlib
+numpy
+scipy
+pillow
+Cython
+GEOS
+Shapely
+pyshp
+PROJ
+six
+cartopy
