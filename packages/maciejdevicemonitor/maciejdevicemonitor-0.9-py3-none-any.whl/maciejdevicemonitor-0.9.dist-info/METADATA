@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: maciejdevicemonitor
+Version: 0.9
+Summary: Device monitor package for AP Tech
+Home-page: https://github.com/javatechy/dokr
+Author: Maciej Czarkowski
+Author-email: mczarkowski98@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# device_manager
+Project for home assignment - monitor all of your devices!
+Available methods:
+`start('devices_directory','log_frequency')`
+
+`stop()`
+
+`get_statuses('devices_directory')`
+
+Before using this module define .json files with devices parameters placed in 'devices_directory' folder.
+Remember to define one device per one file. The name of the file is then passed to logs so you can see clearly device and its parameters.
+
+
