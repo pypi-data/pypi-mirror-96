@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pyarabicshaping
+Version: 1.0
+Summary: arabic shapes
+Home-page: https://github.com/vorujack/pyarabicshaping
+Author: vorujack
+Author-email: vorujack@gmail.com
+License: MIT
+Download-URL: https://github.com/vorujack/pyarabicshaping/tarball/1.0
+Keywords: arabic
+Platform: UNKNOWN
+
+This is a port of GNU FriBidi's Arabic shaping to Python.
+It can be used with pybidi [1] to render Arabic text in Python
+using PIL or other systems without complex text support.
+
+[1] http://code.google.com/p/pybidi/
+
+
