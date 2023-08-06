@@ -1,0 +1,7 @@
+colorama
+configparser
+pyparsing
+icdiff
+future
+lxml
+junos-eznc
