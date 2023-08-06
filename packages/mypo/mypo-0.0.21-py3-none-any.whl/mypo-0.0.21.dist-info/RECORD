@@ -1,0 +1,16 @@
+mypo/__init__.py,sha256=Dj4M72vr0tGl3P5rCo0eo8E7SdJRO53iIQhuU3F51Wg,429
+mypo/common.py,sha256=jrK3vfvek-E7a4D3W88TgSaSt25HYWHHCj89YOHWbHI,2322
+mypo/loader.py,sha256=giL-Nfjnj8MOefLWZIvsoF6_HamxoKlIyYVHprdw5To,1695
+mypo/loss_function/__init__.py,sha256=ON11MIFOFgyIjINyUmxqGK1xZtDuzGICHUv9-rV3P_E,98
+mypo/loss_function/loss_function.py,sha256=LcASdBT6e2veGfd-AhtEqMQmLgtN8MMJl_4yUcXeZoM,1703
+mypo/market.py,sha256=N76BJoSeyTnTkCneDnwZdOnoBYcZyeNgGHIfq68Cs98,3000
+mypo/model_selection.py,sha256=fWJnQmlo5-euKlwC2BdpNpIPYr40pUB6xJPbWEDLt_I,1068
+mypo/optimizer.py,sha256=B70sPt71nMntJxht3TTh_AzlwuO9A8Nfqv-5xp7AdGk,1740
+mypo/rebalancer.py,sha256=8m-GnSURUaSdmseV3y_ZIrCmgBkn7mCkEu-lANbzo-U,4336
+mypo/reporter.py,sha256=8sKMKUhD74hvVgPXUWfzIWylSbKxoXp2012Jz7Bj1Ic,2663
+mypo/runner.py,sha256=BpyIm_7D6xijq5ZevlyxntjfizB4rZn45Y2xVzIKzcY,4884
+mypo/settings.py,sha256=Jiggfg3PDc-4z1arWNaJHy4RVbfAwZceAX9Gef9CWNo,218
+mypo-0.0.21.dist-info/LICENSE,sha256=up9hBvfGvr22IwxFKaPR9st-vliN7c2LO0VLF5nbha4,1065
+mypo-0.0.21.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+mypo-0.0.21.dist-info/METADATA,sha256=aT5Pa0lcqgIQedxq5wOTuXooIJEyzd-rRMuRXU5A6DY,566
+mypo-0.0.21.dist-info/RECORD,,
