@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "projection-ui"
+version = "0.0.0.20210227"
+description = "A library for projecting a UI onto a browser"
+authors = ["Kaithar <noreply.committer@the-cell.co.uk>"]
+repository = "https://github.com/kaithar/projection-ui"
+packages = [
+  { include = "projection" }
+]
+
+
+[tool.poetry.dependencies]
+python = "^3.8"
+tornado = "^6.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

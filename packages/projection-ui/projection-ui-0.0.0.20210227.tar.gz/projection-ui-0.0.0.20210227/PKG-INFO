@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: projection-ui
+Version: 0.0.0.20210227
+Summary: A library for projecting a UI onto a browser
+Home-page: https://github.com/kaithar/projection-ui
+Author: Kaithar
+Author-email: noreply.committer@the-cell.co.uk
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: tornado (>=6.1,<7.0)
+Project-URL: Repository, https://github.com/kaithar/projection-ui
