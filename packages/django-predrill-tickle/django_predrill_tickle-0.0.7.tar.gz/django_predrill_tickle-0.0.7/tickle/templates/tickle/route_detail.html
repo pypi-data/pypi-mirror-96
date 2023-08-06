@@ -1,0 +1,26 @@
+{% extends 'tickle/base.html' %}
+
+{% block tickle_title_name %}{{ route.name }}{% endblock %}
+{% block tickle_header_name %}{{ route.name }}{% endblock %}
+
+{% block tickle_nav %}
+  {% include 'tickle/area_breadcrumb_trail.html' with area=route.area is_parent=True %}
+{% endblock %}
+
+{% block tickle_extra_header %}
+  <h2>{{ route.difficulty }}</h2>
+{% endblock %}
+
+{% block tickle_main %}
+  <div>{{ route.notes }}</div>
+
+  {% if route.pitches.count == 1 %}
+    {% include 'tickle/pitch_list_item.html' with pitch=route.pitches.first %}
+  {% else %}
+    <ul>
+      {% for pitch in route.pitches.all %}
+        <li>{% include 'tickle/pitch_list_item.html' %}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endblock %}
