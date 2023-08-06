@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: bigslice
+Version: 1.1.1
+Summary: A highly scalable, user-interactive tool for the large scale analysis of Biosynthetic Gene Clusters data
+Home-page: https://github.com/satriaphd/bigslice
+Author: Satria A. Kautsar
+Author-email: satriaphd@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: biopython (<=1.76,>=1.73)
+Requires-Dist: scikit-learn
+Requires-Dist: pysqlite3
+
+Please see our GitHub page: https://github.com/medema-group/bigslice
+
+
