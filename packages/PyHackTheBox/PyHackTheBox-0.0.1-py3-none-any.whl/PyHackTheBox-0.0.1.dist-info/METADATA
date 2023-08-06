@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: PyHackTheBox
+Version: 0.0.1
+Summary: A wrapper for the Hack The Box API.
+Home-page: UNKNOWN
+Author: clubby789@github.com
+Author-email: clubby789@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: requests (==2.25.1)
+
+# PyHackTheBox
+[![Run Tests](https://github.com/clubby789/htb-api/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/clubby789/htb-api/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/clubby789/htb-api/branch/master/graph/badge.svg?token=NPoxQPqdyN)](https://codecov.io/gh/clubby789/htb-api)
+
+PyHackTheBox is an unofficial Python library to interact with the Hack The Box API.
+
+
+## Install
+`python setup.py install`
+
+## Demo
+```py
+from hackthebox import HTBClient
+client = HTBClient(email="user@example.com", password="S3cr3tP455w0rd!")
+print(client.user)
+```
+
+
