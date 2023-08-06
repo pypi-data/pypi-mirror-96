@@ -1,0 +1,7 @@
+numpy
+pandas
+periodictable==1.5.2
+scipy
+matplotlib
+six
+plotly
