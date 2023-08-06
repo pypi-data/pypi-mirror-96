@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: zarr-jpeg
+Version: 0.1.1
+Summary: JPEG Compression for uint8 zarr arrays
+License: MIT
+Author: Davis Vann Bennett
+Author-email: davis.v.bennett@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: imagecodecs (>=2020.1.31,<2021.0.0)
+Requires-Dist: numcodecs (>=0.6.4,<0.7.0)
