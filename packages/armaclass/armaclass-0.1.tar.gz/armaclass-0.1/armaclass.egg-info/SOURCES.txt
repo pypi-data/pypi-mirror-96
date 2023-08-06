@@ -1,0 +1,11 @@
+README.md
+setup.py
+armaclass/__init__.py
+armaclass/arma_generator.py
+armaclass/generator.py
+armaclass/parser.py
+armaclass.egg-info/PKG-INFO
+armaclass.egg-info/SOURCES.txt
+armaclass.egg-info/dependency_links.txt
+armaclass.egg-info/top_level.txt
+test/test_basic.py
