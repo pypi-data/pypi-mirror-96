@@ -1,0 +1,7 @@
+requests
+bs4
+selenium
+lxml
+pandas
+openpyxl
+numpy
