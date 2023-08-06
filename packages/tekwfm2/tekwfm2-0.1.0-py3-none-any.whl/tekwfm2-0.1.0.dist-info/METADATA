@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: tekwfm2
+Version: 0.1.0
+Summary: Parser for Tektronix WFM v.2 binary files
+Home-page: https://github.com/vongostev/tekwfm2
+Author: Pavel Gostev
+Author-email: gostev.pavel@physics.msu.ru
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+
+# TekWFM2
+Parser for Tektronix WFM v.2 binary files
+
+Module reads volts vs. time records (including fastframes) from little-endian version 2 WFM files
+
+ScopeData interface is unified with [LeCroyParser](https://github.com/bennomeier/leCroyParser) interface.
+
+
