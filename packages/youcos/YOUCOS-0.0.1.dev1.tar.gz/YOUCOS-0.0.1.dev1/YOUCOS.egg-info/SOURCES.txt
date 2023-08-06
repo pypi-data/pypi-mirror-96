@@ -1,0 +1,11 @@
+README.md
+setup.py
+YOUCOS.egg-info/PKG-INFO
+YOUCOS.egg-info/SOURCES.txt
+YOUCOS.egg-info/dependency_links.txt
+YOUCOS.egg-info/requires.txt
+YOUCOS.egg-info/top_level.txt
+youcos/__init__.py
+youcos/requests.py
+youcos/scrape_youtube.py
+youcos/test.py
