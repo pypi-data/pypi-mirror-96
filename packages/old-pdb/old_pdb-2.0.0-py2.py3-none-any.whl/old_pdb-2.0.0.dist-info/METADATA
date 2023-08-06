@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: old-pdb
+Version: 2.0.0
+Summary: This code reads and writes the old Protein Data Bank format.
+Home-page: https://github.com/Electrostatics/pdb2cif
+Author: Nathan Baker
+Author-email: nathanandrewbaker@gmail.com
+License: CC0-1.0
+Keywords: science chemistry biophysics biochemistry
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Common Public License
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Classifier: Topic :: Scientific/Engineering :: Physics
+Requires-Python: >=3.8
+Requires-Dist: requests
+
+This code reads and writes the old PDB format (https://www.wwpdb.org/documentation/file-format-content/format33/v3.3.html).
+
+
