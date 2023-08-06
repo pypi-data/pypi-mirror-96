@@ -1,0 +1,10 @@
+betterproto/__init__.py,sha256=WQJH38qcvERnGacqyfhBPNeFjuZIBZelEyTKu64TPTk,40055
+betterproto/casing.py,sha256=LNdM-U8DBmFSEc-BFhxsXaKolCoP0vFS2A9zgsAkETM,799
+betterproto/plugin.py,sha256=UoAtt8Eqq7TcWBro7iWKzHTBohSpOKmYkvEBKzML7_s,17929
+betterproto/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+betterproto/templates/template.py.j2,sha256=x2Yx4QoZsOE22ubjG1UjsjlVdAwIZ1nO0ZZpFJTer-E,2820
+betterproto_for_temporal_python_sdk-1.2.5.dist-info/METADATA,sha256=cRKbkMHi77JQaLjaKR4txcxfB2kHiVgRPLBUvuR6R3E,12554
+betterproto_for_temporal_python_sdk-1.2.5.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+betterproto_for_temporal_python_sdk-1.2.5.dist-info/entry_points.txt,sha256=9l0LBr136XJ1pH9i8CgYXCsAQlAhaU1Jib-ymh5SEfc,75
+betterproto_for_temporal_python_sdk-1.2.5.dist-info/top_level.txt,sha256=_H72mtj5MPshEdra8mpr89N2ljNKuX6-f01wOrNA2_o,12
+betterproto_for_temporal_python_sdk-1.2.5.dist-info/RECORD,,
