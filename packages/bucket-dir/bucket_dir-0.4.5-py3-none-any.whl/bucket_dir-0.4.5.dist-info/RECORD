@@ -1,0 +1,7 @@
+bucket_dir/__init__.py,sha256=KsMs_H66lYffGI58MBC63yGHmzbPxqwOy52N3k2oGqg,5685
+bucket_dir/templates/index.html.j2,sha256=8cu7UNlsGdT0tmbdX34fP3fG79-wMwCzvt2g0l2J2Bw,658
+bucket_dir-0.4.5.dist-info/entry_points.txt,sha256=5cONSHYan3C0kd9WLNQXYOPbMdoKeJB4RLp11Y3kAXk,49
+bucket_dir-0.4.5.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+bucket_dir-0.4.5.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+bucket_dir-0.4.5.dist-info/METADATA,sha256=7Om02SlIDtC3cTGxCEwAxID3Onl7FqbIjPyOBbXiBMs,3525
+bucket_dir-0.4.5.dist-info/RECORD,,
