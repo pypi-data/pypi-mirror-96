@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: cursotools
+Version: 0.1
+Summary: Módulo para exemplificar construção de projetos Python no curso PyTools
+Home-page: https://github.com/Slimelvl1/cursotools
+Author: Pedro Henrique
+Author-email: pedroh.af@hotmail.com
+License: GNU AFFERO GENERAL PUBLIC LICENSE
+Description: # -libpythonpro-
+        MÃ³dulo para exemplificar construÃ§Ã£o de projetos no curso pytools
+        
+        Nesse curso Ã© ensinado como contribuir com projetos de cÃ³digo aberto
+        
+        Link do curso [Python Pro] (https://pythonprobr.appspot.com/)
+        
+        [![Build Status](https://travis-ci.org/Slimelvl1/-libpythonpro-.svg?branch=main)](https://travis-ci.org/Slimelvl1/-libpythonpro-)
+        [![Updates](https://pyup.io/repos/github/Slimelvl1/-libpythonpro-/shield.svg)](https://pyup.io/repos/github/Slimelvl1/-libpythonpro-/)
+        [![Python 3](https://pyup.io/repos/github/Slimelvl1/-libpythonpro-/python-3-shield.svg)](https://pyup.io/repos/github/Slimelvl1/-libpythonpro-/)
+        
+        Suportada versÃ£o 3 de Python
+        
+        Para instalar:
+        
+        ```console
+        python3 -m venv .venv
+        source .venv/bin/activate
+        pip install -r requirements-dev.txt
+        ```
+        
+        Para conferir a qualidade de cÃ³digo:
+        
+        ```console
+        flake8
+        ```
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Framework :: Pytest
+Description-Content-Type: text/markdown
