@@ -1,0 +1,6 @@
+include README.MD
+include safebox/src/*.h
+include safebox/src/Encryptions/*.h
+include safebox/src/Encryptions/common/*.h
+include safebox/src/Encryptions/Encryptions/*.h
+include safebox/src/Encryptions/modes/*.h
