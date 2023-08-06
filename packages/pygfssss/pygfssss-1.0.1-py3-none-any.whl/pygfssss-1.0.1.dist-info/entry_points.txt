@@ -1,0 +1,5 @@
+[console_scripts]
+pygfcombine = pygfssss.gfcombine:main
+pygfsplit = pygfssss.gfsplit:main
+pygfssss = pygfssss.gfssss:main
+
