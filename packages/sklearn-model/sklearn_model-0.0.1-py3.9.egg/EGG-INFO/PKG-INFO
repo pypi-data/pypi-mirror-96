@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: sklearn-model
+Version: 0.0.1
+Summary: Export scikit-learn models into JSON for Inference.
+Home-page: https://github.com/animator/sklearn-model
+Author: Ankit Mahato
+Author-email: ankit@realworldpython.guide
+License: UNKNOWN
+Project-URL: Source Code, https://github.com/animator/sklearn-model
+Project-URL: Bug Tracker, https://github.com/animator/sklearn-model/issues
+Project-URL: Documentation, https://realworldpython.guide/sklearn-model/
+Description: UNKNOWN
+Keywords: scikit-learn json scoring inference engine deployment machine learning data mining
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Natural Language :: English
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown
