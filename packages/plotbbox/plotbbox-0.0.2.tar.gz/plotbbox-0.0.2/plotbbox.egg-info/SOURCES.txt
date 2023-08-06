@@ -1,0 +1,9 @@
+README.md
+setup.py
+plotbbox/__init__.py
+plotbbox/plot.py
+plotbbox.egg-info/PKG-INFO
+plotbbox.egg-info/SOURCES.txt
+plotbbox.egg-info/dependency_links.txt
+plotbbox.egg-info/requires.txt
+plotbbox.egg-info/top_level.txt
