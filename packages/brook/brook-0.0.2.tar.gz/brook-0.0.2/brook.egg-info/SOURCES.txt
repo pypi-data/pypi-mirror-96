@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+brook/__init__.py
+brook/utils.py
+brook.egg-info/PKG-INFO
+brook.egg-info/SOURCES.txt
+brook.egg-info/dependency_links.txt
+brook.egg-info/top_level.txt
