@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: lookfor1
+Version: 1.0.1
+Summary: look for things
+Home-page: https://github.com/breakthatbass/lookfor
+Author: Taylor Gamache
+Author-email: gamache.taylor@gmail.com
+License: MIT
+Description: # lookfor
+        
+        ```lookfor``` is a simple command line tool to find things: files, directories, and files by extension. `lookfor` consists of only two commands (besides `--version` and `--help`), and aims to replace two Unix commands by being simpler to use and return results faster.
+        
+        ### Installation
+        
+        `pip install lf-lookfor`
+        
+        
+        ### Usage
+        
+        `lf <flag> <file/ext>`
+        
+        #### Commands:
+        ```
+        --file, -f file/dir          searches for file/dir and prints all paths. Starts in cwd.
+        --ext, -e extension          searches for extension and prints all paths. Starts in cwd.
+        --version, -V                prints version info.
+        --help, -h                   prints usage
+        ```
+        
+        | unix command                    | lookfor command   | what is does                     |
+        | ------------------------------- | ----------------- | -------------------------------- |
+        | `find . \| grep file/dir`       | `lf -f file/dir`  | prints all paths that match      |
+        | `find . -type f -name "*.ext"`  | `lf -e ext`       | prints all paths that have `ext` |
+        
+        #### Run tests
+        run `pytest` in the root directory of the project.
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
