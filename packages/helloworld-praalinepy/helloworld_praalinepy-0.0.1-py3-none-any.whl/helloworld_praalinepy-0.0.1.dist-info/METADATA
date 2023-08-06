@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: helloworld-praalinepy
+Version: 0.0.1
+Summary: Hello world for python packaging
+Home-page: https://www.praaline.org
+Author: George Christodoulides
+Author-email: george@mycontent.gr
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest (>=3.7) ; extra == 'dev'
+
+# Hello World
+
+This is an example project demostrating how to publish a Python module to PyPI.
+
+## Installation
+
+Run the following to install:
+
+```python
+pip install helloworld-praalinepy
+```
+
+## Usage
+
+```python
+from helloworld import say_hello
+
+# Generate "Hello, World!"
+say_hello()
+
+# Generate "Hello, Everybody!"
+say_hello("Everybody")
+```
+
+## Development
+
+To install the development tools for testing, run the following in a virtualenv:
+
+```bash
+$ pip install -e .[dev]
+```
+
+
