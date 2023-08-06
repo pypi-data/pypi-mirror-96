@@ -1,0 +1,14 @@
+srtcleaner/__about__.py,sha256=OwCaI38zaJDuRPijCbYpjDQC6NEJRL0tzRMNXLGuwsk,3618
+srtcleaner/__init__.py,sha256=thcXZD3RO0coLM0UERGs4EowMy0jP95jCjclfjaCpq0,1363
+srtcleaner/__main__.py,sha256=Z1f3xMSvHm_tVtYjchR1EOrqj9ZJCkswMveCBzz7Ut8,993
+srtcleaner/apppaths.py,sha256=0h8o5RRUybVlhdKJw_nI16gAi3oMszA_tdY9CmiEVxQ,4827
+srtcleaner/srtcleaner.py,sha256=DRJzn7nHxNZA3J5ttdvWYb5hyl4Ug6IYeQ1Db3fAymw,11966
+srtcleaner/data/README.conf.txt,sha256=IkpZyY1HyHDT8r10xlo9Msq2o0P0rn_mOQmTtZ6vyT0,890
+srtcleaner/data/nautilus-script.sh,sha256=hRjYKSorAl2TYmpTebit3RbMIUrop1xVw6r6EnHwzPg,551
+srtcleaner/data/srtcleaner.template.conf,sha256=YN1i28BKJHfmDeRS7nc53oBeNHa58okYi-zDhC4MQFI,65
+srtcleaner-1.1.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+srtcleaner-1.1.0.dist-info/METADATA,sha256=s9iX5z2oOrTXdXal3kugDhZHD7VpOjiLoVg7uO_Ghsc,7848
+srtcleaner-1.1.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+srtcleaner-1.1.0.dist-info/entry_points.txt,sha256=pqjjRlQrNnCR8K4-te1r_rrXSFu9eLeY3VKu7IoNLwg,47
+srtcleaner-1.1.0.dist-info/top_level.txt,sha256=mD2OcvXUq9qMMjMoRwMeml6mzry2vtTcIKv4WY2s6ic,11
+srtcleaner-1.1.0.dist-info/RECORD,,
