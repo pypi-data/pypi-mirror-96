@@ -1,0 +1,69 @@
+Metadata-Version: 2.1
+Name: moodle-kit
+Version: 0.1.7
+Summary: A simple Python package with some functionalities to interact with moodle-based LMS.
+Home-page: https://github.com/ahmadfebrianto/moodle-kit
+Author: Ahmad Febrianto
+Author-email: achmadfebryanto@gmail.com
+License: GNU General Public License v3.0
+Download-URL: https://github.com/ahmadfebrianto/moodle-kit/archive/v0.1.7.tar.gz
+Description: # moodle-kit
+        A small Python package with some functionalities to deal with moodle-based LMS.
+        
+        
+        ## Installation
+        
+        ```python
+        # New installation
+        pip3 install moodle-kit
+        ```
+        or
+        
+        ```python
+        # Upgrade installation
+        pip3 install moodle-kit --upgrade
+        ```
+        
+        ## Usage
+        
+        ```python
+        # Import Moodle class from package
+        from moodle_kit import Moodle
+        
+        # Instantiate an object from Moodle class
+        moodle = Moodle()
+        ```
+        
+        ## Available features
+        
+        * Login 
+        ```python
+        login_url = 'https://example.com/login/index.php'
+        username = 'your_username'
+        password = 'your_password'
+        
+        moodle.login(login_url, username, password)
+        
+        # The response object is automatically saved in moodle.response property. 
+        print(moodle.response.status_code)
+        
+        # However, you can also assign a varible to it.
+        response = moodle.login(login_url, username, password)
+        print(moodle.response.status_code)
+        ```
+        
+        * Logout
+        ```python
+        moodle.logout()
+        
+        # After logging out, the moodle.response property is updated. So, you can verify if it's successful or not by printing the url.
+        print(moodle.response.url)
+        ```
+        
+Keywords: moodle
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3.6
+Description-Content-Type: text/markdown

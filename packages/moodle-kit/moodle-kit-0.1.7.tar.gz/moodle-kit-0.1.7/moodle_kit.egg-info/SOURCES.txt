@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+moodle_kit/__init__.py
+moodle_kit/main.py
+moodle_kit.egg-info/PKG-INFO
+moodle_kit.egg-info/SOURCES.txt
+moodle_kit.egg-info/dependency_links.txt
+moodle_kit.egg-info/requires.txt
+moodle_kit.egg-info/top_level.txt
