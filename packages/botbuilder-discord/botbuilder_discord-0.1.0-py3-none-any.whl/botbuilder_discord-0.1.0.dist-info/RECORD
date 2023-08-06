@@ -1,0 +1,17 @@
+botbuilder_discord/__init__.py,sha256=EcarhxuMyTMQDT_xYZc3Oqp4rmP0MFzaJPKxPmtFNSk,113
+botbuilder_discord/connector.py,sha256=6-mO1wmMWXKQvzsa6Tiyn2feIspR_vB_-6Z0qt6CK9U,760
+botbuilder_discord/session.py,sha256=brpESMIobIQTZX8l4Ey9AQDOCLT9seeN8FVa0UTSPhg,74
+botbuilder_discord/client/__init__.py,sha256=q3kwQVjn0w06gll5rSOBOzQE6IiblVltCN_1C30VFNQ,102
+botbuilder_discord/client/client.py,sha256=ygMjFtJi8M08dpIu8f68WTEXOxHn3BAM-yr0RwHs7g8,994
+botbuilder_discord/client/queue.py,sha256=kL5oA6cE0ad8eFRFP3w3GurPaqB590S-DqrO9-NssuE,1483
+botbuilder_discord/client/listener/__init__.py,sha256=GQlR3Ds4PGGVTK8VPlLPBUAFGPBLOXrU4kGIW3L4F_Y,56
+botbuilder_discord/client/listener/listener.py,sha256=JVR4oKEwJErmwdFHTEbUlt_M3Sj0RqEaSs2ArZerwPA,1966
+botbuilder_discord/client/sender/__init__.py,sha256=euzr-slhCfD2HH-4hSdhIpxZhU481Aw5Z-2Higa5Sn8,234
+botbuilder_discord/client/sender/message.py,sha256=Wlgk4P2wJPIVcquQP2GJWt81vbexwg3nctcf-07UmD0,1653
+botbuilder_discord/client/sender/send_text_message.py,sha256=mrPbBQk7QnRuOqiGuMf2ODVTPR0_qEkuJKOgnmgFWLg,741
+botbuilder_discord/client/sender/start_conversation_message.py,sha256=NWhbx7mfSEWdW7xAazTISDPy9E-jnaSp-lXam3x-zh0,855
+botbuilder_discord-0.1.0.dist-info/LICENSE,sha256=bKVnfmOpABAJGcM6vYFDQACjzsR_4qF46eXhqKvC0D4,1072
+botbuilder_discord-0.1.0.dist-info/METADATA,sha256=SadeABhLxjxLZSQlIuMamqNz3R1WBB1UHEDAeEfRFIg,999
+botbuilder_discord-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+botbuilder_discord-0.1.0.dist-info/top_level.txt,sha256=QmZ6dXV0RuytiJdViFfJW3ebUbx6VqM36qumyk71ugA,19
+botbuilder_discord-0.1.0.dist-info/RECORD,,
