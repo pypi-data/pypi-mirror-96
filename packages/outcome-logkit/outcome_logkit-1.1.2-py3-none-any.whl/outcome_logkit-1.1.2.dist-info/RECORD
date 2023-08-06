@@ -1,0 +1,15 @@
+outcome/logkit/__init__.py,sha256=AnIkB3qCCGDf9qfKLoRE9GyvuR_fBauIZICfXOZ-UHU,186
+outcome/logkit/context.py,sha256=TJ8bbBAdrM6ipoW8nrpe1vpaDare02YFWa9fHv7ZBdM,438
+outcome/logkit/filters.py,sha256=48m7zIB1atJISIb0NP9ALlOVJupmnTkpslgY7spk6R0,280
+outcome/logkit/fixtures/__init__.py,sha256=_7kPfXbc4wzqm3Orbd2Z4QpigtgIKRGiCVOfOHzNI0o,91
+outcome/logkit/fixtures/log_output.py,sha256=3-g1B51vlGrbUKC5JS0chyHXlC3V49j_rAiD2Qf9SNA,1098
+outcome/logkit/init.py,sha256=6PN9Y7DrIVU43Y0wK6bnuiKzDXuBw07fOxX8NYOYDnM,5549
+outcome/logkit/intercept.py,sha256=n7EsmHxHdKDRAjseHmbfLaQpd-UC1cOEhU4A_nPvrBU,8342
+outcome/logkit/logger.py,sha256=nhZ_hTbtUOCgzxk5wq-dAqt1iHL-mHdeio_xmECHDZQ,430
+outcome/logkit/proxy.py,sha256=7gJBbf3mNlTZe97rhRHk7ZTFcvUt9Zne-FTqkilw5Yk,1306
+outcome/logkit/py.typed,sha256=la67KBlbjXN-_-DfGNcdOcjYumVpKG_Tkw-8n5dnGB4,8
+outcome/logkit/stackdriver.py,sha256=mnYFlB6NJIHBDJ5BMNoHm9fPugE9-k_YEdn5j3GbEE4,1294
+outcome/logkit/types.py,sha256=4t94SqBu1WOLt4aNnaC9IafHl-2YvZcF2FryZwC6yTM,1470
+outcome_logkit-1.1.2.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+outcome_logkit-1.1.2.dist-info/METADATA,sha256=IzlXeen_3tAc_H7a5_k4U0VKVxLURivVvw0ATnNKgmQ,4480
+outcome_logkit-1.1.2.dist-info/RECORD,,
