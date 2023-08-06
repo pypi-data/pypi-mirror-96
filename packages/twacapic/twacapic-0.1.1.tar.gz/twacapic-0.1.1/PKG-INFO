@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: twacapic
+Version: 0.1.1
+Summary: A Twitter Academic API Client
+Home-page: https://github.com/Leibniz-HBI/twacapic
+License: MIT
+Author: Felix Victor Münch
+Author-email: f.muench@leibniz-hbi.de
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: TwitterAPI (>=2.6.9,<3.0.0)
+Project-URL: Repository, https://github.com/Leibniz-HBI/twacapic
+Description-Content-Type: text/markdown
+
+# twacapic
+Twitter Academic API Client
+
