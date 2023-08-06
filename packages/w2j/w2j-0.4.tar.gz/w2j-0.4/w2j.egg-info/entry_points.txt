@@ -1,0 +1,3 @@
+[console_scripts]
+w2j = w2j:main
+

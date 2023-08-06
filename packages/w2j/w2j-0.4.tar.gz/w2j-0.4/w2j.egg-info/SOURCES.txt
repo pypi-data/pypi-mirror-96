@@ -1,0 +1,15 @@
+README.md
+setup.py
+w2j/__init__.py
+w2j/__main__.py
+w2j/adapter.py
+w2j/joplin.py
+w2j/parser.py
+w2j/wiz.py
+w2j.egg-info/PKG-INFO
+w2j.egg-info/SOURCES.txt
+w2j.egg-info/dependency_links.txt
+w2j.egg-info/entry_points.txt
+w2j.egg-info/not-zip-safe
+w2j.egg-info/requires.txt
+w2j.egg-info/top_level.txt
