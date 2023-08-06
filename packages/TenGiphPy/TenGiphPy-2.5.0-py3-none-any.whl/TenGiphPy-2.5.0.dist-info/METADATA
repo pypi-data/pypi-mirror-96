@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: TenGiphPy
+Version: 2.5.0
+Summary: API Wrapper for the Gif library Tenor and Giphy. Join my server: https://discord.gg/uFdVUMH
+Home-page: https://github.com/realSnosh/TenGiphPy
+Author: Snosh
+Author-email: UNKNOWN
+License: MIT
+Download-URL: https://github.com/realSnosh/TenGiphPy/archive/2.5.0.tar.gz
+Keywords: giphy,tenor,python,python3,api,wrapper,alphasnosh,snosh
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: requests
+
+UNKNOWN
+
+
