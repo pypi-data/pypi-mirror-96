@@ -1,0 +1,9 @@
+catalyst_codestyle-21.3rc0.data/scripts/catalyst-check-codestyle,sha256=Ce0QGx2Lm_GuEamIJt6CRnI32q7wLP00qae71rCvwF4,2081
+catalyst_codestyle-21.3rc0.data/scripts/catalyst-codestyle-flake8,sha256=jDMrQkUFOKNqudXIkL0pB8gbFYTOVugQRW2rNu4ov70,1711
+catalyst_codestyle-21.3rc0.data/scripts/catalyst-codestyle-isort,sha256=5O7IMhq-gG7fiHpjLIVJAR9H55_8_3X_mXv7RzL0U60,856
+catalyst_codestyle-21.3rc0.data/scripts/catalyst-make-codestyle,sha256=rpCX6tErOmw-02DwRZB56VnG5e8bZdgYO5W1jJfdQbc,1613
+catalyst_codestyle-21.3rc0.dist-info/LICENSE,sha256=nhJ7fcHpQ2hMZVYRT6Xnr_CjVfvPWk0KJuyWYk772pI,11392
+catalyst_codestyle-21.3rc0.dist-info/METADATA,sha256=Tu8Rdjj7VxYwkxV0ySOzUiti0dBe8v4QRAfT8JlEGds,4443
+catalyst_codestyle-21.3rc0.dist-info/WHEEL,sha256=kGT74LWyRUZrL4VgLh6_g12IeVl_9u9ZVhadrgXZUEY,110
+catalyst_codestyle-21.3rc0.dist-info/top_level.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+catalyst_codestyle-21.3rc0.dist-info/RECORD,,
