@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: openapi-perf
+Version: 0.0.1
+Summary: An Automatic REST Endpoint Performance Test Generation Suite
+Home-page: https://github.com/awtkns/openapi-perf
+Author: Adam Watkins, Ethan Haid
+License: MIT
+Platform: UNKNOWN
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Web Environment
+Classifier: Framework :: AsyncIO
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Internet
+Classifier: Topic :: Internet :: WWW/HTTP :: HTTP Servers
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Code Generators
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Testing
+Classifier: Topic :: Software Development :: Testing :: Traffic Generation
+Classifier: Typing :: Typed
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+<h3 align="center">OpenAPI-Perf</h3>
+<p align="center">
+<em>An Automatic REST Endpoint Performance Test Generation Suite</em>
+</p>
+<p align="center">
+  <img alt="Tests" src="https://github.com/awtkns/openapi-perf/workflows/Python%20application/badge.svg" />
+  <a href="https://pypi.org/project/openapi-perf" target="_blank">
+    <img src="https://img.shields.io/pypi/v/openapi-perf?color=%2334D058&label=pypi%20package" alt="Package version">
+</a>
+</p>
+---
+
+This project will make use of the OpenAPI schema to build an automated REST API performance testing and benchmarking tool. OpenAPI defines an interface for REST APIs allowing automated generation of an API schema which provides insights on the API's usage and expected input and response values. Using the OpenAPI schema we hope automatically generate tests covering all endpoints. We will use these generated tests to both test for endpoint correctness and to gather relevant performance metrics such as response time. We will finally generate an informative report on endpoint performance and correctness, allowing developers to quickly determine potentially problematic endpoints and endpoints that would benefit most from optimization.
+
+## Installation
+```python
+pip install openapi-perf
+```
+
+## Usage
+Comming soon
+
+
