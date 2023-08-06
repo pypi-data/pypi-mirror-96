@@ -1,0 +1,12 @@
+exchangeratesapi/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+exchangeratesapi/__main__.py,sha256=0636jpdZhJw5dFiteXKD6b1GBcuQCkWEeLHJ2pm4yDA,83
+exchangeratesapi/currency.py,sha256=V3wTi6X9AqKHvX3UDQ-TtO_zg0N4uFvKTggrdNkufZ8,465
+exchangeratesapi/functions.py,sha256=CqklIjgzBOsgX5BlkWTNfJkON_fAf25xDdNae_Y18yk,523
+exchangeratesapi/main.py,sha256=_HWLQ_Imbf87P1JNfc-Ut_npThZbz1JYI-yYGXp1H1k,63
+exchangeratesapi/rates.py,sha256=Rgw59LygA1lTYTgeLxNjiI8p8HRBfZvFal6W3Wgw3Og,2125
+exchangeratesapi-0.1.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+exchangeratesapi-0.1.0.dist-info/METADATA,sha256=WJAxxgWx46Twmsu2gq_xyoAYnlk3WkWk46CQf2BEsvI,2516
+exchangeratesapi-0.1.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+exchangeratesapi-0.1.0.dist-info/entry_points.txt,sha256=EfXocuTo0suI3xMqzsjv51EgF5Xkxg1pp-LMt4vXi3w,53
+exchangeratesapi-0.1.0.dist-info/top_level.txt,sha256=z1Ylko-YhMG6vCdJ4fylsiRkV1kfSAUOtFS58gBeir0,17
+exchangeratesapi-0.1.0.dist-info/RECORD,,
