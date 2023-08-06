@@ -1,0 +1,13 @@
+stockai/__init__.py,sha256=htARs_D2IjQIZisoHjkFdPUUMWGeemVy8p6j0T3Dt-4,208
+stockai/utils.py,sha256=3Vab5qX1Ri8bNaZTLiWHttXE9MnWuCzRYj7nap-S5hM,625
+stockai/wealthsimple/__init__.py,sha256=xs6FTLpGfF9v6snaozlmnCKxLyDnCkNoD7QaW_nSRNY,111
+stockai/wealthsimple/requests.py,sha256=UbuLdq3VAhVRqK433MAvgq8Ln4lIWJmxKlPyIi7vlcA,830
+stockai/wealthsimple/stock.py,sha256=SXh3CNKx6eXZrxwe8rRIYxWqfhT_pOgW-GvtYP8jiPg,2147
+stockai/yahoo/__init__.py,sha256=XcCIEpY2K0lxnvyHGpioE_Q3YVmgceiFuULMVYyKxkk,92
+stockai/yahoo/base.py,sha256=mmFhE8LgbRUYR4_dn28M5wz4LRWyC37WxTAjABJ8UcM,2607
+stockai/yahoo/stock.py,sha256=RikCxvAdaSvNHS2zhbgdN24cCAGARz6GfH6O-lNEvdc,925
+stockai-1.4.0.dist-info/LICENSE,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+stockai-1.4.0.dist-info/METADATA,sha256=75k5wDb1_l4Y69GLHH11r13W1X5uNX-ULdieQnBsNyE,2294
+stockai-1.4.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+stockai-1.4.0.dist-info/top_level.txt,sha256=OiGKlEM-5kFDRBNno1ER2uyekyJXUnNF8x8JLj6cF-M,8
+stockai-1.4.0.dist-info/RECORD,,
