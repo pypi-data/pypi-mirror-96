@@ -1,0 +1,3 @@
+[console_scripts]
+greet=pybookmd.__main__:main
+
