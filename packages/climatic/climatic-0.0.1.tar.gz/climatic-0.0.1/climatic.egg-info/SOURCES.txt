@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+climatic/CoreCli.py
+climatic/Logger.py
+climatic/__init__.py
+climatic.egg-info/PKG-INFO
+climatic.egg-info/SOURCES.txt
+climatic.egg-info/dependency_links.txt
+climatic.egg-info/top_level.txt
+climatic/connections/Connection.py
+climatic/connections/Ssh.py
+climatic/connections/__init__.py
