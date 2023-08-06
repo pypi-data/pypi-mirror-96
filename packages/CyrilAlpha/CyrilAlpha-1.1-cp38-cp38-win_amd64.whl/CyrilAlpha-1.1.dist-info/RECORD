@@ -1,0 +1,14 @@
+CyrilAlpha/__init__.py,sha256=rgZYKK959uj2vm823-BqFk0VmyKbDy5aVGe3mYaelqw,190
+CyrilAlpha/Module/Cyril_analyse.cp38-win_amd64.pyd,sha256=QZMbdpnvN_qvDmcjvc2tYvBMnieAM4hnBxggSgafe5U,218624
+CyrilAlpha/Module/Cyril_context.cp38-win_amd64.pyd,sha256=HMBO6fceIZMCnuRKfgVFUwYOgTzL4Fzsh9gVm3TPmrY,91648
+CyrilAlpha/Module/Cyril_module.cp38-win_amd64.pyd,sha256=gnO-M0-8vvpTsabuEpMA6YWnACf8QlQw8ytEReivtzo,113152
+CyrilAlpha/Module/Cyril_operators.cp38-win_amd64.pyd,sha256=atRgm7qV8sRGOwyl8nnC1nWsoq5VLcpTvAZcVuJiacc,93696
+CyrilAlpha/Module/Cyril_tradingday.cp38-win_amd64.pyd,sha256=ewZlSyVui5HfTjZkrW5XqQJNikj_-bha4odhfXNWRN4,56320
+CyrilAlpha/Module/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+CyrilAlpha/Module/futures_attributes.csv,sha256=z1Heoxjc-4NQz8xsTBUxS8L3UB0MFUVNyYo67J-jzHU,6960
+CyrilAlpha/Module/holidays.csv,sha256=3fMHYqkacI8PRU81IZthWee6qCs6Qsv_s0LNVToUuLQ,32295
+CyrilAlpha/Module/universes.txt,sha256=B38tyfIA1AcdF5IkjwP37yOYIi8R9abtxw7e_lGJNbM,1041
+CyrilAlpha-1.1.dist-info/METADATA,sha256=bm-PnP5YA4ePuGM0YSK_Hy5OBmq5YejFX7Yw0LI9wKA,637
+CyrilAlpha-1.1.dist-info/WHEEL,sha256=HLtxc_HoM-kGM7FPJVPSnTt0Nv2G3fZEAjT3ICdG8uY,100
+CyrilAlpha-1.1.dist-info/top_level.txt,sha256=uURv4yGWMkBmCxk8MHgF8pituIbYNPqtcN3EUN1iBkA,11
+CyrilAlpha-1.1.dist-info/RECORD,,
