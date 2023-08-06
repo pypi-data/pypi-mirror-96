@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+damedb.egg-info/PKG-INFO
+damedb.egg-info/SOURCES.txt
+damedb.egg-info/dependency_links.txt
+damedb.egg-info/not-zip-safe
+damedb.egg-info/requires.txt
+damedb.egg-info/top_level.txt
