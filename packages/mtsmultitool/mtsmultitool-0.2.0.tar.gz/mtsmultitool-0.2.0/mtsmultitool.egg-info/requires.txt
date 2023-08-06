@@ -1,0 +1,4 @@
+ecdsa>=0.15
+cbor>=1.0.0
+pyserial>=3.5
+xmodem>=0.4.6
