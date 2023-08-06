@@ -1,0 +1,11 @@
+deepmini/__init__.py,sha256=jUbwYzDxCJDelgSIOKI88Sth8YHYSO51COmk1gJlf0A,104
+deepmini/test.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+deepmini/datasets/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+deepmini/datasets/datasets.py,sha256=dh2EaGIkJsLd-kn5eVC8fDcg-H6kpIl4Aa4vv577vIs,13223
+deepmini/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+deepmini/utils/funcs.py,sha256=PMZYeI_Vr4VnsBveGttvF-J3O0X3_5p-e3It1GPMFOs,4792
+deepmini-0.0.5.dist-info/LICENSE,sha256=pl_waJZY-hPBbykGLTiFDGPGt80vk-h86pxe7n4bKoI,1085
+deepmini-0.0.5.dist-info/METADATA,sha256=71QH8gLXlGSIx2pdoAo0AbYFIm6s5esPbSwqYvBJHuw,683
+deepmini-0.0.5.dist-info/WHEEL,sha256=QBOOAdG2icRHGBs2s94rfaUlHrdfNBp-TceubUYCwOE,97
+deepmini-0.0.5.dist-info/top_level.txt,sha256=V_-UGSd1fRAwSqMt2VQnTj_KKmD6xdvsre5_0jZxNMk,9
+deepmini-0.0.5.dist-info/RECORD,,
