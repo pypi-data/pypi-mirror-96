@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: wifi-scan
+Version: 0.0.1
+Summary: Scan & report on visible access points (iwlist scan).
+Home-page: https://github.com/jesteria/wifi-scan
+Author: Jesse London
+Author-email: jesselondon@gmail.com
