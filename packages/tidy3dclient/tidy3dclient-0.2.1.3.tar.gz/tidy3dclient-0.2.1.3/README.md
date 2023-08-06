@@ -1,0 +1,1 @@
+This package is deprecated and has been replaced by [tidy3d](https://pypi.org/project/tidy3d/)!
