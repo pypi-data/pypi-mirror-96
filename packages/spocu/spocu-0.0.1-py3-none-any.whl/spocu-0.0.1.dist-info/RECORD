@@ -1,0 +1,8 @@
+spocu/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+spocu/spocu_pytorch.py,sha256=cSu1mbgNC6jRutzKwvri7Q5jrHdnZ8aUpglkz4Z2gPc,917
+spocu/spocu_tensorflow.py,sha256=n1Xbh6c1NOFjmXhTdBP9VLS0wZZIGD2xLQq5N2IKf6M,1100
+spocu-0.0.1.dist-info/LICENSE.md,sha256=jVI6Xz9573KG4u_e-X34RoljS1rPMwFBgYzlct3ShMI,1065
+spocu-0.0.1.dist-info/METADATA,sha256=7ZtoLTpbwuBrFRIchr8VFtVyk92Rfer7XFrG3DCpXnM,2135
+spocu-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+spocu-0.0.1.dist-info/top_level.txt,sha256=Eeki2pCLZRFQ9RjkEjTIPHZRa8ay6-j7emtQDtwhZ7I,6
+spocu-0.0.1.dist-info/RECORD,,
