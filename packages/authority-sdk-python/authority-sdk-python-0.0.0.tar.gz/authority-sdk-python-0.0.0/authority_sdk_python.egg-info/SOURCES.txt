@@ -1,0 +1,7 @@
+README.md
+setup.py
+authority_sdk_python.egg-info/PKG-INFO
+authority_sdk_python.egg-info/SOURCES.txt
+authority_sdk_python.egg-info/dependency_links.txt
+authority_sdk_python.egg-info/not-zip-safe
+authority_sdk_python.egg-info/top_level.txt
