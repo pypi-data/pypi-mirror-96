@@ -1,0 +1,12 @@
+MANIFEST.in
+README.rst
+setup.py
+MongoDBProxy_official.egg-info/PKG-INFO
+MongoDBProxy_official.egg-info/SOURCES.txt
+MongoDBProxy_official.egg-info/dependency_links.txt
+MongoDBProxy_official.egg-info/requires.txt
+MongoDBProxy_official.egg-info/top_level.txt
+mongo_proxy/__init__.py
+mongo_proxy/durable_cursor.py
+mongo_proxy/mongodb_proxy.py
+mongo_proxy/pymongo3_durable_cursor.py
