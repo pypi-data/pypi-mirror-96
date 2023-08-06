@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+aiotusclient/__init__.py
+aiotusclient/baseuploader.py
+aiotusclient/client.py
+aiotusclient/exceptions.py
+aiotusclient/request.py
+aiotusclient/uploader.py
+backend.ai_aiotusclient.egg-info/PKG-INFO
+backend.ai_aiotusclient.egg-info/SOURCES.txt
+backend.ai_aiotusclient.egg-info/dependency_links.txt
+backend.ai_aiotusclient.egg-info/not-zip-safe
+backend.ai_aiotusclient.egg-info/requires.txt
+backend.ai_aiotusclient.egg-info/top_level.txt
