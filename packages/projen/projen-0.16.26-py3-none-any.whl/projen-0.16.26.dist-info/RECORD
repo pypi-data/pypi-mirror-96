@@ -1,0 +1,16 @@
+projen/__init__.py,sha256=nEYDYl39ee0Fb1ak99EbAeKJEVenJ1RAvqmC5uFRQ3Q,1480469
+projen/py.typed,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+projen/_jsii/__init__.py,sha256=LibTP2lu3rWwj09ZzD0OOkMpPectaVjWQWX_vFcmcxM,303
+projen/_jsii/projen@0.16.26.jsii.tgz,sha256=Ba8aNf1zm8I8SCZsS_9Ugc06mnrBBrVcnjMDCcyUGi0,3573288
+projen/deps/__init__.py,sha256=3pLMjDeURxTMJTqsuk7qdsksQsgjTOJRjy84Om2p_2s,12749
+projen/github/__init__.py,sha256=hnw0WQ08Vv-bdRJoJgHksWCcq4EIfpQkGoST_v8GsvQ,28933
+projen/java/__init__.py,sha256=CL0xWs9NSGE3ZyUu-AWVtCQkIinAuj2Qqa6PWOzoTbM,80727
+projen/python/__init__.py,sha256=EtToefHnH0rnuRuJKqngXVcMaikBMdFNqDqyfG8w2Xs,102659
+projen/tasks/__init__.py,sha256=Dvfdh332q9G9dfj0VAXIZU7o-vvzA6YZrAX1jW4HySo,39006
+projen/vscode/__init__.py,sha256=n1VDY4TZQzgFr-mzm85Br2VhIbEu_NzPuzsrjh3meQU,25202
+projen/web/__init__.py,sha256=whfULfVHHObbojS7Pxg4BVWhb7Kc74Eahwk2VfLklaE,424665
+projen-0.16.26.data/scripts/projen,sha256=lZNerYNn2hv3LGkV-58Hdo5eFZ64wnLUfYXYnhrHrEk,210
+projen-0.16.26.dist-info/METADATA,sha256=xy77ignOhYlZtpESmuRk8PooIicJQVdt1o_ocTz_usE,21738
+projen-0.16.26.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+projen-0.16.26.dist-info/top_level.txt,sha256=Ul8VGUArFqejE5BMSked3l6NMBO6gjQEWywhM5gw1zw,7
+projen-0.16.26.dist-info/RECORD,,
