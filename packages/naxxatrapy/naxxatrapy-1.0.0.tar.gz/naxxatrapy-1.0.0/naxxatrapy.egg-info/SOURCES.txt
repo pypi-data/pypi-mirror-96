@@ -1,0 +1,9 @@
+README.md
+setup.py
+naxxatrapy/__init__.py
+naxxatrapy/naxxatrapy.py
+naxxatrapy/version.py
+naxxatrapy.egg-info/PKG-INFO
+naxxatrapy.egg-info/SOURCES.txt
+naxxatrapy.egg-info/dependency_links.txt
+naxxatrapy.egg-info/top_level.txt
