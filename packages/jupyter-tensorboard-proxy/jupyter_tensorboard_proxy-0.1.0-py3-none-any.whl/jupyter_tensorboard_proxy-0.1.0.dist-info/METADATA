@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: jupyter-tensorboard-proxy
+Version: 0.1.0
+Summary: kopkop@gmail.com
+Home-page: https://github.com/kopwei/jupyter-tensorboard-proxy
+Author: kopkop
+License: UNKNOWN
+Keywords: jupyter,tensorboard,jupyterhub
+Platform: UNKNOWN
+Classifier: Framework :: Jupyter
+Description-Content-Type: text/markdown
+Requires-Dist: jupyter-server-proxy (>=1.5.0)
+
+# jupyter-tensorboard-proxy
+Tensorboard  proxy plugin for jupyter-server-proxy
+
+
