@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: easy-mock
+Version: 2021.2.256rc3
+Summary: Generate mock service according to the YAML/JSON file in the current directory
+Home-page: UNKNOWN
+License: UNKNOWN
+Keywords: har converter HttpRunner yaml json
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+Requires-Dist: PyYAML
+Requires-Dist: jsonschema
+Requires-Dist: loguru
+Requires-Dist: flask
+
+UNKNOWN
+
+
