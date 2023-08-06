@@ -1,0 +1,22 @@
+Metadata-Version: 1.2
+Name: aicrowd-cli
+Version: 0.1.0
+Summary: A CLI app to interact with AIcrowd
+Home-page: https://github.com/AIcrowd/aicrowd-cli
+Author: Yoogottam Khandelwal
+Author-email: yoogottamk@outlook.com
+License: MIT
+Download-URL: https://github.com/AIcrowd/aicrowd-cli/archive/v0.1.0.tar.gz
+Description: 
+        aicrowd-cli
+        
+        A CLI app to interact with AIcrowd
+        
+Keywords: AIcrowd,CLI
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=0.0.1
