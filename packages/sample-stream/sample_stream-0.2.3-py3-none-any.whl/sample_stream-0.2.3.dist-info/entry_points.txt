@@ -1,0 +1,3 @@
+[console_scripts]
+sample=sample_stream.__main__:main
+
