@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pfin
+Version: 0.0.1
+Summary: Personal Finance simplified. A minimal toolkit to manage your finances from the command-line. Easy to learn and extendible.
+License: MIT
+Author: aahnik
+Author-email: daw@aahnik.dev
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
