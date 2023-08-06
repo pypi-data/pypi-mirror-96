@@ -1,0 +1,9 @@
+README.md
+setup.py
+PyDoge_oracle.egg-info/PKG-INFO
+PyDoge_oracle.egg-info/SOURCES.txt
+PyDoge_oracle.egg-info/dependency_links.txt
+PyDoge_oracle.egg-info/requires.txt
+PyDoge_oracle.egg-info/top_level.txt
+pydoge_oracle/__init__.py
+pydoge_oracle/oracle_client.py

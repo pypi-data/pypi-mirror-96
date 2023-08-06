@@ -1,0 +1,2 @@
+PyDoge
+cx_Oracle
