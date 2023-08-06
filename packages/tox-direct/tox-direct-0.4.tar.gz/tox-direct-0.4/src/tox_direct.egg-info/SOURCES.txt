@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+tox.ini
+src/tox_direct/__init__.py
+src/tox_direct/hookimpls.py
+src/tox_direct.egg-info/PKG-INFO
+src/tox_direct.egg-info/SOURCES.txt
+src/tox_direct.egg-info/dependency_links.txt
+src/tox_direct.egg-info/entry_points.txt
+src/tox_direct.egg-info/requires.txt
+src/tox_direct.egg-info/top_level.txt
+tests/conftest.py
+tests/test_tox_direct.py

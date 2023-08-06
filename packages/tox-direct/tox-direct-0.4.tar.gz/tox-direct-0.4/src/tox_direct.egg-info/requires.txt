@@ -1,0 +1,9 @@
+tox<4,>=3.12
+py
+pathlib2
+
+[publish]
+twine
+
+[test]
+pytest
