@@ -1,0 +1,16 @@
+MegaBeer/__init__.py,sha256=CvqZARqtIWnKjhGcy2KwivI6ywXpM8PohZKDd0HPUx0,38
+MegaBeer/datatypes.py,sha256=3XOh8WU1xPYWzbf_wp_JuPYeQE9ySad_yBGB85fVdUw,374
+MegaBeer/model/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+MegaBeer/model/hops/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+MegaBeer/model/hops/gravity_factor.py,sha256=bknKevdOIS6Q8Q2EYEOHWRN2WnppdWH3FnSRrRceHHI,1518
+MegaBeer/model/hops/ibu_calculations.py,sha256=1OwZSXWcFnDjH-UZTLgKmRBhnv0vzLPTsw7iMavjhgs,155
+MegaBeer/model/hops/iso_time.py,sha256=99I5iYcm0H8Yz5e9sEujODG71U0w3_95QszcoHJmiyw,8589
+MegaBeer/science/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+MegaBeer/science/heat.py,sha256=x6AwDkbvGUuRzwaS1ElOSN86yMb8Tdp08I2fCJtW1Ok,2144
+MegaBeer/science/reaction.py,sha256=lQpCqexlnusySAif-UgODIknj9DrJjBl0fYBV4IYBlM,1976
+MegaBeer/science/state_equations.py,sha256=K9m3KSufWm-0rvqR-QKQmT4fhQp9ncpxnx2mImjjK7s,1069
+MegaBeer-0.0.3.dist-info/LICENSE,sha256=YF6QR6Vjxcg5b_sYIyqkME7FZYau5TfEUGTG-0JeRK0,35129
+MegaBeer-0.0.3.dist-info/METADATA,sha256=AF4AzTcB4kvAkk2VTe7QJzU8Ggg0YzCg85zpexsHwbQ,1236
+MegaBeer-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+MegaBeer-0.0.3.dist-info/top_level.txt,sha256=lF53bpTX3se2lNSxLho3ff5zfyMakqkUCjI6zoonRlA,9
+MegaBeer-0.0.3.dist-info/RECORD,,
