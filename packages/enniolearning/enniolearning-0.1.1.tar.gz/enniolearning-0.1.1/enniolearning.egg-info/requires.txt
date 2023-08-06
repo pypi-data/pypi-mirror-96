@@ -1,0 +1,4 @@
+music21>=6.1.0
+torch>=1.6.0
+numpy
+jordan_py>=1.0.0
