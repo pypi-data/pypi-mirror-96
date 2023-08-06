@@ -1,0 +1,6 @@
+setup.py
+listdlls/__init__.py
+listdlls.egg-info/PKG-INFO
+listdlls.egg-info/SOURCES.txt
+listdlls.egg-info/dependency_links.txt
+listdlls.egg-info/top_level.txt
