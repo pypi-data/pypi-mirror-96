@@ -1,0 +1,10 @@
+arimafd/__init__.py,sha256=C5ByKQv4DMygIyfwXrXL7ysKdPbSJM2vRDD82GkB0_o,141
+arimafd/diff_integ.py,sha256=tbJFZO-qjXImcBw-Zpttp217sJ4Xld4ZM0KnkUH-tXk,4657
+arimafd/find_best_model.py,sha256=BKlRxNTn3UbKW6aqZpjLIUPUOM1RCNTUokxKxpewd4Y,4717
+arimafd/tanh.py,sha256=9fnjHpxTaIgplgsELTTHlzDDasoBJlqimb0Nrv3Wg8E,21006
+arimafd-1.0.dist-info/DESCRIPTION.rst,sha256=-h5tRVI5jPRQyfis9b-8lwpmaGDEXpreBXlF_HbZtIY,665
+arimafd-1.0.dist-info/METADATA,sha256=rSTqQKo9zkxWE7k_9QoXK-6krbpZ8Bh345in3smnIzk,1036
+arimafd-1.0.dist-info/RECORD,,
+arimafd-1.0.dist-info/WHEEL,sha256=8Lm45v9gcYRm70DrgFGVe4WsUtUMi1_0Tso1hqPGMjA,92
+arimafd-1.0.dist-info/metadata.json,sha256=B6QunNbhYj9N8h_lHGCkV5g8OBWIyc9TA_6C2-ktgjE,550
+arimafd-1.0.dist-info/top_level.txt,sha256=MTYImiq5MTMbu4M5vHSwB5ws4obPnC_BybIfe2gQdks,8
