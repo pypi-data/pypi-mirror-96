@@ -1,0 +1,17 @@
+scann==1.2.1
+pandas==1.2.2
+pyparsing==2.4.7
+scipy==1.6.0
+tensorflow==2.4.1
+torch==1.7.1
+torchtext==0.8.1
+tornado==6.1
+tqdm==4.56.2
+jupyter==1.0.0
+jupyter-client==6.1.11
+jupyter-console==6.2.0
+jupyter-core==4.7.1
+
+[testing]
+pytest
+pytest-cov
