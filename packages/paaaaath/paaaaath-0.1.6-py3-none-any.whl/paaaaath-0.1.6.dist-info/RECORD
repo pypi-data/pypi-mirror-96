@@ -1,0 +1,14 @@
+paaaaath/__init__.py,sha256=fHvTttzvKEyh9-axOgRMSmkda3oqu97RHnNXP1FABH8,367
+paaaaath/azule.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+paaaaath/blob.py,sha256=vxsBP-k-79MmQwmezqZBwPQCcsdnZB5RV5vO7Yjp_qk,1026
+paaaaath/common.py,sha256=ljd8edDbjTARtvcN2eaCDxf9gOHUXtdEarTBpXDgg7A,8195
+paaaaath/gcs.py,sha256=2oEfJvIcIn6YQXBLhV_q2uu2bndYWNxaMnUMQtwC07s,2614
+paaaaath/http.py,sha256=mkqc7-UQwjkFtzos0-wVdK1hSTb7YByQuGCHYsze2tc,632
+paaaaath/posix.py,sha256=BQGbcv9u8nTIelrk-0TOCabsJRCp1QS0thsI6jbDEXw,204
+paaaaath/s3.py,sha256=Np7N2_APAzozn0AjypWB9sL9B1KYmja10ZZq50ljYkM,3261
+paaaaath/uri.py,sha256=QLYTSCHviNRpF10XrNfZpJMEE_2bdKfHB8EeMLs030g,1915
+paaaaath/windows.py,sha256=VtNL89kcr0teNo85WP_2QiAg7RK2S_ixQADT32T8dIM,214
+paaaaath-0.1.6.dist-info/LICENSE,sha256=E7tF_UTSwjY5DB1AQk-CYK6-NegI_NrCFCVbtjb6GOk,1070
+paaaaath-0.1.6.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+paaaaath-0.1.6.dist-info/METADATA,sha256=C_OCBrEe-MO5KEQz6CAIefjHjF_yWA7-w8vJ1X6EEOw,5726
+paaaaath-0.1.6.dist-info/RECORD,,
