@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+src/pygcurse/__init__.py
+src/pygcurse/__main__.py
+src/pygcurse.egg-info/PKG-INFO
+src/pygcurse.egg-info/SOURCES.txt
+src/pygcurse.egg-info/dependency_links.txt
+src/pygcurse.egg-info/top_level.txt
