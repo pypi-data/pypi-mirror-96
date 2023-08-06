@@ -1,0 +1,9 @@
+azure_monitor/__init__.py,sha256=qfyy_xMP0fox1-u-be9FRbF5wXKuLPnOpje249TIjPA,251
+azure_monitor/protocol.py,sha256=rJ8Cm2hMEnFp4lzMGv93K2AEvIleoksMfUq7pT2LxC8,4958
+azure_monitor/trace.py,sha256=govnnWI_m-W4o9DMUwVImylf0otEcdOxsplcsOri7jA,6585
+azure_monitor/util.py,sha256=rmMb-KKD4c-UepXKCQu2cqCB36e6svy2bzPTHRseDLg,1073
+azure_monitor/version.py,sha256=dPfapl3qvwaoKNp_-mvstV9sKqsOcWFynLE-m25zHHA,120
+opentelemetry_azure_monitor_exporter-0.1a2.dist-info/METADATA,sha256=A8r3iCVdEmMc_Lexxbvsqw7e2_DpBqMNtd-FAzjC5H8,973
+opentelemetry_azure_monitor_exporter-0.1a2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+opentelemetry_azure_monitor_exporter-0.1a2.dist-info/top_level.txt,sha256=4azTjJ74_TEcfmH-uOiFAHaok2efKX0EH9x_d--IK8M,14
+opentelemetry_azure_monitor_exporter-0.1a2.dist-info/RECORD,,
