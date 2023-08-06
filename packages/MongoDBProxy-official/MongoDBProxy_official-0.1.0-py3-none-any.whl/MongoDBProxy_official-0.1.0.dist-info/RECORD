@@ -1,0 +1,9 @@
+mongo_proxy/__init__.py,sha256=orWS888Te8uhw2xrr81t2hqvOGL_gpFIkrFuw_SPBcE,274
+mongo_proxy/durable_cursor.py,sha256=ftJmBT-ge-tbJYU7MDOTmc0z382LN7jMz3l3cHl3hm4,8127
+mongo_proxy/mongodb_proxy.py,sha256=WjTZBuXQZ7azX9Kp0QlTURep1SdEXmFR0mOQmgSLKV4,6001
+mongo_proxy/pymongo3_durable_cursor.py,sha256=kO5lGD_ocofCcPtUXbubQrd-8-xr3wwRk5RoIHDq9M4,3353
+MongoDBProxy_official-0.1.0.dist-info/LICENSE,sha256=V3YC-0kGCArpVhjHQkE2Dx5qBfLlvGWutdO7oftdhpM,581
+MongoDBProxy_official-0.1.0.dist-info/METADATA,sha256=4YzBLPLWv0fu58pkTl4kcRPGGt-LdTTtWQRzU8LOpP0,1295
+MongoDBProxy_official-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+MongoDBProxy_official-0.1.0.dist-info/top_level.txt,sha256=TeYgPqh8WgoVPUIuEzm4d0HU3CqVm5brkH93-4bbBtE,12
+MongoDBProxy_official-0.1.0.dist-info/RECORD,,
