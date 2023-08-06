@@ -1,0 +1,10 @@
+catalog_cli.py,sha256=Jbdvlak2HCHzZk3ZmVeb50ELGLxt8TapMNnLzUkUxgw,3161
+catalog_client/Catalog.py,sha256=GSONUnz7LMKjbu6Gqehc5e-Fl94cedAxUM-GfBL_C2c,5721
+catalog_client/Selections.py,sha256=dX99yldNR-R6qPYAySJ3bhnL7fsljvFTJfhpt6j9fSk,7705
+catalog_client/__init__.py,sha256=467pccoynks8N7bJepeSzDCMqIXP0hVIakiOgwdkdT0,225
+catalog_client-1.0.3.dist-info/LICENSE.txt,sha256=12d1HHJOzS2-Fn8UKDE89WMInEksYyFssihZu5npq6A,2433
+catalog_client-1.0.3.dist-info/METADATA,sha256=45JhkJmuT7kBxWtNlxvz_rfIvZw46I3Rvq9AKFi7HV0,1341
+catalog_client-1.0.3.dist-info/WHEEL,sha256=8zNYZbwQSXoB9IfXOjPfeNwvAsALAjffgk27FqvCWbo,110
+catalog_client-1.0.3.dist-info/entry_points.txt,sha256=NlUzPXcdq0CVWAi42CHfFlhBpppW9yMV23CPb-GzggA,50
+catalog_client-1.0.3.dist-info/top_level.txt,sha256=ZtafQPF2fTWVEvl6y4kK8J8cPIDFBOFAG76M10mEUoc,27
+catalog_client-1.0.3.dist-info/RECORD,,
