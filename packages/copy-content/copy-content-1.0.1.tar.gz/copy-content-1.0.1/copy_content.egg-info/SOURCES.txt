@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+copy_content/__init__.py
+copy_content/__main__.py
+copy_content.egg-info/PKG-INFO
+copy_content.egg-info/SOURCES.txt
+copy_content.egg-info/dependency_links.txt
+copy_content.egg-info/entry_points.txt
+copy_content.egg-info/top_level.txt
