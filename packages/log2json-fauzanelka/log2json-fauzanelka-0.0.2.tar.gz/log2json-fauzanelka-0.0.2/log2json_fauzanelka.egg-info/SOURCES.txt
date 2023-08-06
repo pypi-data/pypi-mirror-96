@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.py
+log2json/__init__.py
+log2json/__main__.py
+log2json/core.py
+log2json/status.py
+log2json/cli/__init__.py
+log2json/cli/definition.py
+log2json_fauzanelka.egg-info/PKG-INFO
+log2json_fauzanelka.egg-info/SOURCES.txt
+log2json_fauzanelka.egg-info/dependency_links.txt
+log2json_fauzanelka.egg-info/entry_points.txt
+log2json_fauzanelka.egg-info/top_level.txt
