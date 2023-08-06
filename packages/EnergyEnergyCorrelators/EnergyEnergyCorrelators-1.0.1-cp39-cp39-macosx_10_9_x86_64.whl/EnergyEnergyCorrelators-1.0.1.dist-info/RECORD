@@ -1,0 +1,11 @@
+EnergyEnergyCorrelators-1.0.1.dist-info/RECORD,,
+EnergyEnergyCorrelators-1.0.1.dist-info/LICENSE,sha256=TQBjx5kxWrp1ufCdTweRHJ_WZYFlg-ZsPC2RPMjOcr0,36857
+EnergyEnergyCorrelators-1.0.1.dist-info/WHEEL,sha256=bRe_g_g-vZInZP5wOdewl-4AeWx8E2_UC3Ffr2csPyk,109
+EnergyEnergyCorrelators-1.0.1.dist-info/top_level.txt,sha256=XA1SghyMjtVhbfsVvJtidlPaIYMTwFy9FRUdiF0_jYI,4
+EnergyEnergyCorrelators-1.0.1.dist-info/METADATA,sha256=xfXIEjvCEdUoXIwnQ8KZTsxQoyWKZbV6_PPbIGgc1oc,9050
+eec/_eec.cpython-39-darwin.so,sha256=pRdhQru6wO8BJv460VUxpPw67pOGHzYRv5WQMqlOQ8U,2876212
+eec/eec.py,sha256=CLXJX1HvDlfDB3r5BiiJDEOz6YF3mJ9TdRY4nyJwQrI,50114
+eec/__init__.py,sha256=MXEELytu0Du5BwWrZ4l_8xFItNt7sEB7s19G6oPSZjY,3925
+eec/.dylibs/libboost_iostreams.dylib,sha256=j3bvCG0AvA7E8R3_G_raGcRYD7jbgnhV5ugWIrABsVo,111612
+eec/.dylibs/libomp.dylib,sha256=LKJJY19aKxwS53DDdrgv8pFpjmmq40czRIaMoVauoT0,553348
+eec/.dylibs/libboost_serialization.dylib,sha256=JPMbYNyR6U4LlKbzD0FKdwg0EgZqHXtOsLHFB_0w8qI,595652
