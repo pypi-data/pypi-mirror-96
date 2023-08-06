@@ -1,0 +1,3 @@
+[console_scripts]
+rates = exchangeratesapi.main:cli
+

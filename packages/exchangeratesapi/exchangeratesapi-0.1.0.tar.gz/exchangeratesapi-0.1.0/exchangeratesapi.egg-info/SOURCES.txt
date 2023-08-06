@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+exchangeratesapi/__init__.py
+exchangeratesapi/__main__.py
+exchangeratesapi/currency.py
+exchangeratesapi/functions.py
+exchangeratesapi/main.py
+exchangeratesapi/rates.py
+exchangeratesapi.egg-info/PKG-INFO
+exchangeratesapi.egg-info/SOURCES.txt
+exchangeratesapi.egg-info/dependency_links.txt
+exchangeratesapi.egg-info/entry_points.txt
+exchangeratesapi.egg-info/top_level.txt
