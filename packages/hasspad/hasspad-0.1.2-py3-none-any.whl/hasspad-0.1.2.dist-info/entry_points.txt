@@ -1,0 +1,3 @@
+[console_scripts]
+hasspad=hasspad.main:main
+
