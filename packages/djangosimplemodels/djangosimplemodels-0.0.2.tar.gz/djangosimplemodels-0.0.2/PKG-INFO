@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: djangosimplemodels
+Version: 0.0.2
+Summary: Package with abstract classes to facilitate the development of Django models.
+Home-page: https://github.com/juliansantosinfo/djangosimplemodels.git
+Author: Julian de Almeida Santos
+Author-email: julian.santos.info@gmail.com
+License: MIT
+Project-URL: Código fonte, https://github.com/juliansantosinfo/djangosimplemodels.git
+Project-URL: Download, https://github.com/juliansantosinfo/djangosimplemodels/archive/0.0.2.zip
+Description: Package with abstract classes to facilitate the development of Django models.
+Keywords: simple models django
+Platform: UNKNOWN

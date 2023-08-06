@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+djangosimplemodels/__init__.py
+djangosimplemodels/admin.py
+djangosimplemodels/apps.py
+djangosimplemodels/models.py
+djangosimplemodels/tests.py
+djangosimplemodels/views.py
+djangosimplemodels.egg-info/PKG-INFO
+djangosimplemodels.egg-info/SOURCES.txt
+djangosimplemodels.egg-info/dependency_links.txt
+djangosimplemodels.egg-info/top_level.txt
