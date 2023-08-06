@@ -1,0 +1,11 @@
+README.md
+setup.py
+wsdflow/__init__.py
+wsdflow.egg-info/PKG-INFO
+wsdflow.egg-info/SOURCES.txt
+wsdflow.egg-info/dependency_links.txt
+wsdflow.egg-info/top_level.txt
+wsdflow/nn/__init__.py
+wsdflow/nn/core.py
+wsdflow/utils/__init__.py
+wsdflow/utils/utilities.py
