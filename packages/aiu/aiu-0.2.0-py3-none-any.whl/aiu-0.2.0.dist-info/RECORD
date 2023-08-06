@@ -1,0 +1,17 @@
+aiu/__init__.py,sha256=fdqTcyE_8zYwSKw_thJYlrEdbKEXrE3IlvHkcpjPB4k,1006
+aiu/archive_information.py,sha256=ruvK1-243J5-HsCAm91La0wfEznV4eTTew1IniW-X98,916
+aiu/archiveit_collection.py,sha256=uNP3U1kfAe9hDqkI-FQiqBPg03WLkBdPFLcGZXuf3PI,19474
+aiu/nla_collection.py,sha256=nEBYSZ53JKO_0xGQ6GytBKS2EkekQ97GTziz8jli1nk,7233
+aiu/timemap.py,sha256=rQrEyoVk_0mpdKIY2qAdDUFeuMFZ4LlkSjDFevq6RBo,6644
+aiu/utils.py,sha256=NyWt6_z8yGFU7Qw7WxdV2i4chfKem-A0pGJgxLKVvOw,8688
+aiu/version.py,sha256=g3Gk_ShTcNaCxSp6vHI1GyO8MM-nPfsv97ZYQYxz8wY,183
+aiu-0.2.0.data/scripts/fetch_ait_metadata,sha256=upROcVFkQyYXBQmQ4lETj5j1eC_5bc2W8x63UJCGTQ4,6205
+aiu-0.2.0.data/scripts/generate_seed_statistics,sha256=P-LKPSzJKjBMOwxrlojv379-F31VsUauigiUr2avwww,20609
+aiu-0.2.0.data/scripts/seeds2warc,sha256=ov5uCsCHliEU-RqD4cpwj-M2kFL6dnuymVNa7qmr7dw,10953
+aiu-0.2.0.data/scripts/tm2warc,sha256=dJVBreiixHDbGbTuqNQ0uojS8G2bJf8v12BZ9UgkX2w,9751
+aiu-0.2.0.dist-info/LICENSE,sha256=bcI2M9PbHMovW9RIFqnrwpZvBIvAcSxxk_85EzmnS-I,1071
+aiu-0.2.0.dist-info/METADATA,sha256=aHmxiN3oenyQ94UpygtaH_rym4buHC_4miwdMfWdjEU,2526
+aiu-0.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+aiu-0.2.0.dist-info/top_level.txt,sha256=ViniO_jgaH6T6ur2HRfiqdUhZz5KmDySQzzsNbLtPWI,4
+aiu-0.2.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+aiu-0.2.0.dist-info/RECORD,,
