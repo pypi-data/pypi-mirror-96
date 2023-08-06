@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: prueba_ifs
+Version: 0.1
+Summary: paquete de prueba
+Home-page: https://github.com/NildaX/python-prueba_ifs
+Author: Nilda G.Xolo  Tlapanco
+Author-email: nilda_gaby_9745@live.com.mx
+License: MIT
+Description: UNKNOWN
+Keywords: testing,IFS,example
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.4
