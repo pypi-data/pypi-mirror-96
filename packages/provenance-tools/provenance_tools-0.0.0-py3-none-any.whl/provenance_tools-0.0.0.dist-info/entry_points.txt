@@ -1,0 +1,3 @@
+[console_scripts]
+provenance_tools = provenance_tools.provenance_tracker:main
+
