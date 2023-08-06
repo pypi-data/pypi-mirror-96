@@ -1,0 +1,2 @@
+--extra-index-url=https://cdn.githubraw.com/vmware/vsphere-automation-sdk-python/master/lib/
+-e git+https://github.com/vmware/vsphere-automation-sdk-python.git#egg=vSphere-Automation-SDK
