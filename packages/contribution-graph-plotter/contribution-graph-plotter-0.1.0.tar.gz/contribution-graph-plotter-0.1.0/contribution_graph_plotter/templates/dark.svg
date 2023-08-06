@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" data-stacking-context="true" aria-owns="html1" width="0" height="0" viewBox="0 0 0 0" style="background-color:#0D1118">
+    <style>
+        :root {
+            --color0: rgb(22, 27, 34);
+            --color1: rgb(0, 56, 32);
+            --color2: rgb(0, 96, 45);
+            --color3: rgb(16, 152, 61);
+            --color4: rgb(39, 213, 69);
+            }
+        rect {
+            rx: 2;
+            ry: 2;
+            shape-rendering: geometricprecision;
+            stroke: none;
+            color: rgb(201, 209, 217);
+        }
+    </style>
+    <g transform="matrix(1, 0, 0, 1, -16, 0)" color="rgb(201, 209, 217)" fill="rgb(0, 0, 0)" stroke="none"></g>
+</svg>
