@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: postman-collection-generation
+Version: 1.0.0
+Summary: postman collection generation
+Home-page: https://github.com/AliaHamwi/PostmanCollection
+Author: AliaHamwi
+Author-email: Alia.Hamwi.95@gmail.com
+License: MIT
+Description: # postman collection generation
+        
+        ## Installation
+        
+        You can install the Real Python Feed Reader from [PyPI](https://pypi.org/project/postman_collection_generation/):
+        
+            pip install postman_collection_generation
+        
+        ## How to use
+        
+        You can call the function :
+        
+            >>> from postman_collection_generation import generate_collection
+            >>> generate_collection(flask_app,name='collection file name',url_domain='localhost',port=5000,output_path = '.')
+            
+        
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown

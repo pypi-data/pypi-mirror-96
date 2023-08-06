@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+postman_collection_generation/__init__.py
+postman_collection_generation.egg-info/PKG-INFO
+postman_collection_generation.egg-info/SOURCES.txt
+postman_collection_generation.egg-info/dependency_links.txt
+postman_collection_generation.egg-info/entry_points.txt
+postman_collection_generation.egg-info/requires.txt
+postman_collection_generation.egg-info/top_level.txt
