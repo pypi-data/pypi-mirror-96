@@ -1,0 +1,16 @@
+requests
+ipython
+ipykernel
+pandas
+websocket-client
+plotly
+simplejson
+asyncio
+ipynb_path
+grpcio-tools
+matplotlib
+pyarrow
+pandas
+python-dateutil
+chipmunkdb-python-client
+raccoon

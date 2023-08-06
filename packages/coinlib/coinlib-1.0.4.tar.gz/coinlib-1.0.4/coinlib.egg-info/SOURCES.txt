@@ -1,0 +1,7 @@
+setup.py
+coinlib.egg-info/PKG-INFO
+coinlib.egg-info/SOURCES.txt
+coinlib.egg-info/dependency_links.txt
+coinlib.egg-info/entry_points.txt
+coinlib.egg-info/requires.txt
+coinlib.egg-info/top_level.txt
