@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: cx
+Version: 0.2.1
+Summary: Compute nearest neighbor distances along the coast with a view angle.
+Home-page: https://github.com/bast/coastal-express
+Author: Radovan Bast
+Author-email: radovan.bast@uit.no
