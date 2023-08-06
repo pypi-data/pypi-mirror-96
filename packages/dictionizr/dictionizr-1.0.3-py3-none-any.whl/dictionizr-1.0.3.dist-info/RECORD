@@ -1,0 +1,13 @@
+dictionizr/__init__.py,sha256=fGn24zUKkpY8vSA_VDJyTYhJWDJmP-rmFCDPNy35GbU,48
+dictionizr/conftest.py,sha256=NhKdj7NC8McP2aVSGFlOciaIVT9C0Pk3X7N-2XE1CgE,12
+dictionizr/dictionizr.py,sha256=yWazkBL2glHGGZm21QDPa3UO8yQuJuknSow_Lo0XoxE,3414
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/complex_dictionizr_test.py,sha256=4OFMKQ99eguBbuR5hs253pAJm_4Z2ZJaCYNnuAXi7g4,1475
+tests/dictionizr_test.py,sha256=c6MSRqcYcz-wV0TzPq44GiquIGbCbN5XQTqy7EFmtZY,2910
+tests/utils/__init__.py,sha256=FOzy5p8i8CGvcAvGVhPNrz6IbewpHtP4C-P0FpOJocU,22
+tests/utils/utils.py,sha256=7TH2wJ0xbxcojdrjUtJejt3v0PmFuSHb5ilVxzasp5Q,1579
+dictionizr-1.0.3.dist-info/LICENSE,sha256=_f9xqFRQ9Q2USyFFmDLH4Ks2mzn2Z1dPxgrlyMVlpdc,1069
+dictionizr-1.0.3.dist-info/METADATA,sha256=FuiIJJXXrTpmvNs47QhOhwd91Fn4zZ-sUX-ZSbG1IQM,896
+dictionizr-1.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+dictionizr-1.0.3.dist-info/top_level.txt,sha256=r_dPXqPuojJeFkChomVivelTXVPEi9Fz6fAGHq0VUw0,17
+dictionizr-1.0.3.dist-info/RECORD,,
