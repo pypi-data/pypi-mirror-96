@@ -1,0 +1,96 @@
+AN-SNAP V4.0,care_type,episode_type,bool_same_day_payment_list,alos,inlier_lb,inlier_ub,pwt_sameday,pwt_shortstay_outlier_perdiem,pwt_inlier,pwt_longstay_outlier_perdiem
+4AZ1,2.0, Admitted Adult Rehabilitation ,False,52.188284519,34,72,0.0,0.4061,13.8075,0.3074
+4AZ2,2.0, Admitted Adult Rehabilitation ,False,70.726666667,44,87,0.0,0.4485,19.736,0.2957
+4AZ3,2.0, Admitted Adult Rehabilitation ,False,26.927759443,19,42,0.0,0.3489,6.6291,0.228
+4AZ4,2.0, Admitted Adult Rehabilitation ,False,40.70026178,27,61,0.0,0.3909,10.5549,0.2625
+4AA1,2.0, Admitted Adult Rehabilitation ,False,12.364319249,8,20,0.0,0.3507,2.8054,0.2143
+4AA2,2.0, Admitted Adult Rehabilitation ,False,16.33428246,11,26,0.0,0.3528,3.8804,0.2064
+4AA3,2.0, Admitted Adult Rehabilitation ,False,23.189419795,14,34,0.0,0.3799,5.3184,0.2307
+4AA4,2.0, Admitted Adult Rehabilitation ,False,23.404411765,16,37,0.0,0.3399,5.438,0.2051
+4AA5,2.0, Admitted Adult Rehabilitation ,False,29.019438445,19,44,0.0,0.3728,7.0826,0.2365
+4AA6,2.0, Admitted Adult Rehabilitation ,False,31.880597015,22,49,0.0,0.351,7.7209,0.2118
+4AA7,2.0, Admitted Adult Rehabilitation ,False,44.15136876,31,65,0.0,0.3512,10.888,0.2401
+4AB1,2.0, Admitted Adult Rehabilitation ,False,10.88172043,7,17,0.0,0.3682,2.5775,0.2303
+4AB2,2.0, Admitted Adult Rehabilitation ,False,23.205673759,13,31,0.0,0.4217,5.4826,0.2947
+4AB3,2.0, Admitted Adult Rehabilitation ,False,17.031914894,11,26,0.0,0.3584,3.9421,0.2393
+4AB4,2.0, Admitted Adult Rehabilitation ,False,20.668776371,14,34,0.0,0.3816,5.3428,0.2314
+4AB5,2.0, Admitted Adult Rehabilitation ,False,32.418367347,21,49,0.0,0.4128,8.6694,0.2936
+4AB6,2.0, Admitted Adult Rehabilitation ,False,30.158385093,21,48,0.0,0.3782,7.9425,0.2607
+4AB7,2.0, Admitted Adult Rehabilitation ,False,38.399253731,26,60,0.0,0.3795,9.8661,0.257
+4AC1,2.0, Admitted Adult Rehabilitation ,False,13.023692004,9,21,0.0,0.3128,2.8156,0.197
+4AC2,2.0, Admitted Adult Rehabilitation ,False,18.873997709,12,29,0.0,0.329,3.9475,0.2088
+4AC3,2.0, Admitted Adult Rehabilitation ,False,25.98407281,17,41,0.0,0.3293,5.5979,0.191
+4AD1,2.0, Admitted Adult Rehabilitation ,False,21.297468354,14,32,0.0,0.3749,5.249,0.2596
+4AD2,2.0, Admitted Adult Rehabilitation ,False,45.179226069,32,69,0.0,0.3848,12.3148,0.2776
+4AD3,2.0, Admitted Adult Rehabilitation ,False,32.169398907,21,56,0.0,0.4349,9.1326,0.2719
+4AD4,2.0, Admitted Adult Rehabilitation ,False,61.755813953,41,82,0.0,0.4269,17.5013,0.2807
+4AE1,2.0, Admitted Adult Rehabilitation ,False,13.083333333,8,20,0.0,0.3858,3.0864,0.2001
+4AE2,2.0, Admitted Adult Rehabilitation ,False,23.629213483,15,36,0.0,0.3643,5.4641,0.2011
+4AE3,2.0, Admitted Adult Rehabilitation ,False,26.332089552,17,40,0.0,0.3441,5.8504,0.1938
+4AE4,2.0, Admitted Adult Rehabilitation ,False,23.938992042,15,36,0.0,0.3689,5.5339,0.2091
+4AH1,2.0, Admitted Adult Rehabilitation ,False,13.3782277,9,21,0.0,0.3059,2.7529,0.1839
+4AH2,2.0, Admitted Adult Rehabilitation ,False,16.609020311,11,26,0.0,0.3044,3.3489,0.176
+4AH3,2.0, Admitted Adult Rehabilitation ,False,19.079613095,13,29,0.0,0.3114,4.0488,0.1799
+4AH4,2.0, Admitted Adult Rehabilitation ,False,22.318857823,15,35,0.0,0.3247,4.8698,0.1817
+4A21,2.0, Admitted Adult Rehabilitation ,False,9.0857013983,7,14,0.0,0.2698,1.8884,0.1691
+4A22,2.0, Admitted Adult Rehabilitation ,False,11.700158228,7,18,0.0,0.3243,2.2704,0.177
+4A23,2.0, Admitted Adult Rehabilitation ,False,17.58881298,11,26,0.0,0.3205,3.5258,0.194
+4A31,2.0, Admitted Adult Rehabilitation ,False,10.534351145,7,16,0.0,0.2834,1.9841,0.183
+4A32,2.0, Admitted Adult Rehabilitation ,False,12.833716916,8,20,0.0,0.3062,2.4499,0.183
+4A33,2.0, Admitted Adult Rehabilitation ,False,15.621405751,10,25,0.0,0.3293,3.2925,0.178
+4A34,2.0, Admitted Adult Rehabilitation ,False,19.007853403,12,29,0.0,0.3265,3.9184,0.193
+4AP1,2.0, Admitted Adult Rehabilitation ,False,27.175438596,19,44,0.0,0.3953,7.51,0.2667
+4AR1,2.0, Admitted Adult Rehabilitation ,False,11.046866015,7,17,0.0,0.3258,2.2807,0.1967
+4AR2,2.0, Admitted Adult Rehabilitation ,False,13.901083373,9,22,0.0,0.3343,3.0089,0.1961
+4AR3,2.0, Admitted Adult Rehabilitation ,False,14.940152339,10,24,0.0,0.3215,3.2147,0.1901
+4AR4,2.0, Admitted Adult Rehabilitation ,False,17.630797774,12,27,0.0,0.3438,4.1257,0.2159
+4AR5,2.0, Admitted Adult Rehabilitation ,False,17.277739959,11,26,0.0,0.3504,3.8548,0.2054
+4AR6,2.0, Admitted Adult Rehabilitation ,False,21.422249793,14,33,0.0,0.3506,4.9084,0.2069
+4A91,2.0, Admitted Adult Rehabilitation ,False,11.880819367,7,18,0.0,0.377,2.6392,0.1835
+4A92,2.0, Admitted Adult Rehabilitation ,False,17.115023474,11,27,0.0,0.3673,4.04,0.1766
+4A93,2.0, Admitted Adult Rehabilitation ,False,17.848484848,11,27,0.0,0.4035,4.4382,0.2223
+4J01,2.0, Admitted Adult Rehabilitation ,True,1.0,,,0.1269,,,
+4F01,2.0, Admitted Paediatric Rehabilitation ,False,25.01754386,14,33,0.0,0.8011,11.2151,0.5963
+4F02,2.0, Admitted Paediatric Rehabilitation ,False,33.52173913,29,64,0.0,0.621,18.0087,0.3792
+4F03,2.0, Admitted Paediatric Rehabilitation ,False,26.422857143,19,44,0.0,0.7265,13.8035,0.4784
+4F04,2.0, Admitted Paediatric Rehabilitation ,False,12.833333333,10,24,0.0,0.6088,6.0879,0.372
+4F05,2.0, Admitted Paediatric Rehabilitation ,False,14.798449612,11,27,0.0,0.6485,7.1337,0.4182
+4O01,2.0, Admitted Paediatric Rehabilitation ,True,1.0,,,0.6591,,,
+4BS1,3.0, Admitted Adult Palliative Care ,False,6.8700340522,4,10,0.0,0.4015,1.6062,0.222
+4BS2,3.0, Admitted Adult Palliative Care ,False,7.6120701015,5,12,0.0,0.3771,1.8855,0.2232
+4BS3,3.0, Admitted Adult Palliative Care ,False,7.6712893553,5,12,0.0,0.3748,1.8739,0.2203
+4BU1,3.0, Admitted Adult Palliative Care ,False,3.6414274631,2,6,0.0,0.3643,0.7285,0.2344
+4BU2,3.0, Admitted Adult Palliative Care ,False,3.0398114196,1,5,0.0,,0.4565,0.2597
+4BU3,3.0, Admitted Adult Palliative Care ,False,2.3655063291,1,4,0.0,,0.4596,0.2121
+4BU4,3.0, Admitted Adult Palliative Care ,False,2.3073065903,1,4,0.0,,0.4537,0.2274
+4BD1,3.0, Admitted Adult Palliative Care ,False,5.9823207171,3,9,0.0,0.458,1.3739,0.2349
+4BD2,3.0, Admitted Adult Palliative Care ,False,4.2273800157,2,7,0.0,0.4723,0.9446,0.2464
+4BD3,3.0, Admitted Adult Palliative Care ,False,4.6027434842,2,7,0.0,0.5153,1.0306,0.2538
+4BD4,3.0, Admitted Adult Palliative Care ,False,5.9302325581,3,9,0.0,0.4751,1.4254,0.2428
+4BT1,3.0, Admitted Adult Palliative Care ,False,2.6708929419,1,4,0.0,,0.5731,0.273
+4K01,3.0, Admitted Adult Palliative Care ,True,1.0,,,0.1768,,,
+4G01,3.0, Admitted Paediatric Palliative Care ,False,8.7755102041,5,14,0.0,0.908,4.5398,0.604
+4G02,3.0, Admitted Paediatric Palliative Care ,False,4.4705882353,4,10,0.0,0.6605,2.6422,0.3926
+4G03,3.0, Admitted Paediatric Palliative Care ,False,6.775862069,4,11,0.0,0.832,3.3279,0.5332
+4G04,3.0, Admitted Paediatric Palliative Care Terminal phase ,True,,0,99999,0.5111,,0.5111,
+4P01,3.0, Paediatric Same-Day Palliative Care ,True,,0,99999,0.5111,,0.5111,
+4CH1,4.0, Admitted GEM ,False,16.898318655,11,27,0.0,0.3083,3.3916,0.176
+4CH2,4.0, Admitted GEM ,False,12.786360267,8,20,0.0,0.2921,2.3371,0.1501
+4CM1,4.0, Admitted GEM ,False,20.4511771,13,31,0.0,0.3128,4.0665,0.1735
+4CM2,4.0, Admitted GEM ,False,18.06814178,12,28,0.0,0.2951,3.5407,0.165
+4CL1,4.0, Admitted GEM ,False,22.460928652,14,33,0.0,0.3201,4.4816,0.1757
+4CL2,4.0, Admitted GEM ,False,20.908119658,14,31,0.0,0.303,4.2417,0.177
+4L01,4.0, Admitted GEM ,True,1.0,,,0.1343,,,
+4DS1,5.0, Admitted Psychogeriatric ,False,20.802919708,13,32,0.0,0.454,5.9015,0.2977
+4DS2,5.0, Admitted Psychogeriatric ,False,18.145833333,22,51,0.0,0.4034,8.8751,0.2741
+4DS3,5.0, Admitted Psychogeriatric ,False,25.49,16,38,0.0,0.5094,8.1501,0.2927
+4DS4,5.0, Admitted Psychogeriatric ,False,23.333333333,15,36,0.0,0.5019,7.528,0.3355
+4DS5,5.0, Admitted Psychogeriatric ,False,21.044776119,11,27,0.0,0.5513,6.0641,0.3362
+4DL1,5.0, Admitted Psychogeriatric ,False,146.49333333,119,200,0.0,0.351,41.7672,0.2511
+4M01,5.0, Admitted Psychogeriatric ,True,1.0,,,0.1495,,,
+4ES1,6.0, Admitted Non-Acute ,False,11.597500947,7,18,0.0,0.34,2.3801,0.1917
+4ES2,6.0, Admitted Non-Acute ,False,12.723147616,8,20,0.0,0.3329,2.6635,0.1867
+4ES3,6.0, Admitted Non-Acute ,False,13.42814766,8,21,0.0,0.3542,2.8334,0.2035
+4ES4,6.0, Admitted Non-Acute ,False,14.793984962,10,24,0.0,0.3937,3.9374,0.2409
+4ES5,6.0, Admitted Non-Acute ,False,11.0,6,16,0.0,0.6172,3.703,0.3621
+4EL1,6.0, Admitted Non-Acute ,False,166.3971831,109,185,0.0,0.268,29.2159,0.2183

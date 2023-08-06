@@ -1,0 +1,18 @@
+udg_v1p3,description,price_weight
+1,Adm_T1,0.348
+2,Adm_T2,0.2293
+3,Adm_T3,0.1826
+4,Adm_T4,0.1435
+5,Adm_T5,0.1076
+6,N-A_T1,0.3174
+7,N-A_T2,0.1716
+8,N-A_T3,0.1213
+9,N-A_T4,0.0841
+10,N-A_T5,0.0626
+11,Did Not Wait,0.0314
+12,Dead on Arrival w any Triage w any MDB,0.0483
+13,Transfer presentation,0.238
+14,Died in emergency department,0.2754
+15,"Adm_Return visit, planned w any Triage",0.1308
+16,"N-A Return visit, planned – Triage 1, 2, 3",0.1065
+17,"N-A Return visit, planned – Triage 4,5",0.0652
