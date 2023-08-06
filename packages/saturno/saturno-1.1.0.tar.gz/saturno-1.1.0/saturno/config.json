@@ -1,0 +1,23 @@
+{
+    "anime": [
+        {
+            "name": "The Promised Neverland 2",
+            "site": "https://www.animesaturn.it/anime/The-Promised-Neverland-2",
+            "folder": "The Promised Neverland/Stagione 2",
+            "mode": "full"
+        },
+        {
+            "name": "Dr. Stone 2",
+            "site": "https://www.animesaturn.it/anime/Dr-Stone-2",
+            "folder": "Dr Stone/Stagione 2",
+            "mode": "full"
+        },
+        {
+            "name": "Nanatsu no Taizai: Fundo no Shinpan",
+            "site": "https://www.animesaturn.it/anime/Nanatsu-no-Taizai-Fundo-no-Shinpan",
+            "folder": "The Seven Deadly Sins/Stagione 4",
+            "mode": "full"
+        }
+    ],
+    "path": "/Users/Moris/Desktop/Anime/"
+}
