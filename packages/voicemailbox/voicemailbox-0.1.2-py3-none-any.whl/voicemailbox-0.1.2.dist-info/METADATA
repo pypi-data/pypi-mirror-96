@@ -1,0 +1,234 @@
+Metadata-Version: 2.1
+Name: voicemailbox
+Version: 0.1.2
+Summary: Application for reading voice messages
+License: CECILL-2.1
+Author: Pierre Gobin
+Author-email: dev@pierregobin.fr
+Requires-Python: >=3.6,<4.0
+Classifier: License :: OSI Approved :: CEA CNRS Inria Logiciel Libre License, version 2.1 (CeCILL-2.1)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: IMAPClient (>=2.2.0,<3.0.0)
+Requires-Dist: PyYAML (>=5.4.1,<6.0.0)
+Requires-Dist: kivy (>=2.0.0,<3.0.0)
+Requires-Dist: python-dotenv (>=0.15.0,<0.16.0)
+Requires-Dist: rpi-backlight (>=2.2.0,<3.0.0)
+Description-Content-Type: text/markdown
+
+# VoicemailBox
+
+VoicemailBox is an application for reading voice messages left on a fixed 
+telephone line.
+
+Its graphical interface is based on the Kivy framework.
+
+Created to run on a Raspberry Pi with a touch screen, 
+it should work on any GNU/Linux system.
+
+# Purpose
+
+In France, some operators offer, as an option, to send voice messages left 
+on a fixed line to a given email address.
+
+VoicemailBox retrieves the voicemail messages thus sent, signals their arrival 
+and offers a graphical interface to read them.
+
+For now, it is designed to work with the French operator Bouygues Telecom.
+
+## Installation - General case
+
+VoicemailBox can be installed with pip :
+```bash
+pip install voicemailbox
+```
+
+## Installation - Raspberry Pi
+
+The app has been tested on a Raspberry Pi 3, running Raspberry Pi OS Lite 
+(Buster release), and the following hardware :
+- official Raspberry Pi touchscreen ;
+- OneNiceDesign touchscreen case ;  
+- adafruit speaker bonnet ;
+- adafruit stereo enclosed speaker set.
+
+On this system, some packages have to be installed first 
+([Source](https://kivy.org/doc/stable/installation/installation-rpi.html)) :
+```bash
+apt install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev \ 
+libsdl2-ttf-dev pkg-config libgl1-mesa-dev libgles2-mesa-dev \
+python3-setuptools python3-dev libmtdev-dev \ 
+xclip xsel libjpeg-dev ffmpeg
+```
+
+Then, Kivy and VoicemailBox can be installed 
+(virtual environment recommended) :
+```bash
+pip install --upgrade pip setuptools Cython
+pip install kivy[base,media] --no-binary kivy
+pip install voicemailbox
+```
+
+To allow `rpi-backlight` to manage touchscreen backlight without root access,
+a udev rule has to be created :
+```bash
+$ echo 'SUBSYSTEM=="backlight",RUN+="/bin/chmod 666 /sys/class/backlight/%k/brightness /sys/class/backlight/%k/bl_power"' | sudo tee -a /etc/udev/rules.d/backlight-permissions.rules
+```
+
+### Additionnal configuration
+
+The following instructions enable VoicemailBox to be integrated 
+with the hardware described above :
+
+
+- edit  `/boot/config.txt` :
+	- touchscreen rotation : add `lcd_rotate=2`	
+	- GPU's memory set to 256 Mb : add `gpu_mem=256`
+	- adafruit speaker bonnet :
+		- add `dtoverlay=hifiberry-dac`
+		- add `dtoverlay=i2s-mmap`
+		- comment `dtparam=audio=on`
+	
+
+- for speaker bonnet support, create `/etc/asound.conf` with the following content :
+	```bash
+	pcm.speakerbonnet {
+	   type hw card 0
+	}
+
+	pcm.dmixer {
+	   type dmix
+	   ipc_key 1024
+	   ipc_perm 0666
+	   slave {
+	     pcm "speakerbonnet"
+	     period_time 0
+	     period_size 1024
+	     buffer_size 8192
+	     rate 44100
+	     channels 2
+	   }
+	}
+
+	ctl.dmixer {
+	    type hw card 0
+	}
+
+	pcm.softvol {
+	    type softvol
+	    slave.pcm "dmixer"
+	    control.name "PCM"
+	    control.card 0
+	}
+
+	ctl.softvol {
+	    type hw card 0
+	}
+
+	pcm.!default {
+	    type             plug
+	    slave.pcm       "softvol"
+	}	   
+	```
+
+
+- Wi-Fi : create wpa_supplicant.conf file in `/boot` with following content 
+  ([Source](https://www.raspberrypi.org/documentation/configuration/wireless/headless.md)) :
+	```bash
+	ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+	update_config=1
+	country=<Insert 2 letter ISO 3166-1 country code here>
+	
+	network={
+	 ssid="<Name of your wireless LAN>"
+	 psk="<Password for your wireless LAN>"
+	}
+	```
+
+
+- to use kivy with Raspberry Pi touchscreen, modify `~/.kivy/config.ini`, 
+  add under `[input]` section :
+	```bash
+	mouse = mouse
+	mtdev_%(name)s = probesysfs,provider=mtdev
+	hid_%(name)s = probesysfs,provider=hidinput
+	```
+
+- create systemd service to run at startup :
+  
+	- create `/etc/systemd/system/voicemailbox.service` 
+	  with the follonwing content :
+		```bash
+		[Unit]
+		Description=voicemailbox
+		After=multi-user.target
+		
+		[Service]
+		Type=idle
+		Environment=KIVY_AUDIO=ffpyplayer
+		ExecStart=/home/pi/.venv/bin/python -m voicemailbox
+		WorkingDirectory=/home/pi/
+		User=pi
+		
+		[Install]
+		WantedBy=multi-user.target
+		```
+	
+	- run at start-up :
+	  ```bash
+	  sudo systemctl enable voicemailbox
+      ```
+
+- use [Log2Ram](https://github.com/azlux/log2ram) :
+	- install :
+		```bash
+		echo "deb http://packages.azlux.fr/debian/ buster main" | sudo tee /etc/apt/sources.list.d/azlux.list
+		wget -qO - https://azlux.fr/repo.gpg.key | sudo apt-key add -
+		apt update
+		apt install log2ram
+		```
+	- modify frequency : run `systemctl edit log2ram-daily.timer` and add :
+		```bash
+		[Timer]
+		OnCalendar=weekly
+		```
+
+## Usage
+
+Some environment variables have to be defined before running the application :
+```bash
+VOICEMAILBOX_IMAP_SERVER # IMAP server address
+VOICEMAILBOX_EMAIL_ADDRESS # User email address
+VOICEMAILBOX_EMAIL_PASSWORD # User password
+```
+
+Then VoicemailBox can be launched :
+```bash
+python -m voicemailbox
+```
+
+## Third party libraries and dependencies
+
+VoicemailBox makes use of the following third party projects :
+- [Kivy](https://kivy.org) (MIT license) ;
+- [IMAPClient](https://imapclient.readthedocs.io) (New BSD license) ;
+- [rpi_backlight](https://github.com/linusg/rpi-backlight) (MIT license) ;
+- [python_dotenv](https://saurabh-kumar.com/python-dotenv) (BSD license) ;
+- [PYYaml](https://pyyaml.org) (MIT license).
+
+
+VoicemailBox also includes :
+- the [FontAwesome](https://fontawesome.com/) icons (SIL Open Font License) ;
+- the ring song from 
+  [LaSonotheque.org](https://lasonotheque.org/detail-0292-clochette-1.html)
+  (Free license).
+
+
+## License
+
+VoicemailBox is placed under 
+[CeCILL license](http://cecill.info/licences/Licence_CeCILL_V2.1-en.html) 
+(version 2.1).

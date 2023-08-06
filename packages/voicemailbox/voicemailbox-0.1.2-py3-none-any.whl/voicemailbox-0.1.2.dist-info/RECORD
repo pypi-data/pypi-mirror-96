@@ -1,0 +1,22 @@
+voicemailbox/__init__.py,sha256=XrZqrpiRTjNcS9ODTh8jscvYpVD90HG8NEhGvubs76Y,518
+voicemailbox/__main__.py,sha256=wUNSRBUGRBq2rRVLArv8e_mBamsBqj_mdC7j0093l8Q,647
+voicemailbox/animation.py,sha256=z9Hcy-kkS671MNC5DuCYQARuNNsIKdOa4TmeKOlyCi0,1941
+voicemailbox/app.py,sha256=3n4g0tv6F5VlI_HND0I26NBfhxsGMLT6D3J4Xf8aSro,1042
+voicemailbox/backlight.py,sha256=TOLHrD9o4jdARjEQh0UOfdX97zkiQ4p2bcKnLdysvfM,860
+voicemailbox/email.py,sha256=qzTiyyjnOG-Kdf5dyXH9xgHoD5RZQaDHwyLNhdCFYDg,3963
+voicemailbox/logging.conf,sha256=UTKSzdy2_DqjqtadsLEaSeQ31uqv5BakHwcdEcWyIjc,310
+voicemailbox/logging.py,sha256=Wjl8gwIoYqgtitfuv0OEXYF1LWmM37bZ1ok62eF1YtA,307
+voicemailbox/player.py,sha256=xf7Oc9nqyJubOY5ZjX7S1PgZZQgzSVuxmMdFxEGy_jU,2079
+voicemailbox/screens.py,sha256=ohJx16Wr0g_doMUjuEHzxwOY0Xlqi19pp3s5NNsZa9c,15326
+voicemailbox/static/fonts/Font Awesome 5 Free-Solid-900.otf,sha256=ocMhm6lm-nihLXk8tgJJBG_bVo2RHtve3mwOWVvFkF8,589036
+voicemailbox/static/images/blank_background.png,sha256=jV4I4buUn1myCOAojiIKwPxTasB3mFLLhDyRCuA7W8M,84
+voicemailbox/static/images/circle-solid-24.png,sha256=xS1Y6X1IgXW2-gHjxKbEViXlHG40pH07NTryLr7PSFA,435
+voicemailbox/static/images/play.svg,sha256=0s6vbYPtaRx3HhYWrCkVfLfxFd2sfOBmr6sdI_GptIM,339
+voicemailbox/static/songs/new_mail.mp3,sha256=xoY3KMCjnSaP2LZnQYypQBTAJURgIlqp_oAXLSY8qgM,116854
+voicemailbox/static/songs/new_mail.wav,sha256=Wjv-IBob8Xs_0Q3W8BO_h1WwX-zlqOay77EuiNpA5S0,496768
+voicemailbox/voicemail.py,sha256=ap6azh-M1K5UoWopVqtwkAyA1kngH6aWkecSh_6P1rA,3131
+voicemailbox/voicemailbox.kv,sha256=C_o5aRxN5WOutj5ZycNf0c38lldEstauF0J1U39V-Co,4815
+voicemailbox-0.1.2.dist-info/LICENSE.txt,sha256=BFG2NMVt7ZCynNXkApW88kvVIk9f_XxfFFhTXrkLqF8,21099
+voicemailbox-0.1.2.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+voicemailbox-0.1.2.dist-info/METADATA,sha256=Ub6KU9nOKK4RYUDL9AebaRkiE6QbKlWFZwUbHfugyfk,6308
+voicemailbox-0.1.2.dist-info/RECORD,,
