@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: rc4me
+Version: 0.1.0
+Summary: Description
+Home-page: UNKNOWN
+Author: Michael Stefferson/Jeffrey Moore
+Author-email: mstefferson@gmail.com
+License: MIT License
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Requires-Dist: click (>=7.1.2)
+Requires-Dist: pick (>=1.0.0)
+
+UNKNOWN
+
+
