@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+simpletokenizer/__init__.py
+simpletokenizer/tokenization.py
+simpletokenizer.egg-info/PKG-INFO
+simpletokenizer.egg-info/SOURCES.txt
+simpletokenizer.egg-info/dependency_links.txt
+simpletokenizer.egg-info/top_level.txt
