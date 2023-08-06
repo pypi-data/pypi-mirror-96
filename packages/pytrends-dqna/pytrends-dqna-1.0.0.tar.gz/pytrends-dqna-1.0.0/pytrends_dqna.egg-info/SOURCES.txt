@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+setup.py
+pytrends/__init__.py
+pytrends/dailydata.py
+pytrends/exceptions.py
+pytrends/request.py
+pytrends/test_trendReq.py
+pytrends_dqna.egg-info/PKG-INFO
+pytrends_dqna.egg-info/SOURCES.txt
+pytrends_dqna.egg-info/dependency_links.txt
+pytrends_dqna.egg-info/requires.txt
+pytrends_dqna.egg-info/top_level.txt
