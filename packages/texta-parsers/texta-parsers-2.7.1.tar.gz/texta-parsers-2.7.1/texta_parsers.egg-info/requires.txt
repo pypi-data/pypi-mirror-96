@@ -1,0 +1,16 @@
+beautifulsoup4
+elasticsearch==7.*
+elasticsearch_dsl==7.*
+pandas==1.1.5
+py7zr
+pytest-mock
+python-magic
+pyunpack
+requests
+texta-entity-linker
+texta-face-analyzer
+tika
+xlrd==1.2.0
+
+[mlp]
+texta-mlp
