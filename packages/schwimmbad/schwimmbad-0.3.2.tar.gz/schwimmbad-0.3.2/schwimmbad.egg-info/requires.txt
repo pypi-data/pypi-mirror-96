@@ -1,0 +1,13 @@
+
+[docs]
+alabaster
+emcee
+
+[test]
+pytest
+pytest-cov
+pytest-astropy
+mpi4py
+joblib
+numpy
+dill
