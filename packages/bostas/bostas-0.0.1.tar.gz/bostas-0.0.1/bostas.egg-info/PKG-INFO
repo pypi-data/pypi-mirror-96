@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: bostas
+Version: 0.0.1
+Summary: Tool for social media automation
+Home-page: https://github.com/tirtharajsinha/bostas/
+Author: Tirtharaj Sinha
+Author-email: sinhatirtharaj@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/tirtharajsinha/bostas/issues
+Description: # bostas
+        bostas is a cool social media bot for automated surfing.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: Natural Language :: English
+Classifier: Topic :: Software Development :: Build Tools
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
