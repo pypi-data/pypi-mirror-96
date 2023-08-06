@@ -1,0 +1,7 @@
+README.md
+setup.py
+qwak-sdk/__init__.py
+qwak_sdk.egg-info/PKG-INFO
+qwak_sdk.egg-info/SOURCES.txt
+qwak_sdk.egg-info/dependency_links.txt
+qwak_sdk.egg-info/top_level.txt
