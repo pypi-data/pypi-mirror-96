@@ -1,0 +1,17 @@
+tec/__init__.py,sha256=jM7NprDDxd9zyILNknfB-cMgQp4p9mYcQzqNyVulalw,649
+tec/doctest_utils.py,sha256=AqRhFASgTmom1uq6W8QbSwnusBIoOOk6MJNc9vimGqY,1082
+tec/findimports.py,sha256=jFHPU-GNTtysvsXsKjM8tLb2j-kqdAUwvHcVvDer480,35672
+tec/import_counting.py,sha256=E5rTtDwPZEkWOtqrM0zfUhNcR4XEHGLoNqYC4J-MDRk,6134
+tec/modules.py,sha256=WkOV72k7tTs7f5wLka24l75vugUoM5r9Q-dOPyfGwMo,9757
+tec/packages.py,sha256=ZwVX6T1MsNMNxvAHQwkfw1N-O5j-d90QGr_wv5MLyv8,4189
+tec/peek.py,sha256=Ejvh670Iv1XJIGv8Xxqc_2xpLhYHTGe6S78QNGrsMho,2306
+tec/pip_packaging.py,sha256=8PlRh01QSkvjHDxz8zmktl9ZXG4U03HhXm5qjluldes,6700
+tec/pip_requirements.py,sha256=NIucof40Q5QRa1NbiX_nUfDFv3lx9rjQePicD2Ebqig,5428
+tec/snake_food_import_counting.py,sha256=GRc69VV8hTrHzai8GZZI2uktP_yI5EW7xGckJXyi7Tk,8346
+tec/stores.py,sha256=n1Hwk50vqQxwZfO90IiblneFUORgGdrf3guMsOVIKcw,3508
+tec/util.py,sha256=AH9K-GbyriQEr6vTdtqPX0jUxgPesctiIw5V2CCboho,2477
+tec-0.0.6.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+tec-0.0.6.dist-info/METADATA,sha256=LAzCX1zITJQIDaVZnNoTdVg53S6RIdryHzqHjpLCCYY,2457
+tec-0.0.6.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+tec-0.0.6.dist-info/top_level.txt,sha256=JSCwI_aOhBYXaUZjuyX8IwZqjkj8TGAjV1PDD_MymZI,4
+tec-0.0.6.dist-info/RECORD,,
