@@ -1,0 +1,52 @@
+#!/env/python
+"""
+A simple directory watching script that will compute the checksum for all files
+within a path and execute a change when the sum changes.
+This will not work well with large files as it reads the entire file into
+memory.
+"""
+import argparse
+import hashlib
+from os import sys
+
+from src.abtesify.abtesify import Abtesify
+
+
+def abtesify(args):
+
+  abtest = Abtesify(args)
+
+  abtest.start()
+
+
+def main():
+    try:
+        parser = argparse.ArgumentParser()
+        parser.add_argument('--format', '-f', nargs='?', default="yaml",
+                            help='The testers file path')
+
+        parser.add_argument('--version', '-v', nargs='?', default=None,
+                            help='The current release version')
+
+        parser.add_argument('--semver', '--sv', nargs='?', default=None,
+                            help='The Semver of the current release version')
+
+        parser.add_argument('--alpha', action='store_true',
+                            help='The Semver alpha of the current release version')
+
+        parser.add_argument('--beta', action='store_true',
+                            help='The Semver beta of the current release version')
+
+        parser.add_argument('--relcand', action='store_true',
+                            help='The Semver release candidate of the current release version')
+
+        args = parser.parse_args()
+
+        abtesify(args)
+    except Exception as ex:
+        print(ex)
+
+
+if __name__ == '__main__':
+
+    sys.exit(main())
