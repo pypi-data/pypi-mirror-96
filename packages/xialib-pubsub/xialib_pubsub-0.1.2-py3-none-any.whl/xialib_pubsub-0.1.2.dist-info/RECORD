@@ -1,0 +1,9 @@
+xialib_pubsub/__init__.py,sha256=E3FlVGmExiwrdN3c_8zemZKPKSontHteBsn6egpP-Ds,281
+xialib_pubsub/pubsub_gcr_publisher.py,sha256=pr0sO6LLNk95xRJkS_rm2AUVPsEMbsbosgOAi0w22fA,2852
+xialib_pubsub/pubsub_publisher.py,sha256=9cXv9pk39SOM1rLYiEXMP7twAHsZXbq3oMAI-LkPwt0,2168
+xialib_pubsub/pubsub_subscriber.py,sha256=6aXLtc9RpD57w8Ptnz33Xc1eXKj0t3TdMb_zXckovTs,2949
+xialib_pubsub-0.1.2.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+xialib_pubsub-0.1.2.dist-info/METADATA,sha256=WjrqHCkitpzr3WM6CgL5zAkQfuMojguo5ujqw9qAuNU,1295
+xialib_pubsub-0.1.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+xialib_pubsub-0.1.2.dist-info/top_level.txt,sha256=aSlVfgT9NH5y8KnTe-dAOt-BrCu0TPN6pX6-HTDEFlE,14
+xialib_pubsub-0.1.2.dist-info/RECORD,,
