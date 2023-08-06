@@ -1,0 +1,11 @@
+py2048/__init__.py,sha256=DN88asMHO4Pm450ezicRWQIQUGYdZAsksKqcJv_DZKs,17196
+py2048/basefrontend.py,sha256=n_W2WejvnYVbmPhqX_3wVrdJYSCB-zzCVQZ48vC3lxQ,5775
+py2048/cell.py,sha256=PVdJfTRlpZXd3zf0DEmlsKr-nyznWtZQklE4jXrM2rs,3444
+py2048/grid.py,sha256=Xk3FwS2whIaYLW3vkNJEwrt-_0TSqzrBAaMTR8uKpIg,9041
+py2048/log.py,sha256=IcGJfimbsfSLpvIU4uOdjjN1mPf7WIVRe35pZv2-opY,1950
+py2048base-0.4.dist-info/LICENSE.txt,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+py2048base-0.4.dist-info/METADATA,sha256=U9ybaMYUxj6Gxq5BgsS7F5KOkb2olb6cFo423_SEmB8,3517
+py2048base-0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+py2048base-0.4.dist-info/top_level.txt,sha256=_296bUvBMva3ZeMNvfptKD1btzho81rt4k5TSGgUYSA,7
+py2048base-0.4.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+py2048base-0.4.dist-info/RECORD,,
