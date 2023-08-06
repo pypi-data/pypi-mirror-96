@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+bin/printeq
+printeq/__init__.py
+printeq.egg-info/PKG-INFO
+printeq.egg-info/SOURCES.txt
+printeq.egg-info/dependency_links.txt
+printeq.egg-info/top_level.txt
