@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+Abstract1/Abstract1.py
+Abstract1/__init__.py
+Abstract1_Josephaw1022.egg-info/PKG-INFO
+Abstract1_Josephaw1022.egg-info/SOURCES.txt
+Abstract1_Josephaw1022.egg-info/dependency_links.txt
+Abstract1_Josephaw1022.egg-info/top_level.txt
