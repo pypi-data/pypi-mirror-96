@@ -1,0 +1,12 @@
+pyckage/__init__.py,sha256=j6j1Akf6-56GII-7fsHPoKYcoeRRHtv0Vlgnqbgskrg,25
+pyckage/__main__.py,sha256=PF3OPAVdyTJHsW3mfgcB1RlQGBb0yDugFJ_eBWjUwx8,72
+pyckage/pyckage.py,sha256=8hQPLY4323yulU_YY4XtnGhgX6807sNPeJ1rlNcJP2U,9656
+pyckage-0.1.0.data/data/pyckage_data/setup.cfg,sha256=XMKjO_pt8vtl18RaxIcJlte92lu30L0-ww0aXBwDjyc,657
+pyckage-0.1.0.data/data/pyckage_data/setup.py,sha256=7K8rda6Gf3zdZDbz0xoSkkX3-49_VhQ-Y914fUW2hkw,84
+pyckage-0.1.0.data/scripts/pyckage,sha256=V26q6ZvXs-UpQMxVxAneM0qPkGkpYquI-YJwyWos7oQ,89
+pyckage-0.1.0.dist-info/LICENSE,sha256=IwGE9guuL-ryRPEKi6wFPI_zOhg7zDZbTYuHbSt_SAk,35823
+pyckage-0.1.0.dist-info/METADATA,sha256=7ixbl18K8rasnXucrIFJdM4GgO5nOpeFy0nBPa-tJX8,938
+pyckage-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pyckage-0.1.0.dist-info/entry_points.txt,sha256=jGch9TqCKmspkjp9GO3hQE6Db6ZMThXWN2BpGG-vVbI,42
+pyckage-0.1.0.dist-info/top_level.txt,sha256=a7har0D75pz7qdFcyvuQyIZakIuAu2UFg5IQgnymWfg,8
+pyckage-0.1.0.dist-info/RECORD,,
