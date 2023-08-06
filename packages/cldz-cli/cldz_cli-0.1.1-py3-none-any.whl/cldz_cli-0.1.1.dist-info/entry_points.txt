@@ -1,0 +1,3 @@
+[console_scripts]
+cldz=cldz_cli.cldz_cli:main
+
