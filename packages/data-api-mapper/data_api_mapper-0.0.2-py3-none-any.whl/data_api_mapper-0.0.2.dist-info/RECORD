@@ -1,0 +1,9 @@
+data_api_mapper/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+data_api_mapper/appsync.py,sha256=VXbm4cXFe-HhroOgfUPKuaJB79_nD_fc9UZ-E3Yo8ZQ,1480
+data_api_mapper/converters.py,sha256=I1I57_pcLHiC76nEYoRPfrYFspv7hZpdemENQ72K54k,638
+data_api_mapper/data_api.py,sha256=_sF6MWnCP3NMYPvvFz4_e6_3a5j-mBuJmcWkbqHxNRI,3518
+data_api_mapper-0.0.2.dist-info/LICENSE,sha256=k2QvgD9gUOHaHUUDQ23_FipwHs8wcV_H-IzsKc5Jf0I,1065
+data_api_mapper-0.0.2.dist-info/METADATA,sha256=Gg3VsR-0Vb4vldMZ7pDO8_I5TwIh_zZ7DFZnQjTXrMM,663
+data_api_mapper-0.0.2.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+data_api_mapper-0.0.2.dist-info/top_level.txt,sha256=Ps2HENFUyT0yiZfruxevAwT7l05G_6MBTXq3Hg7H26c,16
+data_api_mapper-0.0.2.dist-info/RECORD,,
