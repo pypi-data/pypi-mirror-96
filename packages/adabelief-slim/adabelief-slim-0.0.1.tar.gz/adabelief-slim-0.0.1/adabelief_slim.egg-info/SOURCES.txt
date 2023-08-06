@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+adabelief/__init__.py
+adabelief/adabelief.py
+adabelief_slim.egg-info/PKG-INFO
+adabelief_slim.egg-info/SOURCES.txt
+adabelief_slim.egg-info/dependency_links.txt
+adabelief_slim.egg-info/requires.txt
+adabelief_slim.egg-info/top_level.txt
