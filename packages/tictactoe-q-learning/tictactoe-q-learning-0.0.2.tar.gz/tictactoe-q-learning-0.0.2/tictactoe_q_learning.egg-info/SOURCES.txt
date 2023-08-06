@@ -1,0 +1,14 @@
+README.md
+setup.py
+tictactoe/__init__.py
+tictactoe/board.py
+tictactoe/match.py
+tictactoe/styledprint.py
+tictactoe/player/__init__.py
+tictactoe/player/human_player.py
+tictactoe/player/learner_player.py
+tictactoe/player/random_player.py
+tictactoe_q_learning.egg-info/PKG-INFO
+tictactoe_q_learning.egg-info/SOURCES.txt
+tictactoe_q_learning.egg-info/dependency_links.txt
+tictactoe_q_learning.egg-info/top_level.txt
