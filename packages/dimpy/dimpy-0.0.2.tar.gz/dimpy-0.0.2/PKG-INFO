@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: dimpy
+Version: 0.0.2
+Summary: A package for creating N-dimensional list array
+Home-page: https://github.com/dwaipayandeb/dimpy
+Author: Dwaipayan Deb
+Author-email: dwaipayandeb@yahoo.co.in
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/dwaipayandeb/dimpy
+Description: # dimpy package for python for creating N-dimensional list array in a user friendly manner
+        
+        Install command: 
+        ---------------
+        `pip install dimpy`
+        
+        
+        Use example:
+        ------------
+        ```
+        import dimpy as dp  # Import package as an object dp
+        testarray=dp.dim(5,7,9)  # This will create a 3 dimensional array consisting of 5x7x9 elements. You may give any number of inputs separated by comma. 
+        testarray[2][3][5]= 'Hello' # Let us replace (or do anything else) just one element. All other values will be 0 by default.
+        print(testarray)
+        dp.dfv(testarray,'x')  # We can change the default value by anything (e.g. 'x' here) 
+        print(testarray)
+        # Below steps are optional 
+        testarray=dp.npary(testarray) # This will change the type of the array from 'list' to 'numpy.ndarray'
+        testarray[1,4,3]=5 # Now work with elements in numpy style
+        print(testarray)
+        ```
+        
+        For details please follow the link https://www.respt.in/p/python-package-dimpy.html
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
