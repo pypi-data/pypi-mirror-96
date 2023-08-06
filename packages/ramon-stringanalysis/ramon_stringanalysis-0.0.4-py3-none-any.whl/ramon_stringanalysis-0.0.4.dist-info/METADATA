@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: ramon-stringanalysis
+Version: 0.0.4
+Summary: String analysis package.
+Home-page: UNKNOWN
+Author: Ramon Duraes
+Author-email: ramongduraes@gmail.com
+License: UNKNOWN
+Keywords: python,string,take
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Description-Content-Type: text/markdown
+Requires-Dist: jellyfish
+
+
+# String Analysis
+
+String analysis package created for Take Blip.
+
+
