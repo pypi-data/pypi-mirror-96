@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: rhymetagger
+Version: 0.2
+Summary: A simple collocation-driven recognition of rhymes
+Home-page: https://github.com/versotym/rhymetagger
+Author: Petr Plechac
+Author-email: plechac@ucl.cas.cz
+License: MIT
+Download-URL: https://github.com/versotym/rhymeTagger/archive/v0.2.tar.gz
+Description: UNKNOWN
+Keywords: poetry,rhyme,versification
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Text Processing :: Linguistic
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
