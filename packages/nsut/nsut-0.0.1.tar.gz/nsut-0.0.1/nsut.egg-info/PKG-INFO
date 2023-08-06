@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: nsut
+Version: 0.0.1
+Summary: A simple Command Line Interface to access NSUT's IMS Notices
+Home-page: https://github.com/param211/nsut
+Author: Param Chauhan
+Author-email: paramchauhan21@gmail.com
+License: MIT
+Download-URL: https://github.com/param211/nsut/archive/0.0.1.tar.gz
+Description: # Testing
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.0
+Description-Content-Type: text/markdown
