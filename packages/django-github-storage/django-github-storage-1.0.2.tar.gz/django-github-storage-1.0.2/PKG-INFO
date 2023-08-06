@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: django-github-storage
+Version: 1.0.2
+Summary: Use github as storage
+Home-page: https://github.com/ThomasGJL/django-github-storage
+Author: Thomas
+Author-email: thomasguo1127@gmail.com
+License: Apache License, Version 2.0
+Description: UNKNOWN
+Keywords: github,storage
+Platform: UNKNOWN
