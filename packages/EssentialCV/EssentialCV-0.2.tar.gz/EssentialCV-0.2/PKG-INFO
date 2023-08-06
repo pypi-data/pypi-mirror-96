@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: EssentialCV
+Version: 0.2
+Summary: A small module to simplify essential OpenCV functions.
+Home-page: https://rednek46.me
+Author: Rednek46
+Author-email: nuzer501@gmail.com
+License: MIT
+Download-URL: https://github.com/rednek46/EssentialCV/archive/v0.2.tar.gz
+Description: UNKNOWN
+Keywords: OpenCV,Simple,Essentials,haar
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
