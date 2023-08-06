@@ -1,0 +1,12 @@
+README.md
+setup.py
+jSona/__init__.py
+jSona.egg-info/PKG-INFO
+jSona.egg-info/SOURCES.txt
+jSona.egg-info/dependency_links.txt
+jSona.egg-info/not-zip-safe
+jSona.egg-info/top_level.txt
+jSona/core/__init__.py
+jSona/core/parser.py
+jSona/demo/__init__.py
+jSona/demo/demo.py
