@@ -1,0 +1,8 @@
+split_schedule/__init__.py,sha256=BvWk4yr6xB8nG8UYFDySwpMJuIytFY0OMl56XIgNWdY,121
+split_schedule/errors.py,sha256=CIsRzBRlEf2fjKLOwNY804Kc1zBSp2XoVOJo0yxHrv0,88
+split_schedule/schedule_builder.py,sha256=CVG4Cr0rJUVoSKWCawEK2fsgSM3iAW6n4_X9_s-TxCc,19960
+split_schedule/schedule_types.py,sha256=ZiZoXWRimaY0E5-a1IcoHxmK1Ae4Zpte6adfrRMg5OI,324
+split_schedule-0.3.2.dist-info/LICENSE,sha256=gZkn63N9ckCM4W5WrZcIIkoW7gZ9KUSNG8tc0xR7WQk,1074
+split_schedule-0.3.2.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+split_schedule-0.3.2.dist-info/METADATA,sha256=hh1RMEi-J3TVZQNOLTnlkFVglLxM5_y6JVQvpeUTAvA,6461
+split_schedule-0.3.2.dist-info/RECORD,,
