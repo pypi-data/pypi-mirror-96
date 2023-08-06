@@ -1,0 +1,7 @@
+README.md
+setup.py
+authenticating.com.egg-info/PKG-INFO
+authenticating.com.egg-info/SOURCES.txt
+authenticating.com.egg-info/dependency_links.txt
+authenticating.com.egg-info/requires.txt
+authenticating.com.egg-info/top_level.txt
