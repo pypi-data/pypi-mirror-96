@@ -1,0 +1,7 @@
+click
+cryptography
+dataclasses
+netifaces
+pyOpenSSL
+setuptools
+wheel
