@@ -1,0 +1,10 @@
+model_hub/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+model_hub/utils.py,sha256=VQNaHZJv68-qWmIHeZROxXuaAMdJth3WxLOv3pyAano,1648
+model_hub/huggingface/__init__.py,sha256=mfyeHht4Ze3W6W8yzd7WwI0-eS28nmtMPjRw4i-ywXw,134
+model_hub/huggingface/_arg_parser.py,sha256=9UkHfgYfTVbkzBIZE0_yP1lT6l4HVwjUpsbo-5eM62U,8603
+model_hub/huggingface/_trial.py,sha256=f_leQyu6LhKmt4w2Szl0_f6LeYml29wXN46EEFxA7nc,9191
+model_hub/huggingface/_utils.py,sha256=Ow1kpaeIN-qxExixWOz_0vH5DiVVH_Z271-XqjWlzsc,943
+model_hub-0.1.0.dev0.dist-info/METADATA,sha256=QTx5PmpHfaU-yAvmG9R4v5wSC4ROH9yDXmtomfV1bX4,1050
+model_hub-0.1.0.dev0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+model_hub-0.1.0.dev0.dist-info/top_level.txt,sha256=qMud2IqWbRcQyKjzoPTdmR8Yd40scxRam5UwNdsK_WE,10
+model_hub-0.1.0.dev0.dist-info/RECORD,,
