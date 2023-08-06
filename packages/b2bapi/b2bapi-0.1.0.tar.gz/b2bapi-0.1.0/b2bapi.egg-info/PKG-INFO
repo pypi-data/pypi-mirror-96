@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: b2bapi
+Version: 0.1.0
+Summary: Interact with the BytesToBits API through Python
+Home-page: https://github.com/doublevcodes/b2bapi
+License: UNKNOWN
+Description: # B2B API
+        
+        API Wrapper in Python For the BytesToBits API
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
