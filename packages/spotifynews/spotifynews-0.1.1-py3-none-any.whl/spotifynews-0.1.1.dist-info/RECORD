@@ -1,0 +1,15 @@
+spotifynews/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+spotifynews/update.py,sha256=fDbsLkwJL1aihx8Le2hvoUdxOd7khNDYBvgUBoIiR0U,1207
+spotifynews/database/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+spotifynews/database/sqlite3db.py,sha256=XApppnNL8NL7G8g6pAb1FM5smH6Fql4NuzSkIUj3f9g,1525
+spotifynews/spotify/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+spotifynews/spotify/client.py,sha256=YMRWw5S71VYOL1G2GrS6PDy9AGUytnvxCjCChdiufSA,2994
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_client.py,sha256=M6zisIHQttlZ6Jy0s4M_jk0f7kDl2cvWLLmbCvyu9Ss,549
+tests/test_sqlite3db.py,sha256=Qo19SN2SITYcohHEY-UkiXsnjtB_zOVcDEIuSSOhzPI,560
+tests/test_update.py,sha256=4YwXEEQrhmqdy4uNTItTJcmjACyBuX7nylBd__QqKUY,538
+spotifynews-0.1.1.dist-info/LICENSE,sha256=jLEG3YnWCaKh37hiT552VSkcv-YorZySz0AXao7L4qA,1524
+spotifynews-0.1.1.dist-info/METADATA,sha256=vS7fFKJ2PGFK6T1cGLgmpxx8PGZ_Qp6nLGS7g-FhUEc,2793
+spotifynews-0.1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+spotifynews-0.1.1.dist-info/top_level.txt,sha256=3eo_y1N0kLXx2JbVY-eCWMPIBFqoRXc4ZjS2hk6zsfU,18
+spotifynews-0.1.1.dist-info/RECORD,,
