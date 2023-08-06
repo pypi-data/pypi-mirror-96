@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+sec/MySuperClass.py
+sec/_init_.py
+sec1.egg-info/PKG-INFO
+sec1.egg-info/SOURCES.txt
+sec1.egg-info/dependency_links.txt
+sec1.egg-info/not-zip-safe
+sec1.egg-info/top_level.txt
