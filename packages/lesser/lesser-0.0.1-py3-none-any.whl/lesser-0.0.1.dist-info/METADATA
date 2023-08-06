@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: lesser
+Version: 0.0.1
+Summary: Remote objects using rcall
+Home-page: UNKNOWN
+Author: OpenAI
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: blobfile (~=0.16)
+Requires-Dist: flask (~=1.1.2)
+
+UNKNOWN
+
+
