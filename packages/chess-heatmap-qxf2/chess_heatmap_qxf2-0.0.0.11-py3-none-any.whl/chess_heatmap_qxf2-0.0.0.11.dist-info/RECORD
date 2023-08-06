@@ -1,0 +1,11 @@
+chess_heatmap_qxf2/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+chess_heatmap_qxf2/chess_control_heatmap.py,sha256=zMcd9X2rPh2fwKjuAsP-SV-_YdfNPUsnkQzDo_VAuHg,886
+chess_heatmap_qxf2/chess_dask_cluster.py,sha256=Ts6fqmyY4c63iO3Tf3bOSkElZfRcYeKp1p6dqpfJHtM,6439
+chess_heatmap_qxf2/chess_image_generator.py,sha256=lGneRtO11y1OZhaY4JjDc2dGm7WiEgzts4C_OhFAB3E,2095
+chess_heatmap_qxf2/chess_util.py,sha256=C5BI3Gt00THDZW_dzW7mGTrFEbqcQCbme4r01X--rpo,3195
+chess_heatmap_qxf2/control_heatmap.py,sha256=zy4fh2AU0m1lS59MM9PPgnVMEFeRYU1S7s7pDjbVOOk,619
+chess_heatmap_qxf2-0.0.0.11.dist-info/LICENSE,sha256=aFLFZg6LEJFpTlNQ8su3__jw4GfV-xWBmC1cePkKZVw,35802
+chess_heatmap_qxf2-0.0.0.11.dist-info/METADATA,sha256=cxaHxVgBX1hNcewzaOEQ0aeWubuFcpcUBmyGO_8IU9E,1140
+chess_heatmap_qxf2-0.0.0.11.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+chess_heatmap_qxf2-0.0.0.11.dist-info/top_level.txt,sha256=7cFVfEob_YDdNJUF1I20wygL1BoXRzlauSitsYKAiPw,19
+chess_heatmap_qxf2-0.0.0.11.dist-info/RECORD,,
