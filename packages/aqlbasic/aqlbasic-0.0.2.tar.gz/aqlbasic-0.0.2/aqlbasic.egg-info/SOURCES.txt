@@ -1,0 +1,8 @@
+setup.py
+aqlbasic.egg-info/PKG-INFO
+aqlbasic.egg-info/SOURCES.txt
+aqlbasic.egg-info/dependency_links.txt
+aqlbasic.egg-info/requires.txt
+aqlbasic.egg-info/top_level.txt
+basql/__init__.py
+basql/basql.py

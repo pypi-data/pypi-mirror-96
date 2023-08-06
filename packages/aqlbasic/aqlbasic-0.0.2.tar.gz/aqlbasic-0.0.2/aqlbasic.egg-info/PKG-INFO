@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: aqlbasic
+Version: 0.0.2
+Summary: A simple package to connect to mysql easily
+Home-page: UNKNOWN
+Author: Pratyush Roy
+Author-email: <pratyushroy.whj@gmail.com>
+License: UNKNOWN
+Description: A simple package to connect to mysql easily
+Keywords: python,sql,mysql,database,data
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
