@@ -1,0 +1,4 @@
+fclist-cffi
+freetype-py
+pillow
+pyte
