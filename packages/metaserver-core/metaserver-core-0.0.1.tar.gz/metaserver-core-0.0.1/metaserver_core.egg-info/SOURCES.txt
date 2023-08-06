@@ -1,0 +1,6 @@
+setup.py
+metaserver/__init__.py
+metaserver_core.egg-info/PKG-INFO
+metaserver_core.egg-info/SOURCES.txt
+metaserver_core.egg-info/dependency_links.txt
+metaserver_core.egg-info/top_level.txt

@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: metaserver-core
+Version: 0.0.1
+Summary: The core part for all game metaservers.
+Home-page: https://pypi.org/project/metaserver-core/
+Author: Mint
+Author-email: pasaranax@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)
+Description-Content-Type: text/markdown
