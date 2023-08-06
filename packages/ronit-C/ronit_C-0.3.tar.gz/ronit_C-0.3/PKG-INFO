@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: ronit_C
+Version: 0.3
+Summary: Ronit_C is a library for python that teaches you how to program really easily!
+Home-page: https://www.sb-3design.com/
+Author: Serge Brainin, Yuval Noiman
+Author-email: forecaster1310@gmail.com
+License: MIT
+Download-URL: https://github.com/forecaster-cyber/Ronit_C/archive/0.3.tar.gz
+Description: UNKNOWN
+Keywords: LOW-CODE,EASY,PYGAME
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
