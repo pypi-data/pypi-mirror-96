@@ -1,0 +1,16 @@
+SQLAlchemy
+WebOb
+bdbag
+bx-python
+galaxy-objectstore
+galaxy-sequence-utils
+galaxy-util[template]
+h5py
+isa-rwval
+numpy
+parsley
+pycryptodome
+pysam
+social-auth-core[openidconnect]==3.3.0
+sqlalchemy-migrate
+sqlalchemy-utils
