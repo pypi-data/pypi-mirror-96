@@ -1,0 +1,9 @@
+cptv/__init__.py,sha256=hDWI6vyYmlCRCAzKzjGULWbz3DvHLJlY2PAD1vQ91gU,87
+cptv/frame.py,sha256=VHPUnni8-jR4KzveLsSrYzR3vYXqKPeddS0iXHSP_-E,1220
+cptv/reader.py,sha256=LqPEC8OYe92QYLRKN58je-DQgcZqj_f-lHcGltvElWc,12188
+cptv/writer.py,sha256=GUBoh-nxJnqoRciGbsuNfEH4x49rzDFt34LZOhTqQVw,7917
+cptv-1.5.0.dist-info/LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+cptv-1.5.0.dist-info/METADATA,sha256=M8GGol5lV_qYMRq3p2V6_e5AbcMLAvGzjrIRvwjvviw,827
+cptv-1.5.0.dist-info/WHEEL,sha256=EVRjI69F5qVjm_YgqcTXPnTAv3BfSUr0WVAHuSP3Xoo,92
+cptv-1.5.0.dist-info/top_level.txt,sha256=eeuCwlsDmpgDHabrHATSTqaVaT_vB_BKEaTC49TbQBo,5
+cptv-1.5.0.dist-info/RECORD,,
