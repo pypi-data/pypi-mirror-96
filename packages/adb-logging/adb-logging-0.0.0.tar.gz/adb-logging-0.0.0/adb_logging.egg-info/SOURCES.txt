@@ -1,0 +1,8 @@
+README.md
+setup.py
+adb_logging/__init__.py
+adb_logging/pipelines.py
+adb_logging.egg-info/PKG-INFO
+adb_logging.egg-info/SOURCES.txt
+adb_logging.egg-info/dependency_links.txt
+adb_logging.egg-info/top_level.txt
