@@ -1,0 +1,19 @@
+Metadata-Version: 1.2
+Name: scaleout
+Version: 0.1.0
+Summary: Scaleout CLI
+Home-page: https://www.scaleoutsystems.com
+Author: Morgan Ekmefjord
+Author-email: morgan@scaleout.se
+License: Copyright Scaleout Systems AB. See license for details
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.5,<4
