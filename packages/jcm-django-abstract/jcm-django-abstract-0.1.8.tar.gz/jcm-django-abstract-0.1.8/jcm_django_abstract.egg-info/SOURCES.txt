@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.rst
+pyproject.toml
+setup.cfg
+setup.py
+jcm_django_abstract/__init__.py
+jcm_django_abstract/fk.py
+jcm_django_abstract/other.py
+jcm_django_abstract/slug.py
+jcm_django_abstract/tracking.py
+jcm_django_abstract/uuid.py
+jcm_django_abstract.egg-info/PKG-INFO
+jcm_django_abstract.egg-info/SOURCES.txt
+jcm_django_abstract.egg-info/dependency_links.txt
+jcm_django_abstract.egg-info/requires.txt
+jcm_django_abstract.egg-info/top_level.txt
