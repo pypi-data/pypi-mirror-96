@@ -1,0 +1,12 @@
+deppy/.DS_Store,sha256=vc10bxvTzFG6dkV0g92OTVG3AAnX9W3LH12TKbnlGmM,6148
+deppy/__init__.py,sha256=0ZK3wMEQgLN2Rbb8yXAw2D2P0yTjX2as33I46pZx-rk,137
+deppy/decorator.py,sha256=i_VruGrsmDmHj1mul17I-hdwQ9Ob9vBqZzPfcBgw8ws,691
+deppy/di.py,sha256=fMd-1I8dS7E9I3Xk3H07JcihYWeh9zekxPZs9D97ZHY,3282
+deppy/registry.py,sha256=0R6MXl3zXT8X4O9OeoXZKUvcXWaR3gKK0gl7hn73l5o,2818
+deppy/scope.py,sha256=u65getmqFCQ3bgSqJt5Px-FZ2N9n61yCw-DfK3ddKNs,119
+deppy/type.py,sha256=GLTkv_V7c-1BaepLPwJg0INmcLWJ-Wd-ZN4YNwM9o6k,159
+deppy/util.py,sha256=UGvlbqb-Og1LOl2NldoRicp5aGe0uB4sy3dus5TnD70,308
+deppy-0.0.0.dist-info/LICENSE,sha256=dy4KGnEUplMA2GOWJprnvKSSNo3iwNA9z6vF0w1MDGw,1115
+deppy-0.0.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+deppy-0.0.0.dist-info/METADATA,sha256=LKaORM7Jr75J-gT626QPUKGuBupQ4mf81BAr46EeBss,923
+deppy-0.0.0.dist-info/RECORD,,
