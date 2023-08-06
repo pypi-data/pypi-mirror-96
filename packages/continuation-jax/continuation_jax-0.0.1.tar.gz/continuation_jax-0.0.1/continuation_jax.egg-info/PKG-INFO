@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: continuation-jax
+Version: 0.0.1
+Summary: Continuation Methods for Deep Neural Networks.
+Home-page: https://github.com/harsh306/continuation-jax
+Author: Harsh Nilesh Pathak
+Author-email: harshnpathak@gmail.com
+License: UNKNOWN
+Description: # continuation-jax
+        Continuation methods of Deep Neural Networks 
+        Tags: optimization, deep-learning, homotopy, bifurcation-analysis, continuation
+        
+        Contact: harshnpathak@gmail.com
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
