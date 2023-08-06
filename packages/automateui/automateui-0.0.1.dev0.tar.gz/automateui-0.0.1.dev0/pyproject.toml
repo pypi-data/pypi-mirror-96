@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "automateui"
+version = "0.0.1-dev"
+description = "Automate web UI fast"
+authors = ["ninest"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

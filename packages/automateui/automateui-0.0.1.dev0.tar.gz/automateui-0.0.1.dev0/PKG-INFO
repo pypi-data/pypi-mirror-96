@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: automateui
+Version: 0.0.1.dev0
+Summary: Automate web UI fast
+Author: ninest
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+# Automate UI
+
+> Automate web UI fast and easily
+
+**This project is a work in progress!**
