@@ -1,0 +1,11 @@
+crapssim/__init__.py,sha256=XwSVVrQ0lNQibXO5vVTlGuoW1Rj9LcDJO6bMLLlxnEo,246
+crapssim/bet.py,sha256=FMHSdQUB6lG3jPZCLieHp0vqF4jGYbW7Co_N2VQhvG0,8139
+crapssim/dice.py,sha256=TO4ZlQel0y_HNPjvPCiszuP6p9qoQprVIBtTgwl4L60,1012
+crapssim/player.py,sha256=CM3qlJkg9jaAOxes2E9VZHc0Akj4aBjWUztlv3ayGUw,4297
+crapssim/strategy.py,sha256=d55Wgy-px3-NVRG4tKJLoGcx02eNp2mGJ0MK2oYD3Ow,15713
+crapssim/table.py,sha256=nTwgA1iDC3_LZLMqGrqCfdVR7jkY920KlkzYeUOJnWA,7929
+crapssim-0.1.0.dist-info/LICENSE,sha256=usx9IHzQ7uGpHiauLihhhBSILJ7HohhmxIwLTfUaplQ,1052
+crapssim-0.1.0.dist-info/METADATA,sha256=luFonVlB5dMuFKRtFyy31AmJ3_qPHgerSIbbqLHKZl8,1581
+crapssim-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+crapssim-0.1.0.dist-info/top_level.txt,sha256=J3AM4zFpSlbTpm1_ZbHOZGpoECgTXME2aUps8byUU5g,9
+crapssim-0.1.0.dist-info/RECORD,,
