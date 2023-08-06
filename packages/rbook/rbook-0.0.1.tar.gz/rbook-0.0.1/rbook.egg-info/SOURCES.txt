@@ -1,0 +1,6 @@
+setup.py
+rbook/__init__.py
+rbook.egg-info/PKG-INFO
+rbook.egg-info/SOURCES.txt
+rbook.egg-info/dependency_links.txt
+rbook.egg-info/top_level.txt
