@@ -1,0 +1,115 @@
+urg_v1p4,description,price_weight
+3,Adm_T1_Injury,0.4617
+4,Adm_T1_Poisoning/Toxic effects of drugs,0.3224
+5,Adm_T1_Respiratory system illness,0.3238
+6,"Adm_T1_Circulatory system and Endocrine, nutritional and metabolic illness",0.2798
+7,Adm_T1_All other MDB groups,0.3415
+9,Adm_T2_Poisoning,0.2255
+10,Adm_T2_Injury,0.2875
+11,Adm_T2_Gastrointestinal system and Digestive system illness,0.242
+12,Adm_T2_Respiratory system illness,0.2336
+14,Adm_T2_Neurological illness,0.2757
+15,Adm_T2_Toxic effects of drugs,0.246
+16,"Adm_T2_Circulatory system and Endocrine, nutritional and metabolic illness",0.2007
+17,Adm_T2_All other MDB groups,0.1985
+19,Adm_T3_Blood/Immune system illness & system infection/parasites,0.1957
+20,Adm_T3_Injury,0.1938
+21,Adm_T3_Neurological illness,0.1944
+22,Adm_T3_Obstetric/Gynaecological illness,0.1145
+23,Adm_T3_Digestive system illness,0.1835
+24,"Adm_T3_Circulatory system illness and endocrine, nutritional and metabolic illness",0.1758
+25,Adm_T3_Poisoning/Toxic effects of drugs,0.1743
+26,Adm_T3_Urological illness,0.179
+27,Adm_T3_Respiratory system illness,0.1897
+29,Adm_T3_All other MDB groups,0.1684
+30,Adm_T4_Poisoning/Toxic effects of drugs,0.1348
+31,Adm_T4_Respiratory system illness,0.1557
+32,Adm_T4_Gastrointestinal system and Digestive system illness,0.149
+33,Adm_T4_All other MDB groups,0.1403
+34,Adm_T4_Injury,0.1366
+35,Adm_T4_Social problem/Other presentation,0.1425
+37,Adm_T5_All other MDB groups 1,0.0866
+38,Dead on Arrival w any Triage w any MDB,0.0483
+39,N-A_T1_All MDB groups,0.3209
+40,N-A_T2_Toxic effects of drugs,0.2417
+43,"N-A_T2_Circulatory system / Endocrine, nutritional and metabolic diseases",0.1712
+44,N-A_T2_Injury,0.1712
+45,N-A_T2_Poisoning,0.2134
+46,N-A_T2_All other MDB groups,0.1482
+48,"N-A_T3_Circulatory system and Endocrine, nutritional and metabolic illness",0.1321
+50,N-A_T3_Injury,0.116
+51,N-A_T3_Genitourinary illness,0.1327
+52,N-A_T3_Gastrointestinal system and Digestive system illness,0.1297
+53,N-A_T3_Neurological illness,0.141
+55,N-A_T3_Respiratory system illness,0.1176
+56,N-A_T3_Musculoskeletal/connective tissue illness,0.1207
+57,N-A_T3_All other MDB groups,0.1035
+58,N-A_T4_Injury,0.0795
+60,N-A_T4_Urological system illness,0.0978
+61,"N-A_T4_Circulatory system / Endocrine, nutritional and metabolic illness",0.0995
+62,N-A_T4_Gastrointestinal system and Digestive system illness,0.0976
+63,N-A_T4_Musculoskeletal/connective tissue illness,0.0907
+65,N-A_T4_Illness of the ENT,0.0708
+66,N-A_T4_Illness of the Eyes,0.0657
+67,N-A_T4_Other presentation block,0.0754
+68,N-A_T4_All other MDB groups,0.0863
+69,N-A_T5_Poisoning/Toxic effects of drugs,0.0682
+70,N-A_T5_Injury,0.066
+71,N-A_T5_Other presentation block,0.0519
+72,N-A_T5_All other MDB groups,0.066
+73,Did Not Wait,0.036
+74,"Transfer presentation_1, 2",0.3741
+75,Died in emergency department_triage 1,0.2728
+76,"Adm_Return visit, planned w any Triage",0.1308
+77,"N-A Return visit, planned – Triage 1, 2",0.145
+78,"N-A Return visit, planned – Triage 3-5",0.067
+79,Adm_T1_Psychiatric illness,0.4156
+80,Adm_T2_System infection/parasites,0.2571
+81,Adm_T2_Urological system illness,0.2262
+82,Adm_T2_Psychiatric illness,0.2574
+83,"Adm_T3_Illness of eyes, ear, nose, throat",0.1426
+84,Adm_T3_Hepatobiliary system illness,0.2016
+85,Adm_T3_Psychiatric illness,0.1978
+86,"Adm_T4_Circulatory system illness and Endocrine, nutritional and metabolic illness",0.1512
+87,"Adm_T4_Illness of eyes, ear nose and throat",0.117
+88,Adm_T4_Blood/immune system illness/system infection/parasites,0.1555
+89,Adm_T4_Gynaecological and Male reproductive system illness,0.1259
+90,Adm_T4_Psychiatric illness,0.1661
+91,Adm_T5_All other MDB groups 2,0.1166
+92,Adm_T5_Injury,0.1017
+93,Adm_T5_Gastrointestinal system and Digestive system illness,0.1191
+94,Adm_T5_Psychiatric illness,0.1247
+95,N-A_T2_Respiratory system illness,0.1647
+96,N-A_T2_Urological system illness,0.1866
+97,N-A_T2_Gastrointestinal system and Digestive system illness,0.1722
+98,N-A_T2_Neurological illness,0.2047
+99,N-A_T2_Blood/immune system illness/system infection/parasites,0.1609
+100,N-A_T2_Psychiatric illness,0.2001
+101,N-A_T3_Poisoning,0.1353
+102,N-A_T3_Toxic effects of drugs,0.1628
+103,N-A_T3_Illness of eyes,0.0872
+104,N-A_T3_Blood/immune system illness/system infection/parasites,0.1095
+105,N-A_T3_Psychiatric illness,0.1469
+106,N-A_T4_Poisoning,0.0802
+107,N-A_T4_Toxic effects of drugs,0.1146
+108,N-A_T4_Respiratory system illness,0.0863
+109,N-A_T4_Blood/Immune system illness/System infection/parasites,0.0814
+110,N-A_T4_Obstetric and Newborn/Neonate,0.0869
+111,N-A_T4_Gynecological/Male reproductive system illness,0.0953
+112,N-A_T4_Psychiatric illness,0.1083
+113,"N-A_T5_Circulatory system illness/Endocrine, nutritional and metabolic diseases",0.078
+114,N-A_T5_Gastrointestinal system and Digestive system illness,0.0725
+115,"N-A_T5_Illness of the eyes, ear, nose and throat",0.0522
+116,"N-A_T5_Illness of the skin, subcutaneous tissue, breast/Musculoskeletal/Connective tissue illness",0.0666
+117,N-A_T5_Blood/immune system illness/system infection/parasites,0.0635
+118,N-A_T5_Obstetric illness/Newborn/Neonate,0.0473
+119,N-A_T5_Genitourinary system illness,0.0681
+120,N-A_T5_Psychiatric illness,0.0767
+121,Transfer presentation_3,0.284
+122,Transfer presentation_4,0.2099
+123,Transfer presentation_5,0.1362
+124,Died in emergency department_triage 2-5,0.2798
+125,"Left at own risk_1, 2",0.1678
+126,Left at own risk_3,0.1045
+127,Left at own risk_4,0.0744
+128,Left at own risk_5,0.0604
