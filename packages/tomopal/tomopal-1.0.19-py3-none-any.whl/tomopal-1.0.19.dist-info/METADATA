@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: tomopal
+Version: 1.0.19
+Summary: Your electrical resistivity tomography companion !
+Home-page: https://github.com/robinthibaut/tomopal
+Author: Robin Thibaut
+Author-email: robin.thibaut@UGent.be
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: numpy
+Requires-Dist: rasterio
+Requires-Dist: vtk
+Requires-Dist: geographiclib
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+
+Your electrical resistivity tomography companion !
+
+
