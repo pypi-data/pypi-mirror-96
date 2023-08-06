@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: aws-quota-checker
+Version: 1.0.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: boto3
+Requires-Dist: click
+Requires-Dist: tabulate
+Provides-Extra: dev
+Requires-Dist: wheel ; extra == 'dev'
+Requires-Dist: autopep8 ; extra == 'dev'
+Requires-Dist: keepachangelog ; extra == 'dev'
+Requires-Dist: pylint ; extra == 'dev'
+
+UNKNOWN
+
+
