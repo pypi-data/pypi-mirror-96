@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: pyspcalt
+Version: 1.0.9
+Summary: An altered version of pyspc from https://github.com/carlosqsilva/pyspc that does not break other graphs
+Home-page: https://github.com/brendanperry/pyspc
+Author: Brendan Perry
+Author-email: bperry@hey.com
+License: GPLv3
+Description: An altered version of pyspc from https://github.com/carlosqsilva/pyspc that does not break other graphs
+Keywords: SPC QCC CEQ CEP UEPA
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Topic :: Scientific/Engineering
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
