@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: distributionsgeneral
+Version: 0.3
+Summary: Gaussian and Binomial distributionsgeneral
+Home-page: UNKNOWN
+Author: Amandeep Mander
+License: UNKNOWN
+Description: # General Distributions package
+        
+        Python package to run calculations on probability distributions. Currently supports Gaussian and Binomial distributions.
+        
+        ## Usage
+        Please visit https://github.com/AmanMander123/probabilitydistributionspackage for more details.
+        
+        ## License
+        MIT License
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
