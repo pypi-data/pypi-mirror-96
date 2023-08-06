@@ -1,0 +1,3 @@
+[console_scripts]
+pymento = pymento_meg.cli:main
+
