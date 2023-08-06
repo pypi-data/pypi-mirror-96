@@ -1,0 +1,10 @@
+pandas
+Pillow
+geopandas
+pyproj==1.9.6
+numpy
+requests
+requests-toolbelt
+rasterio
+Shapely
+Fiona
