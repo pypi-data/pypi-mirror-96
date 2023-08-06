@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: fit-cli
+Version: 0.1.0
+Summary: A command line utility for organizing directories of binary content.
+Home-page: https://github.com/jakeledoux/fit-cli
+Author: Jake Ledoux
+Author-email: contactjakeledoux@gmail.com
+License: GNU General Public License v2.0
+Description: # fit
+        
+        A command line utility for organizing directories of binary content.
+        
+        ## Introduction
+        
+        **fit** can...
+        
+        * Merge all duplicate files while maintaining the structure of a
+          directory.
+        * Create, manage, and search by tags without changing the
+          binary content of the files.
+        * Flatten an entire tree and later restore the original structure.
+        
+        ## Installation
+        ``` console
+        $ pip install fit-cli
+        ```
+        
+        ## Usage
+        
+        ```
+        Usage: fit [OPTIONS] COMMAND [ARGS]...
+        
+          A command line utility for organizing directories of binary content.
+        
+        Options:
+          --help  Show this message and exit.
+        
+        Commands:
+          init    Create a new fit repository in the current directory.
+          pack    Removes all tracked links and their directories.
+          status  Show the active directory status.
+          tag     Create, manage, and view tags.
+          unpack  Restores all tracked links and their directories.
+          update  Tracks changes to the active directory and replaces literal files...
+        ```
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

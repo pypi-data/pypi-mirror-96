@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+fit/__init__.py
+fit/exceptions.py
+fit/models.py
+fit/scripts/__init__.py
+fit/scripts/fit.py
+fit_cli.egg-info/PKG-INFO
+fit_cli.egg-info/SOURCES.txt
+fit_cli.egg-info/dependency_links.txt
+fit_cli.egg-info/entry_points.txt
+fit_cli.egg-info/requires.txt
+fit_cli.egg-info/top_level.txt
