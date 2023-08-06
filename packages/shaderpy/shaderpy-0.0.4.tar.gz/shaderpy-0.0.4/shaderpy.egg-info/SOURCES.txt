@@ -1,0 +1,11 @@
+CHANGELOG.md
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+shaderpy/__init__.py
+shaderpy.egg-info/PKG-INFO
+shaderpy.egg-info/SOURCES.txt
+shaderpy.egg-info/dependency_links.txt
+shaderpy.egg-info/requires.txt
+shaderpy.egg-info/top_level.txt
