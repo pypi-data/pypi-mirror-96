@@ -1,0 +1,6 @@
+README.md
+setup.py
+puml.egg-info/PKG-INFO
+puml.egg-info/SOURCES.txt
+puml.egg-info/dependency_links.txt
+puml.egg-info/top_level.txt
