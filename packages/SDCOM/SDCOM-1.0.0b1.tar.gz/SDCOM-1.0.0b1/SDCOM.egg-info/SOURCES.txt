@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.MD
+README.md
+setup.cfg
+setup.py
+SDCOM/__init__.py
+SDCOM.egg-info/PKG-INFO
+SDCOM.egg-info/SOURCES.txt
+SDCOM.egg-info/dependency_links.txt
+SDCOM.egg-info/not-zip-safe
+SDCOM.egg-info/top_level.txt
