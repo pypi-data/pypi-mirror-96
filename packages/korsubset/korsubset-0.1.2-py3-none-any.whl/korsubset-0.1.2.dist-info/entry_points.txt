@@ -1,0 +1,3 @@
+[console_scripts]
+korsubset = korsubset.__main__:main
+
