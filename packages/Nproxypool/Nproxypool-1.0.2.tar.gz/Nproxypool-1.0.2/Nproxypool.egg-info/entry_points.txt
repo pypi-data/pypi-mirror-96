@@ -1,0 +1,3 @@
+[console_scripts]
+npool = nproxypool.cmdline:execute
+

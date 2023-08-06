@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: Nproxypool
+Version: 1.0.2
+Summary: A Proxypool
+Home-page: https://github.com/moqsien/nproxypool
+Author: MoQsien
+Maintainer: MoQsien
+Maintainer-email: moqsien@foxmail.com
+License: UNKNOWN
+Project-URL: Documentation, https://github.com/moqsien/nproxypool/blob/main/README.md
+Project-URL: Source, https://github.com/moqsien/nproxypool
+Project-URL: Tracker, https://github.com/moqsien/nproxypool
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
