@@ -1,0 +1,12 @@
+oligo_melting/__init__.py,sha256=_QyXdwIKfT-hM48WIoTgrFP3D18wrYE54Iq0b0aEV0g,278
+oligo_melting/const.py,sha256=9T01BtvmDkQet0ZvTo69fb1eKYimaKiYOH0GU551ti0,87
+oligo_melting/duplex.py,sha256=m1btiDFARyvHVwDTEjdz0bofolwS8UtyKM0jiXXt_xw,25535
+oligo_melting/secstr.py,sha256=PsSMnr44Bq7v6-RjvBZMMfBdssDgvf-vyKbCM4badE0,2840
+oligo_melting/seq.py,sha256=bB5Ukw6i7JdYny4EbLeWX7DQIPtAOiFdzi5epPPWM64,1456
+oligo_melting-2.0.2.data/scripts/melt_duplex,sha256=-40ADEViQ0T4OSxL2zaCjo9uN9Kda4SyGGwd7zJGd2k,8640
+oligo_melting-2.0.2.data/scripts/melt_secstr,sha256=9vn5-wzMO-wfFOUk0ep2WFjojlXfHYzc6zFBoWI21Zs,5988
+oligo_melting-2.0.2.dist-info/LICENSE,sha256=Rax-peXlWFbIwEPGzeX_m2BrBs3NIsT4QfC6NgfD_wA,1073
+oligo_melting-2.0.2.dist-info/METADATA,sha256=SCUdbHa1eoEaqACoDbmiQ8IgaS4uGkACtDY9hFMcNe0,4783
+oligo_melting-2.0.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+oligo_melting-2.0.2.dist-info/top_level.txt,sha256=so2c6y3HGPblAgiizOQ6GdlEheO4r1hKyJpY4kXCWsU,14
+oligo_melting-2.0.2.dist-info/RECORD,,
