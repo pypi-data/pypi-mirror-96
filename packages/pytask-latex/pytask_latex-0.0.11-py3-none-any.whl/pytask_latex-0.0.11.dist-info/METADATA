@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: pytask-latex
+Version: 0.0.11
+Summary: Compile LaTeX documents with pytask.
+Home-page: https://github.com/pytask-dev/pytask-latex
+Author: Tobias Raabe
+Author-email: raabe@posteo.de
+License: MIT
+Project-URL: Documentation, https://github.com/pytask-dev/pytask-latex
+Project-URL: Github, https://github.com/pytask-dev/pytask-latex
+Project-URL: Tracker, https://github.com/pytask-dev/pytask-latex/issues
+Project-URL: Changelog, https://github.com/pytask-dev/pytask-latex/blob/main/CHANGES.rst
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+
+UNKNOWN
+
+
