@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: precipy
+Version: 0.3.8
+Summary: Lightweight document automation for analytics reporting.
+Home-page: https://github.com/ananelson/precipy
+Author: Ana Clarkson
+Author-email: ana@zymocosm.com
+License: UNKNOWN
+Description: ## Precipy
+        
+        A cloud-enabled, analytics-focused document generation tool from the author of [dexy.it](Dexy).
+        
+        ## Example Usage
+        
+        See https://github.com/ananelson/precipy-demo/ repository for an example.
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
