@@ -1,0 +1,34 @@
+Metadata-Version: 1.1
+Name: sandpilemodel
+Version: 1.0.0
+Summary: A small package for simulating sandpile model
+Home-page: https://github.com/bhavishrg/sandpile
+Author: Bhavish Raj Gopal
+Author-email: gbhavish@gmail.com
+License: MIT
+Description: Sandpile(N, critLevel, iterations, mode="Random", initMode='RandomInt', animated=False, save = True)
+        
+        
+                                       Parameters
+        
+         N = Size of Grid
+         critLevel = Critical Level
+         iterations = Number of iterations
+         mode = Random, SpecificCorners, SpecificMiddle
+         initMode = RandomInt, RandomFloat, Static, NearCrit, OverCrit
+         animated = Set to true if you want to see animation
+         save = Set to true to save the file
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
