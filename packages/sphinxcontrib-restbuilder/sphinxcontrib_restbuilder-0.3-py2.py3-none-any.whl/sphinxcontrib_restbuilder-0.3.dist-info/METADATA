@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: sphinxcontrib-restbuilder
+Version: 0.3
+Summary: Sphinx extension to output reST files.
+Home-page: https://github.com/sphinx-contrib/restbuilder
+Author: Freek Dijkstra
+Author-email: freek@macfreek.nl
+License: BSD 2-Clause
+Download-URL: http://pypi.python.org/pypi/sphinxcontrib-restbuilder
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Framework :: Sphinx :: Extension
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Documentation :: Sphinx
+Classifier: Topic :: Software Development :: Documentation
+Classifier: Topic :: Text Processing :: Markup :: reStructuredText
+Requires-Python: >=2.7, !=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*
+Requires-Dist: Sphinx (>=1.4)
+
+
+Sphinx_ extension to build reST (reStructuredText_) files.
+
+This extension is in particular useful to use in combination with the autodoc
+extension to automatically generate documentation for use by any rst parser
+(such as the GitHub wiki).
+
+In itself, the extension is fairly straightforward -- it takes the parsed reST 
+file from Sphinx_ and outputs it as reST.
+
+.. _Sphinx: http://sphinx-doc.org/
+.. _reStructuredText: http://docutils.sourceforge.net/rst.html
+
+

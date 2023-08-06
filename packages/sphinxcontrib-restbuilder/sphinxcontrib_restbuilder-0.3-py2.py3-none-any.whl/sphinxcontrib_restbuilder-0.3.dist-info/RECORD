@@ -1,0 +1,12 @@
+sphinxcontrib_restbuilder-0.3-py3.8-nspkg.pth,sha256=bvCbvTDhKUCTNtrCbu6HVe8TsYC4G4-hRkXeHdEJ6t4,574
+sphinxcontrib/restbuilder.py,sha256=huofenjJg_ndQryD7j0nXE60-3CkRttGNhVUPZKlg4g,1287
+sphinxcontrib/builders/__init__.py,sha256=tB7V0SeHCavHaq3ejRRlPOGOHbcOF7R9J4oVSAgTP_E,117
+sphinxcontrib/builders/rst.py,sha256=RQuo_X7k61SXZYHecCqiddtPza0YXcO4P5BC_Adj-p0,3789
+sphinxcontrib/writers/__init__.py,sha256=9CppDLNHSDpDRPDmpqimk_kBnlBvIq-peu8nlyxU1gw,114
+sphinxcontrib/writers/rst.py,sha256=ZDGz9OVut3OKf55Qrfb3TiSI4wI43Ih2FGoY2CW9IIE,25961
+sphinxcontrib_restbuilder-0.3.dist-info/LICENSE.txt,sha256=jTKabCA6TngymAIIbSO_YH1OkkMq10fdi4X9C_jfvag,1300
+sphinxcontrib_restbuilder-0.3.dist-info/METADATA,sha256=LpduLLhoxYrCMeUKLy_wzHB2Ch6b83RzZE-E9S2HP38,1424
+sphinxcontrib_restbuilder-0.3.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+sphinxcontrib_restbuilder-0.3.dist-info/namespace_packages.txt,sha256=VJrV3_vaiKQVgVpR0I1iecxoO0drzGu-M0j40PVP2QQ,14
+sphinxcontrib_restbuilder-0.3.dist-info/top_level.txt,sha256=VJrV3_vaiKQVgVpR0I1iecxoO0drzGu-M0j40PVP2QQ,14
+sphinxcontrib_restbuilder-0.3.dist-info/RECORD,,
