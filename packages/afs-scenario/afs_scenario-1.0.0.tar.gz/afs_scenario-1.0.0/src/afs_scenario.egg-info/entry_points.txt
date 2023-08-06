@@ -1,0 +1,3 @@
+[console_scripts]
+afs-scenario = afs_scenario.__main__:main
+

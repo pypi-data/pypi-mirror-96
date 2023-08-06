@@ -1,0 +1,4 @@
+Click
+cookiecutter
+jinja2-ansible-filters
+pyyaml

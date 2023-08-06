@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: afs_scenario
+Version: 1.0.0
+Summary: Create templated molecule scenarios for openafs_contrib.openafs playbooks and roles.
+Home-page: https://github.com/openafs-contrib/ansible-openafs/tree/master/tools/afs_scenario
+Author: Michael Meffie
+Author-email: mmeffie@sinenomine.net
+License: UNKNOWN
+Description: Create templated molecule scenarios for openafs_contrib.openafs playbooks and roles.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
