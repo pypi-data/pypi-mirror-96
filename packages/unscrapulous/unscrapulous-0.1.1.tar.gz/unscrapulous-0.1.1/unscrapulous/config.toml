@@ -1,0 +1,27 @@
+[scrapers]
+arbitration_awards_bse = false
+arbitration_awards_nse = false
+bse_defaulter_and_expelled_members = false
+icex_defaulter_members = false
+icex_expelled_members = false
+income_tax_defaulters = false
+irda_blacklisted = false
+mca_company_defaulter_list = false
+mca_director_defaulter_list = false
+mca_director_disqualified_list = false
+mca_proclaimed_offenders_ind = false
+mcx_action_ap = false
+mcx_defaulter_members = false
+mcx_secretaries_defaulter_list = false
+mse_arbitral_awards = false
+ncdex_suspended_defaulted_expelled_debarred_members = false
+nse_defaulted_members = false
+nse_expelled_members = false
+nse_regulatory_defaulting_clients = false
+sebi_debarred_bse = false
+sebi_debarred_nse = false
+sfio_convicted = true
+sfio_proclaimed_offenders = false
+unsc_1988 = false
+unsc_consolidated_list = false
+wildlife_crime_convicts = true
