@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+mlalgs/__init__.py
+mlalgs/logistic_regression.py
+mlalgs.egg-info/PKG-INFO
+mlalgs.egg-info/SOURCES.txt
+mlalgs.egg-info/dependency_links.txt
+mlalgs.egg-info/top_level.txt
+tests/__init__.py
+tests/logistic_regression_test.py
