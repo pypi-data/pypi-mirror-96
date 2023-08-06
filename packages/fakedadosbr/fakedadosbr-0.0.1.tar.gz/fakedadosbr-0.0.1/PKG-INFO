@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: fakedadosbr
+Version: 0.0.1
+Summary: Generic generator fake data for application and api development.
+Home-page: https://github.com/juliansantosinfo/fakedadosbr.git
+Author: Julian de Almeida Santos
+Author-email: julian.santos.info@gmail.com
+License: MIT
+Project-URL: Código fonte, https://github.com/juliansantosinfo/fakedadosbr.git
+Project-URL: Download, https://github.com/juliansantosinfo/fakedadosbr/archive/0.0.1.zip
+Description: Generic generator fake data for application and api development.
+Keywords: generic,fake,data,generator,application,api,development
+Platform: UNKNOWN
