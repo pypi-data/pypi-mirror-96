@@ -1,0 +1,10 @@
+pyoinformatics/__init__.py,sha256=sAFFnpBSKtiYESeCmoSc-sxsyQfDBQI50dJOIpIVG5k,59
+pyoinformatics/io.py,sha256=ANxEiNv1w_3O1qb7zCc6amOXNmZK0lkZ2wNkmBa7EQQ,621
+pyoinformatics/seq.py,sha256=Tv3ZEDGr9kobBIdhKOcrVdQDeng3JbCwwP_foEGdURg,5850
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_seq.py,sha256=7-IRU_3jBcA1SpZotl8SKSr3ZhVCDnPwghsT7lVOBFc,2414
+pyoinformatics-0.2.1.dist-info/LICENSE,sha256=GseRsNGSZ2OlOSAbAAg6KwuMn0lX3l-TgvfMgScFExo,1056
+pyoinformatics-0.2.1.dist-info/METADATA,sha256=z5FHNQy5sut3C_YaGIkxHKRi4e7clAox3ECqWG558EQ,2907
+pyoinformatics-0.2.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pyoinformatics-0.2.1.dist-info/top_level.txt,sha256=mqbwArOsN6Q6EY4L_BauJ0cs7c7CaN6aZc2ArY3XiZk,21
+pyoinformatics-0.2.1.dist-info/RECORD,,
