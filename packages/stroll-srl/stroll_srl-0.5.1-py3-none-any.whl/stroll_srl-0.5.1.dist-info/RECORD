@@ -1,0 +1,15 @@
+stroll/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+stroll/conllu.py,sha256=uJCtH-4Jq76E3XyF1MnLMWfb8PyIbyO2QSUaiDLJNow,13572
+stroll/download.py,sha256=Y3wZANbI17VmWKZZsoOvqATx6lfcBiRTZ4NuwXQ86fk,1780
+stroll/graph.py,sha256=_qIttgI0Ee1G8QUdW_tiN2NX1QG0NeW4jVOKiNgNMwU,4085
+stroll/labels.py,sha256=tjOIJWeph1NIN-u2izeDup7aW76PeLk49m1l3HXoTvo,5530
+stroll/loss.py,sha256=0QOvd5-njj8xq86glK-81Qyf9_FDkZUioVgjLpcPigc,3133
+stroll/model.py,sha256=MvHUVjKmcjX_9lL5eqd0oMJCIiArvM2MThVeRFvPbxw,11058
+stroll/naf.py,sha256=nLTl9SQtn8iDuMJAqu5vwcrGldBoQmlCwBg8O6CMnew,6558
+stroll/srl.py,sha256=Zph3rh1IGLnuQpM9Oypg59K-PzcsbsYf5ICv97rB3zo,8831
+stroll/stanza.py,sha256=dxX0-YablLZVEqGgnOxJIszjRIkL1DRxSc-L5P5ydbg,3940
+stroll_srl-0.5.1.dist-info/LICENSE,sha256=16n5DgCrWAF_S7259s-d8PjSjy6HLuKc2xeTzpOtdsA,11341
+stroll_srl-0.5.1.dist-info/METADATA,sha256=gBE1_VHVJZBsNJZ1foIMZcFKFoNPmhFPlGuYE10pcCc,12928
+stroll_srl-0.5.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+stroll_srl-0.5.1.dist-info/top_level.txt,sha256=YC20pcfBy24lM9eim6b-PZafZvADKvGC_QuKR7nWcXw,7
+stroll_srl-0.5.1.dist-info/RECORD,,
