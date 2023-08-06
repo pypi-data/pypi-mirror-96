@@ -1,0 +1,4 @@
+
+    [console_scripts]
+    person_age=person.main:start_app
+    
