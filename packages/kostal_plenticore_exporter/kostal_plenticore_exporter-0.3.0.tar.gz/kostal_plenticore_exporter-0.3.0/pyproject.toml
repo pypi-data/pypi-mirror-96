@@ -1,0 +1,43 @@
+[tool.poetry]
+name = "kostal_plenticore_exporter"
+version = "0.3.0"
+description = "A Prometheus exporter for the Kostal Plenticore series of inverters."
+readme = "README.rst"
+authors = ["Matthias Bach <marix@marix.org>"]
+license = "AGPL-3.0-or-later"
+repository = "https://codeberg.org/Marix/kostal-plenticore-exporter"
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: No Input/Output (Daemon)",
+    "Intended Audience :: System Administrators",
+    "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: System :: Monitoring",
+]
+include = [
+  "CHANGELOG.rst",
+  "COPYING.txt",
+]
+
+
+
+[tool.poetry.dependencies]
+python = "^3.6"
+prometheus-client = ">=0.7"
+kostalplenticore = "^0.3"
+click = ">=7.0"
+
+[tool.poetry.dev-dependencies]
+pytest = ">=3.10"
+
+[tool.poetry.scripts]
+kostal-plenticore-exporter = 'kostal_plenticore_exporter.cli:cli'
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "hug"
+line_length = 120
