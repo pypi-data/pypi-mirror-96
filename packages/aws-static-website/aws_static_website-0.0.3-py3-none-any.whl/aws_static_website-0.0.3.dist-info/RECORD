@@ -1,0 +1,9 @@
+aws_static_website/__init__.py,sha256=VvMLpl9csSy8LswSpgRQ4cD6HsXZ_Y7lph7MmEk_iDA,652
+aws_static_website/website_stack.py,sha256=VSH9tvx9ICc6eX74BrmNUy_IfJguhYfwhxyt6CiqxuM,4335
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_website_stack.py,sha256=RniaTqj1P9X2iIxcqy0sBXVn4W6nGZiNBxhyvS3m0Bs,2277
+aws_static_website-0.0.3.dist-info/LICENSE,sha256=T-0sVhFyBpvYRdpi90AIkTjU-Mjv5Ttzi68_aNeaGEg,1075
+aws_static_website-0.0.3.dist-info/METADATA,sha256=CRgnHNYNNWUFOQibRSVEOXFyDgVm_AsOKx51yAauEhM,2480
+aws_static_website-0.0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+aws_static_website-0.0.3.dist-info/top_level.txt,sha256=td5Kwxoz7LF5wsh6mtVKLHzKKoA40nwXty_y3wsBcUE,25
+aws_static_website-0.0.3.dist-info/RECORD,,
