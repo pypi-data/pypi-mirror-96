@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+stu2077_distributions/Binomialdistribution.py
+stu2077_distributions/Gaussiandistribution.py
+stu2077_distributions/Generaldistribution.py
+stu2077_distributions/__init__.py
+stu2077_distributions.egg-info/PKG-INFO
+stu2077_distributions.egg-info/SOURCES.txt
+stu2077_distributions.egg-info/dependency_links.txt
+stu2077_distributions.egg-info/not-zip-safe
+stu2077_distributions.egg-info/top_level.txt
