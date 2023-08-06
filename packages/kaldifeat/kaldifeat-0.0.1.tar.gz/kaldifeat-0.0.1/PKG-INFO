@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: kaldifeat
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/csukuangfj/kaldifeat
+Author: Fangjun Kuang
+Author-email: csukuangfj@gmail.com
+License: Apache licensed, as found in the LICENSE file
+Description: # kaldifeat
+        
+        Wrap kaldi's feature computations to Python with PyTorch support.
+        
+        # Installation
+        
+        `kaldifeat` can be installed by
+        
+        ```bash
+        pip install kaldifeat
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Description-Content-Type: text/markdown

@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+kaldifeat.egg-info/PKG-INFO
+kaldifeat.egg-info/SOURCES.txt
+kaldifeat.egg-info/dependency_links.txt
+kaldifeat.egg-info/not-zip-safe
+kaldifeat.egg-info/top_level.txt
+kaldifeat/python/kaldifeat/__init__.py
