@@ -1,0 +1,13 @@
+nbkanjit/__init__.py,sha256=07sQtpuvFRtY1YJhkBnXD0Y1pi8ZZbbfalx6GNgKSLU,885
+nbkanjit/exceptions.py,sha256=-X6kcEKB8MaGv-gw-DbwHajudGMbxcwxzZ47AmUrPsY,1341
+nbkanjit/manager.py,sha256=1ZFG5YpfL1La6WtsnpV1OnxVKK4HzDcHhaIxpcxIAt0,2048
+nbkanjit/signature.py,sha256=EKH500Q1uL_GEd1wIm0MjuaHJylD5-pgECUzWVZO8zQ,5844
+nbkanjit/testsuite/test_manager.py,sha256=GJg8_AROwI6ZsY78NlcA98GrqMef2ryvCh7dBgU3O38,1943
+nbkanjit/testsuite/test_signature.py,sha256=J386jB-oXbSRsZYvOcIPkc8gGgw-q8voL_TPPsEIq4I,5754
+numbakit_anjit-0.1.dist-info/AUTHORS,sha256=kgMBS7uCAg9RtcscoIQTHlxLmrTe9MUHoFoI0EAnGPg,167
+numbakit_anjit-0.1.dist-info/LICENSE,sha256=TAPOdC7hnt17iN8ahp1JXGjyimGTuZ1KLtOajrxLJkA,1583
+numbakit_anjit-0.1.dist-info/METADATA,sha256=aYHi1Lvc8ysp-7k8sTuY4nbS3wNxcgmor_ldrmIjdUM,6406
+numbakit_anjit-0.1.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+numbakit_anjit-0.1.dist-info/top_level.txt,sha256=j0KM6kyr61zWAotpv4TZT-p_vSsjFpxKrYrAVatLO9Q,9
+numbakit_anjit-0.1.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+numbakit_anjit-0.1.dist-info/RECORD,,
