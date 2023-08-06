@@ -1,0 +1,9 @@
+rethinkmodel/__init__.py,sha256=sKASzVP3aSz-ZDfyw9AXZGQ3C_rY73B4MRSW-JL2P20,1087
+rethinkmodel/db.py,sha256=FRW0bXSWzqAWKykWuUAfM7vGwyq3iQgFRO3A901W0LM,1057
+rethinkmodel/manage.py,sha256=97LTaXg7tQAEWQCciYlqF5STFKD7Sb_7-RzL8z7or0k,3425
+rethinkmodel/model.py,sha256=Z8h-DWFwjzeduWXm_PHO0FSP-rzF9Ifk9MrzofG-GRw,12259
+rethinkmodel-0.1.0.dist-info/LICENSE,sha256=k5_KxxOSZK0rNhgmQGv-vUx7WsKjoG0sjoRCgjuJsHI,1063
+rethinkmodel-0.1.0.dist-info/METADATA,sha256=SOud0AxXqUJCbi9pdn-NfJVE6LXqAOWxKxlWmbBNktY,3251
+rethinkmodel-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+rethinkmodel-0.1.0.dist-info/top_level.txt,sha256=cCxREUPfQYuXvho3KgtoEDrtsDAQxeETNAGHMZRif-g,13
+rethinkmodel-0.1.0.dist-info/RECORD,,
