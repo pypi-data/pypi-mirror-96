@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: randomplushmiku
+Version: 0.2.0
+Summary: My first Python library,it downloads random images of plush mikus to a local directory.
+Home-page: UNKNOWN
+Author: Nucl3arsn3k
+License: MIT
+Description: This is my first python library,it downloads random images of plush mikus. I'm using it as a means to learn
+        pypi,improve my webscraping skills,and as a joke with the person who runs the website that I'm scraping from.
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

@@ -1,0 +1,2 @@
+This is my first python library,it downloads random images of plush mikus. I'm using it as a means to learn
+pypi,improve my webscraping skills,and as a joke with the person who runs the website that I'm scraping from.

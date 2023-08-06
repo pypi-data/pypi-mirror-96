@@ -1,0 +1,7 @@
+README.md
+setup.py
+randomplushmiku.egg-info/PKG-INFO
+randomplushmiku.egg-info/SOURCES.txt
+randomplushmiku.egg-info/dependency_links.txt
+randomplushmiku.egg-info/requires.txt
+randomplushmiku.egg-info/top_level.txt
