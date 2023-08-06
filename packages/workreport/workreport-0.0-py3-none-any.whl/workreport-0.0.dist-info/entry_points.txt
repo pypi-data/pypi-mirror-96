@@ -1,0 +1,3 @@
+[console_scripts]
+workreport=workreport.cli:main
+

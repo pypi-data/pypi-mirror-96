@@ -1,0 +1,13 @@
+workreport/__init__.py,sha256=VPaPuhnGwY8hta_qngWf-qKlWuHlFFrcSJVXoSSTqxY,191
+workreport/__main__.py,sha256=RLlrQAwBCN1uSweC9JDl1LLzN_mUi0Es1SdfRoRcASg,154
+workreport/cli.py,sha256=BOlJzV1niOsZoi83bKY82hKH1-sVKbFs3s3By2w354o,322
+workreport/gui.py,sha256=uTIFc4Nlja8FYAY0XCJXhgrbpZsVSxJ3ZMEefsrzxho,2945
+workreport/tests/__init__.py,sha256=qQU4ngY-Kjcxafa6mWvZmHRl8gR2R0NZiLY35qdSSjs,35
+workreport/tests/conftest.py,sha256=p5ReQ82mHIclsfNzsOjYxP3RrmOD2BrSw5dUBLt38Mc,278
+workreport/tests/test_utils.py,sha256=O7CF5Upw5Bc15YdFZRjWtPCk6pYJ4YP4b66P7-H8eCU,410
+workreport/utils.py,sha256=xbmUq0fp_8--HCkhNuEdNqpra6oK07s_2S3fS400nxA,296
+workreport-0.0.dist-info/entry_points.txt,sha256=QW3q_s0V05cLUEsjINsJH600Y7LPupqhNxLOp3uxm80,50
+workreport-0.0.dist-info/LICENSE.md,sha256=Wfdh7saTx83yXbcAuH4knfgiQrr0L226tSTn5D1oGqA,1100
+workreport-0.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+workreport-0.0.dist-info/METADATA,sha256=wE82dgBopy5WLRjNsN8WZy3kZIhlfFPIdfyAxdrhHFA,2009
+workreport-0.0.dist-info/RECORD,,
