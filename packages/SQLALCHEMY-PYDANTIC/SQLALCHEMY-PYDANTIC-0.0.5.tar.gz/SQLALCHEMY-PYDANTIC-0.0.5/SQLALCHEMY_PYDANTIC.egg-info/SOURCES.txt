@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+SQLALCHEMY_PYDANTIC.egg-info/PKG-INFO
+SQLALCHEMY_PYDANTIC.egg-info/SOURCES.txt
+SQLALCHEMY_PYDANTIC.egg-info/dependency_links.txt
+SQLALCHEMY_PYDANTIC.egg-info/entry_points.txt
+SQLALCHEMY_PYDANTIC.egg-info/top_level.txt
+sp/__init__.py
+sp/config.py
+sp/db.py
+sp/db_models.py
+test/test_db.py
+test/test_db_models.py
