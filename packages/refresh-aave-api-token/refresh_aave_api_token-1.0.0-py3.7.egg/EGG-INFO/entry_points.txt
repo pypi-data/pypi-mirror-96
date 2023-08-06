@@ -1,0 +1,3 @@
+[console_scripts]
+refreshAaveApiToken = refreshAaveApiToken.__main__:main
+
