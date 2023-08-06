@@ -1,0 +1,13 @@
+seedir/__init__.py,sha256=5vJWfgi9QgKsNgEjdrdcq5hnTVxQnDSLbeqXaiWUJFQ,1035
+seedir/command_line.py,sha256=jKvJuK0ELV96LJvDkcICH_gsFElyRhyT-HQKn7Wb9LM,2481
+seedir/errors.py,sha256=VmQkpXwBP5G1QSjGR0Jtrpxl2MYZqu2qDyB2EDBcFdE,342
+seedir/fakedir.py,sha256=Byj-6UWlDqETBPFz0NPDlX5aX-6CyOJPmBtPUz13Wd8,65720
+seedir/printing.py,sha256=D71BXDAEOQB0FZr0m2BHfXTci2xSrJijTqoTplf_ErA,4659
+seedir/seedir.py,sha256=tmIDDg6Juk79VvOAenbm2B6oNpPe11iZBM2eTc2ox8s,29410
+seedir/words.txt,sha256=DA9-wtS9pna3DehztNQVCgLJ10U-rzY8ODgXIoVun6M,235272
+seedir-0.1.4.dist-info/LICENSE,sha256=zoy8dXOXqN1q-ihn8azeBCsqHa4-6ez77QUKgqvPD50,1089
+seedir-0.1.4.dist-info/METADATA,sha256=8-u6YZ1iKrBtUbNeo9IWMbSL5GPDmyUtqwPoQxkfG4E,1203
+seedir-0.1.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+seedir-0.1.4.dist-info/entry_points.txt,sha256=Fgq8W6ChwkmUJde3SJydnS2FqamYRev94pUOthW8uCY,53
+seedir-0.1.4.dist-info/top_level.txt,sha256=jMzOLpAcQhrZJ9XGboL9CBLBB5FCoSMynBj_9WYGzks,7
+seedir-0.1.4.dist-info/RECORD,,
