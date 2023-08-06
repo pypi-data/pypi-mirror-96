@@ -1,0 +1,7 @@
+Metadata-Version: 1.1
+Name: stac_vrt
+Version: 1.0.3
+Summary: Quickly build a GDAL VRT from a STAC Item Collection.
+Home-page: None
+Author: Tom Augspurger
+Author-email: taugspurger@microsoft.com

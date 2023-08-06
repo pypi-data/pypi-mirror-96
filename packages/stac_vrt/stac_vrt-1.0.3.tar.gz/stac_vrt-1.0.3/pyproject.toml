@@ -1,0 +1,26 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "stac_vrt"
+author = "Tom Augspurger"
+author-email = "taugspurger@microsoft.com"
+classifiers = ["License :: OSI Approved :: MIT License"]
+requires-python=">=3.7"
+requires = [
+    "affine",
+    "pyproj",
+    "rasterio",
+    "numpy",
+]
+
+[tool.flit.metadata.requires-extra]
+test = [
+    "pytest>=6",
+]
+docs = [
+    "myst-parser>=0.13.5",
+    "pydata-sphinx-theme",
+    "numpydoc",
+]
