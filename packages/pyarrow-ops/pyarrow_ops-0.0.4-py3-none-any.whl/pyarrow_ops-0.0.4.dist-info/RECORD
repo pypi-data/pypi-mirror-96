@@ -1,0 +1,10 @@
+pyarrow_ops/__init__.py,sha256=IgLe1gcwaJEU9vUTHIr8UGk9aSpSwL0acfhH4Q6tTII,58
+pyarrow_ops/json.py,sha256=jsWKvjuk-xtMsjZzEJQyraUUImzF3bvsbdwh_VD1-U8,228
+pyarrow_ops/ml.py,sha256=fsZlQ2mMu5pOKZlUhda75jWxvEgJhtyMMbihY2_TB34,5235
+pyarrow_ops/ops.py,sha256=xWan9JKh1XUcuxIP-f86XWqhSus22a44TsntYKA7RuE,9083
+pyarrow_ops/table.py,sha256=QbgFSyhh5bCizY2eAFbdDImqhT1eH2PQ6-jpluW-1j0,6352
+pyarrow_ops-0.0.4.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+pyarrow_ops-0.0.4.dist-info/METADATA,sha256=KNT-GBQAvzf_8ZdyHE4AzQHpRpisu67dh0Em5dOsWmc,4196
+pyarrow_ops-0.0.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pyarrow_ops-0.0.4.dist-info/top_level.txt,sha256=FNSVCRsCQJUPQGoJur1QTcnZcPPAngsGdODn1_8l-mw,12
+pyarrow_ops-0.0.4.dist-info/RECORD,,
