@@ -1,0 +1,11 @@
+mlx90641_driver_mcp2221/__init__.py,sha256=UCwV6dcJ8uB_fwA-imBTfRySNfbta_SPt6VIIK-h688,72
+mlx90641_driver_mcp2221/mcp2221.py,sha256=auT0IdjmDAP0k86YxWV1f_Aeyuea-B5MvaPA-3y5v2k,794
+mlx90641_driver_mcp2221/libs/windows/hidapi.dll,sha256=lHOSJKyhqA--Prju1IHnhKD_MPcqQRAU9atmGsrMFVU,95744
+mlx90641_driver_mcp2221/libs/windows/mlx90641_driver_mcp2221.dll,sha256=dLT-DHvf7BkdH7e8OTQUrfiqd60tA4jH2wpO3UFneE4,96679
+mlx90641_driver_mcp2221-0.0.0.dist-info/LICENSE,sha256=JAOxCWgxUQCNKLFnAwOLPGfAJWFLTWDGX41z9EVmkTs,576
+mlx90641_driver_mcp2221-0.0.0.dist-info/METADATA,sha256=kpO4MkwTdhvqc4zKR_mfl7gP1LHLK-nSrieBqspUlTA,1799
+mlx90641_driver_mcp2221-0.0.0.dist-info/NOTICE,sha256=JeyWwImY4fwgVSCNNil_YgwE-65-Ad5eTl7mKlXvnMU,194
+mlx90641_driver_mcp2221-0.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mlx90641_driver_mcp2221-0.0.0.dist-info/entry_points.txt,sha256=eqGnTHtEVMYwfXVk1Z9MhC8O2N8wuqAbr0lisLmrkxs,20
+mlx90641_driver_mcp2221-0.0.0.dist-info/top_level.txt,sha256=VvfRXKD3OJp2kA8gjc87_duxWgJ1Z5ElPDz4o4AO5c0,24
+mlx90641_driver_mcp2221-0.0.0.dist-info/RECORD,,
