@@ -1,0 +1,31 @@
+"/home-local/sokol/.local/bin/influx_i" "e_coli_i" "e_coli_iv" "ex_i_2box_var" "prl_exp/e_coli_GX_prl"
+code gen: 2021-02-26 10:33:09
+executing: "/usr/bin/python3" "/home-local/sokol/.local/bin/ftbl2optR.py" "--tblimit" "0" "--ropts" "noopt=TRUE; noscale=TRUE; clowp=1e-09; zc=0.0; time_order='2'; TIMEIT=TRUE" "--case_i" "e_coli_iv.ftbl"
+calcul  : 2021-02-26 10:33:10
+load    : 2021-02-26 10:33:10.91 cpu=0.623
+rinit   : 2021-02-26 10:33:10.92 cpu=0.631
+r_flux  : 2021-02-26 10:33:10.92 cpu=0.631
+Afl qr(): 2021-02-26 10:33:10.96 cpu=0.653
+dfl_dffg: 2021-02-26 10:33:10.96 cpu=0.659
+spAbr   : 2021-02-26 10:33:10.96 cpu=0.66
+weight 1: 2021-02-26 10:33:10.96 cpu=0.66
+weight 2: 2021-02-26 10:33:10.97 cpu=0.661
+weight 3: 2021-02-26 10:33:10.97 cpu=0.661
+weight 4: 2021-02-26 10:33:10.97 cpu=0.661
+weight 5: 2021-02-26 10:33:10.97 cpu=0.661
+weight 6: 2021-02-26 10:33:10.97 cpu=0.661
+measure : 2021-02-26 10:33:10.98 cpu=0.67
+ineq    : 2021-02-26 10:33:10.98 cpu=0.674
+preopt  : 2021-02-26 10:33:11.03 cpu=0.721
+labargs : 2021-02-26 10:33:11.03 cpu=0.723
+cl expor: 2021-02-26 10:33:11.29 cpu=0.725
+cl sourc: 2021-02-26 10:33:12.07 cpu=0.894
+run    1: 2021-02-26 10:33:12.19 cpu=0.898
+Starting point
+zc ineq : 2021-02-26 10:33:12.19 cpu=0.898
+kvh init: 2021-02-26 10:33:12.21 cpu=0.916
+postopt : 2021-02-26 10:33:12.93 cpu=0.932
+linstats: 2021-02-26 10:33:13.13 cpu=1.009
+rend    : 2021-02-26 10:33:13.24 cpu=1.045
+end     : 2021-02-26 10:33:13
+=>Check e_coli_iv.err

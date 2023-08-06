@@ -1,0 +1,45 @@
+"/home-local/sokol/.local/bin/influx_s" "e_coli" "e_coli_growth" "prl_exp/e_coli_glc1-6n"
+code gen: 2021-02-26 10:32:50
+executing: "/usr/bin/python3" "/home-local/sokol/.local/bin/ftbl2optR.py" "--tblimit" "0" "--ropts" "TIMEIT=TRUE" "e_coli_growth.ftbl"
+calcul  : 2021-02-26 10:32:51
+load    : 2021-02-26 10:32:51.90 cpu=0.572
+rinit   : 2021-02-26 10:32:51.90 cpu=0.573
+r_flux  : 2021-02-26 10:32:51.90 cpu=0.573
+Afl qr(): 2021-02-26 10:32:51.92 cpu=0.583
+dfl_dffg: 2021-02-26 10:32:51.92 cpu=0.583
+spAbr   : 2021-02-26 10:32:51.92 cpu=0.583
+weight 1: 2021-02-26 10:32:51.92 cpu=0.583
+weight 2: 2021-02-26 10:32:51.92 cpu=0.584
+weight 3: 2021-02-26 10:32:51.92 cpu=0.585
+weight 4: 2021-02-26 10:32:51.92 cpu=0.585
+weight 5: 2021-02-26 10:32:51.92 cpu=0.585
+weight 6: 2021-02-26 10:32:51.92 cpu=0.585
+weight 7: 2021-02-26 10:32:51.92 cpu=0.585
+measure : 2021-02-26 10:32:51.93 cpu=0.592
+ineq    : 2021-02-26 10:32:51.94 cpu=0.603
+preopt  : 2021-02-26 10:32:51.96 cpu=0.623
+labargs : 2021-02-26 10:32:51.97 cpu=0.624
+run    1: 2021-02-26 10:32:51.97 cpu=0.624
+Starting point
+res esti: 2021-02-26 10:32:51.97 cpu=0.625
+The following 1 ineqalitie(s) are active at starting point:
+f.x.xul>=0
+kvh init: 2021-02-26 10:32:51.97 cpu=0.632
+check ja: 2021-02-26 10:32:51.98 cpu=0.632
+optim   : 2021-02-26 10:32:52.00 cpu=0.65
+it=0	res=45.2102
+it=1	res=12.83995	normstep=1.515861	btk=1
+it=2	res=12.25994	normstep=1.259661	btk=1
+it=3	res=8.098585	normstep=0.5463658	btk=1
+it=4	res=7.960851	normstep=0.0589933	btk=1
+it=5	res=7.959322	normstep=0.03050743	btk=1
+it=6	res=7.959081	normstep=0.004902886	btk=1
+it=7	res=7.959029	normstep=0.003060732	btk=1
+it=8	res=7.959017	normstep=0.001367668	btk=1
+it=9	res=7.959014	normstep=0.0006590508	btk=1
+it=10	res=7.959014	normstep=0.0003104052	btk=1
+it=15	res=7.959014	normstep=7.292324e-06	btk=1
+postopt : 2021-02-26 10:32:52.27 cpu=0.913
+linstats: 2021-02-26 10:32:52.33 cpu=0.969
+rend    : 2021-02-26 10:32:52.39 cpu=1.004
+end     : 2021-02-26 10:32:52

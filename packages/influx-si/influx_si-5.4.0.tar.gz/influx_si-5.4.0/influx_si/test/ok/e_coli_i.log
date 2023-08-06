@@ -1,0 +1,46 @@
+"/home-local/sokol/.local/bin/influx_i" "e_coli_i" "e_coli_iv" "ex_i_2box_var" "prl_exp/e_coli_GX_prl"
+code gen: 2021-02-26 10:33:09
+executing: "/usr/bin/python3" "/home-local/sokol/.local/bin/ftbl2optR.py" "--tblimit" "0" "--ropts" "noscale=TRUE; clowp=1e-09; zc=0.0; time_order='2'; TIMEIT=TRUE" "--case_i" "e_coli_i.ftbl"
+calcul  : 2021-02-26 10:33:10
+load    : 2021-02-26 10:33:10.91 cpu=0.598
+rinit   : 2021-02-26 10:33:10.91 cpu=0.606
+r_flux  : 2021-02-26 10:33:10.91 cpu=0.606
+Afl qr(): 2021-02-26 10:33:10.95 cpu=0.64
+dfl_dffg: 2021-02-26 10:33:10.95 cpu=0.646
+spAbr   : 2021-02-26 10:33:10.96 cpu=0.648
+weight 1: 2021-02-26 10:33:10.96 cpu=0.648
+weight 2: 2021-02-26 10:33:10.96 cpu=0.649
+weight 3: 2021-02-26 10:33:10.96 cpu=0.649
+weight 4: 2021-02-26 10:33:10.96 cpu=0.649
+weight 5: 2021-02-26 10:33:10.96 cpu=0.649
+weight 6: 2021-02-26 10:33:10.96 cpu=0.65
+measure : 2021-02-26 10:33:10.97 cpu=0.661
+ineq    : 2021-02-26 10:33:10.98 cpu=0.664
+preopt  : 2021-02-26 10:33:11.03 cpu=0.706
+labargs : 2021-02-26 10:33:11.03 cpu=0.707
+cl expor: 2021-02-26 10:33:11.27 cpu=0.708
+cl sourc: 2021-02-26 10:33:12.02 cpu=0.875
+run    1: 2021-02-26 10:33:12.16 cpu=0.879
+Starting point
+zc ineq : 2021-02-26 10:33:12.16 cpu=0.88
+kvh init: 2021-02-26 10:33:12.18 cpu=0.899
+check ja: 2021-02-26 10:33:12.35 cpu=0.91
+optim   : 2021-02-26 10:33:12.81 cpu=0.914
+it=0	res=237.7947
+it=1	res=70.06248	normstep=30.47659	btk=1
+it=2	res=36.43491	normstep=31.35182	btk=1
+it=3	res=21.83319	normstep=0.2793447	btk=1
+it=4	res=21.7384	normstep=0.03332941	btk=1
+it=5	res=21.72383	normstep=0.03867587	btk=1
+it=6	res=21.6348	normstep=0.08885869	btk=1
+it=7	res=21.37745	normstep=0.4890458	btk=0.5
+it=8	res=21.24931	normstep=0.6490092	btk=1
+it=9	res=20.96647	normstep=0.3171006	btk=1
+it=10	res=20.96366	normstep=0.1287473	btk=1
+it=15	res=20.96358	normstep=5.449039e-05	btk=1
+secondzc: 2021-02-26 10:33:17.72 cpu=1.016
+After the first optimization, no zero crossing inequality was activated. So no reoptimization
+postopt : 2021-02-26 10:33:17.72 cpu=1.019
+linstats: 2021-02-26 10:33:17.97 cpu=1.143
+rend    : 2021-02-26 10:33:18.07 cpu=1.188
+end     : 2021-02-26 10:33:18
