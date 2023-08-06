@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "j2tpl"
+version = "2021.3.1"
+description = ""
+authors = ["Janne K <0x022b@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+cleo = {version = "1.0.0a2", allow-prereleases = true}
+Jinja2 = "^2.11.3"
+
+[tool.poetry.dev-dependencies]
+black = "^20.8b1"
+flake8 = "^3.8.4"
+
+[tool.poetry.scripts]
+j2tpl = "j2tpl.console.application:main"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
