@@ -1,0 +1,9 @@
+README.md
+setup.py
+didyoumean-discordpy/__init__.py
+didyoumean-discordpy/main.py
+didyoumean-discordpy/message_generator.py
+didyoumean_discordpy.egg-info/PKG-INFO
+didyoumean_discordpy.egg-info/SOURCES.txt
+didyoumean_discordpy.egg-info/dependency_links.txt
+didyoumean_discordpy.egg-info/top_level.txt
