@@ -1,0 +1,5 @@
+librelingo_yaml_loader/__init__.py,sha256=MJ3YYIZ6JU94YG3zlrm5y2XX1ZPOM-vyEW0KSfddP54,160
+librelingo_yaml_loader/yaml_loader.py,sha256=IPBmN2RKaDQ8q2KTGcI5tDqp4Xkri_5jzL-mz3lVu6M,9319
+librelingo_yaml_loader-0.1.2.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+librelingo_yaml_loader-0.1.2.dist-info/METADATA,sha256=YIiIFg6wMb1iLOD0MKrfbCgqszu5FNhSiggPrpsSj3M,619
+librelingo_yaml_loader-0.1.2.dist-info/RECORD,,
