@@ -1,0 +1,5 @@
+[console_scripts]
+febiss = febiss.cli.febiss:main
+febiss_settings = febiss.cli.febiss_settings:main
+febiss_setup = febiss.cli.febiss_setup:main
+
