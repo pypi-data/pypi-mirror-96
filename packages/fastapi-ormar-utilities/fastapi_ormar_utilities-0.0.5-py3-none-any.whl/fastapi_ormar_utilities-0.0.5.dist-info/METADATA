@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: fastapi-ormar-utilities
+Version: 0.0.5
+Summary: Small, but usefull library for interaction with Ormar ORM
+Home-page: https://github.com/vladisa88/fastapi-ormar-utilities
+Author: Vladislav Isakov
+Author-email: vladisa88@gmail.com
+License: UNKNOWN
+Keywords: python,ormar,async,fastapi,pydantic
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Internet
+Classifier: Topic :: Office/Business
+Classifier: Topic :: Software Development :: Libraries
+Description-Content-Type: text/markdown
+Requires-Dist: pydantic
+Requires-Dist: ormar
+
+# FASTAPI-ORMAR-UTILITIES
+
+## Small package for better interaction with Ormar ORM.
+
+### This package make your views cleaner
+
+### Features:
+* Fully async
+* Compatible with FastAPI
+* In my opinion Ormar is the best ORM for FastAPI
+
+
