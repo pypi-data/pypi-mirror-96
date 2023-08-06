@@ -1,0 +1,8 @@
+setup.py
+miyako/__init__.py
+miyako/verification.py
+miyako.egg-info/PKG-INFO
+miyako.egg-info/SOURCES.txt
+miyako.egg-info/dependency_links.txt
+miyako.egg-info/requires.txt
+miyako.egg-info/top_level.txt
