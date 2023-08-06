@@ -1,0 +1,17 @@
+pyjls/__init__.py,sha256=Co7i4L6Go0KOe3AilxgmKz6g64Uc_Y-cfvbSbGWVMwY,860
+pyjls/__main__.py,sha256=u38h5aoEjDIqYXCAlbHhsgt-szi0zno7T4yaIrKSEGs,2526
+pyjls/binding.cp38-win_amd64.pyd,sha256=aPovMNim5ogKhOM7HQgqbVTRkKDf-x_CYodb5uy0veU,270336
+pyjls/structs.py,sha256=GYYzzpJIRp5QovgK_wsB-B3iNuT5n9yCxMk2KxDhgOM,2123
+pyjls/version.py,sha256=ChN1F-CFhWrunK5V83jAvrhunzA8qLyjcZCY4i7krN4,1049
+pyjls/entry_points/__init__.py,sha256=Ze_ys0_cbXkD8huSWesgv1oVYDJQbWMNNMt9XUt2XgM,853
+pyjls/entry_points/annotate.py,sha256=i_an1jon_Whb1NRUenEu4F_BmC6JBsBHmtQfv3CFDBQ,2697
+pyjls/entry_points/info.py,sha256=0o-wv5MzCbq6hNOxfLD50TgI939u7vzxX5bQu3HxUUs,1610
+pyjls/test/__init__.py,sha256=82SfSDkxBuYf0dt5yNfyJ1TCheQzBH2y_ElRdVaeqVs,589
+pyjls/test/test_binding.py,sha256=BVYGE1R4EOyNYRa6uORYU_lGKyXO2alUJcZ68_txkrw,4449
+pyjls/v1/__init__.py,sha256=82SfSDkxBuYf0dt5yNfyJ1TCheQzBH2y_ElRdVaeqVs,589
+pyjls-0.1.0.dist-info/LICENSE,sha256=SbvpEU5JIU3yzMMkyzrI0dGqHDoJR_lMKGdl6GZHsy4,11558
+pyjls-0.1.0.dist-info/METADATA,sha256=sEjbRiV45JUYZinwVpGF49CNpEXrbRkw7h9iMl0Siak,13114
+pyjls-0.1.0.dist-info/WHEEL,sha256=HLtxc_HoM-kGM7FPJVPSnTt0Nv2G3fZEAjT3ICdG8uY,100
+pyjls-0.1.0.dist-info/entry_points.txt,sha256=o8z3bgnXasUHo5rYFdX74DL6krQTx-id1XSEqZKXnNg,46
+pyjls-0.1.0.dist-info/top_level.txt,sha256=uEeUth-ws9mN-MS2XSWwRo7JhveaKPhgz6gXBFwBHUE,6
+pyjls-0.1.0.dist-info/RECORD,,
