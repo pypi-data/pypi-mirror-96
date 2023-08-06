@@ -1,0 +1,8 @@
+MANIFEST.in
+README.md
+setup.py
+python_polymorphism/__init__.py
+python_polymorphism.egg-info/PKG-INFO
+python_polymorphism.egg-info/SOURCES.txt
+python_polymorphism.egg-info/dependency_links.txt
+python_polymorphism.egg-info/top_level.txt
