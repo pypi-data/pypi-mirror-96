@@ -1,0 +1,13 @@
+README.md
+setup.py
+dplot/__init__.py
+dplot/dplot.py
+dplot.egg-info/PKG-INFO
+dplot.egg-info/SOURCES.txt
+dplot.egg-info/dependency_links.txt
+dplot.egg-info/requires.txt
+dplot.egg-info/top_level.txt
+dplot/bin/dplot
+dplot/parsers/__init__.py
+dplot/parsers/args.py
+dplot/parsers/test_args.py
