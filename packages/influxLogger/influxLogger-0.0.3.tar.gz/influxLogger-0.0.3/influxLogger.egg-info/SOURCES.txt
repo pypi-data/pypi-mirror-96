@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+influxLogger/__init__.py
+influxLogger/influxLogger.py
+influxLogger.egg-info/PKG-INFO
+influxLogger.egg-info/SOURCES.txt
+influxLogger.egg-info/dependency_links.txt
+influxLogger.egg-info/requires.txt
+influxLogger.egg-info/top_level.txt
+influxLogger/tests/__init__.py
+influxLogger/tests/test.py
+influxLogger/tests/test2.py
