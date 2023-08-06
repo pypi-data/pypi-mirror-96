@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: magnet_loss_iclr2016
+Version: 0.0.1
+Summary: Play a PIL Image list as a video
+Home-page: https://github.com/heracleia/Magnet-Loss
+Author:  Kodur Krishna Chaitanya
+Author-email: kodur.chaitanya@colorado.edu
+License: UNKNOWN
+Description: # Magnet-Loss
+        # pil_video
+        ![PyPi](https://github.com/heracleia/Magnet-Loss/workflows/PyPi/badge.svg)
+        ![Flake8 Status](https://github.com/heracleia/Magnet-Loss/workflows/Flake8%20Status/badge.svg)
+        
+        This is the Magnet loss implementation.
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
