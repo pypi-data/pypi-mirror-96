@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+bredg.egg-info/PKG-INFO
+bredg.egg-info/SOURCES.txt
+bredg.egg-info/dependency_links.txt
+bredg.egg-info/top_level.txt
+my-package/1.py
+my-package/2.py
+my-package/__init__.py
