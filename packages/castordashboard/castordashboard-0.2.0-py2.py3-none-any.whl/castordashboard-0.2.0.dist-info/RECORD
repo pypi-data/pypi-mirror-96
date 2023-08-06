@@ -1,0 +1,11 @@
+castordashboard/__init__.py,sha256=cWC3JVoueBgdwZuFI751FHHN7XgaHE9lsUIC4GxMKCw,153
+castordashboard/dashboard/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+castordashboard/dashboard/main.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+castordashboard/etl/__init__.py,sha256=oZwp2AALxEEUAJwiWPNVc9nwSt3FYNngxM_w7fr4RQs,143
+castordashboard/etl/main.py,sha256=OeAA6RyI2KjnRX3viiMLQXyThoTOWex014TRsoOLTSc,1990
+castordashboard-0.2.0.dist-info/AUTHORS.rst,sha256=g5ZrhuGA9GgExwh1QxZyJh2CvuQlMELXVxbNh9jG3wA,168
+castordashboard-0.2.0.dist-info/LICENSE,sha256=aq4FfMVeaqEyF-S2xK6BHG5hjlSSd-KP8711n8gkQ7g,1075
+castordashboard-0.2.0.dist-info/METADATA,sha256=474qkQs-tkBBjVl0Vq7uCUCG_G0z379OFQkLbN68D_8,1914
+castordashboard-0.2.0.dist-info/WHEEL,sha256=h_aVn5OB2IERUjMbi2pucmR_zzWJtk303YXvhh60NJ8,110
+castordashboard-0.2.0.dist-info/top_level.txt,sha256=mc_AIJ9-SyPPtDxVfzZ1dVSMu6b7AcGuyX6igkTZGZg,16
+castordashboard-0.2.0.dist-info/RECORD,,
