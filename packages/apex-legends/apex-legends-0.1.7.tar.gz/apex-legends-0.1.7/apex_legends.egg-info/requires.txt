@@ -1,0 +1,8 @@
+requests==2.25.1
+furl==2.1.0
+enum34==1.1.10
+aiohttp==3.7.4
+requests_mock
+
+[:python_version<='3.4']
+enum34>=1.1.6
