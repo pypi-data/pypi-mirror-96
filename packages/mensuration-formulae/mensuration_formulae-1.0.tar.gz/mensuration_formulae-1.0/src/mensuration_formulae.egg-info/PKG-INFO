@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: mensuration-formulae
+Version: 1.0
+Summary: Will calculate the area,perimeter and volume of shapes 
+Home-page: UNKNOWN
+Author: Venkateswar.S, Maria Irudaya Regilan J
+Author-email: s.venkateswar05@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

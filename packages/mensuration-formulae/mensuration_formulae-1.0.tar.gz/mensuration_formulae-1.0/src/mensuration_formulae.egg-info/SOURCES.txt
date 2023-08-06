@@ -1,0 +1,6 @@
+setup.py
+src/mensuration_formulae.py
+src/mensuration_formulae.egg-info/PKG-INFO
+src/mensuration_formulae.egg-info/SOURCES.txt
+src/mensuration_formulae.egg-info/dependency_links.txt
+src/mensuration_formulae.egg-info/top_level.txt
