@@ -1,0 +1,10 @@
+ap/motif/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ap/motif/__version__.py,sha256=5tfe4m5wUuvJl9NzNxJiz4zVsvUM1G0MFaf6EOeCIjQ,198
+ap/motif/cli.py,sha256=or7gufIRV29ROHaNMI4EKJCKrtq-xg9kWDjbL-ni2N0,476
+ap/motif/utils.py,sha256=whRMFRL4AtACkfmOtxuV9B5R_aH2fhvqKSOT_HM0tuw,101
+ap_motif-0.1.9.dist-info/LICENSE,sha256=ezVRvVT44IZgJOHd7n0EvjEG_-qRpqTKN8fbuJR99Xc,1070
+ap_motif-0.1.9.dist-info/METADATA,sha256=7sSy90EKk309hiLI2yqVRQB21V58yy1UHC5jEdZC3IM,1981
+ap_motif-0.1.9.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+ap_motif-0.1.9.dist-info/entry_points.txt,sha256=Rz0ICDKtiS1vLY7Ia3-b9TF5h95Af_GQ-wog2eXk3N8,44
+ap_motif-0.1.9.dist-info/top_level.txt,sha256=hfKZJdHXh3MST29x11_kb2nuJouff8_nTFll8dlcvY8,3
+ap_motif-0.1.9.dist-info/RECORD,,
