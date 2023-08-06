@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+torch_accelerator/__init__.py
+torch_accelerator.egg-info/PKG-INFO
+torch_accelerator.egg-info/SOURCES.txt
+torch_accelerator.egg-info/dependency_links.txt
+torch_accelerator.egg-info/top_level.txt
