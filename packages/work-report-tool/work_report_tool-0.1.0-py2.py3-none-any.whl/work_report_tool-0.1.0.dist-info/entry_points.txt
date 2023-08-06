@@ -1,0 +1,3 @@
+[console_scripts]
+work_report_tool = work_report_tool.cli:main
+
