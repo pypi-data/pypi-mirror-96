@@ -1,0 +1,12 @@
+pyoinformatics/__init__.py,sha256=ffZLBaWnES-2VLRtKv6XGQj6ae6sELGsKNj6WyqYJb0,82
+pyoinformatics/align.py,sha256=4r6MUM_36wEXt4Yf8x6TuwQ_bofV0XoMKeFMQJ5AKQE,1467
+pyoinformatics/io.py,sha256=ANxEiNv1w_3O1qb7zCc6amOXNmZK0lkZ2wNkmBa7EQQ,621
+pyoinformatics/seq.py,sha256=DYuBbHfAc-qBGZaYX7kTd0HhBC92gMySFykJPC4c53E,6197
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_align.py,sha256=xndEBsVbUMhbtwwYHzJzToMg6Wu_sCb7ReaTxLeTAcA,932
+tests/test_seq.py,sha256=jAyR3FiM7iu0SwLQr_XL73pArlMFVtDgvymIcK2-xqI,2540
+pyoinformatics-0.2.4.dist-info/LICENSE,sha256=GseRsNGSZ2OlOSAbAAg6KwuMn0lX3l-TgvfMgScFExo,1056
+pyoinformatics-0.2.4.dist-info/METADATA,sha256=-h_33HwnTYow0FIckppNZSiGayczGVqR3aowSkXel6s,2907
+pyoinformatics-0.2.4.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pyoinformatics-0.2.4.dist-info/top_level.txt,sha256=mqbwArOsN6Q6EY4L_BauJ0cs7c7CaN6aZc2ArY3XiZk,21
+pyoinformatics-0.2.4.dist-info/RECORD,,
