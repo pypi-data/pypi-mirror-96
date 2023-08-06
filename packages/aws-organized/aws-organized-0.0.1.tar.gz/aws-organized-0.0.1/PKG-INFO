@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: aws-organized
+Version: 0.0.1
+Summary: 
+Author: Eamonn Faherty
+Author-email: eamonnf@amazon.co.uk
+Requires-Python: >=3.7,<4
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: PyYAML (>=5.3.1,<6.0.0)
+Requires-Dist: awacs (>=1.0.1,<2.0.0)
+Requires-Dist: better-boto (==0.36.0)
+Requires-Dist: boto3 (>=1.16.4,<2.0.0)
+Requires-Dist: click (>=7.1.2,<8.0.0)
+Requires-Dist: troposphere (>=2.6.3,<3.0.0)
