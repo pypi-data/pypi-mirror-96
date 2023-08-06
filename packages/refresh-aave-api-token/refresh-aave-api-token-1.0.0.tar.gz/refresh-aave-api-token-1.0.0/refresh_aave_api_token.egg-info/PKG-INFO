@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: refresh-aave-api-token
+Version: 1.0.0
+Summary: A package to refresh access tokens for CryptoTalk Aave Rest APIs.
+Home-page: UNKNOWN
+Author: Avyact Jain
+Author-email: avyactjain@gmail.com
+License: UNKNOWN
+Project-URL: SignUp, https://aaveonmobile-home.auth.us-east-2.amazoncognito.com/signup?client_id=5b6893vo53h5jo7jk8prhphei4&response_type=code&scope=/aave/address%20/aave/allowance%20/aave/borrow%20/aave/configuration%20/aave/deposit%20/aave/rates%20/aave/repay%20/aave/setUserUseReserveAsCollateral%20/aave/swapBorrowRateMode%20/aave/user-health%20/aave/withdraw%20aws.cognito.signin.user.admin%20email%20openid%20phone%20profile&redirect_uri=https://access-token-fiz3rywh2a-an.a.run.app/token
+Project-URL: Twitter, https://twitter.com/CryptoTalk_
+Description: # refresh-aave-api-token
+        ## CryptoTalk Aave Rest APIs 
+        ##### https://app.gitbook.com/@cryptotalk/s/aave-protocol-rest-apis/
+        
+        
+        
+        ## Usage
+        
+        Once installed, run the following command to generate a new access token.
+        
+        ```sh
+         refreshAaveApiToken --refresh_token <YOUR REFRESH TOKEN>
+        ```
+        
+        ## License
+        
+        MIT
+        
+        [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+        
+           [dill]: <https://github.com/joemccann/dillinger>
+           [git-repo-url]: <https://github.com/joemccann/dillinger.git>
+           [john gruber]: <http://daringfireball.net>
+           [df1]: <http://daringfireball.net/projects/markdown/>
+           [markdown-it]: <https://github.com/markdown-it/markdown-it>
+           [Ace Editor]: <http://ace.ajax.org>
+           [node.js]: <http://nodejs.org>
+           [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+           [jQuery]: <http://jquery.com>
+           [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
+           [express]: <http://expressjs.com>
+           [AngularJS]: <http://angularjs.org>
+           [Gulp]: <http://gulpjs.com>
+        
+           [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+           [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+           [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
+           [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+           [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
+           [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
