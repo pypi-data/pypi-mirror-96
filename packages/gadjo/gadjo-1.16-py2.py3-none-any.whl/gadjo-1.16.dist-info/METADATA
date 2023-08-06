@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: gadjo
+Version: 1.16
+Summary: Django base template tailored for management interfaces
+Home-page: https://dev.entrouvert.org/projects/gadjo/
+Author: Frederic Peters
+Author-email: fpeters@entrouvert.com
+License: AGPLv3 or later
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: XStatic
+Requires-Dist: XStatic-Font-Awesome
+Requires-Dist: XStatic-OpenSans
+Requires-Dist: XStatic-jQuery
+Requires-Dist: XStatic-jquery-ui
+
+UNKNOWN
+
+
