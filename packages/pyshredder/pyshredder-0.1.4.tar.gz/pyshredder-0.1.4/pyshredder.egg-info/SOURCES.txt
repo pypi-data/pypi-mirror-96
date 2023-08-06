@@ -1,0 +1,11 @@
+setup.py
+pyshredder/__init__.py
+pyshredder.egg-info/PKG-INFO
+pyshredder.egg-info/SOURCES.txt
+pyshredder.egg-info/dependency_links.txt
+pyshredder.egg-info/requires.txt
+pyshredder.egg-info/top_level.txt
+pyshredder/core/__init__.py
+pyshredder/core/eraser.py
+pyshredder/util/__init__.py
+pyshredder/util/shredder.py
