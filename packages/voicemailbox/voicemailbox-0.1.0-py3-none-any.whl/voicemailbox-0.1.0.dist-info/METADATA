@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: voicemailbox
+Version: 0.1.0
+Summary: Application for reading voice messages
+License: CEA CNRS Inria Logiciel Libre License, version 2.1 (CeCILL-2.1)
+Author: Pierre Gobin
+Author-email: dev@pierregobin.fr
+Requires-Python: >=3.6,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: IMAPClient (>=2.2.0,<3.0.0)
+Requires-Dist: PyYAML (>=5.4.1,<6.0.0)
+Requires-Dist: kivy (>=2.0.0,<3.0.0)
+Requires-Dist: python-dotenv (>=0.15.0,<0.16.0)
+Requires-Dist: rpi-backlight (>=2.2.0,<3.0.0)
