@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ptsd-jbroll
+Version: 0.2.1
+Summary: python thrift simple/dumb
+Home-page: http://github.com/jbroll/ptsd
+Author: John Roll
+Author-email: john@rkroll.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: ply
+
+UNKNOWN
+
+
