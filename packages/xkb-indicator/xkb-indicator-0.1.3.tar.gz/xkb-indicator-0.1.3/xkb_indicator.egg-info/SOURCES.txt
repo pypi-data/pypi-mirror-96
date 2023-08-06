@@ -1,0 +1,9 @@
+setup.py
+xkb_indicator/__init__.py
+xkb_indicator/xkb_indicator.py
+xkb_indicator.egg-info/PKG-INFO
+xkb_indicator.egg-info/SOURCES.txt
+xkb_indicator.egg-info/dependency_links.txt
+xkb_indicator.egg-info/entry_points.txt
+xkb_indicator.egg-info/requires.txt
+xkb_indicator.egg-info/top_level.txt

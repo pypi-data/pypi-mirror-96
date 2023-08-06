@@ -1,0 +1,3 @@
+[console_scripts]
+xkbi = xkb_indicator.xkb_indicator:main
+
