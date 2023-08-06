@@ -1,0 +1,26 @@
+name: ibis-omniscidb-dev
+channels:
+- conda-forge
+dependencies:
+
+# core
+- ibis-framework  # TODO: require Ibis 2.0 when it's released
+- pymapd>=0.24
+- pyarrow>=0.15.0
+- numpy<1.20
+- rbc
+
+# dev
+- black
+- pip
+- pre-commit
+- pytest
+- pytest-cov
+- pytest-mock
+- mock
+- flake8
+- flake8-comprehensions
+- mypy
+- isort
+- pydocstyle
+- setuptools-scm
