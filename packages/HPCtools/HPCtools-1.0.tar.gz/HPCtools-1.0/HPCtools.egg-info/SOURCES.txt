@@ -1,0 +1,6 @@
+setup.py
+HPCtools/__init__.py
+HPCtools.egg-info/PKG-INFO
+HPCtools.egg-info/SOURCES.txt
+HPCtools.egg-info/dependency_links.txt
+HPCtools.egg-info/top_level.txt
