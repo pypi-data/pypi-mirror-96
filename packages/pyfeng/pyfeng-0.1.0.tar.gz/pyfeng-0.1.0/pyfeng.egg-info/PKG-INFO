@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pyfeng
+Version: 0.1.0
+Summary: Python Financial Engineering
+Home-page: https://github.com/PyFE/PyFENG
+Author: Jaehyuk Choi
+Author-email: pyfe@eml.cc
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/PyFE/PyFENG/issues
+Description: # PyFENG
+        Python Financial ENGineering (PyFENG package in PyPI.org)
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
