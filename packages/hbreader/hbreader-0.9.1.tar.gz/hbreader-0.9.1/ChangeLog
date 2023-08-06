@@ -1,0 +1,7 @@
+CHANGES
+=======
+
+v0.9.1
+------
+
+* Adjust relative paths to support tox
