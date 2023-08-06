@@ -1,0 +1,1 @@
+Gravity Core Single Endpoint (GCSE) - перспективный единый API endpoint модуль проекта Gravity Core
