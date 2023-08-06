@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: fastpunct
+Version: 2.0.1
+Summary: Punctuation restoration and spell correction.
+Home-page: https://github.com/notAI-tech/fastPunct
+Author: Hari Krishna Sai Kodali
+Author-email: kodalihari.619@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+Requires-Dist: transformers (>=4.0.0rc1)
+Requires-Dist: pydload (>=1.0.9)
+Requires-Dist: torch (>=1.5.0)
+Requires-Dist: sentencepiece
+
+
+# fastPunct : Fast and accurate punctuation restoration with sequence to sequence networks.
+[![Downloads](https://pepy.tech/badge/fastpunct)](https://pepy.tech/project/fastpunct)
+
+# Installation:
+```bash
+pip install --upgrade fastpunct
+```
+
+# Supported languages:
+english
+
+# Usage:
+
+```python
+from fastpunct import FastPunct
+# The default language is 'english'
+fastpunct = FastPunct()
+fastpunct.punct(["john smiths dog is creating a ruccus", "ys jagan is the chief minister of andhra pradesh", "we visted new york last year in may"])
+# ["John Smith's dog is creating a ruccus.", 'Ys Jagan is the chief minister of Andhra Pradesh.', 'We visted New York last year in May.']
+```
+
+
