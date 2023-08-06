@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pijavski
+Version: 0.0.2
+Summary: Python CFFI bindings for Pijavski C++ function to calculate minimum of a given function.
+Home-page: UNKNOWN
+Author: Santiago Velasquez
+Author-email: js.velasquez123@gmail.com
+License: UNKNOWN
+Description: # Pijavski
+        
+        This is an example of on how to use CFFI to call the Pijavski function written in C++ and test it with a sample function to optimise it and obtain the minimum.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
