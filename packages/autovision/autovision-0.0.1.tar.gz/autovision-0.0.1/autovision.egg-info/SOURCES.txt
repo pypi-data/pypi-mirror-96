@@ -1,0 +1,7 @@
+README.md
+setup.py
+autovision.egg-info/PKG-INFO
+autovision.egg-info/SOURCES.txt
+autovision.egg-info/dependency_links.txt
+autovision.egg-info/requires.txt
+autovision.egg-info/top_level.txt
