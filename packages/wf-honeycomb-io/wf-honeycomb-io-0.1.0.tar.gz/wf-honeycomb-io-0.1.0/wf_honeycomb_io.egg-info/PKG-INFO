@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: wf-honeycomb-io
+Version: 0.1.0
+Summary: Tools for working with data in Wildflower's Honeycomb database
+Home-page: https://github.com/WildflowerSchools/wf-honeycomb-io
+Author: Theodore Quinn
+Author-email: ted.quinn@wildflowerschools.org
+License: UNKNOWN
+Description: # honeycomb_io
+        
+        Tools for working with data in Wildflower's Honeycomb database
+        
+        ## Installation
+        
+        `pip install wf-honeycomb-io`
+        
+        ## Task list
+        * TBD
+        
+Keywords: database
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
