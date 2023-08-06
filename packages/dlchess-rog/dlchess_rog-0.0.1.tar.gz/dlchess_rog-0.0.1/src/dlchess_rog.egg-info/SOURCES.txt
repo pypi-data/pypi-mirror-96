@@ -1,0 +1,11 @@
+setup.py
+src/base.py
+src/generator.py
+src/layers.py
+src/oneplane.py
+src/processor.py
+src/sample.py
+src/dlchess_rog.egg-info/PKG-INFO
+src/dlchess_rog.egg-info/SOURCES.txt
+src/dlchess_rog.egg-info/dependency_links.txt
+src/dlchess_rog.egg-info/top_level.txt
