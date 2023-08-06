@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: pollination-utci-comfort-map
+Version: 0.1.0
+Summary: UTCI thermal comfort map for Pollination.
+Home-page: https://github.com/pollination/utci-comfort-map
+Author: ladybug-tools
+Author-email: info@ladybug.tools
+Maintainer: chris, ladybug-tools
+Maintainer-email: chris@ladybug.tools, info@ladybug.tools
+License: PolyForm Shield License 1.0.0, https://polyformproject.org/wp-content/uploads/2020/06/PolyForm-Shield-1.0.0.txt
+Project-URL: icon, https://raw.githubusercontent.com/ladybug-tools/artwork/master/icons_components/honeybee/png/utcimap.png
+Description: # utci-comfort-map
+        
+        UTCI thermal comfort map recipe for Pollination.
+        
+        Compute spatially-resolved Universal Thermal Climate Index (UTCI) and heat/cold stress
+        conditions an EPW and Honeybee model.
+        
+        This recipe uses EnergyPlus to obtain longwave radiant temperatures and indoor air
+        temperatures. The outdoor air temperature and air speed are taken directly from the EPW.
+        A Radiance-based enhanced 2-phase method is used for all shortwave MRT calculations,
+        which includes an accurate direct sun calculation using precise solar positions. The
+        energy properties of the model geometry are what determine the outcome of the
+        simulation and the model's SensorGrids are what determine where the comfort
+        mapping occurs.
+        
+Keywords: honeybee,ladybug-tools,thermal,comfort,utci
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
