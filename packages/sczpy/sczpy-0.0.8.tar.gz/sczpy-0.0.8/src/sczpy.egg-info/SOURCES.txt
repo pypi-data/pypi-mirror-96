@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/sczpy.py
+src/sczpy.egg-info/PKG-INFO
+src/sczpy.egg-info/SOURCES.txt
+src/sczpy.egg-info/dependency_links.txt
+src/sczpy.egg-info/requires.txt
+src/sczpy.egg-info/top_level.txt
+test/test_sczpy.py

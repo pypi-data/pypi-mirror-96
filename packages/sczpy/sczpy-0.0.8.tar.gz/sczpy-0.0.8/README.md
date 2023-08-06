@@ -1,0 +1,60 @@
+# Azure Percept Secured AI Model Management Python SDK
+The Python SDK is designed to be used in Jupyter Notebooks, AI module containers as well as stand-alone Python programs. 
+When working on a compatible device, it verifies hardware root of rust through Trusted Platform Module (TPM) attached to the device and uses Azure Attestation service to ensure the hardware and software on the device is not tempered. Then, it authenticates with the Azure Percept backend server with verified device identity and retrieves encrypted AI models or version-specific encryption keys from the server. 
+
+## Installation
+
+Before the sczpy Python package is official published, you can run the following commaned to install from a local .whl file (see building instructions below):
+
+```python
+pip install <path to sczpy .whl file>
+```
+Once the package is published, you should be able to install the package by:
+
+```python
+pip install sczpy
+```
+
+## Usage
+
+When used outside a device context (such as in Jupyter Notebook or a regular Python program), the SDK uses [Azure Service Principal](https://docs.microsoft.com/en-us/azure/active-directory/develop/app-objects-and-service-principals) to authenticate with the Azure Percept server.
+
+To setup authentication with Azure Service Principal, define the following environment variables:
+```bash
+AZURE_CLIENT_ID
+AZURE_CLIENT_SECRET
+AZURE_TENANT_ID
+```
+Then, use the SDK as the following:
+```python
+import sczpy
+
+model_name = 'my-sklearn-model'
+model_version = 'v1'
+server_address = "https://scz-mm.westus2.cloudapp.azure.com:443" # Replace with your own server address
+
+# Create a new client
+c = sczpy.SCZClient(server_address)
+# Register a model
+c.register_model(model_name, model_version)
+# Encrypt a model
+c.encrypt(model_name, model_version, "your-model.pkl", "your-model.pkl.enc")
+# Decrypt a model
+c.decrypt(model_name, model_version, "your-model.pkl.enc", "your-model.pkl")
+```
+
+## Building sczpy
+
+To build sczpy package, use the following command from the ```scz-python``` folder:
+```bash
+python setup.py bdist_wheel #build wheel package
+python setup.py sdist #or, build final package (tar)
+```
+
+## Developing sczpy
+
+To install sczpy, along with the tools you need to develop and run tests, run the following in your virtualenv:
+
+```bash
+pip install -e .[dev]
+```
