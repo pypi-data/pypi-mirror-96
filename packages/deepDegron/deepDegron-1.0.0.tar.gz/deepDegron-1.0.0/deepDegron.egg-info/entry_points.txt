@@ -1,0 +1,6 @@
+[console_scripts]
+deepDegron_score = deepDegron.score_mutations:cli_main
+deepDegron_test = deepDegron.statistical_test:cli_main
+train_cterm_model = deepDegron.train_cterm_nn:cli_main
+train_nterm_model = deepDegron.train_nterm_nn:cli_main
+
