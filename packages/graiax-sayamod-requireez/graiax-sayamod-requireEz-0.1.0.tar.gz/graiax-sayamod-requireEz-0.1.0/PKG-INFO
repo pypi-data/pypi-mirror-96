@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: graiax-sayamod-requireez
+Version: 0.1.0
+Summary: [Sayamod] 轻松require——解决依赖问题
+Author: Eric
+Author-email: erictianc@outlook.com
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: toml (>=0.10.2,<0.11.0)
