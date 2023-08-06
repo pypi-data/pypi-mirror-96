@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: mkdocs-yaarg-plugin
+Version: 0.0.1a3
+Summary: Yet Another API Reference Generator plugin for MKDocs.
+Home-page: https://github.com/g6123/mkdocs-yaarg-plugin
+Author: g6123
+Author-email: gg6123@naver.com
+License: MIT
+Description: # mkdocs-yaarg-plugin
+        
+        **Y**et **A**nother **A**PI **R**eference **G**enerator plugin for [MKDocs](https://www.mkdocs.org/).
+        
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: parso
