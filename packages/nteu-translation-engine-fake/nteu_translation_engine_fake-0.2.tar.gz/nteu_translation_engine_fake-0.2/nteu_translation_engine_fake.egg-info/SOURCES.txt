@@ -1,0 +1,9 @@
+README.md
+setup.py
+nteu_translation_engine_fake/__init__.py
+nteu_translation_engine_fake/nteu_translation_engine_fake.py
+nteu_translation_engine_fake.egg-info/PKG-INFO
+nteu_translation_engine_fake.egg-info/SOURCES.txt
+nteu_translation_engine_fake.egg-info/dependency_links.txt
+nteu_translation_engine_fake.egg-info/not-zip-safe
+nteu_translation_engine_fake.egg-info/top_level.txt
