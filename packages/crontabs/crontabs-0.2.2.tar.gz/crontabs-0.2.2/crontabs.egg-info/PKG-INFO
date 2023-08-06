@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: crontabs
+Version: 0.2.2
+Summary: Simple job scheduling for python
+Home-page: https://github.com/robdmc/crontabs
+Author: Rob deCarvalho
+Author-email: unlisted@unlisted.net
+License: MIT
+Description: Simple job scheduling for python
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Provides-Extra: dev
