@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+vroompkg/__init__.py
+vroompkg/__main__.py
+vroompkg/detect.py
+vroompkg/run5.py
+vroompkg.egg-info/PKG-INFO
+vroompkg.egg-info/SOURCES.txt
+vroompkg.egg-info/dependency_links.txt
+vroompkg.egg-info/requires.txt
+vroompkg.egg-info/top_level.txt
