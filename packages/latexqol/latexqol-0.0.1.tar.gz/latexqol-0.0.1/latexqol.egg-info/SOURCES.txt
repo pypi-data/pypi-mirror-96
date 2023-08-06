@@ -1,0 +1,9 @@
+README.md
+setup.py
+latexqol/__init__.py
+latexqol/conversion.py
+latexqol.egg-info/PKG-INFO
+latexqol.egg-info/SOURCES.txt
+latexqol.egg-info/dependency_links.txt
+latexqol.egg-info/requires.txt
+latexqol.egg-info/top_level.txt
