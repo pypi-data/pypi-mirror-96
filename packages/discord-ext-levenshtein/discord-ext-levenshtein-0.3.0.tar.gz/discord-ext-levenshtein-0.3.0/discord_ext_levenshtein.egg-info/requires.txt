@@ -1,0 +1,8 @@
+discord.py
+python-Levenshtein
+
+[docs]
+sphinx
+sphinxcontrib_trio
+sphinxcontrib-websupport
+sphinx-rtd-theme
