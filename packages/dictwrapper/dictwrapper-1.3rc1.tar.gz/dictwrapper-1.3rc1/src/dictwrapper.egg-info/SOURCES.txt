@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/dictwrapper/__init__.py
+src/dictwrapper/nested.py
+src/dictwrapper/wrapper.py
+src/dictwrapper.egg-info/PKG-INFO
+src/dictwrapper.egg-info/SOURCES.txt
+src/dictwrapper.egg-info/dependency_links.txt
+src/dictwrapper.egg-info/requires.txt
+src/dictwrapper.egg-info/top_level.txt
