@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: nessvec
+Version: 0.0.4
+Summary: Add a short description here!
+Home-page: https://github.com/pyscaffold/pyscaffold/
+Author: Hobson Lane
+Author-email: hobson@tangibleai.com
+License: mit
+Project-URL: Documentation, https://pyscaffold.org/
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
+Description-Content-Type: text/x-rst; charset=UTF-8
+Requires-Dist: scann (==1.2.1)
+Requires-Dist: pandas (==1.2.2)
+Requires-Dist: pyparsing (==2.4.7)
+Requires-Dist: scipy (==1.6.0)
+Requires-Dist: tensorflow (==2.4.1)
+Requires-Dist: torch (==1.7.1)
+Requires-Dist: torchtext (==0.8.1)
+Requires-Dist: tornado (==6.1)
+Requires-Dist: tqdm (==4.56.2)
+Requires-Dist: jupyter (==1.0.0)
+Requires-Dist: jupyter-client (==6.1.11)
+Requires-Dist: jupyter-console (==6.2.0)
+Requires-Dist: jupyter-core (==4.7.1)
+Provides-Extra: testing
+Requires-Dist: pytest ; extra == 'testing'
+Requires-Dist: pytest-cov ; extra == 'testing'
+
+UNKNOWN
+
+
