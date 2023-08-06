@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: deep-leaps
+Version: 0.0.13
+Summary: Data driven development based deep learning deepleaps(pytorch)
+Home-page: https://github.com/Longseabear/deep-leaps-pytorch.git
+Author: Leaps
+Author-email: leap1568@gmail.com
+License: UNKNOWN
+Description: deep-leaps is a deep learning training framework written based on DDD (data driven development). It has the following features.
+        
+        - Training/testing procedure abstracted by graph
+        - Instruction modification at runtime
+        - Code modification at runtime
+        
+        ---
+        
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
