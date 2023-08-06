@@ -1,0 +1,22 @@
+treelib
+
+[:python_version < "3.9"]
+typing_extensions
+
+[docs]
+furo
+sphinx==3.*
+sphinx-autodoc-typehints
+jeepney
+
+[jeepney]
+jeepney>=0.5
+
+[test]
+pytest
+pytest-subtests
+pytest-cov
+pytest-trio
+jeepney>=0.5
+trio
+xmldiff
