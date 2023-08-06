@@ -1,0 +1,8 @@
+GreenPonik_SHT40/SHT40.py,sha256=LARj8bOQFfLjBNfXDQ23Xj2lzv4BK-YkQASguhNGocg,2318
+GreenPonik_SHT40/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_SHT40.py,sha256=EcJt77El3vZwPaIe_7fMH594wdof4fExYn0ISB9mM54,1124
+greenponik_sht40-0.0.1.dist-info/METADATA,sha256=WoIRGIGPiMueiU_OknrwbFa76C3DCB1rLgIhgG4agoY,3517
+greenponik_sht40-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+greenponik_sht40-0.0.1.dist-info/top_level.txt,sha256=UqV9dK5ObZ6CmNe333HYENl1VI6vhVrC3JRj1qUX3HU,23
+greenponik_sht40-0.0.1.dist-info/RECORD,,
