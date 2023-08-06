@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+pymspyt/__init__.py
+pymspyt.egg-info/PKG-INFO
+pymspyt.egg-info/SOURCES.txt
+pymspyt.egg-info/dependency_links.txt
+pymspyt.egg-info/requires.txt
+pymspyt.egg-info/top_level.txt
