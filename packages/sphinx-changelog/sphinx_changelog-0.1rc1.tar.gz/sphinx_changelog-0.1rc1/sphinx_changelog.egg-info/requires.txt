@@ -1,0 +1,12 @@
+sphinx
+towncrier
+
+[all]
+
+[docs]
+sphinx
+sphinx-automodapi
+
+[test]
+pytest
+pytest-cov
