@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: brz-debian
+Version: 2.8.51
+Summary: Build a .deb from a Breezy-versioned branch
+Home-page: https://code.breezy-vcs.org/breezy-debian
+Author: Breezy Developers
+Author-email: breezy-core@googlegroups.com
+License: GNU GPL v2
+Description: UNKNOWN
+Platform: UNKNOWN
