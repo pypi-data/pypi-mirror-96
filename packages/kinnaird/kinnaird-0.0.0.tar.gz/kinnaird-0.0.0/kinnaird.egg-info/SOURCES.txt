@@ -1,0 +1,6 @@
+README.md
+kinnaird.egg-info/PKG-INFO
+kinnaird.egg-info/SOURCES.txt
+kinnaird.egg-info/dependency_links.txt
+kinnaird.egg-info/top_level.txt
+kinnaird.egg-info/zip-safe
