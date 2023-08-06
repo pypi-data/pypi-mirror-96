@@ -1,0 +1,12 @@
+polymatrix/__init__.py,sha256=HBNzNwrQmvHJ-5Mel9X35HTzAblpKIsLV-sUmDkDNwc,99
+polymatrix/game.py,sha256=YGw80hlfgmxrvlgPBZHiXwiwlP_CoPGuCYKd7pqVpjk,503
+polymatrix/logger.py,sha256=-47c3BqYIV2H-JA8nA6SeTofeC4n576-9dg0JmimlhU,1126
+polymatrix/multiplayergame.py,sha256=70vkhrgK9jAki_85RjC7YQ3EHI_TJfAk1Z3kfDtwjyU,4373
+polymatrix/network.py,sha256=1ynrs1qV2pC_4gEAP8reQdKNGF6VUyT8J6qlrwtAbMk,3571
+polymatrix/player.py,sha256=daoagEajRBcM7lQ8jlANNfKF4_omF3ZEiF5CFt9V800,1881
+polymatrix/polymatrixgame.py,sha256=A4J20gEK-l2e_VslwdGgIcpOAmmT-ZDuTJtHJ7iSSxc,12880
+polymatrix-0.0.1.dist-info/LICENSE.txt,sha256=sTNCAsWFWb-R3JXqlgtkc5jYTlMl6LExfIGfFctZPzQ,1164
+polymatrix-0.0.1.dist-info/METADATA,sha256=czVV9-ONND1d0Yj9oEaWQDQxe7IXO6vX8ztTT502m3o,1094
+polymatrix-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+polymatrix-0.0.1.dist-info/top_level.txt,sha256=k7OWpnc-0hNn0PPYALjCU_xZO2TDebY9tgkD9D4nQ7Q,11
+polymatrix-0.0.1.dist-info/RECORD,,

@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: polymatrix
+Version: 0.0.1
+Summary: Tools for simulating and solving polymatrix games.
+Home-page: https://github.com/python-polymatrix-games/polymatrix-games
+Author: Oskar Person
+Author-email: 
+License: MIT License
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: scipy (>=1.4.0)
+Requires-Dist: tqdm (>=4.41.0)
+Requires-Dist: networkx (>=2.5.0)
+Requires-Dist: numpy (>=1.19.0)
+
+A simple library for simulating and solving [polymatrix games](https://en.wikipedia.org/wiki/Succinct_game#Polymatrix_games), where players are nodes of a network and edges represent two-player games. 
+
+# LICENSE
+see LICENSE.txt
+# INSTALLATION
+
+pip install polymatrixgames
+
+# USAGE
+
+# ARCHITECTURE
+
+![Polymatrix game software architecture](https://github.com/python-polymatrix-games/polymatrix-games/blob/main/corpgame%20architecture.png) "Polymatrix game software architecture")
+
+
+# LITERATURE
+
