@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: djangoaddressesapp
+Version: 0.0.3
+Summary: Django app to register addresses.
+Home-page: https://github.com/juliansantosinfo/djangoaddressesapp.git
+Author: Julian de Almeida Santos
+Author-email: julian.santos.info@gmail.com
+License: MIT
+Project-URL: Código fonte, https://github.com/juliansantosinfo/djangoaddressesapp.git
+Project-URL: Download, https://github.com/juliansantosinfo/djangoaddressesapp/archive/0.0.3.zip
+Description: Django app to register addresses.
+Keywords: addresses app django
+Platform: UNKNOWN
