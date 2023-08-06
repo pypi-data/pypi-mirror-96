@@ -1,0 +1,3 @@
+[console_scripts]
+unscrapulous=unscrapulous.unscrapulous:main
+
