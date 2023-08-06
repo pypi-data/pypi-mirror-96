@@ -1,0 +1,3 @@
+recursive-include simses *.csv
+recursive-include simses *.gz
+recursive-include simses *.defaults.ini
