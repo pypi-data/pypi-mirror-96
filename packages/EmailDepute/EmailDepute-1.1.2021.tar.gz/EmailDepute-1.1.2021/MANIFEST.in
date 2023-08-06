@@ -1,0 +1,8 @@
+include *.rst
+include *.html
+recursive-include EmailDepute *.gif
+recursive-include EmailDepute DepartementFrancais
+recursive-include EmailDepute GroupePolitiqueFrancais
+recursive-include EmailDepute RegionsFrancaises
+recursive-include EmailDepute depute1.db
+

@@ -1,0 +1,16 @@
+MANIFEST.in
+README.html
+README.rst
+setup.py
+EmailDepute/AssembleNationaleFr.py
+EmailDepute/DepartementFrancais
+EmailDepute/EmailDepute.py
+EmailDepute/GroupePolitiqueFrancais
+EmailDepute/Logo_Assemblee_nationale_francaise.gif
+EmailDepute/RegionsFrancaises
+EmailDepute/__init__.py
+EmailDepute/depute1.db
+EmailDepute.egg-info/PKG-INFO
+EmailDepute.egg-info/SOURCES.txt
+EmailDepute.egg-info/dependency_links.txt
+EmailDepute.egg-info/top_level.txt
