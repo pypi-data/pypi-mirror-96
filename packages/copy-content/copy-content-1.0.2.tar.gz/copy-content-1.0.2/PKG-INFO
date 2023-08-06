@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: copy-content
+Version: 1.0.2
+Summary: This package is an automated tool for coping multiple files one folder/directory to another with your desired extension.
+Home-page: https://github.com/qfaizan401/pyPackage-copy-contain
+Author: Muhammad Faizan Qureshi
+Author-email: qfaizan401@gmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/qfaizan401/pyPackage-copy-contain/issues
+Description: # Copy Content
+        This package is an automated tool for coping multiple files one folder/directory to another with your desired extension.
+        ## Installation
+        `pip install copy-content`
+        ## How to use it
+        Note: Make sure that both current/src directory and target/dst directory must exist and have a valid path.
+        ## License
+        © 2021 Muhammad Faizan Qureshi
+        
+        This repository is licensed under the MIT license. See LICENSE for details.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
