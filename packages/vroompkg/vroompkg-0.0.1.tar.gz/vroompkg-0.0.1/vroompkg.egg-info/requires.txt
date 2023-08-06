@@ -1,0 +1,8 @@
+requests
+json
+dlib
+imutils
+matplotlib
+numpy
+opencv-python
+scipy
