@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: mensuration-formulae
+Version: 1.5
+Summary: A package that can calculate area,perimeter,surface areas and volumes of 2d & 3d geometric shapes. 
+Home-page: https://github.com/venkat0701/mensuration_formulae
+Author: Venkateswar.S, Maria Irudaya Regilan J
+Author-email: s.venkateswar05@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+#mensuration_formulae :
+A PyPI package that can be used to find the values of area,perimeter,volume,surface area of 2d & 3d geometric shapes.
+
+#Installation :
+Run the following to install:
+
+'''cmd
+pip install mensuration-formulae
+'''
+
+#Team :
+##Contributor : Venkateswar.S
+##Mentor      : Maria Irudaya Regilan J
+
