@@ -1,0 +1,15 @@
+django_single_auth/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_single_auth/admin.py,sha256=suMo4x8I3JBxAFBVIdE-5qnqZ6JAZV0FESABHOSc-vg,63
+django_single_auth/apps.py,sha256=mCdlXIjza5nvv3-sHYAG06NRVrOYN0x6AqYEAwCsOko,109
+django_single_auth/middleware.py,sha256=mWwd_HYyj9_zdy8_gkH6DGil1y6Z-e4x1MZoXYkPXPg,699
+django_single_auth/models.py,sha256=Vjc0p2XbAPgE6HyTF6vll98A4eDhA5AvaQqsc4kQ9AQ,57
+django_single_auth/tests.py,sha256=mrbGGRNg5jwbTJtWWa7zSKdDyeB4vmgZCRc2nk6VY-g,60
+django_single_auth/views.py,sha256=xc1IQHrsij7j33TUbo-_oewy3vs03pw_etpBWaMYJl0,63
+django_single_auth/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_single_auth/server/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_single_auth/server/session.py,sha256=KYC_o7i78axlYObul0nIenmSVmJES9hYV8A1dP2mhGo,1177
+django_single_auth-0.0.1.dist-info/LICENSE,sha256=Xnu0MyWgiYPIXN2PFrNxIkNWwHEZ7G2_-D1a65c_wVs,1060
+django_single_auth-0.0.1.dist-info/METADATA,sha256=TnMaCXE4nkjzVJj_wyctQusOXPGVpmDcsX_2hM3oZc8,754
+django_single_auth-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+django_single_auth-0.0.1.dist-info/top_level.txt,sha256=4Bxbbg9HpZ48mJgof9MQIfZ9TgfdjizA30hqjKQ_ou4,19
+django_single_auth-0.0.1.dist-info/RECORD,,
