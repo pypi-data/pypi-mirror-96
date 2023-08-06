@@ -1,0 +1,9 @@
+liblinear/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+liblinear/clib.cp37-win_amd64.pyd,sha256=DXgQtpfm-AgYnjjhaT90Rg-TJrXgwhZxcZJ-1oi91do,87552
+liblinear/commonutil.py,sha256=Od-D2Ak8vNLAIPwBmiuGgp1tz0QpPUsxoDIdC8lXIWY,6376
+liblinear/liblinear.py,sha256=4uVNj0jHx85L0jssBlPQ7UrRlh-oQIgZJ9IfOol71hY,17356
+liblinear/liblinearutil.py,sha256=AIShYmRvQsf99x4qxGZ4kQ_lsl0MrYYtmx6rVbiqkXM,11580
+liblinear_official-2.43.0.dist-info/METADATA,sha256=0rDrReQPqyFdCg8QTgd-BxEb2zVfBa_-MpuxO5t5O-0,17559
+liblinear_official-2.43.0.dist-info/WHEEL,sha256=zMRqF9ZfHGxBPfvcWwE-LxcVkdB1hhr8hy4cOfZGPZU,101
+liblinear_official-2.43.0.dist-info/top_level.txt,sha256=r9sQicNbgojwMNhAsO1yT4di0OOriI0J5QiLD5rCwGc,10
+liblinear_official-2.43.0.dist-info/RECORD,,
