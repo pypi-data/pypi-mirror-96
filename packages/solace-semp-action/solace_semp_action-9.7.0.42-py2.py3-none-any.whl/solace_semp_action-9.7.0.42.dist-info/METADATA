@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: solace-semp-action
+Version: 9.7.0.42
+Summary: SEMP (Solace Element Management Protocol)
+Home-page: https://github.com/unixunion/solace_semp_client.git
+Author: UNKNOWN
+Author-email: support@solace.com
+License: UNKNOWN
+Keywords: Swagger,SEMP (Solace Element Management Protocol)
+Platform: UNKNOWN
+Requires-Dist: certifi (>=2017.4.17)
+Requires-Dist: python-dateutil (>=2.1)
+Requires-Dist: six (>=1.10)
+Requires-Dist: urllib3 (>=1.23)
+
+SEMP is a RESTful API for configuring, monitoring, and administering a Solace PubSub+ broker.
+
+
