@@ -1,0 +1,9 @@
+simple_httpfs/__init__.py,sha256=rdD8SIv4MUpyZIdTi28ufNcTTEVyGb8QhPypM0AHp7o,51
+simple_httpfs/__main__.py,sha256=a0I25gEDOoEEf_JMPG-sNcTZ4yX-5lgLG7W4DZYdJm8,2920
+simple_httpfs/httpfs.py,sha256=OtJmB5PJEZZd4L9uoZKcBOhN5KoWArGvgdQRXxBHQUA,12703
+simple_httpfs-0.4.12.dist-info/LICENSE,sha256=xhcaDwae3jIpB0JN3AGtigxfYD-kCd732iXMurHVd3A,1075
+simple_httpfs-0.4.12.dist-info/METADATA,sha256=j-tzg6IC4joJEO6RgF5NrCqvoK-5GZnqI1AwpSvNwIM,855
+simple_httpfs-0.4.12.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+simple_httpfs-0.4.12.dist-info/entry_points.txt,sha256=KoTeujkdP3ZtLWMRtBjrjz8pIQK18WQ5gGwKQxdWs-w,63
+simple_httpfs-0.4.12.dist-info/top_level.txt,sha256=2tf9C9_SrjTAmTOIXie58QfdopIJW4b2-ri1BvbnEs8,14
+simple_httpfs-0.4.12.dist-info/RECORD,,
