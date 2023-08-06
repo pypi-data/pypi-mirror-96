@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+adam_fdc/__init__.py
+adam_fdc/add.py
+adam_fdc/addlib/__init__.py
+adam_fdc/addlib/add_wrapper.c
+adam_fdc_newypei.egg-info/PKG-INFO
+adam_fdc_newypei.egg-info/SOURCES.txt
+adam_fdc_newypei.egg-info/dependency_links.txt
+adam_fdc_newypei.egg-info/top_level.txt
