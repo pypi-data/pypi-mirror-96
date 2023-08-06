@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+EmailSender_jma.egg-info/PKG-INFO
+EmailSender_jma.egg-info/SOURCES.txt
+EmailSender_jma.egg-info/dependency_links.txt
+EmailSender_jma.egg-info/top_level.txt
+SendEmail/SendEmail.py
+SendEmail/__init__.py
