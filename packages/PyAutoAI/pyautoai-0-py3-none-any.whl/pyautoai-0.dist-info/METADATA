@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: pyautoai
+Version: 0
+Summary: An auto-ML/AI package
+Home-page: https://github.com/chris.oleary/pyautoai
+Author: Christian O'Leary
+Author-email: pyautoai@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: numpy (==1.9.3)
+Requires-Dist: setuptools
+Requires-Dist: scikit-learn (>=0.22.0)
+Requires-Dist: imbalanced-learn
+Requires-Dist: statsmodels
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: joblib
+
+# PyAutoAI
+
+An auto-ML/AI package.
+
+Install using:
+
+```cmd
+python -m pip install pyautoai
+```
+
+## Contributing
+
+Read the docs: <https://gitlab.com/chris.oleary/pyautoai/-/tree/master/docs>
+
+```cmd
+git clone https://gitlab.com/chris.oleary/pyautoai
+./scripts/set_up_git_hooks.sh
+```
+
+## Contact
+
+Please feel free to contact us at: pyautoai@gmail.com
+
+
