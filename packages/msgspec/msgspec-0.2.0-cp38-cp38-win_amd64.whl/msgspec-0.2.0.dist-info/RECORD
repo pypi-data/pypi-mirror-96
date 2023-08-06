@@ -1,0 +1,11 @@
+msgspec/__init__.py,sha256=i5MenKb4jLbYdk5pDzgXLBZ-xNrvZQEF7ijGEUxtopg,249
+msgspec/_version.py,sha256=gnKCPwvzc3VedPcqnWF9mYxAEowy-zrqtmfhBYL7GBI,518
+msgspec/core.c,sha256=LsAgx1OYpMBp2tBppWivmagPerWuHClOMxZKZIf-3w8,114876
+msgspec/core.cp38-win_amd64.pyd,sha256=qL_EcOgCCoSLBH0otRsgHNkKjAmVezxwow_2cKH-V5Q,68608
+msgspec/core.pyi,sha256=2nTDSMLQ9U8m3n5rI9lpHi5QLT-ufOhIC4MKR-7Jzqs,687
+msgspec/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+msgspec-0.2.0.dist-info/LICENSE,sha256=-vj2abHT0mcJoEeHmvMUl7_NeVOJFjZWIHRImQDCJUA,1525
+msgspec-0.2.0.dist-info/METADATA,sha256=-VdJ5sir0KGupSSHogHIFSBeuvYOh0bAyFcjN3KBzhg,2417
+msgspec-0.2.0.dist-info/WHEEL,sha256=HLtxc_HoM-kGM7FPJVPSnTt0Nv2G3fZEAjT3ICdG8uY,100
+msgspec-0.2.0.dist-info/top_level.txt,sha256=8Ysnxa29QLhdPtjPGjyc1hmx3nOmKeu_OAk2682ZdvU,8
+msgspec-0.2.0.dist-info/RECORD,,
