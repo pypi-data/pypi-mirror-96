@@ -1,0 +1,12 @@
+README.md
+setup.py
+preadator/__init__.py
+preadator/preadator.py
+preadator.egg-info/PKG-INFO
+preadator.egg-info/SOURCES.txt
+preadator.egg-info/dependency_links.txt
+preadator.egg-info/top_level.txt
+tests/__init__.py
+tests/docker_test.py
+tests/process_test.py
+tests/thread_test.py
