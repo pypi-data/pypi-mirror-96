@@ -1,0 +1,74 @@
+Metadata-Version: 2.1
+Name: ap-motif
+Version: 0.1.1
+Summary: Motif is an opinionated templating toolkit built in Python.
+Home-page: UNKNOWN
+Author: Anna Poulakos
+Author-email: anna.poulakos@gmail.com
+License: MIT License
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# ap-motif
+
+Motif is an opinionated templating toolkit built in Python
+
+## Requirements
+
+* Python 3.x
+* Appropriate virtualization
+
+## Installation
+
+`pip install ap-motif`
+
+## Usage:
+
+```bash
+# validate a configuration file
+motif validate PATH/TO/CONFIG.YML
+```
+
+```bash
+# create a new tool via configuration file
+motif create PATH/TO/CONFIG.YML
+```
+
+## Config File Definition
+
+```yaml
+version: 'VERSION'
+
+config:
+    namespace: 'NAMESPACE_IDENTIFIER'
+    name: 'TOOL_NAME'
+    version: 'MAJOR.MINOR.PATCH'
+    description: 'DESCRIPTION'
+    author: 'AUTHOR_NAME'
+    author_email: 'AUTHOR_EMAIL'
+    tool: 'TOOL_IDENTIFIER'
+    tool_specific:
+        command: 'COMMAND_NAME'
+```
+
+* `VERSION` is the motif config version, currently `1.0`
+* `NAMESPACE_IDENTIFIER` is the name of your python namespace, i.e. `ap` for things I create
+* `TOOL_NAME` is the name of the tool, i.e. `motif`
+* `MAJOR.MINOR.PATCH` is an optional field that defaults to `0.1.0`
+* `AUTHOR_NAME` is the author's name
+* `AUTHOR_EMAIL` is the author's email (use your github anonymous email for security purposes)
+* `TOOL_IDENTIFIER` is one of the following:
+    - `cli` to create a new CLI tool
+
+* `tool_specific` options change based on the tool in question
+    - `cli`
+        * `COMMAND_NAME` is an optional field and will revert to the `TOOL_NAME` if not provided. this is the command line command used to execute the tool
+
+
