@@ -1,0 +1,13 @@
+README.md
+setup.py
+joke/__init__.py
+joke/cli.py
+joke/joke.py
+joke/spinner.py
+joke_api.egg-info/PKG-INFO
+joke_api.egg-info/SOURCES.txt
+joke_api.egg-info/dependency_links.txt
+joke_api.egg-info/entry_points.txt
+joke_api.egg-info/not-zip-safe
+joke_api.egg-info/requires.txt
+joke_api.egg-info/top_level.txt
