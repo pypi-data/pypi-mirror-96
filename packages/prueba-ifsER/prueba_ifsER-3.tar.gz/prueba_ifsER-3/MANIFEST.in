@@ -1,0 +1,7 @@
+include README.md
+include LICENSE.txt
+include prueba_ifsER/Img/*
+include prueba_ifsER/Img/*.png
+include prueba_ifsER/Img/*.ico
+include prueba_ifsER/Filters/*.txt
+include prueba_ifsER/Filters/*
