@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: smsaero_api
+Version: 2.1.0
+Summary: Send SMS via smsaero.ru
+Home-page: https://smsaero.ru/classes/class-python-v2/
+Author: Apelt Dmitry
+Author-email: apelt.dmitry@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: sms,sending,hlr,viber,calls
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
