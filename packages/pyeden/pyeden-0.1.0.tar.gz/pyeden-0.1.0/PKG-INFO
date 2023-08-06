@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: pyeden
+Version: 0.1.0
+Summary: Library for downloading EDEN datasets
+Home-page: https://github.com/
+Author: SFT Group
+Author-email: UNKNOWN
+License: MIT
+Description: Library for downloading EDEN datasets
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers

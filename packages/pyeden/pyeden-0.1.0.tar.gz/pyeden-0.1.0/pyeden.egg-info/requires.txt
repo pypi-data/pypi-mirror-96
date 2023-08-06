@@ -1,0 +1,5 @@
+requests
+numpy
+glob3
+tqdm
+opencv-python
