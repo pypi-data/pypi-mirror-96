@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: netbox-plugin-config-officer
+Version: 0.0.1
+Summary: NetBox plugin that store configuration/diffs, and check compliance with templates
+Home-page: https://github.com/artyomovs/netbox-plugin-config-officer
+Author: Sergei Artemov
+Author-email: artemov.sergey1989@gmail.com
+License: Apache 2.0
+Description: # netbox-plugin-config-officer
+        NetBox plugin that collect running config from cisco, indicates diffs and check compliance with templates
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
