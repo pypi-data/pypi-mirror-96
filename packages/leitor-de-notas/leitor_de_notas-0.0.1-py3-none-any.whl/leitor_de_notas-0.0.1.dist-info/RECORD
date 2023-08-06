@@ -1,0 +1,13 @@
+leitordenotas/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+leitordenotas/models.py,sha256=eokmauro-DeKT724nuXQUaB3C6mf2-zUAzEOYRx-6GM,1258
+leitordenotas/nota_de_corretagem_reader.py,sha256=flPx7WL0wi7DhVfJ23Uug2liVb4atXhXrI_aWemc_YQ,1170
+leitordenotas/builder/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+leitordenotas/builder/builder_reader_base.py,sha256=udqYxA793LJb8t4DjWhuQDNGCSyVcKVeSx0VpjCXVNE,1434
+leitordenotas/builder/clear_reader_builder.py,sha256=RCl_61Q92tobGP5USUHjpG9E7xCfGAxXk4pMDR2kdKw,4061
+leitordenotas/builder/easynvest_reader_builder.py,sha256=3OHjWEM1U0i1RYq5g3XjELbTFnPF-k-9U1QqF_BhDjI,3826
+leitordenotas/builder/inter_reader_builder.py,sha256=aFVLm6HnFsvWD7vV3gCqwjctCiwkn6wfqKUMfICKIXY,3753
+leitor_de_notas-0.0.1.dist-info/LICENSE,sha256=5gMTRnj3Wey5zOdyzGEsBxTrCEBdC8D0Odjf6lLF0cU,1081
+leitor_de_notas-0.0.1.dist-info/METADATA,sha256=P5p9Jiv46TZP1lgWbtN04oli5dpoUtaXURMbbZnWaAE,729
+leitor_de_notas-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+leitor_de_notas-0.0.1.dist-info/top_level.txt,sha256=dEq_CZ2eOf9hSWkTN0C_2ydP2rIO7yvS3lg4ycWL5J0,14
+leitor_de_notas-0.0.1.dist-info/RECORD,,
