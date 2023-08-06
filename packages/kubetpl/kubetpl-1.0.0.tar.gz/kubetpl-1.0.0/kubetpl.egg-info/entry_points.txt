@@ -1,0 +1,3 @@
+[console_scripts]
+kubtemplate = kubtemplate.kubtemplate:main
+
