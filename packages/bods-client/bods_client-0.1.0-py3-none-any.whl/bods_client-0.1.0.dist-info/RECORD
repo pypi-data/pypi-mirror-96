@@ -1,0 +1,10 @@
+bods_client/__init__.py,sha256=iwhKnzeBJLKxpRVjvzwiRE63_zNpIBfaKLITauVph-0,24
+bods_client/client.py,sha256=F6dzGPsDSMI1Kz2egQubgX01afv32lLHePAU9sbbLtA,7027
+bods_client/constants.py,sha256=zqywSeTrWQa5RN7-1WkfyDPIPrQ5ve1-JtOI7-QXS6I,367
+bods_client/models.py,sha256=yi1dbqSZTjwSPzPqlzoO5SY44tpqWT3xVwose4Fgg_8,1849
+bods_client/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+bods_client/types.py,sha256=9lzhHzpj5I6JQpqetGNtmSwfPLsBW_bmmY_5fTC_gjk,102
+bods_client-0.1.0.dist-info/LICENSE,sha256=Wd2XuAPdrilhl5Clg_vvQq1fA9iqZ3-I2bPsG64mJ8U,1104
+bods_client-0.1.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+bods_client-0.1.0.dist-info/METADATA,sha256=CPWVf5sgUIu43teH09W1doBiIDlgJWOORqprNNRMXj0,2866
+bods_client-0.1.0.dist-info/RECORD,,
