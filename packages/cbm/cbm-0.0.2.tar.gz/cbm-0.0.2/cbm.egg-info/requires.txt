@@ -1,0 +1,16 @@
+boto3
+botocore
+bqplot
+Fiona
+ipyleaflet
+ipywidgets>=7.6.0
+matplotlib
+numpy
+pandas
+psycopg2-binary
+python-json-logger
+rasterio==1.1.5
+rasterstats
+requests
+tqdm
+gdal
