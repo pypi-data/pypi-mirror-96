@@ -1,0 +1,3 @@
+[console_scripts]
+pplanner = probeplanner.cli:app
+
