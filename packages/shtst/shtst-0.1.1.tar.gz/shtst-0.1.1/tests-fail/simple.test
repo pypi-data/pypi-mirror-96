@@ -1,0 +1,27 @@
+$ true
+? !0
+
+$ false
+
+$ printf foo
+>
+foo
+
+$ cat
+<
+foo
+bar
+>
+foo
+bar
+baz
+
+$ cat --oops
+>2 /Unrecognized Option/
+? 1
+
+$ printf "foo\n \nbar\n"
+>
+|foo
+|
+|bar
