@@ -1,0 +1,12 @@
+xDNN/__init__.py,sha256=ZQCeXowEj0MD5A3xW6uB3UsrULP11wpFPrkiJR_1JM4,105
+xDNN/featureExtraction.py,sha256=ech9sobjR5_jufT3XcYEGh1_1wDMqv4_1BhZ8VLnt0o,2808
+xDNN/myfunctions.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+xDNN/xDNN_class_softmax.py,sha256=PK9gUdoyeobJ947UTxrlgnINqFYP0L3a0Ea2XKokXnU,5398
+xDNN_classifier/__init__.py,sha256=ZQCeXowEj0MD5A3xW6uB3UsrULP11wpFPrkiJR_1JM4,105
+xDNN_classifier/featureExtraction.py,sha256=ech9sobjR5_jufT3XcYEGh1_1wDMqv4_1BhZ8VLnt0o,2808
+xDNN_classifier/myfunctions.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+xDNN_classifier/xDNN_class_softmax.py,sha256=PK9gUdoyeobJ947UTxrlgnINqFYP0L3a0Ea2XKokXnU,5398
+xDNN_classifier-0.1.1.dist-info/METADATA,sha256=Syz2b1UK7XgEQL7mBm7dYMQpX5OSvL6XNlgP5EwaMi8,415
+xDNN_classifier-0.1.1.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+xDNN_classifier-0.1.1.dist-info/top_level.txt,sha256=SZ7z8ra4ijPPAM2g0rBT_70PA7d25ThUYbgnbCwYHfc,16
+xDNN_classifier-0.1.1.dist-info/RECORD,,
