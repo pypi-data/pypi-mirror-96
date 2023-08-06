@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: code-debugger93
+Version: 0.0.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: rickrollr
+Author-email: notmyrealemail@gmail.com
+License: UNKNOWN
+Keywords: debug
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Dist: webbrowser
+
+UNKNOWN
+
+
