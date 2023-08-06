@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.rst
+requirements.txt
+setup.py
+dataclass_dateproperty/__init__.py
+dataclass_dateproperty/__meta__.py
+dataclass_dateproperty/attr_prop.py
+dataclass_dateproperty/datetime_utils.py
+dataclass_dateproperty/weekdays_list.py
+dataclass_dateproperty.egg-info/PKG-INFO
+dataclass_dateproperty.egg-info/SOURCES.txt
+dataclass_dateproperty.egg-info/dependency_links.txt
+dataclass_dateproperty.egg-info/requires.txt
+dataclass_dateproperty.egg-info/top_level.txt
