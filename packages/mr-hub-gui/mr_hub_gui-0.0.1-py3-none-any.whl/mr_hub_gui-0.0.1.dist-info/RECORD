@@ -1,0 +1,11 @@
+MrHubGui/EditForm.py,sha256=LHVQn7KS9EE4mm0tpko71TvXz0G0VRGzVibs96Ph2yw,15099
+MrHubGui/GitTools.py,sha256=8OLss0GfKiPOeGvOY9Tbqdl5RpX3T-m7xJ8-94xpm8g,6396
+MrHubGui/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+MrHubGui/edit_form_ui.py,sha256=wWhoa4eCRyZEiK0jMAEn1dMPEau63m3liC9xFX65abU,18763
+MrHubGui/github_credentials_ui.py,sha256=ud5Kon099uttAbuhFej0giI1JjHQPexf-bLyldYt4b8,6914
+mr_hub_gui-0.0.1.dist-info/LICENSE,sha256=pOHkmJWo7PIz5bGa5z5-WFW1miYOaeXfxPyM3f3FxKM,1065
+mr_hub_gui-0.0.1.dist-info/METADATA,sha256=2EotJqOJWi_V3J1gK9e5XzbA0TYAsIYGNtHS0CJKwEQ,2067
+mr_hub_gui-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+mr_hub_gui-0.0.1.dist-info/entry_points.txt,sha256=yYlRZ76skfZ6YevoIt6aJaXOeS8u7NhXDRznyW0xEWU,55
+mr_hub_gui-0.0.1.dist-info/top_level.txt,sha256=2n__czmeGQ40gwqqVemjAChH2Wmhv_0GliGy0H6k8tc,9
+mr_hub_gui-0.0.1.dist-info/RECORD,,
