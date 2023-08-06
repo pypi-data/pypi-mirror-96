@@ -1,0 +1,8 @@
+README.md
+setup.py
+reseval/__init__.py
+reseval/pipelines.py
+resident_eval.egg-info/PKG-INFO
+resident_eval.egg-info/SOURCES.txt
+resident_eval.egg-info/dependency_links.txt
+resident_eval.egg-info/top_level.txt
