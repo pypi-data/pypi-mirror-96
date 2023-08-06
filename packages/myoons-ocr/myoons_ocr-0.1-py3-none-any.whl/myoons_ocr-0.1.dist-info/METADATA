@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: myoons-ocr
+Version: 0.1
+Summary: ocr functions for myoon
+Home-page: https://github.com/myoons/
+Author: yoonseo.kim
+Author-email: grandchasevs@kaist.ac.kr
+License: UNKNOWN
+Keywords: ocr functions
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3.6
+Requires-Dist: opencv-python
+
+UNKNOWN
+
+
