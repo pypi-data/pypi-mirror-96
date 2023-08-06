@@ -1,0 +1,9 @@
+geopandas
+rtree
+descartes
+tqdm
+h3
+plotly
+googlemaps
+scikit-learn
+osmnx
