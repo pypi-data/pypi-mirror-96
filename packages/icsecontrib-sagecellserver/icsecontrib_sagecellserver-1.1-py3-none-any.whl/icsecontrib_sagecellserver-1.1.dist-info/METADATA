@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: icsecontrib-sagecellserver
+Version: 1.1
+Summary: Sphinx sagecellserver extension
+Home-page: UNKNOWN
+Author: Krzysztof Kajda
+Author-email: kajda.krzysztof@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: Sphinx (>=0.6)
+Requires-Dist: setuptools
+
+UNKNOWN
+
+
