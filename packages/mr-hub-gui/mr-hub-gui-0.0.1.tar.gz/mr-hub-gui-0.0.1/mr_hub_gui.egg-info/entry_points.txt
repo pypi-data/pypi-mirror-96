@@ -1,0 +1,3 @@
+[console_scripts]
+mr-hub-gui = MrHubGui.EditForm:main
+

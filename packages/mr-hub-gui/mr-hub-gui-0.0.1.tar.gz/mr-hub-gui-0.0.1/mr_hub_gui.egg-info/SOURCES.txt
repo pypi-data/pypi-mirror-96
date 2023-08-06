@@ -1,0 +1,16 @@
+README.md
+mr-hub-gui
+pyproject.toml
+setup.cfg
+setup.py
+MrHubGui/EditForm.py
+MrHubGui/GitTools.py
+MrHubGui/__init__.py
+MrHubGui/edit_form_ui.py
+MrHubGui/github_credentials_ui.py
+mr_hub_gui.egg-info/PKG-INFO
+mr_hub_gui.egg-info/SOURCES.txt
+mr_hub_gui.egg-info/dependency_links.txt
+mr_hub_gui.egg-info/entry_points.txt
+mr_hub_gui.egg-info/requires.txt
+mr_hub_gui.egg-info/top_level.txt
