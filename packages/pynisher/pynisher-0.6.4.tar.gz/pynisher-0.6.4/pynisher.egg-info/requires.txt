@@ -1,0 +1,10 @@
+setuptools
+psutil
+
+[test]
+pytest
+pre-commit
+pytest-cov
+pytest-forked
+flake8-import-order
+scikit-learn
