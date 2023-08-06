@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+cellseg.egg-info/PKG-INFO
+cellseg.egg-info/SOURCES.txt
+cellseg.egg-info/dependency_links.txt
+cellseg.egg-info/not-zip-safe
+cellseg.egg-info/top_level.txt
