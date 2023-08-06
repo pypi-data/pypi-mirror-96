@@ -1,0 +1,17 @@
+Metadata-Version: 1.0
+Name: pymspyt
+Version: 0.1.3
+Summary: Module CLI to install YouTube Video/Audio
+Home-page: UNKNOWN
+Author: Siva Pranav Mandadi
+Author-email: msivapranav@gmail.com
+License: MIT
+Description: Module CLI to install YouTube Video/Audio using pytube.
+        
+        Change Log
+        ==========
+        
+        0.0.1 (03/02/2021)
+        -------------------
+        - First Release
+Platform: UNKNOWN
