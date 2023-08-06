@@ -1,0 +1,11 @@
+click
+pydantic>=1.6
+geojson-pydantic
+
+[dev]
+arrow
+pytest
+pytest-cov
+requests
+shapely
+dictdiffer
