@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: librelingo-json-export
+Version: 0.1.3
+Summary: Export LibreLingo courses in the JSON format used by the web app
+License: AGPLv3
+Author: Dániel Kántor
+Author-email: git@daniel-kantor.com
+Requires-Python: >=3.9,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: librelingo-types (>=0.1.1,<0.2.0)
+Requires-Dist: librelingo-utils (>=0.1.2,<0.2.0)
+Requires-Dist: librelingo-yaml-loader (>=0.1.2,<0.2.0)
+Requires-Dist: python-slugify (>=4.0.1,<5.0.0)
