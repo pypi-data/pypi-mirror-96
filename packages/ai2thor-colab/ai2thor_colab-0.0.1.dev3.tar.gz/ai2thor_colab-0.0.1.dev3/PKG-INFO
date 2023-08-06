@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: ai2thor_colab
+Version: 0.0.1.dev3
+Summary: Support to run AI2-THOR freely in Google Colab!
+Home-page: https://github.com/allenai/ai2thor-colab
+Author: Allen Institute for AI
+Author-email: ai2thor@allenai.org
+License: Apache
+Description: Support to run AI2-THOR freely in Google Colab!
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
