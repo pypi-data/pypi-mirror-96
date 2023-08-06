@@ -1,0 +1,22 @@
+<div>
+    <div>Total coverage: {{data._total_cov|round(4, 'floor')}}%</div>
+    <div>Total elements inspected: {{data._total_cov|round(4, 'floor')}}%</div>
+    <table>
+        <tbody>
+        <tr>
+            <th>Filename</th>
+            <th>Seen</th>
+            <th>Inspected</th>
+            {% if data.show_missed_elements%}<th>Missing elements</th>{% endif %}
+        </tr>
+        {% for line in data._stats %}
+        <tr>
+            <td>{{line.0}}</td>
+            <td>{{line.1}}%</td>
+            <td>{{line.2}}%</td>
+            {% if data.show_missed_elements%}<td>{{line.3}}</td>{% endif %}
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
