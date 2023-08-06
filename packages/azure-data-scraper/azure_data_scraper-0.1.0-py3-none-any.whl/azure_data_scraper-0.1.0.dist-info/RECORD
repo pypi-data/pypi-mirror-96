@@ -1,0 +1,8 @@
+azure_data_scraper/__init__.py,sha256=IMjkMO3twhQzluVTo8Z6rE7Eg-9U79_LGKMcsWLKBkY,22
+azure_data_scraper/audit_scope_scraper.py,sha256=kFzgqHDl1JrY6lcD7kGNCeo7GkpWLohxqgAnIrTAzAI,5377
+azure_data_scraper/data_joiner.py,sha256=Y_jWXF6NTt40RArdxwXtvlL95R43EKHQkUdRx13vhZw,22044
+azure_data_scraper/data_mapping.py,sha256=Z0kAuY-lTZNYrR_Nan96CSAR6dLRLsTF__Z3I3w18P0,20848
+azure_data_scraper/product_by_region_scraper.py,sha256=M3WT_upHaVGahvLYlNpWHhaVDUlWvON9lnfXyIVCXzQ,10837
+azure_data_scraper-0.1.0.dist-info/WHEEL,sha256=SrtnPGVTMeYWttls9xnWA01eUhCZ3ufFdJUYb1J3r-U,83
+azure_data_scraper-0.1.0.dist-info/METADATA,sha256=mgM2tVeU8BkgK8nDoFsG406KCNN8sTl4YOFnO4optIQ,453
+azure_data_scraper-0.1.0.dist-info/RECORD,,
