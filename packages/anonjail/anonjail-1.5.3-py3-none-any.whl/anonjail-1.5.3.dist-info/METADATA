@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: anonjail
+Version: 1.5.3
+Summary: Control firejail and tor desktop integration.
+Home-page: https://boards.420chan.org/
+Author: K
+Author-email: anon@anon.com
+License: GPLv2+
+Keywords: firejail and tor sandbox desktop integration
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Security
+Requires-Dist: click
+
+UNKNOWN
+
+
