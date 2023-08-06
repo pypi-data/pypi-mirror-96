@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: brook
+Version: 0.0.2
+Summary: Custom Python Library
+Home-page: https://github.com/sh0416/brook
+Author: Seonghyeon Lee
+Author-email: seonghyeon.drew@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/sh0416/brook/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# brook
+
+
