@@ -1,0 +1,2 @@
+lich_scrapy_hdfs_pipeline
+tests
