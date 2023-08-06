@@ -1,0 +1,10 @@
+opyrators/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+opyrators/fermions.py,sha256=n9lh1wYnpItYFktLdwUgk9L40YpGTkqi8BffkgZSxnU,6145
+opyrators/spins.py,sha256=o5NoN73msrevjBmM2PF8FyQwKVIoSeLuq7QnhE3hKno,6407
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_fermions.py,sha256=TZgHATUNrC4CYx2NgJg6He5yBv-wvqjk9vHHZIFUup0,2202
+opyrators-1.0.0.dist-info/LICENSE,sha256=7EI8xVBu6h_7_JlVw-yPhhOZlpY9hP8wal7kHtqKT_E,1074
+opyrators-1.0.0.dist-info/METADATA,sha256=f_njexfuJvsVaZSsB8ZpzNLm4jAe1pENk4681aSHzMo,2492
+opyrators-1.0.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+opyrators-1.0.0.dist-info/top_level.txt,sha256=1bpwQQPogvDjd2--ptyeg2hTikzTjg_2t5E7j5vLsjE,16
+opyrators-1.0.0.dist-info/RECORD,,
