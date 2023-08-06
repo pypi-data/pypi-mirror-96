@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: dbtool
+Version: 0.0.2
+Summary: A lightweight db tools for sql.
+Home-page: https://github.com/lkqm/dbtool.py
+Author: Mario Luo
+Author-email: luokaiqiongmou@foxmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/lkqm/dbtool.py/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+#  dbtool
+A lightweight db tools for sql.
+
+```
+pip install dbtool
+```
+
+```
+# sql
+db.execute(sql, fetchone=False, return_cursor=False, executemany=False)
+db.execute_fetchone(sql)
+db.execute_count(sql)
+db.execute_cursort(sql)
+db.execute_many(sql)
+db.execute_script(sql)
+db.execute_file(sql)
+
+# crud
+db.insert(dict, table='user')
+db.update(dict, table='user', id_name='id')
+db.delete_by_id(1, table='user', id_name='id')
+db.find_by_id(1, table='user', id_name='id')
+
+db.find('user', type=0)
+db.find_one('user', id=1)
+db.find_count('user', type=0)
+
+```
+
+
