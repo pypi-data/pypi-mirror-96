@@ -1,0 +1,2 @@
+audoai-common>=0.2.0
+websocket_client
