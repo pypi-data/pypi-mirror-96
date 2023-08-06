@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: pytest_failed_screenshot
+Version: 0.1
+Summary: Test case fails,take a screenshot,save it,attach it to the allure
+Home-page: https://github.com/fungaegis/pytest-failed-screenshot
+Author: fungaegis
+Author-email: fungaegis@gmail.com
+License: MIT License
+Description: After the test case fails, take a screenshot in time, save the screenshot in the specified address and attach it to the allure;
+        Usage: cmd line or main function --screenshot={on:off} --screenshot_path=file path,default is off, if is on it will be save "screenshot" of project root
+Keywords: pytest,py.test,pytest_failed_screenshot,allure,screenshot,selenium,appium
+Platform: UNKNOWN
+Classifier: Framework :: Pytest
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Testing
+Classifier: Programming Language :: Python :: 3.7
