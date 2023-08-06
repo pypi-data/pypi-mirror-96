@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: phlocation2
+Version: 0.0.1
+Summary: Area locator inside the Philippines
+Home-page: UNKNOWN
+Author: Jorge Rojas III
+Author-email: jorgereluniarojas@gmail.com
+License: MIT
+Keywords: phlocation
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+
+Open source area locator here inside the Philippines.
+
+

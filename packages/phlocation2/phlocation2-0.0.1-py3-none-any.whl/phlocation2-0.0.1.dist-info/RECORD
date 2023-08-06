@@ -1,0 +1,16 @@
+phlocation/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+phlocation/admin.py,sha256=oNtdPeqagCjl3d_QCXIUfl2yVCtJNVTKwkS0Vfcmf3s,522
+phlocation/apps.py,sha256=5hvq4G-wusfD_ad7wZ_gDu36UxhKuGqMoZkewCL-bAo,95
+phlocation/forms.py,sha256=SsWNiF2AOAYOULoLAO2LRaDCVcmRsJyIm840mrBK00U,994
+phlocation/models.py,sha256=4Sa_o7-MyUzmGXFVGCnn0nu0t8rkxDBJFTp6lp3WSH8,2589
+phlocation/serializers.py,sha256=ywIn_7sSVX8a30-am91TJpgORo6h_XbrV1JmsGQXgJ8,238
+phlocation/tests.py,sha256=mrbGGRNg5jwbTJtWWa7zSKdDyeB4vmgZCRc2nk6VY-g,60
+phlocation/urls.py,sha256=oHLlE1nqC5yb-mLwNer0hliwCEgRtXfX7UlXQxOrDTs,929
+phlocation/views.py,sha256=LmdR68U-Wbxot4TyvjxSZXmjcymWTprdTNOwHpKMZAY,1176
+phlocation/migrations/0001_initial.py,sha256=LzOu1d-23lxbZQrcRqk6Pgrl0GRioCo3OIv7xUHA938,774
+phlocation/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+phlocation2-0.0.1.dist-info/LICENCE.txt,sha256=xLue79Dm-EbLsB17mMBX12qBPEmgUw1j9_rc2jGUuO8,1060
+phlocation2-0.0.1.dist-info/METADATA,sha256=Bxbr0gagXrQHkigspU29OyCbT0Ml3n_cH_-X8pQEIZI,559
+phlocation2-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+phlocation2-0.0.1.dist-info/top_level.txt,sha256=vaVb72xOtoFnaWoShk9ZNm-zE11Omberj1FKz6rQVcY,11
+phlocation2-0.0.1.dist-info/RECORD,,
