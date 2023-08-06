@@ -1,0 +1,3 @@
+slackclient
+yagmail
+pyaml
