@@ -1,0 +1,5 @@
+click
+pydantic
+
+[:python_version <= "3.6"]
+dataclasses
