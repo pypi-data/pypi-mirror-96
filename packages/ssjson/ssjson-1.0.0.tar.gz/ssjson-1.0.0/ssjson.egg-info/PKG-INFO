@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: ssjson
+Version: 1.0.0
+Summary: ssjson is JSON based python library with various json operation
+Home-page: https://github.com/Sandeeppushp/ssjson
+Author: Sandeep Pushp
+Author-email: sandeepkumarpushp@gmail.com
+License: MIT
+Description: # ssjson
+        ssjson is JSON based python library with various json operation
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.2
+Description-Content-Type: text/markdown
