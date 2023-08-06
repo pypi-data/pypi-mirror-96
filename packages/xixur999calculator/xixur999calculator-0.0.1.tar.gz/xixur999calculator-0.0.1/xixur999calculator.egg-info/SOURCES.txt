@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+xixur999calculator.egg-info/PKG-INFO
+xixur999calculator.egg-info/SOURCES.txt
+xixur999calculator.egg-info/dependency_links.txt
+xixur999calculator.egg-info/top_level.txt
