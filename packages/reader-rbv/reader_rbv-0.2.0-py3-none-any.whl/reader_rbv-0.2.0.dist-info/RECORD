@@ -1,0 +1,17 @@
+reader_rbv/__init__.py,sha256=NIF8-lvSGUP-DyhAIebscTVpwTdXXzeciqhsmdMOzcU,149
+reader_rbv/exception.py,sha256=ojI3Ri6Q_OpAnIayStIqA2E8bif8h4w2hqn9gf_pQOE,171
+reader_rbv/reader/__init__.py,sha256=OrdsywdiVbM8xhNFuDn9CY2SKucftvJNk-Upd0Hr06U,337
+reader_rbv/reader/buku.py,sha256=-lpePYD7Zj5eeBvoX8STxxaX3OjUE5bipELVUHBVw-Y,2860
+reader_rbv/reader/buku_cache.py,sha256=1ezCQ1exC2RoZsOHngs5iHLp_ZRwhlMp7lfraVWy_Bs,368
+reader_rbv/reader/font.py,sha256=0qmJ-iQwY6e8J-sEh3MbqLXoNwMkKMPN-CeAkdIDY9c,117
+reader_rbv/reader/modul.py,sha256=plupZbgpEVIqmuqrHI3RK8Hv8iVOdSug4jDyQPDEipE,3884
+reader_rbv/reader/page.py,sha256=eNzbUwbpuZxpUMoLPeKUrg15tmY8vDVvsaolOoPRhGk,1321
+reader_rbv/reader/page_cache.py,sha256=neeQaddppLuNpoWfpLFXTqLArF-4dr2fTUu9_XG_ovA,531
+reader_rbv/reader/reader.py,sha256=RJTgCDxk3yf3uhkd_0HTEmTc-MWmVz0cTWyOrXRRs9c,1829
+reader_rbv/reader/text.py,sha256=g75FuDVS7yPfWuYUWTB6zMm2NQx04s5VYVJaOVKQr7o,819
+reader_rbv/reader/utils.py,sha256=vEV3AygIIcp9_PMAr6aHQb5cu_gg_CMvH1vmo167Xjc,3455
+reader_rbv/version.py,sha256=kUR5RAFc7HCeiqdlX36dZOHkUI5wI6V_43RpEcD8b-0,22
+reader_rbv-0.2.0.dist-info/LICENSE,sha256=hIahDEOTzuHCU5J2nd07LWwkLW7Hko4UFO__ffsvB-8,34523
+reader_rbv-0.2.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+reader_rbv-0.2.0.dist-info/METADATA,sha256=WV8tOp6sGd1Sha3pc3ESYNRvFJiu4Rr-Ta9TTjrxTyc,1604
+reader_rbv-0.2.0.dist-info/RECORD,,
