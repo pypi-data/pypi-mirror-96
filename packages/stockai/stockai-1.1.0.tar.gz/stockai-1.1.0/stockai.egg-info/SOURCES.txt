@@ -1,0 +1,15 @@
+README.md
+setup.py
+stockai/__init__.py
+stockai/utils.py
+stockai.egg-info/PKG-INFO
+stockai.egg-info/SOURCES.txt
+stockai.egg-info/dependency_links.txt
+stockai.egg-info/requires.txt
+stockai.egg-info/top_level.txt
+stockai/wealthsimple/__init__.py
+stockai/wealthsimple/requests.py
+stockai/wealthsimple/stock.py
+stockai/yahoo/__init__.py
+stockai/yahoo/base.py
+stockai/yahoo/stock.py
