@@ -1,0 +1,13 @@
+LICENSE,sha256=ltgcWgGeW9KyKeV8OWp4-eRoji1n1ubiIvcNHdPH784,1071
+newversion/__init__.py,sha256=DjhAFfhS-ohCWR1skW4YEKM3EFB93L5Uy5KBph55CXY,92
+newversion/__main__.py,sha256=XJVG5v0_MA3u4Gj5XFuYajETaxOnLuYXia7fzkVCyxQ,116
+newversion/cli_parser.py,sha256=3-H60i2Cfaw2ckNtyFJnTnZ5BQIS5ZjsASgQnCKTrwA,4627
+newversion/constants.py,sha256=M8yhznOiKfWOKNvHEeo_U7D1gVa9MatUCdW5-xvThsk,328
+newversion/executor.py,sha256=noZRIC1r1OIqgWUeXTy1t4sLYPhrFqQEqsfH3U1sNgI,5069
+newversion/main.py,sha256=j45v5PTS00jeoaQKtQBQ-8TE-ZwPBm3_tJzP_OEedbk,693
+newversion/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+newversion/version.py,sha256=arUsCRBUavRkfu8ihPrFdp-d0EboFDwn9_RTGe-kuPU,11903
+newversion-1.6.0.dist-info/LICENSE,sha256=ltgcWgGeW9KyKeV8OWp4-eRoji1n1ubiIvcNHdPH784,1071
+newversion-1.6.0.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+newversion-1.6.0.dist-info/METADATA,sha256=1IGLpdt9Bj3VAw3V0wi4kS_FY15oEdM98-JhSMEFovA,5188
+newversion-1.6.0.dist-info/RECORD,,
