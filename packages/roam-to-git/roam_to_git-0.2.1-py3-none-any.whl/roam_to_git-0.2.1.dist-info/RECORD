@@ -1,0 +1,10 @@
+roam_to_git/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+roam_to_git/__main__.py,sha256=IdA7C5Gyc4hLlbW-HFudF8Oe5a52IFVHhkkaSvtOzVg,6047
+roam_to_git/formatter.py,sha256=MwloT34DzpMlyZzOJykx-JJIzag14QJVxdJTSBN9VvY,4851
+roam_to_git/fs.py,sha256=GOrECpCCJdMaZVnUMa5JzU5tO9rD0_0_S0hiDxmS8z0,4527
+roam_to_git/scrapping.py,sha256=ecFGzI2p0wjovaCHAIR_HEeroyVLpaAk1D7mJeReqAM,10799
+roam_to_git-0.2.1.dist-info/entry_points.txt,sha256=e6jsrHiSpiSB-7wvdb5MZeOln0TrL_3Dqdn4Gv_wRUc,57
+roam_to_git-0.2.1.dist-info/LICENSE.txt,sha256=ukEi8E0PKq1dQGTXHUflg3rppLymwAhr7il9x-0nPgg,1062
+roam_to_git-0.2.1.dist-info/WHEEL,sha256=VN2eEg4PHbTOniXb-cCYQPc6zUTS4dAcATjlgU3q-Lo,83
+roam_to_git-0.2.1.dist-info/METADATA,sha256=byc46NKMO0S14OmyoCs-P3bq5okDwDZ1JLU1_q8IqV8,944
+roam_to_git-0.2.1.dist-info/RECORD,,
