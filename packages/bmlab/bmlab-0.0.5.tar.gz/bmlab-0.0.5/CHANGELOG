@@ -1,0 +1,12 @@
+0.0.5
+ - basic extraction tab
+0.0.4
+ - get metadata from HDF file
+ - set image orientation
+0.0.3
+ - testing connection with BMicro
+0.0.2
+ - CI test release
+0.0.1
+ - dummy release
+
