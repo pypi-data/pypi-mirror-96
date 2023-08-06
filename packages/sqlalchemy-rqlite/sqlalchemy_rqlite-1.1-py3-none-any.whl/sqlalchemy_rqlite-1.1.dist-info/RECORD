@@ -1,0 +1,10 @@
+sqlalchemy_rqlite/__init__.py,sha256=pnKUk_YIiego58j7BDeedFHcCoE0jf6Zx3x4SRuEcDs,447
+sqlalchemy_rqlite/constants.py,sha256=8XKFdpun9I8PTkgaJfLpJaLi_F-YI1RjhBlQoG03PRo,235
+sqlalchemy_rqlite/pyrqlite.py,sha256=hgzcaZsfuA99UPxb-BGM1B51UIxMi86xmadd0s4_uf0,2517
+sqlalchemy_rqlite-1.1.dist-info/LICENSE,sha256=bdiNh6gIQgnees4PewUKUprs1DJvTM0dFxWePgUc7DY,1077
+sqlalchemy_rqlite-1.1.dist-info/METADATA,sha256=5tD4H42_Og07MIezTM9WbFNehoj0KXbtnClP9fR_OQc,1043
+sqlalchemy_rqlite-1.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+sqlalchemy_rqlite-1.1.dist-info/dependency_links.txt,sha256=MQACWUnt2xJhkCOEVLM8WQUgU5e9Obz9EtZ0x9T5X9Y,65
+sqlalchemy_rqlite-1.1.dist-info/entry_points.txt,sha256=yIIWs9M2_sVMsSBD3hKb994RtOpyJMKyHKVbpM_2k-I,76
+sqlalchemy_rqlite-1.1.dist-info/top_level.txt,sha256=N2uxkHEJ1y7t_4ScNkmUullwnRVQKhKF9jyDMOLPiT8,18
+sqlalchemy_rqlite-1.1.dist-info/RECORD,,
