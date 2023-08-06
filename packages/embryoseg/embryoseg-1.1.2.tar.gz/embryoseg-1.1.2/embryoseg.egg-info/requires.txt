@@ -1,0 +1,14 @@
+numpy
+pandas
+tensorflow
+napari==0.4.3
+pyqt5
+btrack
+natsort
+scikit-image
+scipy
+opencv-python-headless
+tifffile
+matplotlib
+stardist
+csbdeep
