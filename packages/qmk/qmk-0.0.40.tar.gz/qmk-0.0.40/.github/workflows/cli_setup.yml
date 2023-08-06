@@ -1,0 +1,72 @@
+name: CLI Setup
+
+on:
+  push:
+    branches:
+    - master
+  pull_request:
+
+jobs:
+  test_cli_linux_macos:
+    runs-on: ${{ matrix.os }}
+    env:
+      QMK_HOME: ~/qmk_firmware
+    strategy:
+      matrix:
+        os: [macos-latest, ubuntu-latest]
+        python-version: [3.6, 3.7, 3.8]
+
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v1
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Install Python dependencies
+      run: |
+        python3 -m pip install wheel
+        echo "$HOME/.local/bin" >> $GITHUB_PATH
+
+    - name: Install QMK CLI from source
+      run: |
+        python3 -m pip install -r requirements.txt
+        python3 setup.py sdist bdist_wheel
+        cd ..
+        python3 -m pip install --force-reinstall --no-index --no-deps --prefix=~/.local --find-links qmk_cli/dist qmk
+
+    - name: Run qmk setup -y
+      run: qmk setup -y
+
+  test_cli_win:
+    runs-on: windows-latest
+    env:
+      QMK_HOME: $HOME/qmk_firmware
+
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: (MSYS2) Setup and install dependencies
+      uses: msys2/setup-msys2@v2
+      with:
+        update: true
+        install: git mingw-w64-x86_64-toolchain mingw-w64-x86_64-python-pip
+
+    - name: (MSYS2) Upgrade pip and setuptools and install wheel
+      shell: msys2 {0}
+      run: |
+        python3 -m pip install --upgrade pip setuptools
+        python3 -m pip install wheel
+
+    - name: (MSYS2) Install QMK CLI from source
+      shell: msys2 {0}
+      run: |
+        python3 -m pip install -r requirements.txt
+        python3 setup.py sdist bdist_wheel
+        cd ..
+        python3 -m pip install --force-reinstall --no-index --no-deps --find-links qmk_cli/dist qmk
+
+    - name: (MSYS2) Run qmk setup -y
+      shell: msys2 {0}
+      run: qmk setup -y
