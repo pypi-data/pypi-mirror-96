@@ -1,0 +1,11 @@
+MANIFEST.in
+setup.py
+aps_hello_pypi_beta.egg-info/PKG-INFO
+aps_hello_pypi_beta.egg-info/SOURCES.txt
+aps_hello_pypi_beta.egg-info/__init__.py
+aps_hello_pypi_beta.egg-info/dependency_links.txt
+aps_hello_pypi_beta.egg-info/entry_points.txt
+aps_hello_pypi_beta.egg-info/requires.txt
+aps_hello_pypi_beta.egg-info/top_level.txt
+aps_hello_pypi_beta.egg-info/config/__init__.py
+aps_hello_pypi_beta.egg-info/config/test.config
