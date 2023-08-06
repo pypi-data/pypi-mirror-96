@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+FDS_MODULE_PATH="node_modules/@engie-group/fluid-design-system"
+FDS_PATH="cubicweb_fluid_design_system/data"
+
+if [ ! -d "${FDS_MODULE_PATH}" ]; then
+    npm install
+fi
+
+cp ${FDS_MODULE_PATH}/lib/*.css "${FDS_PATH}/css/"
+cp -r "${FDS_MODULE_PATH}/lib/components" "${FDS_PATH}/css/"
+
+cp ${FDS_MODULE_PATH}/lib/*.js "${FDS_PATH}/js/"
+cp ${FDS_MODULE_PATH}/lib/*.map "${FDS_PATH}/js/"
