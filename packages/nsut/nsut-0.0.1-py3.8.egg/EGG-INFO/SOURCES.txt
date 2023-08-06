@@ -1,0 +1,11 @@
+README.md
+setup.py
+nsut/__init__.py
+nsut/__main__.py
+nsut/notice_scraper.py
+nsut.egg-info/PKG-INFO
+nsut.egg-info/SOURCES.txt
+nsut.egg-info/dependency_links.txt
+nsut.egg-info/entry_points.txt
+nsut.egg-info/requires.txt
+nsut.egg-info/top_level.txt
