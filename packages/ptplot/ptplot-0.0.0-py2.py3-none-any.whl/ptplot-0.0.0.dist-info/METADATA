@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: ptplot
+Version: 0.0.0
+Summary: Make beautiful plots of player tracking data
+Home-page: https://github.com/AndrewRook/ptplot
+Author: Andrew Schechtman-Rook
+Author-email: footballastronomer@gmail.com
+License: GNU General Public License v3
+Keywords: ptplot
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7
+Requires-Dist: numpy (>=1.19.5)
+Requires-Dist: pandas (>=1.2.0)
+Requires-Dist: pip (>=20.3.3)
+Requires-Dist: plotly (>=4.14.3)
+Requires-Dist: svgpathtools (>=1.4.1)
+Requires-Dist: versioneer (>=0.19)
+Provides-Extra: dev
+Requires-Dist: black (>=20.8b1) ; extra == 'dev'
+Requires-Dist: flake8 (>=3.8.4) ; extra == 'dev'
+Requires-Dist: notebook (>=6.2.0) ; extra == 'dev'
+Requires-Dist: pytest (>=6.2.1) ; extra == 'dev'
+Requires-Dist: pytest-cov (>=2.11.1) ; extra == 'dev'
+Requires-Dist: tox (>=3.21.4) ; extra == 'dev'
+
+# ptplot
+
+### TODO
+* set up cd
+* write more styling utility functions as needed
+* enable vertical fields and relative fields
+* set up precommit hooks
+* write additional documentation
+* write function to plot movement trails, with options 
+for opacity, highlighting, and changing color based on a z-axis
+* Expose lookup table of team colors
+* Add dropdown with events to animation
+
