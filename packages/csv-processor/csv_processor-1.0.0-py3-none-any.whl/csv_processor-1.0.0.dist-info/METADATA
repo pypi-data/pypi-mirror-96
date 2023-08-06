@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: csv-processor
+Version: 1.0.0
+Summary: Python 3+ CSV file processor
+Home-page: UNKNOWN
+Author: Harvard90873
+Author-email: harvard90873@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+Requires-Dist: and-or-not
+Requires-Dist: data-structures3x
+Requires-Dist: python-algorithms-3x
+Requires-Dist: spell-checker
+Requires-Dist: termcolor
+Requires-Dist: word-scramble
+
+# Python csv processor
+
+The **csv-processor** is a python package that turns a csv into various formats.
+
+It supports the following conversions:
+
+- CSV - SQLite
+- CSV - Json
+
+
+
+# Installation
+If not already [install pip](https://pip.pypa.io/en/stable/installing/)
+
+Install the package with `pip` or `pip3`:
+
+```bash
+pip install csv-processor
+```
+
+# Usage
+### Example:
+```Python
+from csvprocessor.csvtodb import Converter
+csvfile = "path/to/your/file"
+converter = Converter(csvfile)
+converter.output() -> "db.db"
+```
+
