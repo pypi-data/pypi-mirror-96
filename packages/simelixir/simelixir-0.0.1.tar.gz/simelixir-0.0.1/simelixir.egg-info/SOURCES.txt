@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+setup.py
+simelixir/__init__.py
+simelixir/arterialNetwork.py
+simelixir/artery.py
+simelixir/solver.py
+simelixir/utils.py
+simelixir.egg-info/PKG-INFO
+simelixir.egg-info/SOURCES.txt
+simelixir.egg-info/dependency_links.txt
+simelixir.egg-info/requires.txt
+simelixir.egg-info/top_level.txt
+simelixir/cantorProject/__init__.py
+simelixir/cantorProject/network.py
+simelixir/cantorProject/sci_trainer.py
+simelixir/cantorProject/tfp_trainer.py
