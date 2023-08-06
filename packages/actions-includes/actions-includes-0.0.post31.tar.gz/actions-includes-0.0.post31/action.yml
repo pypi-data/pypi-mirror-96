@@ -1,0 +1,11 @@
+name: actions-includes
+description: 'Allow actions to include other actions.'
+inputs:
+  workflow:
+    description: 'Workflow file to check include expansion'
+    required: true
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.workflow }}
