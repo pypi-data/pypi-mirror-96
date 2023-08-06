@@ -1,0 +1,9 @@
+pillow
+PyQt5
+colorama
+imageio
+matplotlib
+networkx
+numpy
+scikit_image
+scipy
