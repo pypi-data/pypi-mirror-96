@@ -1,0 +1,24 @@
+Metadata-Version: 1.2
+Name: nflogr
+Version: 0.0.1
+Summary: An object-oriented Python interface to read data via NFLOG
+Home-page: https://github.com/ryancdotorg/python-nflogr
+Author: Ryan Castellucci
+Author-email: pypi-b51f@ryanc.org
+License: MIT
+Description: UNKNOWN
+Keywords: nflog linux
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: C
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Security
+Classifier: Topic :: Communications
+Classifier: Topic :: Internet :: Log Analysis
+Classifier: Topic :: System :: Networking :: Monitoring
+Requires-Python: >=3.5
