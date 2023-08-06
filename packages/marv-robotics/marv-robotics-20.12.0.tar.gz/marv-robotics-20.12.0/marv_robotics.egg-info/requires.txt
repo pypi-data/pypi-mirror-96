@@ -1,0 +1,13 @@
+marv-api==20.12.0
+lz4
+matplotlib==3.2.*
+mpld3
+numpy
+pillow
+plotly
+pycryptodome
+python-gnupg
+pyyaml
+ruamel.yaml
+utm
+zstandard
