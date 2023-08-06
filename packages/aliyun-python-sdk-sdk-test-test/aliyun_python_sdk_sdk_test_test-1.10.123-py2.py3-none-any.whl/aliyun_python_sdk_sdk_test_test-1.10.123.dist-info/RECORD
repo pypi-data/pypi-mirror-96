@@ -1,0 +1,9 @@
+aliyunsdksdk_test/__init__.py,sha256=lbEPs1j3Kv-IP5e4D0Vb_2Y_eC2nILTBAnsNUS-0NlQ,24
+aliyunsdksdk_test/request/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aliyunsdksdk_test/request/v20190225/DescribeRegionsRequest.py,sha256=yzw3M3lt2YkA0JrQmZ3jsnwfXYgr8033a7BNQ67JB7M,1137
+aliyunsdksdk_test/request/v20190225/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aliyun_python_sdk_sdk_test_test-1.10.123.dist-info/LICENSE,sha256=CvyZB4el1cZGT3cy9OYoITxta_Ea2maondKqmi8EcpU,575
+aliyun_python_sdk_sdk_test_test-1.10.123.dist-info/METADATA,sha256=_4uBzfngIhsuvnvIMpsDuRkG4zzLS3jwhpuU-USi7Mc,1488
+aliyun_python_sdk_sdk_test_test-1.10.123.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+aliyun_python_sdk_sdk_test_test-1.10.123.dist-info/top_level.txt,sha256=oc-m_di4N7eWFNdCKzvt8zAJhXKEtAzdNf8usVF0hHM,18
+aliyun_python_sdk_sdk_test_test-1.10.123.dist-info/RECORD,,
